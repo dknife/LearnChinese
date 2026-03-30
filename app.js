@@ -216,8 +216,11 @@ function renderHome() {
 
       gridHTML += `
         <div class="level-card" ${clickable ? `data-level="${level}"` : ''}>
-          <div class="level-node ${statusClass}">
-            ${status === 'locked' ? '<span class="level-icon">🔒</span>' : `<span class="level-icon">${icon}</span>`}
+          <div class="level-node-wrapper">
+            <div class="level-node ${statusClass}">
+              ${status === 'locked' ? '<span class="level-icon">🔒</span>' : `<span class="level-icon">${icon}</span>`}
+            </div>
+            ${status === 'completed' ? '<div class="pass-ribbon"><span>PASS</span></div>' : ''}
           </div>
           <span class="level-label">
             ${status === 'locked'
@@ -225,10 +228,6 @@ function renderHome() {
               : `<span class="level-label-${status}">${title}</span>`
             }
           </span>
-          ${status === 'completed' && score != null
-            ? `<span class="level-score">⭐ ${score}/5</span>`
-            : ''
-          }
         </div>
       `;
     });
@@ -413,7 +412,9 @@ function renderLesson(level) {
 function renderQuiz(level) {
   const app = document.getElementById('app');
   const levelData = window.LEVEL_DATA[level];
-  const questions = levelData?.quiz || [];
+  const allQuestions = levelData?.quiz || [];
+  // Randomly select 10 questions from the pool
+  const questions = [...allQuestions].sort(() => Math.random() - 0.5).slice(0, 10);
   const totalQuestions = questions.length;
 
   if (!levelData || !questions.length) {
@@ -547,8 +548,8 @@ function renderResult(level, searchParams) {
   const app = document.getElementById('app');
   const scoreVal = parseInt(searchParams.get('score')) || 0;
   const total = parseInt(searchParams.get('total')) || 5;
-  const PASS_THRESHOLD = 4;
-  const TOTAL_QUESTIONS = 5;
+  const PASS_THRESHOLD = 8;
+  const TOTAL_QUESTIONS = 10;
   const passed = scoreVal >= PASS_THRESHOLD;
   const isLastLevel = level >= window.TOTAL_LEVELS;
   const nextLevel = level + 1;
