@@ -1,0 +1,31 @@
+{
+  "level": 9,
+  "title": "전화번호 & 주소",
+  "titleCn": "电话号码和地址",
+  "description": "전화번호와 주소를 묻고 답하는 표현을 배워봅시다.",
+  "conversations": [
+    { "speaker": "A", "chinese": "你的电话号码是多少？", "pinyin": "Nǐ de diànhuà hàomǎ shì duōshao?", "korean": "전화번호가 뭐예요?" },
+    { "speaker": "B", "chinese": "我的电话号码是138-1234-5678。", "pinyin": "Wǒ de diànhuà hàomǎ shì yāo sān bā, yāo èr sān sì, wǔ liù qī bā.", "korean": "제 전화번호는 138-1234-5678이에요." },
+    { "speaker": "A", "chinese": "你住在哪儿？", "pinyin": "Nǐ zhù zài nǎr?", "korean": "어디에 살아요?" },
+    { "speaker": "B", "chinese": "我住在北京市朝阳区。", "pinyin": "Wǒ zhù zài Běijīng shì Cháoyáng qū.", "korean": "저는 베이징시 차오양구에 살아요." },
+    { "speaker": "A", "chinese": "你的地址是什么？", "pinyin": "Nǐ de dìzhǐ shì shénme?", "korean": "주소가 뭐예요?" },
+    { "speaker": "B", "chinese": "幸福路25号三楼302室。", "pinyin": "Xìngfú lù èrshíwǔ hào sān lóu sān líng èr shì.", "korean": "싱푸루 25번지 3층 302호예요." },
+    { "speaker": "A", "chinese": "方便留一下你的手机号吗？", "pinyin": "Fāngbiàn liú yīxià nǐ de shǒujī hào ma?", "korean": "핸드폰 번호 좀 남겨주실 수 있어요?" },
+    { "speaker": "B", "chinese": "没问题，我发短信给你。", "pinyin": "Méi wèntí, wǒ fā duǎnxìn gěi nǐ.", "korean": "문제없어요, 문자 보내드릴게요." }
+  ],
+  "vocabulary": [
+    { "chinese": "电话号码", "pinyin": "diànhuà hàomǎ", "korean": "전화번호" },
+    { "chinese": "地址", "pinyin": "dìzhǐ", "korean": "주소" },
+    { "chinese": "住", "pinyin": "zhù", "korean": "살다, 거주하다" },
+    { "chinese": "手机", "pinyin": "shǒujī", "korean": "핸드폰" },
+    { "chinese": "短信", "pinyin": "duǎnxìn", "korean": "문자 메시지" },
+    { "chinese": "号", "pinyin": "hào", "korean": "번호, 호" }
+  ],
+  "quiz": [
+    { "type": "cn_to_kr", "question": "你的电话号码是多少？", "options": ["이름이 뭐예요?", "전화번호가 뭐예요?", "주소가 뭐예요?", "나이가 몇이에요?"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "주소", "options": ["电话", "名字", "地址", "号码"], "answer": 2 },
+    { "type": "fill_blank", "question": "我___在北京。(살다)", "options": ["在", "住", "去", "来"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "发短信", "options": ["전화하다", "문자 보내다", "이메일 보내다", "편지 쓰다"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "핸드폰", "options": ["电话", "电脑", "手机", "电视"], "answer": 2 }
+  ]
+}

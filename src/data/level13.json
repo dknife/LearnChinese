@@ -1,0 +1,31 @@
+{
+  "level": 13,
+  "title": "옷 & 외모",
+  "titleCn": "衣服和外貌",
+  "description": "옷차림과 외모를 묘사하는 중국어 표현을 배워봅시다.",
+  "conversations": [
+    { "speaker": "A", "chinese": "你今天穿的衣服真好看！", "pinyin": "Nǐ jīntiān chuān de yīfu zhēn hǎokàn!", "korean": "오늘 입은 옷 정말 예쁘다!" },
+    { "speaker": "B", "chinese": "谢谢！这是我新买的裙子。", "pinyin": "Xièxie! Zhè shì wǒ xīn mǎi de qúnzi.", "korean": "고마워! 이건 새로 산 치마야." },
+    { "speaker": "A", "chinese": "我喜欢这个颜色，红色很适合你。", "pinyin": "Wǒ xǐhuān zhège yánsè, hóngsè hěn shìhé nǐ.", "korean": "이 색깔 마음에 들어, 빨간색이 너한테 잘 어울려." },
+    { "speaker": "B", "chinese": "你觉得这件衣服大不大？", "pinyin": "Nǐ juéde zhè jiàn yīfu dà bu dà?", "korean": "이 옷 큰 것 같아?" },
+    { "speaker": "A", "chinese": "不大不小，刚刚好。", "pinyin": "Bú dà bù xiǎo, gānggāng hǎo.", "korean": "크지도 작지도 않아, 딱 맞아." },
+    { "speaker": "B", "chinese": "那我还想买一条蓝色的裤子。", "pinyin": "Nà wǒ hái xiǎng mǎi yì tiáo lánsè de kùzi.", "korean": "그러면 파란색 바지도 하나 사고 싶어." },
+    { "speaker": "A", "chinese": "好啊，你穿什么都好看。", "pinyin": "Hǎo a, nǐ chuān shénme dōu hǎokàn.", "korean": "좋아, 너는 뭘 입어도 예뻐." },
+    { "speaker": "B", "chinese": "哈哈，你太会说话了！", "pinyin": "Hāhā, nǐ tài huì shuōhuà le!", "korean": "하하, 너 말 정말 잘한다!" }
+  ],
+  "vocabulary": [
+    { "chinese": "穿", "pinyin": "chuān", "korean": "입다, 신다" },
+    { "chinese": "好看", "pinyin": "hǎokàn", "korean": "예쁘다, 보기 좋다" },
+    { "chinese": "颜色", "pinyin": "yánsè", "korean": "색깔" },
+    { "chinese": "大", "pinyin": "dà", "korean": "크다" },
+    { "chinese": "小", "pinyin": "xiǎo", "korean": "작다" },
+    { "chinese": "适合", "pinyin": "shìhé", "korean": "어울리다, 적합하다" }
+  ],
+  "quiz": [
+    { "type": "cn_to_kr", "question": "好看", "options": ["맛있다", "예쁘다", "좋아하다", "편하다"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "색깔", "options": ["衣服", "颜色", "大小", "好看"], "answer": 1 },
+    { "type": "fill_blank", "question": "你今天___的衣服真好看！", "options": ["买", "穿", "看", "做"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "不大不小，刚刚好。", "options": ["너무 크다", "너무 작다", "크지도 작지도 않아, 딱 맞아", "좀 큰 것 같아"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "입다", "options": ["穿", "买", "看", "做"], "answer": 0 }
+  ]
+}

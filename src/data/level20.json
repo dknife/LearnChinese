@@ -1,0 +1,31 @@
+{
+  "level": 20,
+  "title": "호텔 체크인/아웃",
+  "titleCn": "酒店入住和退房",
+  "description": "호텔에서 체크인, 체크아웃, 객실 서비스 등과 관련된 중국어 표현을 배워봅시다.",
+  "conversations": [
+    { "speaker": "A", "chinese": "你好，我预订了一个房间。", "pinyin": "Nǐ hǎo, wǒ yùdìng le yí gè fángjiān.", "korean": "안녕하세요, 방을 예약했습니다." },
+    { "speaker": "B", "chinese": "好的，请问您贵姓？预订了几晚？", "pinyin": "Hǎo de, qǐngwèn nín guì xìng? Yùdìng le jǐ wǎn?", "korean": "네, 성함이 어떻게 되세요? 몇 박 예약하셨나요?" },
+    { "speaker": "A", "chinese": "我姓王，预订了三晚，从今天到星期四。", "pinyin": "Wǒ xìng Wáng, yùdìng le sān wǎn, cóng jīntiān dào xīngqīsì.", "korean": "왕이라고 합니다. 오늘부터 목요일까지 3박 예약했어요." },
+    { "speaker": "B", "chinese": "找到了。您的房间是508号。这是房间的钥匙。", "pinyin": "Zhǎodào le. Nín de fángjiān shì wǔ líng bā hào. Zhè shì fángjiān de yàoshi.", "korean": "찾았습니다. 508호실입니다. 여기 방 열쇠요." },
+    { "speaker": "A", "chinese": "请问入住时间是几点？退房时间呢？", "pinyin": "Qǐngwèn rùzhù shíjiān shì jǐ diǎn? Tuìfáng shíjiān ne?", "korean": "체크인 시간이 몇 시인가요? 체크아웃 시간은요?" },
+    { "speaker": "B", "chinese": "入住时间是下午两点，退房时间是上午十一点。", "pinyin": "Rùzhù shíjiān shì xiàwǔ liǎng diǎn, tuìfáng shíjiān shì shàngwǔ shíyī diǎn.", "korean": "체크인은 오후 2시, 체크아웃은 오전 11시입니다." },
+    { "speaker": "A", "chinese": "房间里有无线网络吗？密码是什么？", "pinyin": "Fángjiān lǐ yǒu wúxiàn wǎngluò ma? Mìmǎ shì shénme?", "korean": "방에 와이파이가 있나요? 비밀번호가 뭐예요?" },
+    { "speaker": "B", "chinese": "有的，密码在桌子上的卡片上。祝您入住愉快！", "pinyin": "Yǒu de, mìmǎ zài zhuōzi shàng de kǎpiàn shàng. Zhù nín rùzhù yúkuài!", "korean": "네, 비밀번호는 책상 위 카드에 있습니다. 즐거운 숙박 되세요!" }
+  ],
+  "vocabulary": [
+    { "chinese": "预订", "pinyin": "yùdìng", "korean": "예약하다" },
+    { "chinese": "房间", "pinyin": "fángjiān", "korean": "방 / 객실" },
+    { "chinese": "入住", "pinyin": "rùzhù", "korean": "체크인 / 입실하다" },
+    { "chinese": "退房", "pinyin": "tuìfáng", "korean": "체크아웃 / 퇴실하다" },
+    { "chinese": "钥匙", "pinyin": "yàoshi", "korean": "열쇠" },
+    { "chinese": "密码", "pinyin": "mìmǎ", "korean": "비밀번호" }
+  ],
+  "quiz": [
+    { "type": "cn_to_kr", "question": "预订", "options": ["취소하다", "예약하다", "확인하다", "변경하다"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "체크아웃", "options": ["入住", "退房", "预订", "取消"], "answer": 1 },
+    { "type": "fill_blank", "question": "这是房间的___。", "options": ["密码", "卡片", "钥匙", "电话"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "房间", "options": ["호텔", "로비", "방", "화장실"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "열쇠", "options": ["密码", "钥匙", "房卡", "门"], "answer": 1 }
+  ]
+}

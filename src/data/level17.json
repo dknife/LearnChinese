@@ -1,0 +1,31 @@
+{
+  "level": 17,
+  "title": "은행 & 환전",
+  "titleCn": "银行和换钱",
+  "description": "은행에서 환전, 입금, 출금 등을 할 때 사용하는 중국어 표현을 배워봅시다.",
+  "conversations": [
+    { "speaker": "A", "chinese": "你好，我想换钱。", "pinyin": "Nǐ hǎo, wǒ xiǎng huàn qián.", "korean": "안녕하세요, 환전하고 싶습니다." },
+    { "speaker": "B", "chinese": "好的，您想换什么货币？", "pinyin": "Hǎo de, nín xiǎng huàn shénme huòbì?", "korean": "네, 어떤 화폐로 환전하시겠습니까?" },
+    { "speaker": "A", "chinese": "我想把韩币换成人民币。今天的汇率是多少？", "pinyin": "Wǒ xiǎng bǎ Hánbì huàn chéng Rénmínbì. Jīntiān de huìlǜ shì duōshao?", "korean": "한국 원화를 인민폐로 바꾸고 싶어요. 오늘 환율이 얼마예요?" },
+    { "speaker": "B", "chinese": "今天的汇率是一百韩币换零点五三元人民币。", "pinyin": "Jīntiān de huìlǜ shì yìbǎi Hánbì huàn líng diǎn wǔ sān yuán Rénmínbì.", "korean": "오늘 환율은 100원당 0.53위안입니다." },
+    { "speaker": "A", "chinese": "好的，我换五十万韩币。另外我还想开一个存款账户。", "pinyin": "Hǎo de, wǒ huàn wǔshí wàn Hánbì. Lìngwài wǒ hái xiǎng kāi yí gè cúnkuǎn zhànghù.", "korean": "좋아요, 50만 원을 환전할게요. 그리고 예금 계좌도 하나 개설하고 싶습니다." },
+    { "speaker": "B", "chinese": "没问题。请出示您的护照。", "pinyin": "Méi wèntí. Qǐng chūshì nín de hùzhào.", "korean": "문제없습니다. 여권을 보여주세요." },
+    { "speaker": "A", "chinese": "给您。我以后可以在这里取款吗？", "pinyin": "Gěi nín. Wǒ yǐhòu kěyǐ zài zhèlǐ qǔkuǎn ma?", "korean": "여기요. 나중에 여기서 출금할 수 있나요?" },
+    { "speaker": "B", "chinese": "可以的，您也可以用ATM机取款。", "pinyin": "Kěyǐ de, nín yě kěyǐ yòng ATM jī qǔkuǎn.", "korean": "가능합니다, ATM으로도 출금할 수 있습니다." }
+  ],
+  "vocabulary": [
+    { "chinese": "换钱", "pinyin": "huàn qián", "korean": "환전하다" },
+    { "chinese": "汇率", "pinyin": "huìlǜ", "korean": "환율" },
+    { "chinese": "存款", "pinyin": "cúnkuǎn", "korean": "예금 / 입금하다" },
+    { "chinese": "取款", "pinyin": "qǔkuǎn", "korean": "출금하다" },
+    { "chinese": "人民币", "pinyin": "Rénmínbì", "korean": "인민폐 (중국 화폐)" },
+    { "chinese": "账户", "pinyin": "zhànghù", "korean": "계좌" }
+  ],
+  "quiz": [
+    { "type": "cn_to_kr", "question": "汇率", "options": ["이자", "환율", "수수료", "잔액"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "환전하다", "options": ["存钱", "换钱", "花钱", "借钱"], "answer": 1 },
+    { "type": "fill_blank", "question": "我想把韩币换成___。", "options": ["美元", "人民币", "日元", "欧元"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "取款", "options": ["입금하다", "송금하다", "출금하다", "환전하다"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "계좌", "options": ["银行", "账户", "存款", "汇率"], "answer": 1 }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "level": 18,
+  "title": "병원 & 약국",
+  "titleCn": "医院和药店",
+  "description": "병원에서 증상을 설명하고, 약국에서 약을 사는 등 건강 관련 중국어 표현을 배워봅시다.",
+  "conversations": [
+    { "speaker": "A", "chinese": "医生，我不舒服，头很疼。", "pinyin": "Yīshēng, wǒ bù shūfu, tóu hěn téng.", "korean": "의사 선생님, 몸이 안 좋아요, 머리가 많이 아파요." },
+    { "speaker": "B", "chinese": "你发烧了吗？让我量一下体温。", "pinyin": "Nǐ fāshāo le ma? Ràng wǒ liáng yīxià tǐwēn.", "korean": "열이 나요? 체온을 한번 재볼게요." },
+    { "speaker": "A", "chinese": "我觉得有点儿发烧，还有点儿咳嗽。", "pinyin": "Wǒ juéde yǒudiǎnr fāshāo, hái yǒudiǎnr késou.", "korean": "좀 열이 나는 것 같고, 기침도 좀 나요." },
+    { "speaker": "B", "chinese": "三十八度五，你发烧了。我给你开点儿药。", "pinyin": "Sānshíbā dù wǔ, nǐ fāshāo le. Wǒ gěi nǐ kāi diǎnr yào.", "korean": "38.5도, 열이 나시네요. 약을 처방해 드릴게요." },
+    { "speaker": "A", "chinese": "我需要吃什么药？", "pinyin": "Wǒ xūyào chī shénme yào?", "korean": "어떤 약을 먹어야 하나요?" },
+    { "speaker": "B", "chinese": "每天吃三次药，饭后吃。多喝水，好好休息。", "pinyin": "Měi tiān chī sān cì yào, fàn hòu chī. Duō hē shuǐ, hǎohāo xiūxi.", "korean": "매일 세 번 식후에 약을 드세요. 물 많이 마시고 푹 쉬세요." },
+    { "speaker": "A", "chinese": "好的，谢谢医生。药在哪里拿？", "pinyin": "Hǎo de, xièxie yīshēng. Yào zài nǎlǐ ná?", "korean": "네, 감사합니다 의사 선생님. 약은 어디서 받나요?" },
+    { "speaker": "B", "chinese": "你去一楼的药店拿药就可以了。", "pinyin": "Nǐ qù yī lóu de yàodiàn ná yào jiù kěyǐ le.", "korean": "1층 약국에 가서 약을 받으시면 됩니다." }
+  ],
+  "vocabulary": [
+    { "chinese": "不舒服", "pinyin": "bù shūfu", "korean": "불편하다 / 몸이 안 좋다" },
+    { "chinese": "头疼", "pinyin": "tóu téng", "korean": "두통 / 머리가 아프다" },
+    { "chinese": "发烧", "pinyin": "fāshāo", "korean": "열이 나다" },
+    { "chinese": "吃药", "pinyin": "chī yào", "korean": "약을 먹다" },
+    { "chinese": "医生", "pinyin": "yīshēng", "korean": "의사" },
+    { "chinese": "药店", "pinyin": "yàodiàn", "korean": "약국" }
+  ],
+  "quiz": [
+    { "type": "cn_to_kr", "question": "发烧", "options": ["기침하다", "열이 나다", "감기에 걸리다", "배가 아프다"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "머리가 아프다", "options": ["肚子疼", "牙疼", "头疼", "嗓子疼"], "answer": 2 },
+    { "type": "fill_blank", "question": "每天___三次药，饭后吃。", "options": ["喝", "吃", "拿", "买"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "不舒服", "options": ["행복하다", "피곤하다", "몸이 안 좋다", "배고프다"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "약국", "options": ["医院", "药店", "诊所", "药房"], "answer": 1 }
+  ]
+}

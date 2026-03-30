@@ -1,0 +1,31 @@
+{
+  "level": 12,
+  "title": "약속 잡기",
+  "titleCn": "约会安排",
+  "description": "친구와 만남을 약속하고 시간과 장소를 정하는 표현을 배워봅시다.",
+  "conversations": [
+    { "speaker": "A", "chinese": "这个周末你有空吗？", "pinyin": "Zhège zhōumò nǐ yǒu kòng ma?", "korean": "이번 주말에 시간 있어?" },
+    { "speaker": "B", "chinese": "有空啊，你想做什么？", "pinyin": "Yǒu kòng a, nǐ xiǎng zuò shénme?", "korean": "시간 있어, 뭐 하고 싶어?" },
+    { "speaker": "A", "chinese": "我们一起去看电影吧。什么时候方便？", "pinyin": "Wǒmen yìqǐ qù kàn diànyǐng ba. Shénme shíhòu fāngbiàn?", "korean": "같이 영화 보러 가자. 언제가 편해?" },
+    { "speaker": "B", "chinese": "周六下午两点怎么样？", "pinyin": "Zhōuliù xiàwǔ liǎng diǎn zěnmeyàng?", "korean": "토요일 오후 두 시 어때?" },
+    { "speaker": "A", "chinese": "好的，在哪儿见？", "pinyin": "Hǎo de, zài nǎr jiàn?", "korean": "좋아, 어디서 만날까?" },
+    { "speaker": "B", "chinese": "我们在电影院门口见吧。", "pinyin": "Wǒmen zài diànyǐngyuàn ménkǒu jiàn ba.", "korean": "영화관 입구에서 만나자." },
+    { "speaker": "A", "chinese": "没问题，不见不散！", "pinyin": "Méi wèntí, bú jiàn bú sàn!", "korean": "문제없어, 꼭 만나자!" },
+    { "speaker": "B", "chinese": "好的，到时候见！", "pinyin": "Hǎo de, dào shíhòu jiàn!", "korean": "좋아, 그때 보자!" }
+  ],
+  "vocabulary": [
+    { "chinese": "有空", "pinyin": "yǒu kòng", "korean": "시간이 있다" },
+    { "chinese": "什么时候", "pinyin": "shénme shíhòu", "korean": "언제" },
+    { "chinese": "方便", "pinyin": "fāngbiàn", "korean": "편리하다" },
+    { "chinese": "在哪儿见", "pinyin": "zài nǎr jiàn", "korean": "어디서 만날까" },
+    { "chinese": "不见不散", "pinyin": "bú jiàn bú sàn", "korean": "꼭 만나자 (만날 때까지 안 헤어진다)" },
+    { "chinese": "电影院", "pinyin": "diànyǐngyuàn", "korean": "영화관" }
+  ],
+  "quiz": [
+    { "type": "cn_to_kr", "question": "不见不散", "options": ["다음에 보자", "꼭 만나자", "만나서 반갑다", "잘 가"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "시간이 있다", "options": ["没空", "有空", "方便", "有时间"], "answer": 1 },
+    { "type": "fill_blank", "question": "这个周末你___吗？", "options": ["有空", "在哪儿", "什么时候", "怎么样"], "answer": 0 },
+    { "type": "cn_to_kr", "question": "什么时候方便？", "options": ["어디가 편해?", "언제가 편해?", "뭐가 편해?", "누가 편해?"], "answer": 1 },
+    { "type": "fill_blank", "question": "我们在电影院门口___吧。", "options": ["去", "来", "见", "走"], "answer": 2 }
+  ]
+}

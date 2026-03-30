@@ -1,0 +1,31 @@
+{
+  "level": 10,
+  "title": "음식 & 맛 표현",
+  "titleCn": "食物和味道",
+  "description": "음식의 맛을 표현하고 좋아하는 음식에 대해 이야기하는 표현을 배워봅시다.",
+  "conversations": [
+    { "speaker": "A", "chinese": "你喜欢吃什么？", "pinyin": "Nǐ xǐhuan chī shénme?", "korean": "뭐 먹는 걸 좋아해요?" },
+    { "speaker": "B", "chinese": "我喜欢吃中国菜，特别是火锅。", "pinyin": "Wǒ xǐhuan chī Zhōngguó cài, tèbié shì huǒguō.", "korean": "중국 요리를 좋아해요, 특히 훠궈요." },
+    { "speaker": "A", "chinese": "火锅辣不辣？", "pinyin": "Huǒguō là bu là?", "korean": "훠궈는 매워요?" },
+    { "speaker": "B", "chinese": "有的很辣，有的不辣。你能吃辣的吗？", "pinyin": "Yǒu de hěn là, yǒu de bú là. Nǐ néng chī là de ma?", "korean": "어떤 건 맵고, 어떤 건 안 매워요. 매운 거 먹을 수 있어요?" },
+    { "speaker": "A", "chinese": "我不太能吃辣的。我喜欢甜的。", "pinyin": "Wǒ bú tài néng chī là de. Wǒ xǐhuan tián de.", "korean": "매운 건 잘 못 먹어요. 단 걸 좋아해요." },
+    { "speaker": "B", "chinese": "那你尝尝这个糖醋排骨，酸酸甜甜的，很好吃。", "pinyin": "Nà nǐ chángchang zhège tángcù páigǔ, suānsuān tiántián de, hěn hǎochī.", "korean": "그럼 이 탕수육 먹어봐요, 새콤달콤하고 맛있어요." },
+    { "speaker": "A", "chinese": "嗯，真的很好吃！味道不咸不淡，刚刚好。", "pinyin": "Ǹg, zhēn de hěn hǎochī! Wèidào bù xián bù dàn, gānggāng hǎo.", "korean": "음, 정말 맛있어요! 짜지도 싱겁지도 않고, 딱 좋아요." },
+    { "speaker": "B", "chinese": "太好了，下次我们再来吃。", "pinyin": "Tài hǎo le, xià cì wǒmen zài lái chī.", "korean": "좋아요, 다음에 또 먹으러 와요." }
+  ],
+  "vocabulary": [
+    { "chinese": "好吃", "pinyin": "hǎochī", "korean": "맛있다" },
+    { "chinese": "辣", "pinyin": "là", "korean": "맵다" },
+    { "chinese": "甜", "pinyin": "tián", "korean": "달다" },
+    { "chinese": "酸", "pinyin": "suān", "korean": "시다, 새콤하다" },
+    { "chinese": "咸", "pinyin": "xián", "korean": "짜다" },
+    { "chinese": "味道", "pinyin": "wèidào", "korean": "맛, 풍미" }
+  ],
+  "quiz": [
+    { "type": "cn_to_kr", "question": "好吃", "options": ["맵다", "맛있다", "달다", "짜다"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "맵다", "options": ["甜", "咸", "辣", "酸"], "answer": 2 },
+    { "type": "fill_blank", "question": "这个菜太___了。(짜다)", "options": ["辣", "甜", "酸", "咸"], "answer": 3 },
+    { "type": "cn_to_kr", "question": "酸酸甜甜的", "options": ["맵고 짠", "새콤달콤한", "달고 짠", "시고 매운"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "맛있다", "options": ["好看", "好吃", "好喝", "好玩"], "answer": 1 }
+  ]
+}

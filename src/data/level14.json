@@ -1,0 +1,31 @@
+{
+  "level": 14,
+  "title": "날씨 & 계절",
+  "titleCn": "天气和季节",
+  "description": "날씨와 사계절에 대해 중국어로 이야기하는 방법을 배워봅시다.",
+  "conversations": [
+    { "speaker": "A", "chinese": "今天天气怎么样？", "pinyin": "Jīntiān tiānqì zěnmeyàng?", "korean": "오늘 날씨 어때?" },
+    { "speaker": "B", "chinese": "今天很热，气温有三十五度。", "pinyin": "Jīntiān hěn rè, qìwēn yǒu sānshíwǔ dù.", "korean": "오늘 많이 더워, 기온이 35도야." },
+    { "speaker": "A", "chinese": "夏天就是这么热。你喜欢什么季节？", "pinyin": "Xiàtiān jiù shì zhème rè. Nǐ xǐhuān shénme jìjié?", "korean": "여름은 이렇게 덥지. 너는 어떤 계절을 좋아해?" },
+    { "speaker": "B", "chinese": "我最喜欢春天，不冷不热，很舒服。", "pinyin": "Wǒ zuì xǐhuān chūntiān, bù lěng bú rè, hěn shūfu.", "korean": "나는 봄이 제일 좋아, 춥지도 덥지도 않아서 편해." },
+    { "speaker": "A", "chinese": "秋天也不错，不过有时候会下雨。", "pinyin": "Qiūtiān yě búcuò, búguò yǒu shíhòu huì xià yǔ.", "korean": "가을도 괜찮아, 하지만 가끔 비가 와." },
+    { "speaker": "B", "chinese": "冬天太冷了，还会下雪。", "pinyin": "Dōngtiān tài lěng le, hái huì xià xuě.", "korean": "겨울은 너무 추워, 게다가 눈도 와." },
+    { "speaker": "A", "chinese": "明天好像要下雨，记得带伞。", "pinyin": "Míngtiān hǎoxiàng yào xià yǔ, jìde dài sǎn.", "korean": "내일 비 올 것 같아, 우산 챙겨." },
+    { "speaker": "B", "chinese": "好的，谢谢你提醒我。", "pinyin": "Hǎo de, xièxie nǐ tíxǐng wǒ.", "korean": "알겠어, 알려줘서 고마워." }
+  ],
+  "vocabulary": [
+    { "chinese": "天气", "pinyin": "tiānqì", "korean": "날씨" },
+    { "chinese": "春天", "pinyin": "chūntiān", "korean": "봄" },
+    { "chinese": "夏天", "pinyin": "xiàtiān", "korean": "여름" },
+    { "chinese": "秋天", "pinyin": "qiūtiān", "korean": "가을" },
+    { "chinese": "冬天", "pinyin": "dōngtiān", "korean": "겨울" },
+    { "chinese": "下雨", "pinyin": "xià yǔ", "korean": "비가 오다" }
+  ],
+  "quiz": [
+    { "type": "cn_to_kr", "question": "今天天气怎么样？", "options": ["오늘 뭐 해?", "오늘 날씨 어때?", "오늘 어디 가?", "오늘 몇 시야?"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "봄", "options": ["夏天", "秋天", "冬天", "春天"], "answer": 3 },
+    { "type": "fill_blank", "question": "明天好像要___，记得带伞。", "options": ["下雪", "下雨", "刮风", "出太阳"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "不冷不热", "options": ["너무 춥다", "너무 덥다", "춥지도 덥지도 않다", "조금 춥다"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "겨울", "options": ["春天", "夏天", "秋天", "冬天"], "answer": 3 }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "level": 15,
+  "title": "취미 & 여가",
+  "titleCn": "爱好和休闲",
+  "description": "취미와 여가 활동에 대해 중국어로 이야기하는 방법을 배워봅시다.",
+  "conversations": [
+    { "speaker": "A", "chinese": "你的爱好是什么？", "pinyin": "Nǐ de àihào shì shénme?", "korean": "너의 취미가 뭐야?" },
+    { "speaker": "B", "chinese": "我喜欢看书和听音乐，你呢？", "pinyin": "Wǒ xǐhuān kàn shū hé tīng yīnyuè, nǐ ne?", "korean": "나는 독서랑 음악 듣기를 좋아해, 너는?" },
+    { "speaker": "A", "chinese": "我最喜欢运动，特别是打篮球。", "pinyin": "Wǒ zuì xǐhuān yùndòng, tèbié shì dǎ lánqiú.", "korean": "나는 운동을 제일 좋아해, 특히 농구." },
+    { "speaker": "B", "chinese": "你平时还做什么？", "pinyin": "Nǐ píngshí hái zuò shénme?", "korean": "평소에 또 뭐 해?" },
+    { "speaker": "A", "chinese": "周末的时候我喜欢去旅游。", "pinyin": "Zhōumò de shíhòu wǒ xǐhuān qù lǚyóu.", "korean": "주말에는 여행 가는 걸 좋아해." },
+    { "speaker": "B", "chinese": "旅游真不错！你去过哪些地方？", "pinyin": "Lǚyóu zhēn búcuò! Nǐ qùguò nǎxiē dìfāng?", "korean": "여행 정말 좋지! 어떤 곳에 가봤어?" },
+    { "speaker": "A", "chinese": "我去过北京和上海，都很好玩。", "pinyin": "Wǒ qùguò Běijīng hé Shànghǎi, dōu hěn hǎowán.", "korean": "베이징이랑 상하이에 가봤어, 둘 다 재미있었어." },
+    { "speaker": "B", "chinese": "下次我们一起去旅游吧！", "pinyin": "Xià cì wǒmen yìqǐ qù lǚyóu ba!", "korean": "다음에 우리 같이 여행 가자!" }
+  ],
+  "vocabulary": [
+    { "chinese": "爱好", "pinyin": "àihào", "korean": "취미" },
+    { "chinese": "看书", "pinyin": "kàn shū", "korean": "독서하다, 책을 읽다" },
+    { "chinese": "运动", "pinyin": "yùndòng", "korean": "운동" },
+    { "chinese": "听音乐", "pinyin": "tīng yīnyuè", "korean": "음악을 듣다" },
+    { "chinese": "旅游", "pinyin": "lǚyóu", "korean": "여행하다" },
+    { "chinese": "好玩", "pinyin": "hǎowán", "korean": "재미있다" }
+  ],
+  "quiz": [
+    { "type": "cn_to_kr", "question": "你的爱好是什么？", "options": ["이름이 뭐야?", "취미가 뭐야?", "직업이 뭐야?", "뭐 먹을래?"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "음악을 듣다", "options": ["看书", "运动", "听音乐", "旅游"], "answer": 2 },
+    { "type": "fill_blank", "question": "周末的时候我喜欢去___。", "options": ["看书", "运动", "听音乐", "旅游"], "answer": 3 },
+    { "type": "cn_to_kr", "question": "好玩", "options": ["맛있다", "예쁘다", "재미있다", "편하다"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "운동", "options": ["爱好", "运动", "旅游", "看书"], "answer": 1 }
+  ]
+}

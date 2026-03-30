@@ -1,0 +1,31 @@
+{
+  "level": 19,
+  "title": "공항 & 비행기",
+  "titleCn": "机场和飞机",
+  "description": "공항에서 탑승 수속, 보안 검색, 탑승구 찾기 등과 관련된 중국어 표현을 배워봅시다.",
+  "conversations": [
+    { "speaker": "A", "chinese": "你好，请出示您的护照和机票。", "pinyin": "Nǐ hǎo, qǐng chūshì nín de hùzhào hé jīpiào.", "korean": "안녕하세요, 여권과 항공권을 보여주세요." },
+    { "speaker": "B", "chinese": "给您。我有两件行李要托运。", "pinyin": "Gěi nín. Wǒ yǒu liǎng jiàn xíngli yào tuōyùn.", "korean": "여기요. 수하물 두 개를 부치고 싶습니다." },
+    { "speaker": "A", "chinese": "好的，这是您的登机牌。您的座位是25A，靠窗。", "pinyin": "Hǎo de, zhè shì nín de dēngjīpái. Nín de zuòwèi shì èrshíwǔ A, kào chuāng.", "korean": "네, 이것은 탑승권입니다. 좌석은 25A, 창가석이에요." },
+    { "speaker": "B", "chinese": "请问几号登机口？", "pinyin": "Qǐngwèn jǐ hào dēngjīkǒu?", "korean": "탑승구가 몇 번인가요?" },
+    { "speaker": "A", "chinese": "十二号登机口，在二楼。飞机下午三点起飞。", "pinyin": "Shí'èr hào dēngjīkǒu, zài èr lóu. Fēijī xiàwǔ sān diǎn qǐfēi.", "korean": "12번 탑승구, 2층에 있습니다. 비행기는 오후 3시에 출발합니다." },
+    { "speaker": "B", "chinese": "飞机几点降落？", "pinyin": "Fēijī jǐ diǎn jiàngluò?", "korean": "비행기는 몇 시에 착륙하나요?" },
+    { "speaker": "A", "chinese": "预计晚上六点降落。请提前半小时到登机口。", "pinyin": "Yùjì wǎnshang liù diǎn jiàngluò. Qǐng tíqián bàn xiǎoshí dào dēngjīkǒu.", "korean": "저녁 6시에 도착 예정입니다. 30분 전에 탑승구에 오세요." },
+    { "speaker": "B", "chinese": "好的，谢谢。我先去安检了。", "pinyin": "Hǎo de, xièxie. Wǒ xiān qù ānjiǎn le.", "korean": "네, 감사합니다. 먼저 보안 검색대로 가겠습니다." }
+  ],
+  "vocabulary": [
+    { "chinese": "登机牌", "pinyin": "dēngjīpái", "korean": "탑승권" },
+    { "chinese": "行李", "pinyin": "xíngli", "korean": "수하물 / 짐" },
+    { "chinese": "登机口", "pinyin": "dēngjīkǒu", "korean": "탑승구" },
+    { "chinese": "起飞", "pinyin": "qǐfēi", "korean": "이륙하다" },
+    { "chinese": "降落", "pinyin": "jiàngluò", "korean": "착륙하다" },
+    { "chinese": "托运", "pinyin": "tuōyùn", "korean": "수하물을 부치다" }
+  ],
+  "quiz": [
+    { "type": "cn_to_kr", "question": "登机牌", "options": ["여권", "탑승권", "항공권", "비자"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "탑승구", "options": ["登机牌", "登机口", "出口", "入口"], "answer": 1 },
+    { "type": "fill_blank", "question": "飞机下午三点___。", "options": ["降落", "起飞", "到达", "出发"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "行李", "options": ["항공권", "여권", "수하물", "탑승권"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "착륙하다", "options": ["起飞", "出发", "到达", "降落"], "answer": 3 }
+  ]
+}

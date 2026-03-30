@@ -1,0 +1,31 @@
+{
+  "level": 21,
+  "title": "관광 & 사진",
+  "titleCn": "观光和拍照",
+  "description": "관광지에서 사진 찍기, 명소 방문, 입장권 구매 등 관광 관련 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "chinese": "这里的风景真美，我们拍张照吧！", "pinyin": "Zhèlǐ de fēngjǐng zhēn měi, wǒmen pāi zhāng zhào ba!", "korean": "여기 풍경이 정말 아름다워요, 우리 사진 찍어요!" },
+    { "speaker": "B", "chinese": "好啊！你帮我拍一张，好吗？", "pinyin": "Hǎo a! Nǐ bāng wǒ pāi yì zhāng, hǎo ma?", "korean": "좋아요! 저 한 장 찍어 줄래요?" },
+    { "speaker": "A", "chinese": "没问题。笑一笑！拍好了。", "pinyin": "Méi wèntí. Xiào yí xiào! Pāi hǎo le.", "korean": "문제없어요. 웃어 보세요! 찍었어요." },
+    { "speaker": "B", "chinese": "谢谢！这个名胜古迹叫什么名字？", "pinyin": "Xièxie! Zhège míngshèng gǔjì jiào shénme míngzì?", "korean": "고마워요! 이 명승고적은 이름이 뭐예요?" },
+    { "speaker": "A", "chinese": "这是长城，中国最有名的古迹之一。", "pinyin": "Zhè shì Chángchéng, Zhōngguó zuì yǒumíng de gǔjì zhī yī.", "korean": "이것은 만리장성이에요, 중국에서 가장 유명한 고적 중 하나예요." },
+    { "speaker": "B", "chinese": "门票多少钱一张？", "pinyin": "Ménpiào duōshao qián yì zhāng?", "korean": "입장권은 한 장에 얼마예요?" },
+    { "speaker": "A", "chinese": "成人票四十元，学生票半价。", "pinyin": "Chéngrén piào sìshí yuán, xuéshēng piào bànjià.", "korean": "성인 표는 40위안이고, 학생 표는 반값이에요." },
+    { "speaker": "B", "chinese": "我们需要请一个导游吗？", "pinyin": "Wǒmen xūyào qǐng yí gè dǎoyóu ma?", "korean": "우리 가이드를 한 명 부를까요?" }
+  ],
+  "vocabulary": [
+    { "chinese": "拍照", "pinyin": "pāizhào", "korean": "사진을 찍다" },
+    { "chinese": "风景", "pinyin": "fēngjǐng", "korean": "풍경" },
+    { "chinese": "名胜古迹", "pinyin": "míngshèng gǔjì", "korean": "명승고적" },
+    { "chinese": "门票", "pinyin": "ménpiào", "korean": "입장권" },
+    { "chinese": "导游", "pinyin": "dǎoyóu", "korean": "가이드, 관광 안내원" },
+    { "chinese": "半价", "pinyin": "bànjià", "korean": "반값" }
+  ],
+  "quiz": [
+    { "type": "cn_to_kr", "question": "风景", "options": ["날씨", "풍경", "사진", "입장권"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "导游", "options": ["운전사", "손님", "가이드", "경찰"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "입장권", "options": ["导游", "门票", "半价", "风景"], "answer": 1 },
+    { "type": "fill_blank", "question": "这里的___真美！(풍경)", "options": ["拍照", "门票", "风景", "导游"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "사진을 찍다", "options": ["风景", "名胜古迹", "导游", "拍照"], "answer": 3 }
+  ]
+}

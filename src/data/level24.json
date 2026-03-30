@@ -1,0 +1,31 @@
+{
+  "level": 24,
+  "title": "문화 & 명절",
+  "titleCn": "文化和节日",
+  "description": "중국의 전통 문화와 명절, 풍습 관련 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "chinese": "中国最重要的节日是什么？", "pinyin": "Zhōngguó zuì zhòngyào de jiérì shì shénme?", "korean": "중국에서 가장 중요한 명절은 뭐예요?" },
+    { "speaker": "B", "chinese": "当然是春节了，就是中国的新年。", "pinyin": "Dāngrán shì Chūnjié le, jiùshì Zhōngguó de xīnnián.", "korean": "당연히 춘절이에요, 바로 중국의 설날이죠." },
+    { "speaker": "A", "chinese": "春节的时候你们做什么？", "pinyin": "Chūnjié de shíhou nǐmen zuò shénme?", "korean": "춘절 때 뭐 해요?" },
+    { "speaker": "B", "chinese": "我们全家一起包饺子，还会发红包。", "pinyin": "Wǒmen quánjiā yìqǐ bāo jiǎozi, hái huì fā hóngbāo.", "korean": "온 가족이 함께 만두를 빚고, 또 세뱃돈도 줘요." },
+    { "speaker": "A", "chinese": "中秋节是什么时候？", "pinyin": "Zhōngqiūjié shì shénme shíhou?", "korean": "중추절은 언제예요?" },
+    { "speaker": "B", "chinese": "农历八月十五。我们会吃月饼，赏月。", "pinyin": "Nónglì bā yuè shíwǔ. Wǒmen huì chī yuèbǐng, shǎngyuè.", "korean": "음력 8월 15일이에요. 월병을 먹고 달을 감상해요." },
+    { "speaker": "A", "chinese": "春节放假几天？", "pinyin": "Chūnjié fàngjià jǐ tiān?", "korean": "춘절에 며칠 쉬어요?" },
+    { "speaker": "B", "chinese": "一般放假七天，大家都回家过年。", "pinyin": "Yìbān fàngjià qī tiān, dàjiā dōu huíjiā guònián.", "korean": "보통 7일 쉬고, 모두 집에 가서 설을 쇠어요." }
+  ],
+  "vocabulary": [
+    { "chinese": "春节", "pinyin": "Chūnjié", "korean": "춘절 (중국 설날)" },
+    { "chinese": "中秋节", "pinyin": "Zhōngqiūjié", "korean": "중추절 (추석)" },
+    { "chinese": "红包", "pinyin": "hóngbāo", "korean": "세뱃돈, 홍바오" },
+    { "chinese": "饺子", "pinyin": "jiǎozi", "korean": "만두" },
+    { "chinese": "放假", "pinyin": "fàngjià", "korean": "휴가, 방학" },
+    { "chinese": "月饼", "pinyin": "yuèbǐng", "korean": "월병" }
+  ],
+  "quiz": [
+    { "type": "cn_to_kr", "question": "红包", "options": ["만두", "월병", "세뱃돈", "선물"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "만두", "options": ["月饼", "红包", "饺子", "春节"], "answer": 2 },
+    { "type": "fill_blank", "question": "春节的时候，大家都___七天。(쉬다)", "options": ["过年", "放假", "加班", "上班"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "中秋节", "options": ["춘절", "중추절", "단오절", "원소절"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "춘절 (중국 설날)", "options": ["中秋节", "放假", "春节", "红包"], "answer": 2 }
+  ]
+}

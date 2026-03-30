@@ -1,0 +1,31 @@
+{
+  "level": 6,
+  "title": "쇼핑하기",
+  "titleCn": "购物",
+  "description": "가게에서 물건을 사고 가격을 흥정하는 표현을 배워봅시다.",
+  "conversations": [
+    { "speaker": "A", "chinese": "你好，我想买一件衣服。", "pinyin": "Nǐ hǎo, wǒ xiǎng mǎi yī jiàn yīfu.", "korean": "안녕하세요, 옷 한 벌 사고 싶어요." },
+    { "speaker": "B", "chinese": "欢迎光临！你想看看什么样的？", "pinyin": "Huānyíng guānglín! Nǐ xiǎng kànkan shénme yàng de?", "korean": "어서 오세요! 어떤 걸 보고 싶으세요?" },
+    { "speaker": "A", "chinese": "这个多少钱？", "pinyin": "Zhège duōshao qián?", "korean": "이거 얼마예요?" },
+    { "speaker": "B", "chinese": "这件两百块。", "pinyin": "Zhè jiàn liǎng bǎi kuài.", "korean": "이건 200위안이에요." },
+    { "speaker": "A", "chinese": "太贵了！能不能便宜一点？", "pinyin": "Tài guì le! Néng bu néng piányi yīdiǎn?", "korean": "너무 비싸요! 좀 싸게 해줄 수 있어요?" },
+    { "speaker": "B", "chinese": "好吧，一百五十块怎么样？", "pinyin": "Hǎo ba, yī bǎi wǔshí kuài zěnmeyàng?", "korean": "좋아요, 150위안 어때요?" },
+    { "speaker": "A", "chinese": "可以试试吗？", "pinyin": "Kěyǐ shìshi ma?", "korean": "입어볼 수 있을까요?" },
+    { "speaker": "B", "chinese": "当然可以，试衣间在那边。", "pinyin": "Dāngrán kěyǐ, shìyījiān zài nàbiān.", "korean": "물론이요, 탈의실은 저쪽에 있어요." }
+  ],
+  "vocabulary": [
+    { "chinese": "多少钱", "pinyin": "duōshao qián", "korean": "얼마" },
+    { "chinese": "太贵了", "pinyin": "tài guì le", "korean": "너무 비싸다" },
+    { "chinese": "便宜", "pinyin": "piányi", "korean": "싸다, 저렴하다" },
+    { "chinese": "试试", "pinyin": "shìshi", "korean": "시험해 보다, 입어보다" },
+    { "chinese": "衣服", "pinyin": "yīfu", "korean": "옷" },
+    { "chinese": "欢迎光临", "pinyin": "huānyíng guānglín", "korean": "어서 오세요" }
+  ],
+  "quiz": [
+    { "type": "cn_to_kr", "question": "太贵了", "options": ["너무 싸다", "너무 비싸다", "아주 좋다", "너무 크다"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "얼마예요?", "options": ["怎么样？", "多少钱？", "是什么？", "在哪儿？"], "answer": 1 },
+    { "type": "fill_blank", "question": "能不能___一点？(좀 싸게)", "options": ["贵", "便宜", "大", "好"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "可以试试吗？", "options": ["살 수 있나요?", "볼 수 있나요?", "입어볼 수 있나요?", "먹어볼 수 있나요?"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "옷", "options": ["鞋子", "裤子", "衣服", "帽子"], "answer": 2 }
+  ]
+}

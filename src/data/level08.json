@@ -1,0 +1,31 @@
+{
+  "level": 8,
+  "title": "시간 표현",
+  "titleCn": "时间表达",
+  "description": "시간을 묻고 답하는 표현과 일과 관련된 시간 표현을 배워봅시다.",
+  "conversations": [
+    { "speaker": "A", "chinese": "请问，现在几点？", "pinyin": "Qǐngwèn, xiànzài jǐ diǎn?", "korean": "실례합니다, 지금 몇 시예요?" },
+    { "speaker": "B", "chinese": "现在下午三点半。", "pinyin": "Xiànzài xiàwǔ sān diǎn bàn.", "korean": "지금 오후 3시 반이에요." },
+    { "speaker": "A", "chinese": "电影几点开始？", "pinyin": "Diànyǐng jǐ diǎn kāishǐ?", "korean": "영화 몇 시에 시작해요?" },
+    { "speaker": "B", "chinese": "晚上七点开始。", "pinyin": "Wǎnshang qī diǎn kāishǐ.", "korean": "저녁 7시에 시작해요." },
+    { "speaker": "A", "chinese": "你早上几点起床？", "pinyin": "Nǐ zǎoshang jǐ diǎn qǐchuáng?", "korean": "아침에 몇 시에 일어나요?" },
+    { "speaker": "B", "chinese": "我早上六点半起床。", "pinyin": "Wǒ zǎoshang liù diǎn bàn qǐchuáng.", "korean": "아침 6시 반에 일어나요." },
+    { "speaker": "A", "chinese": "上午你有课吗？", "pinyin": "Shàngwǔ nǐ yǒu kè ma?", "korean": "오전에 수업 있어요?" },
+    { "speaker": "B", "chinese": "有，上午九点到十一点有课。", "pinyin": "Yǒu, shàngwǔ jiǔ diǎn dào shíyī diǎn yǒu kè.", "korean": "네, 오전 9시부터 11시까지 수업이 있어요." }
+  ],
+  "vocabulary": [
+    { "chinese": "几点", "pinyin": "jǐ diǎn", "korean": "몇 시" },
+    { "chinese": "上午", "pinyin": "shàngwǔ", "korean": "오전" },
+    { "chinese": "下午", "pinyin": "xiàwǔ", "korean": "오후" },
+    { "chinese": "早上", "pinyin": "zǎoshang", "korean": "아침" },
+    { "chinese": "晚上", "pinyin": "wǎnshang", "korean": "저녁, 밤" },
+    { "chinese": "开始", "pinyin": "kāishǐ", "korean": "시작하다" }
+  ],
+  "quiz": [
+    { "type": "cn_to_kr", "question": "现在几点？", "options": ["오늘 며칠이에요?", "지금 몇 시예요?", "언제 시작해요?", "몇 시에 끝나요?"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "오전", "options": ["早上", "上午", "中午", "下午"], "answer": 1 },
+    { "type": "fill_blank", "question": "电影七点___。(시작하다)", "options": ["结束", "开始", "到", "走"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "早上六点半", "options": ["아침 6시", "아침 6시 반", "저녁 6시 반", "오후 6시"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "저녁", "options": ["早上", "上午", "下午", "晚上"], "answer": 3 }
+  ]
+}

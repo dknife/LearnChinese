@@ -1,0 +1,31 @@
+{
+  "level": 7,
+  "title": "택시 & 대중교통",
+  "titleCn": "出租车和公共交通",
+  "description": "택시와 대중교통을 이용할 때 필요한 중국어 표현을 배워봅시다.",
+  "conversations": [
+    { "speaker": "A", "chinese": "师傅，我要去火车站。", "pinyin": "Shīfu, wǒ yào qù huǒchēzhàn.", "korean": "기사님, 기차역으로 가주세요." },
+    { "speaker": "B", "chinese": "好的，大概二十分钟到。", "pinyin": "Hǎo de, dàgài èrshí fēnzhōng dào.", "korean": "네, 대략 20분이면 도착합니다." },
+    { "speaker": "A", "chinese": "请问，到天安门怎么走？", "pinyin": "Qǐngwèn, dào Tiān'ānmén zěnme zǒu?", "korean": "실례합니다, 천안문까지 어떻게 가나요?" },
+    { "speaker": "B", "chinese": "你可以坐地铁一号线。", "pinyin": "Nǐ kěyǐ zuò dìtiě yī hào xiàn.", "korean": "지하철 1호선을 타면 됩니다." },
+    { "speaker": "A", "chinese": "下一站是哪里？", "pinyin": "Xià yī zhàn shì nǎlǐ?", "korean": "다음 역은 어디예요?" },
+    { "speaker": "B", "chinese": "下一站是王府井。", "pinyin": "Xià yī zhàn shì Wángfǔjǐng.", "korean": "다음 역은 왕푸징입니다." },
+    { "speaker": "A", "chinese": "我应该在哪一站下车？", "pinyin": "Wǒ yīnggāi zài nǎ yī zhàn xià chē?", "korean": "몇 번째 역에서 내려야 하나요?" },
+    { "speaker": "B", "chinese": "再坐三站就到了。", "pinyin": "Zài zuò sān zhàn jiù dào le.", "korean": "세 정거장 더 가면 도착합니다." }
+  ],
+  "vocabulary": [
+    { "chinese": "出租车", "pinyin": "chūzūchē", "korean": "택시" },
+    { "chinese": "地铁", "pinyin": "dìtiě", "korean": "지하철" },
+    { "chinese": "下一站", "pinyin": "xià yī zhàn", "korean": "다음 역" },
+    { "chinese": "下车", "pinyin": "xià chē", "korean": "하차하다, 내리다" },
+    { "chinese": "火车站", "pinyin": "huǒchēzhàn", "korean": "기차역" },
+    { "chinese": "怎么走", "pinyin": "zěnme zǒu", "korean": "어떻게 가나요" }
+  ],
+  "quiz": [
+    { "type": "cn_to_kr", "question": "下一站是哪里？", "options": ["어디에서 타나요?", "다음 역은 어디예요?", "여기가 어디예요?", "어디로 가나요?"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "지하철", "options": ["公共汽车", "火车", "地铁", "出租车"], "answer": 2 },
+    { "type": "fill_blank", "question": "我要___火车站。(기차역으로 가다)", "options": ["在", "去", "来", "到"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "坐地铁一号线", "options": ["지하철 1호선을 타다", "버스 1번을 타다", "택시를 타다", "기차를 타다"], "answer": 0 },
+    { "type": "kr_to_cn", "question": "내리다", "options": ["上车", "开车", "下车", "坐车"], "answer": 2 }
+  ]
+}

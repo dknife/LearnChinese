@@ -1,0 +1,139 @@
+{
+  "level": 1,
+  "title": "인사 & 자기소개",
+  "titleCn": "打招呼和自我介绍",
+  "description": "중국어로 인사하고 자기소개하는 기본 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "korean": "안녕하세요!"
+    },
+    {
+      "speaker": "B",
+      "chinese": "你好！你叫什么名字？",
+      "pinyin": "Nǐ hǎo! Nǐ jiào shénme míngzi?",
+      "korean": "안녕하세요! 이름이 뭐예요?"
+    },
+    {
+      "speaker": "A",
+      "chinese": "我叫朴志敏。你呢？",
+      "pinyin": "Wǒ jiào Piáo Zhìmǐn. Nǐ ne?",
+      "korean": "저는 박지민이라고 해요. 당신은요?"
+    },
+    {
+      "speaker": "B",
+      "chinese": "我叫王明。你是哪国人？",
+      "pinyin": "Wǒ jiào Wáng Míng. Nǐ shì nǎ guó rén?",
+      "korean": "저는 왕밍이에요. 어느 나라 사람이에요?"
+    },
+    {
+      "speaker": "A",
+      "chinese": "我是韩国人。你是中国人吗？",
+      "pinyin": "Wǒ shì Hánguó rén. Nǐ shì Zhōngguó rén ma?",
+      "korean": "저는 한국 사람이에요. 당신은 중국 사람이에요?"
+    },
+    {
+      "speaker": "B",
+      "chinese": "是的，我是中国人。认识你很高兴！",
+      "pinyin": "Shì de, wǒ shì Zhōngguó rén. Rènshi nǐ hěn gāoxìng!",
+      "korean": "네, 저는 중국 사람이에요. 만나서 반갑습니다!"
+    },
+    {
+      "speaker": "A",
+      "chinese": "认识你我也很高兴！",
+      "pinyin": "Rènshi nǐ wǒ yě hěn gāoxìng!",
+      "korean": "저도 만나서 반갑습니다!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "chinese": "你好",
+      "pinyin": "nǐ hǎo",
+      "korean": "안녕하세요"
+    },
+    {
+      "chinese": "名字",
+      "pinyin": "míngzi",
+      "korean": "이름"
+    },
+    {
+      "chinese": "哪国人",
+      "pinyin": "nǎ guó rén",
+      "korean": "어느 나라 사람"
+    },
+    {
+      "chinese": "韩国人",
+      "pinyin": "Hánguó rén",
+      "korean": "한국 사람"
+    },
+    {
+      "chinese": "认识",
+      "pinyin": "rènshi",
+      "korean": "알다, 알게 되다"
+    },
+    {
+      "chinese": "高兴",
+      "pinyin": "gāoxìng",
+      "korean": "기쁘다, 반갑다"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "cn_to_kr",
+      "question": "你叫什么名字？",
+      "options": [
+        "이름이 뭐예요?",
+        "어느 나라 사람이에요?",
+        "만나서 반갑습니다",
+        "안녕하세요"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "kr_to_cn",
+      "question": "저는 한국 사람이에요.",
+      "options": [
+        "我是中国人。",
+        "我是韩国人。",
+        "我叫韩国。",
+        "你是韩国人。"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "fill_blank",
+      "question": "认识你很___！",
+      "options": [
+        "高兴",
+        "名字",
+        "韩国",
+        "什么"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "cn_to_kr",
+      "question": "认识你很高兴！",
+      "options": [
+        "이름이 뭐예요?",
+        "어느 나라 사람이에요?",
+        "만나서 반갑습니다!",
+        "저는 중국 사람이에요."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "kr_to_cn",
+      "question": "안녕하세요!",
+      "options": [
+        "再见！",
+        "谢谢！",
+        "对不起！",
+        "你好！"
+      ],
+      "answer": 3
+    }
+  ]
+}

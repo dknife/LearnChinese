@@ -1,0 +1,31 @@
+{
+  "level": 23,
+  "title": "직장 & 업무",
+  "titleCn": "工作和业务",
+  "description": "직장 생활, 회의, 야근, 동료와의 대화 등 업무 관련 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "chinese": "你每天几点上班？", "pinyin": "Nǐ měitiān jǐ diǎn shàngbān?", "korean": "매일 몇 시에 출근해요?" },
+    { "speaker": "B", "chinese": "我早上九点上班，下午六点下班。", "pinyin": "Wǒ zǎoshang jiǔ diǎn shàngbān, xiàwǔ liù diǎn xiàbān.", "korean": "아침 9시에 출근하고, 오후 6시에 퇴근해요." },
+    { "speaker": "A", "chinese": "今天下午两点要开会，你知道吗？", "pinyin": "Jīntiān xiàwǔ liǎng diǎn yào kāihuì, nǐ zhīdào ma?", "korean": "오늘 오후 2시에 회의해야 해요, 알고 있어요?" },
+    { "speaker": "B", "chinese": "知道了。老板说这次会议很重要。", "pinyin": "Zhīdào le. Lǎobǎn shuō zhè cì huìyì hěn zhòngyào.", "korean": "알고 있어요. 사장님이 이번 회의가 매우 중요하다고 했어요." },
+    { "speaker": "A", "chinese": "最近工作太忙了，经常要加班。", "pinyin": "Zuìjìn gōngzuò tài máng le, jīngcháng yào jiābān.", "korean": "요즘 일이 너무 바빠서 자주 야근해야 해요." },
+    { "speaker": "B", "chinese": "我也是。我的同事们都在加班。", "pinyin": "Wǒ yě shì. Wǒ de tóngshìmen dōu zài jiābān.", "korean": "저도요. 제 동료들도 다 야근하고 있어요." },
+    { "speaker": "A", "chinese": "你和你的同事关系怎么样？", "pinyin": "Nǐ hé nǐ de tóngshì guānxì zěnmeyàng?", "korean": "동료와의 관계는 어때요?" },
+    { "speaker": "B", "chinese": "很好，大家经常一起吃午饭。", "pinyin": "Hěn hǎo, dàjiā jīngcháng yìqǐ chī wǔfàn.", "korean": "아주 좋아요, 다들 자주 같이 점심을 먹어요." }
+  ],
+  "vocabulary": [
+    { "chinese": "上班", "pinyin": "shàngbān", "korean": "출근하다" },
+    { "chinese": "开会", "pinyin": "kāihuì", "korean": "회의하다" },
+    { "chinese": "加班", "pinyin": "jiābān", "korean": "야근하다" },
+    { "chinese": "同事", "pinyin": "tóngshì", "korean": "동료" },
+    { "chinese": "老板", "pinyin": "lǎobǎn", "korean": "사장, 보스" },
+    { "chinese": "下班", "pinyin": "xiàbān", "korean": "퇴근하다" }
+  ],
+  "quiz": [
+    { "type": "cn_to_kr", "question": "加班", "options": ["출근하다", "퇴근하다", "야근하다", "회의하다"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "동료", "options": ["老板", "同事", "朋友", "家人"], "answer": 1 },
+    { "type": "fill_blank", "question": "今天下午要___，你知道吗？(회의하다)", "options": ["上班", "加班", "下班", "开会"], "answer": 3 },
+    { "type": "cn_to_kr", "question": "老板", "options": ["동료", "친구", "사장", "선생님"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "출근하다", "options": ["下班", "加班", "开会", "上班"], "answer": 3 }
+  ]
+}

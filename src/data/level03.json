@@ -1,0 +1,145 @@
+{
+  "level": 3,
+  "title": "가족 소개",
+  "titleCn": "介绍家人",
+  "description": "가족 구성원을 중국어로 소개하는 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "chinese": "你家有几口人？",
+      "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
+      "korean": "가족이 몇 명이에요?"
+    },
+    {
+      "speaker": "B",
+      "chinese": "我家有四口人。爸爸、妈妈、姐姐和我。",
+      "pinyin": "Wǒ jiā yǒu sì kǒu rén. Bàba, māma, jiějie hé wǒ.",
+      "korean": "저희 가족은 네 명이에요. 아빠, 엄마, 언니/누나, 그리고 저요."
+    },
+    {
+      "speaker": "A",
+      "chinese": "你姐姐做什么工作？",
+      "pinyin": "Nǐ jiějie zuò shénme gōngzuò?",
+      "korean": "언니/누나는 무슨 일을 해요?"
+    },
+    {
+      "speaker": "B",
+      "chinese": "她是老师。你家有几口人？",
+      "pinyin": "Tā shì lǎoshī. Nǐ jiā yǒu jǐ kǒu rén?",
+      "korean": "그녀는 선생님이에요. 당신 가족은 몇 명이에요?"
+    },
+    {
+      "speaker": "A",
+      "chinese": "我家有五口人。爸爸、妈妈、哥哥、弟弟和我。",
+      "pinyin": "Wǒ jiā yǒu wǔ kǒu rén. Bàba, māma, gēge, dìdi hé wǒ.",
+      "korean": "저희 가족은 다섯 명이에요. 아빠, 엄마, 형/오빠, 남동생, 그리고 저요."
+    },
+    {
+      "speaker": "B",
+      "chinese": "你有妹妹吗？",
+      "pinyin": "Nǐ yǒu mèimei ma?",
+      "korean": "여동생이 있어요?"
+    },
+    {
+      "speaker": "A",
+      "chinese": "没有，我没有妹妹。你爸爸妈妈做什么工作？",
+      "pinyin": "Méiyǒu, wǒ méiyǒu mèimei. Nǐ bàba māma zuò shénme gōngzuò?",
+      "korean": "아니요, 여동생은 없어요. 부모님은 무슨 일을 하세요?"
+    },
+    {
+      "speaker": "B",
+      "chinese": "我爸爸是医生，我妈妈是护士。",
+      "pinyin": "Wǒ bàba shì yīshēng, wǒ māma shì hùshi.",
+      "korean": "아빠는 의사이고, 엄마는 간호사예요."
+    }
+  ],
+  "vocabulary": [
+    {
+      "chinese": "家",
+      "pinyin": "jiā",
+      "korean": "집, 가족"
+    },
+    {
+      "chinese": "爸爸",
+      "pinyin": "bàba",
+      "korean": "아빠"
+    },
+    {
+      "chinese": "妈妈",
+      "pinyin": "māma",
+      "korean": "엄마"
+    },
+    {
+      "chinese": "哥哥",
+      "pinyin": "gēge",
+      "korean": "형, 오빠"
+    },
+    {
+      "chinese": "姐姐",
+      "pinyin": "jiějie",
+      "korean": "언니, 누나"
+    },
+    {
+      "chinese": "弟弟",
+      "pinyin": "dìdi",
+      "korean": "남동생"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "cn_to_kr",
+      "question": "你家有几口人？",
+      "options": [
+        "가족이 몇 명이에요?",
+        "형제가 있어요?",
+        "부모님은 뭐 하세요?",
+        "여동생이 있어요?"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "kr_to_cn",
+      "question": "저희 가족은 네 명이에요.",
+      "options": [
+        "我家有三口人。",
+        "我家有五口人。",
+        "我家有四口人。",
+        "你家有四口人。"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "fill_blank",
+      "question": "我___是医生。",
+      "options": [
+        "姐姐",
+        "爸爸",
+        "妹妹",
+        "弟弟"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "cn_to_kr",
+      "question": "你有妹妹吗？",
+      "options": [
+        "언니가 있어요?",
+        "남동생이 있어요?",
+        "여동생이 있어요?",
+        "형이 있어요?"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "kr_to_cn",
+      "question": "엄마는 간호사예요.",
+      "options": [
+        "妈妈是老师。",
+        "妈妈是医生。",
+        "妈妈是护士。",
+        "姐姐是护士。"
+      ],
+      "answer": 2
+    }
+  ]
+}
