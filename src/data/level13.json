@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "색깔", "options": ["衣服", "颜色", "大小", "好看"], "answer": 1 },
     { "type": "fill_blank", "question": "你今天___的衣服真好看！", "options": ["买", "穿", "看", "做"], "answer": 1 },
     { "type": "cn_to_kr", "question": "不大不小，刚刚好。", "options": ["너무 크다", "너무 작다", "크지도 작지도 않아, 딱 맞아", "좀 큰 것 같아"], "answer": 2 },
-    { "type": "kr_to_cn", "question": "입다", "options": ["穿", "买", "看", "做"], "answer": 0 }
+    { "type": "kr_to_cn", "question": "입다", "options": ["穿", "买", "看", "做"], "answer": 0 },
+    { "type": "cn_to_kr", "question": "适合", "options": ["크다", "작다", "어울리다", "입다"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "颜色", "options": ["옷", "색깔", "크기", "치마"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "红色很适合你。", "options": ["빨간색이 너한테 잘 어울려.", "빨간색을 좋아해.", "파란색이 예뻐.", "이 옷이 크다."], "answer": 0 },
+    { "type": "cn_to_kr", "question": "这是我新买的裙子。", "options": ["이건 새로 산 바지야.", "이건 새로 산 치마야.", "이건 오래된 옷이야.", "이건 빌린 치마야."], "answer": 1 },
+    { "type": "cn_to_kr", "question": "你穿什么都好看。", "options": ["너는 뭘 사도 비싸.", "너는 뭘 먹어도 맛있어.", "너는 뭘 입어도 예뻐.", "너는 뭘 해도 잘해."], "answer": 2 },
+    { "type": "fill_blank", "question": "红色很___你。", "options": ["喜欢", "适合", "好看", "漂亮"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "裤子", "options": ["치마", "바지", "모자", "신발"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "어울리다, 적합하다", "options": ["好看", "适合", "喜欢", "穿"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "크다", "options": ["小", "大", "好", "新"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "작다", "options": ["大", "好", "小", "新"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "치마", "options": ["裤子", "衣服", "裙子", "鞋子"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "파란색", "options": ["红色", "蓝色", "白色", "黑色"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "빨간색", "options": ["蓝色", "白色", "红色", "黄色"], "answer": 2 },
+    { "type": "fill_blank", "question": "我喜欢这个___，红色很适合你。", "options": ["衣服", "颜色", "大小", "裙子"], "answer": 1 },
+    { "type": "fill_blank", "question": "那我还想买一条蓝色的___。", "options": ["裙子", "衣服", "裤子", "鞋子"], "answer": 2 }
   ]
 }

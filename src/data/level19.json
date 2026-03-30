@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "탑승구", "options": ["登机牌", "登机口", "出口", "入口"], "answer": 1 },
     { "type": "fill_blank", "question": "飞机下午三点___。", "options": ["降落", "起飞", "到达", "出发"], "answer": 1 },
     { "type": "cn_to_kr", "question": "行李", "options": ["항공권", "여권", "수하물", "탑승권"], "answer": 2 },
-    { "type": "kr_to_cn", "question": "착륙하다", "options": ["起飞", "出发", "到达", "降落"], "answer": 3 }
+    { "type": "kr_to_cn", "question": "착륙하다", "options": ["起飞", "出发", "到达", "降落"], "answer": 3 },
+    { "type": "cn_to_kr", "question": "托运", "options": ["수하물을 찾다", "수하물을 부치다", "짐을 싸다", "짐을 풀다"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "起飞", "options": ["착륙하다", "이륙하다", "출발하다", "도착하다"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "탑승권", "options": ["机票", "护照", "登机牌", "签证"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "이륙하다", "options": ["降落", "到达", "起飞", "出发"], "answer": 2 },
+    { "type": "fill_blank", "question": "请出示您的护照和___。", "options": ["身份证", "银行卡", "机票", "驾照"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "降落", "options": ["이륙하다", "출발하다", "착륙하다", "도착하다"], "answer": 2 },
+    { "type": "fill_blank", "question": "我有两件行李要___。", "options": ["托运", "携带", "打包", "寄送"], "answer": 0 },
+    { "type": "kr_to_cn", "question": "수하물을 부치다", "options": ["取行李", "托运", "打包", "搬运"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "安检", "options": ["출국 심사", "보안 검색", "세관 검사", "입국 심사"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "수하물", "options": ["包裹", "背包", "行李", "箱子"], "answer": 2 },
+    { "type": "fill_blank", "question": "您的座位是25A，___窗。", "options": ["靠", "在", "对", "向"], "answer": 0 },
+    { "type": "cn_to_kr", "question": "登机口", "options": ["출구", "입구", "탑승구", "게이트"], "answer": 2 },
+    { "type": "fill_blank", "question": "请提前半小时到___。", "options": ["出口", "入口", "安检", "登机口"], "answer": 3 },
+    { "type": "kr_to_cn", "question": "보안 검색", "options": ["海关", "安检", "出境", "入境"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "预计晚上六点降落", "options": ["저녁 6시에 출발 예정입니다", "저녁 6시에 도착 예정입니다", "오후 6시에 이륙 예정입니다", "오전 6시에 착륙 예정입니다"], "answer": 1 }
   ]
 }

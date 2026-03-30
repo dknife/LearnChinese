@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "지하철", "options": ["公共汽车", "火车", "地铁", "出租车"], "answer": 2 },
     { "type": "fill_blank", "question": "我要___火车站。(기차역으로 가다)", "options": ["在", "去", "来", "到"], "answer": 1 },
     { "type": "cn_to_kr", "question": "坐地铁一号线", "options": ["지하철 1호선을 타다", "버스 1번을 타다", "택시를 타다", "기차를 타다"], "answer": 0 },
-    { "type": "kr_to_cn", "question": "내리다", "options": ["上车", "开车", "下车", "坐车"], "answer": 2 }
+    { "type": "kr_to_cn", "question": "내리다", "options": ["上车", "开车", "下车", "坐车"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "师傅", "options": ["선생님", "기사님", "사장님", "아저씨"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "大概二十分钟到", "options": ["정확히 20분 걸려요", "대략 20분이면 도착해요", "20분 후에 출발해요", "약 12분이면 도착해요"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "택시", "options": ["地铁", "公共汽车", "火车", "出租车"], "answer": 3 },
+    { "type": "kr_to_cn", "question": "기차역", "options": ["地铁站", "火车站", "汽车站", "飞机场"], "answer": 1 },
+    { "type": "fill_blank", "question": "你可以___地铁一号线。(타다)", "options": ["走", "坐", "去", "开"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "到天安门怎么走？", "options": ["천안문은 어디에 있나요?", "천안문까지 어떻게 가나요?", "천안문에서 내리나요?", "천안문은 몇 호선이에요?"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "다음 역", "options": ["上一站", "这一站", "下一站", "最后一站"], "answer": 2 },
+    { "type": "fill_blank", "question": "我应该在哪一站___？(내리다)", "options": ["上车", "下车", "坐车", "开车"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "再坐三站就到了", "options": ["세 정거장 더 가면 도착합니다", "세 시간 더 가면 도착합니다", "세 번 갈아타면 도착합니다", "세 번째 역에서 내리세요"], "answer": 0 },
+    { "type": "kr_to_cn", "question": "어떻게 가나요", "options": ["在哪儿", "怎么走", "多少钱", "几点到"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "我应该在哪一站下车？", "options": ["어디에서 타야 하나요?", "몇 번째 역에서 내려야 하나요?", "어느 역이 가장 가까운가요?", "이 역에서 내리나요?"], "answer": 1 },
+    { "type": "fill_blank", "question": "___二十分钟到。(대략)", "options": ["一共", "大概", "已经", "马上"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "실례합니다 (길을 물을 때)", "options": ["对不起", "请问", "你好", "谢谢"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "下一站是王府井", "options": ["이번 역은 왕푸징입니다", "다음 역은 왕푸징입니다", "지난 역은 왕푸징이었습니다", "왕푸징에서 내리세요"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "대략, 대개", "options": ["一定", "大概", "已经", "常常"], "answer": 1 }
   ]
 }

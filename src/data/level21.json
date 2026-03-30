@@ -26,6 +26,21 @@
     { "type": "cn_to_kr", "question": "导游", "options": ["운전사", "손님", "가이드", "경찰"], "answer": 2 },
     { "type": "kr_to_cn", "question": "입장권", "options": ["导游", "门票", "半价", "风景"], "answer": 1 },
     { "type": "fill_blank", "question": "这里的___真美！(풍경)", "options": ["拍照", "门票", "风景", "导游"], "answer": 2 },
-    { "type": "kr_to_cn", "question": "사진을 찍다", "options": ["风景", "名胜古迹", "导游", "拍照"], "answer": 3 }
+    { "type": "kr_to_cn", "question": "사진을 찍다", "options": ["风景", "名胜古迹", "导游", "拍照"], "answer": 3 },
+    { "type": "cn_to_kr", "question": "半价", "options": ["전액", "반값", "무료", "할인"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "名胜古迹", "options": ["관광지", "명승고적", "박물관", "공원"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "반값", "options": ["门票", "导游", "半价", "风景"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "풍경", "options": ["拍照", "风景", "名胜古迹", "导游"], "answer": 1 },
+    { "type": "fill_blank", "question": "你帮我___一张，好吗？(찍다)", "options": ["拍", "看", "买", "写"], "answer": 0 },
+    { "type": "cn_to_kr", "question": "门票多少钱一张？", "options": ["가이드는 어디에 있어요?", "입장권은 한 장에 얼마예요?", "사진 한 장 찍어 줄래요?", "풍경이 어때요?"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "拍照", "options": ["관광하다", "사진을 찍다", "여행하다", "구경하다"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "가이드, 관광 안내원", "options": ["门票", "半价", "风景", "导游"], "answer": 3 },
+    { "type": "fill_blank", "question": "成人票四十元，学生票___。(반값)", "options": ["免费", "半价", "全价", "打折"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "笑一笑", "options": ["잠깐만요", "웃어 보세요", "기다려 주세요", "조심하세요"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "명승고적", "options": ["风景", "门票", "名胜古迹", "拍照"], "answer": 2 },
+    { "type": "fill_blank", "question": "我们需要请一个___吗？(가이드)", "options": ["风景", "门票", "导游", "半价"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "우리 사진 찍어요!", "options": ["我们走吧！", "我们拍张照吧！", "我们吃饭吧！", "我们休息吧！"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "这是长城，中国最有名的古迹之一。", "options": ["이것은 자금성이에요, 중국에서 가장 큰 궁전이에요.", "이것은 만리장성이에요, 중국에서 가장 유명한 고적 중 하나예요.", "이것은 천안문이에요, 중국에서 가장 유명한 광장이에요.", "이것은 서호예요, 중국에서 가장 아름다운 호수예요."], "answer": 1 },
+    { "type": "fill_blank", "question": "___多少钱一张？(입장권)", "options": ["风景", "导游", "门票", "拍照"], "answer": 2 }
   ]
 }

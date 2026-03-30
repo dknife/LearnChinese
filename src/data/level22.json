@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "잃어버렸다", "options": ["帮忙", "报警", "丢了", "急救"], "answer": 2 },
     { "type": "fill_blank", "question": "我马上打电话___。(신고하다)", "options": ["帮忙", "救命", "报警", "丢了"], "answer": 2 },
     { "type": "cn_to_kr", "question": "急救", "options": ["파출소", "응급 처치", "신고", "도움"], "answer": 1 },
-    { "type": "kr_to_cn", "question": "도와주다", "options": ["救命", "报警", "急救", "帮忙"], "answer": 3 }
+    { "type": "kr_to_cn", "question": "도와주다", "options": ["救命", "报警", "急救", "帮忙"], "answer": 3 },
+    { "type": "cn_to_kr", "question": "派出所", "options": ["병원", "파출소", "소방서", "학교"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "报警", "options": ["도와주다", "잃어버리다", "신고하다", "다치다"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "파출소", "options": ["急救", "救命", "派出所", "报警"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "응급 처치", "options": ["报警", "急救", "帮忙", "救命"], "answer": 1 },
+    { "type": "fill_blank", "question": "我的钱包___了，怎么办？(잃어버리다)", "options": ["丢", "找", "买", "卖"], "answer": 0 },
+    { "type": "cn_to_kr", "question": "别着急", "options": ["걱정 마세요", "당황하지 마세요", "조심하세요", "빨리 오세요"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "帮忙", "options": ["신고하다", "응급 처치", "도와주다", "살려주세요"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "살려주세요", "options": ["帮忙", "急救", "报警", "救命"], "answer": 3 },
+    { "type": "fill_blank", "question": "你先去附近的___报案吧。(파출소)", "options": ["医院", "派出所", "学校", "商店"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "신고하다, 경찰에 알리다", "options": ["帮忙", "报警", "救命", "丢了"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "有人受伤了", "options": ["누가 잃어버렸어요", "누가 다쳤어요", "누가 왔어요", "누가 갔어요"], "answer": 1 },
+    { "type": "fill_blank", "question": "这附近有没有___中心？(응급 처치)", "options": ["帮忙", "报警", "救命", "急救"], "answer": 3 },
+    { "type": "kr_to_cn", "question": "걱정 마세요", "options": ["别着急", "别担心", "别走", "别说"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "丢了", "options": ["찾았다", "샀다", "잃어버렸다", "버렸다"], "answer": 2 },
+    { "type": "fill_blank", "question": "请___忙，我找不到我的朋友了。(도와주다)", "options": ["帮帮", "救救", "报报", "找找"], "answer": 0 }
   ]
 }

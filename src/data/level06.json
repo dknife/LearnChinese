@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "얼마예요?", "options": ["怎么样？", "多少钱？", "是什么？", "在哪儿？"], "answer": 1 },
     { "type": "fill_blank", "question": "能不能___一点？(좀 싸게)", "options": ["贵", "便宜", "大", "好"], "answer": 1 },
     { "type": "cn_to_kr", "question": "可以试试吗？", "options": ["살 수 있나요?", "볼 수 있나요?", "입어볼 수 있나요?", "먹어볼 수 있나요?"], "answer": 2 },
-    { "type": "kr_to_cn", "question": "옷", "options": ["鞋子", "裤子", "衣服", "帽子"], "answer": 2 }
+    { "type": "kr_to_cn", "question": "옷", "options": ["鞋子", "裤子", "衣服", "帽子"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "欢迎光临", "options": ["안녕히 가세요", "어서 오세요", "감사합니다", "죄송합니다"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "这件两百块", "options": ["이건 100위안이에요", "이건 200위안이에요", "이건 300위안이에요", "이건 150위안이에요"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "너무 비싸다", "options": ["太便宜了", "太贵了", "太大了", "太好了"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "입어보다, 시험해 보다", "options": ["看看", "想想", "试试", "走走"], "answer": 2 },
+    { "type": "fill_blank", "question": "我想___一件衣服。(사다)", "options": ["看", "买", "试", "穿"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "你想看看什么样的？", "options": ["뭘 사고 싶으세요?", "어떤 걸 보고 싶으세요?", "언제 오셨어요?", "어디에서 왔어요?"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "싸다, 저렴하다", "options": ["贵", "便宜", "多", "少"], "answer": 1 },
+    { "type": "fill_blank", "question": "试衣间在___。(저쪽)", "options": ["这边", "那边", "前边", "里边"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "一百五十块怎么样？", "options": ["100위안 어때요?", "150위안 어때요?", "200위안 어때요?", "250위안 어때요?"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "탈의실", "options": ["洗手间", "试衣间", "卧室", "教室"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "我想买一件衣服", "options": ["옷 한 벌 입고 싶어요", "옷 한 벌 사고 싶어요", "옷 한 벌 보고 싶어요", "옷 한 벌 빌리고 싶어요"], "answer": 1 },
+    { "type": "fill_blank", "question": "___光临！(어서 오세요)", "options": ["你好", "谢谢", "欢迎", "再见"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "当然可以", "options": ["안 돼요", "물론이요", "잠깐만요", "모르겠어요"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "이거 얼마예요?", "options": ["这个是什么？", "这个在哪儿？", "这个多少钱？", "这个怎么样？"], "answer": 2 },
+    { "type": "fill_blank", "question": "这___两百块。(벌, 건 - 옷 양사)", "options": ["个", "件", "条", "双"], "answer": 1 }
   ]
 }

@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "맵다", "options": ["甜", "咸", "辣", "酸"], "answer": 2 },
     { "type": "fill_blank", "question": "这个菜太___了。(짜다)", "options": ["辣", "甜", "酸", "咸"], "answer": 3 },
     { "type": "cn_to_kr", "question": "酸酸甜甜的", "options": ["맵고 짠", "새콤달콤한", "달고 짠", "시고 매운"], "answer": 1 },
-    { "type": "kr_to_cn", "question": "맛있다", "options": ["好看", "好吃", "好喝", "好玩"], "answer": 1 }
+    { "type": "kr_to_cn", "question": "맛있다", "options": ["好看", "好吃", "好喝", "好玩"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "你喜欢吃什么？", "options": ["뭐 마시는 걸 좋아해요?", "뭐 먹는 걸 좋아해요?", "뭐 하는 걸 좋아해요?", "뭐 보는 걸 좋아해요?"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "火锅辣不辣？", "options": ["훠궈 맛있어요?", "훠궈 매워요?", "훠궈 비싸요?", "훠궈 좋아해요?"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "달다", "options": ["辣", "咸", "酸", "甜"], "answer": 3 },
+    { "type": "kr_to_cn", "question": "시다, 새콤하다", "options": ["辣", "甜", "酸", "咸"], "answer": 2 },
+    { "type": "fill_blank", "question": "我喜欢吃中国菜，___是火锅。(특히)", "options": ["特别", "非常", "一定", "可能"], "answer": 0 },
+    { "type": "cn_to_kr", "question": "我不太能吃辣的", "options": ["매운 걸 좋아해요", "매운 건 잘 못 먹어요", "매운 건 안 먹어요", "매운 걸 많이 먹어요"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "맛, 풍미", "options": ["口味", "味道", "好吃", "味儿"], "answer": 1 },
+    { "type": "fill_blank", "question": "你___尝尝这个糖醋排骨。(그럼, 그러면 - 문장 앞)", "options": ["那", "就", "也", "都"], "answer": 0 },
+    { "type": "cn_to_kr", "question": "味道不咸不淡，刚刚好", "options": ["맛이 짜고 싱겁다", "맛이 짜지도 싱겁지도 않고 딱 좋다", "맛이 너무 싱겁다", "맛이 아주 짜다"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "짜다", "options": ["辣", "甜", "酸", "咸"], "answer": 3 },
+    { "type": "cn_to_kr", "question": "下次我们再来吃", "options": ["이번에 같이 먹어요", "다음에 또 먹으러 와요", "오늘 다시 먹어요", "나중에 한번 먹어봐요"], "answer": 1 },
+    { "type": "fill_blank", "question": "有的很辣，有的___辣。(안, ~하지 않다)", "options": ["没", "不", "别", "非"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "糖醋排骨", "options": ["마파두부", "탕수육", "훠궈", "볶음밥"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "다음에 또 먹으러 오다", "options": ["下次再来吃", "这次一起吃", "以后再说", "明天来吃"], "answer": 0 },
+    { "type": "fill_blank", "question": "真的很___！(맛있다)", "options": ["好看", "好吃", "好喝", "好玩"], "answer": 1 }
   ]
 }

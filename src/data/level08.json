@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "오전", "options": ["早上", "上午", "中午", "下午"], "answer": 1 },
     { "type": "fill_blank", "question": "电影七点___。(시작하다)", "options": ["结束", "开始", "到", "走"], "answer": 1 },
     { "type": "cn_to_kr", "question": "早上六点半", "options": ["아침 6시", "아침 6시 반", "저녁 6시 반", "오후 6시"], "answer": 1 },
-    { "type": "kr_to_cn", "question": "저녁", "options": ["早上", "上午", "下午", "晚上"], "answer": 3 }
+    { "type": "kr_to_cn", "question": "저녁", "options": ["早上", "上午", "下午", "晚上"], "answer": 3 },
+    { "type": "cn_to_kr", "question": "下午三点半", "options": ["오전 3시 반", "오후 3시 반", "오후 3시", "저녁 3시 반"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "电影几点开始？", "options": ["영화 어디에서 해요?", "영화 몇 시에 시작해요?", "영화 재미있어요?", "영화 몇 편 봤어요?"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "시작하다", "options": ["结束", "开始", "准备", "出发"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "아침", "options": ["晚上", "下午", "早上", "中午"], "answer": 2 },
+    { "type": "fill_blank", "question": "现在___三点半。(오후)", "options": ["上午", "早上", "下午", "晚上"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "上午九点到十一点有课", "options": ["오전 9시에 수업이 끝나요", "오전 9시부터 11시까지 수업이 있어요", "오후 9시부터 11시까지 수업이 있어요", "오전 9시에 수업이 시작해요"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "몇 시", "options": ["什么时候", "几点", "多久", "几号"], "answer": 1 },
+    { "type": "fill_blank", "question": "你早上几点___？(일어나다)", "options": ["睡觉", "起床", "上班", "吃饭"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "晚上七点开始", "options": ["아침 7시에 시작해요", "오후 7시에 끝나요", "저녁 7시에 시작해요", "밤 7시에 끝나요"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "오후", "options": ["上午", "下午", "晚上", "早上"], "answer": 1 },
+    { "type": "fill_blank", "question": "上午你有___吗？(수업)", "options": ["课", "事", "空", "时间"], "answer": 0 },
+    { "type": "cn_to_kr", "question": "你早上几点起床？", "options": ["아침에 몇 시에 자요?", "아침에 몇 시에 일어나요?", "저녁에 몇 시에 일어나요?", "아침에 뭐 해요?"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "수업이 있다", "options": ["没有课", "上课", "有课", "下课"], "answer": 2 },
+    { "type": "fill_blank", "question": "九点___十一点有课。(~부터 ~까지)", "options": ["和", "到", "跟", "从"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "上午你有课吗？", "options": ["오전에 시간 있어요?", "오전에 수업 있어요?", "오후에 수업 있어요?", "오전에 일 있어요?"], "answer": 1 }
   ]
 }

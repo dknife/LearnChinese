@@ -26,6 +26,21 @@
     { "type": "cn_to_kr", "question": "害怕", "options": ["기쁘다", "슬프다", "화나다", "무섭다"], "answer": 3 },
     { "type": "kr_to_cn", "question": "화나다", "options": ["难过", "高兴", "生气", "害怕"], "answer": 2 },
     { "type": "fill_blank", "question": "你___了？看起来不太高兴。", "options": ["怎么", "什么", "哪里", "为什么"], "answer": 0 },
-    { "type": "kr_to_cn", "question": "기분, 심정", "options": ["开心", "心情", "高兴", "难过"], "answer": 1 }
+    { "type": "kr_to_cn", "question": "기분, 심정", "options": ["开心", "心情", "高兴", "难过"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "难过", "options": ["기쁘다", "슬프다", "두렵다", "즐겁다"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "开心", "options": ["화나다", "무섭다", "즐겁다", "슬프다"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "别难过了，下次一定会更好的。", "options": ["화내지 마, 다음에 더 잘하자.", "슬퍼하지 마, 다음에는 분명 더 잘할 거야.", "무서워하지 마, 괜찮을 거야.", "기뻐하지 마, 아직 끝나지 않았어."], "answer": 1 },
+    { "type": "cn_to_kr", "question": "他们已经和好了。", "options": ["그들은 이미 화해했다.", "그들은 아직 화가 나 있다.", "그들은 이미 떠났다.", "그들은 아직 만나지 못했다."], "answer": 0 },
+    { "type": "cn_to_kr", "question": "我现在心情好多了。", "options": ["나는 지금 배가 많이 고프다.", "나는 지금 기분이 훨씬 좋아졌다.", "나는 지금 많이 피곤하다.", "나는 지금 시간이 많다."], "answer": 1 },
+    { "type": "cn_to_kr", "question": "因为有人说了他的坏话。", "options": ["누군가 그를 도와줬기 때문이다.", "누군가 그의 험담을 했기 때문이다.", "누군가 그에게 선물을 줬기 때문이다.", "누군가 그를 칭찬했기 때문이다."], "answer": 1 },
+    { "type": "kr_to_cn", "question": "슬프다", "options": ["高兴", "开心", "难过", "害怕"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "즐겁다, 기쁘다", "options": ["难过", "生气", "害怕", "开心"], "answer": 3 },
+    { "type": "kr_to_cn", "question": "기쁘다, 즐겁다", "options": ["高兴", "难过", "心情", "害怕"], "answer": 0 },
+    { "type": "kr_to_cn", "question": "무섭다, 두렵다", "options": ["生气", "难过", "害怕", "高兴"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "험담", "options": ["好话", "坏话", "笑话", "大话"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "화해하다", "options": ["生气", "和好", "害怕", "难过"], "answer": 1 },
+    { "type": "fill_blank", "question": "我今天考试没考好，很___。", "options": ["高兴", "开心", "难过", "害怕"], "answer": 2 },
+    { "type": "fill_blank", "question": "因为有人说了他的___，他很生气。", "options": ["好话", "坏话", "笑话", "大话"], "answer": 1 },
+    { "type": "fill_blank", "question": "他们已经___了，都很开心。", "options": ["生气", "害怕", "难过", "和好"], "answer": 3 }
   ]
 }

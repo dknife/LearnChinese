@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "음악을 듣다", "options": ["看书", "运动", "听音乐", "旅游"], "answer": 2 },
     { "type": "fill_blank", "question": "周末的时候我喜欢去___。", "options": ["看书", "运动", "听音乐", "旅游"], "answer": 3 },
     { "type": "cn_to_kr", "question": "好玩", "options": ["맛있다", "예쁘다", "재미있다", "편하다"], "answer": 2 },
-    { "type": "kr_to_cn", "question": "운동", "options": ["爱好", "运动", "旅游", "看书"], "answer": 1 }
+    { "type": "kr_to_cn", "question": "운동", "options": ["爱好", "运动", "旅游", "看书"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "爱好", "options": ["직업", "취미", "성격", "이름"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "看书", "options": ["음악 듣다", "운동하다", "독서하다", "여행하다"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "旅游真不错！", "options": ["여행 정말 좋지!", "운동 정말 좋지!", "독서 정말 좋지!", "음악 정말 좋지!"], "answer": 0 },
+    { "type": "cn_to_kr", "question": "我去过北京和上海。", "options": ["나는 베이징과 상하이에 가고 싶다.", "나는 베이징과 상하이에 가봤다.", "나는 베이징과 상하이에 살고 있다.", "나는 베이징과 상하이를 좋아한다."], "answer": 1 },
+    { "type": "cn_to_kr", "question": "你平时还做什么？", "options": ["주말에 뭐 해?", "평소에 또 뭐 해?", "오늘 뭐 했어?", "내일 뭐 할 거야?"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "特别是打篮球。", "options": ["특히 축구.", "특히 농구.", "특히 야구.", "특히 수영."], "answer": 1 },
+    { "type": "cn_to_kr", "question": "下次我们一起去旅游吧！", "options": ["다음에 우리 같이 여행 가자!", "이번에 우리 같이 운동하자!", "다음에 혼자 여행 가자!", "오늘 우리 같이 놀자!"], "answer": 0 },
+    { "type": "kr_to_cn", "question": "취미", "options": ["运动", "旅游", "爱好", "好玩"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "여행하다", "options": ["看书", "运动", "听音乐", "旅游"], "answer": 3 },
+    { "type": "kr_to_cn", "question": "독서하다", "options": ["看书", "运动", "听音乐", "旅游"], "answer": 0 },
+    { "type": "kr_to_cn", "question": "재미있다", "options": ["好看", "好吃", "好玩", "好听"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "농구를 하다", "options": ["踢足球", "打篮球", "打棒球", "游泳"], "answer": 1 },
+    { "type": "fill_blank", "question": "我最喜欢运动，___是打篮球。", "options": ["特别", "非常", "一定", "可能"], "answer": 0 },
+    { "type": "fill_blank", "question": "我去过北京和上海，都很___。", "options": ["好看", "好吃", "好玩", "好听"], "answer": 2 },
+    { "type": "fill_blank", "question": "你___哪些地方？", "options": ["去了", "去过", "去着", "去的"], "answer": 1 }
   ]
 }

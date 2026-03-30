@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "봄", "options": ["夏天", "秋天", "冬天", "春天"], "answer": 3 },
     { "type": "fill_blank", "question": "明天好像要___，记得带伞。", "options": ["下雪", "下雨", "刮风", "出太阳"], "answer": 1 },
     { "type": "cn_to_kr", "question": "不冷不热", "options": ["너무 춥다", "너무 덥다", "춥지도 덥지도 않다", "조금 춥다"], "answer": 2 },
-    { "type": "kr_to_cn", "question": "겨울", "options": ["春天", "夏天", "秋天", "冬天"], "answer": 3 }
+    { "type": "kr_to_cn", "question": "겨울", "options": ["春天", "夏天", "秋天", "冬天"], "answer": 3 },
+    { "type": "cn_to_kr", "question": "天气", "options": ["계절", "날씨", "온도", "바람"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "下雨", "options": ["눈이 오다", "바람이 불다", "비가 오다", "해가 뜨다"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "冬天太冷了，还会下雪。", "options": ["겨울은 너무 더워, 비도 와.", "겨울은 너무 추워, 눈도 와.", "봄은 따뜻해, 꽃이 펴.", "가을은 시원해, 바람이 불어."], "answer": 1 },
+    { "type": "cn_to_kr", "question": "记得带伞。", "options": ["우산을 사.", "우산 챙겨.", "우산을 버려.", "우산이 없어."], "answer": 1 },
+    { "type": "cn_to_kr", "question": "秋天也不错。", "options": ["봄도 괜찮아.", "여름도 괜찮아.", "가을도 괜찮아.", "겨울도 괜찮아."], "answer": 2 },
+    { "type": "cn_to_kr", "question": "谢谢你提醒我。", "options": ["도와줘서 고마워.", "알려줘서 고마워.", "기다려줘서 고마워.", "와줘서 고마워."], "answer": 1 },
+    { "type": "cn_to_kr", "question": "气温有三十五度。", "options": ["기온이 25도야.", "기온이 35도야.", "기온이 15도야.", "기온이 45도야."], "answer": 1 },
+    { "type": "kr_to_cn", "question": "여름", "options": ["春天", "夏天", "秋天", "冬天"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "가을", "options": ["春天", "夏天", "秋天", "冬天"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "날씨", "options": ["季节", "天气", "气温", "下雨"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "우산", "options": ["雨衣", "雨鞋", "伞", "帽子"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "덥다", "options": ["冷", "热", "凉快", "暖和"], "answer": 1 },
+    { "type": "fill_blank", "question": "我最喜欢春天，不冷不热，很___。", "options": ["热", "冷", "舒服", "难过"], "answer": 2 },
+    { "type": "fill_blank", "question": "你喜欢什么___？", "options": ["天气", "季节", "时候", "地方"], "answer": 1 },
+    { "type": "fill_blank", "question": "冬天太冷了，还会___。", "options": ["下雨", "下雪", "刮风", "出太阳"], "answer": 1 }
   ]
 }

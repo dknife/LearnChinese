@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "잠깐 기다리다", "options": ["等一下", "慢一点", "快一点", "走一下"], "answer": 0 },
     { "type": "fill_blank", "question": "喂，___李明在吗？", "options": ["请问", "请坐", "请进", "请说"], "answer": 0 },
     { "type": "cn_to_kr", "question": "打错了", "options": ["잘 걸었다", "끊었다", "잘못 걸었다", "다시 걸었다"], "answer": 2 },
-    { "type": "kr_to_cn", "question": "핸드폰", "options": ["电话", "电脑", "手机", "电视"], "answer": 2 }
+    { "type": "kr_to_cn", "question": "핸드폰", "options": ["电话", "电脑", "手机", "电视"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "号码", "options": ["이름", "번호", "주소", "비밀번호"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "请问", "options": ["부탁합니다", "여쭤볼게요", "미안합니다", "감사합니다"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "전화를 걸다", "options": ["接电话", "打电话", "挂电话", "回电话"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "번호", "options": ["名字", "地址", "号码", "密码"], "answer": 2 },
+    { "type": "fill_blank", "question": "他在，请___，我帮你叫他。", "options": ["等一下", "坐一下", "看一下", "想一下"], "answer": 0 },
+    { "type": "cn_to_kr", "question": "手机", "options": ["컴퓨터", "텔레비전", "핸드폰", "카메라"], "answer": 2 },
+    { "type": "fill_blank", "question": "你找我有什么___？", "options": ["人", "事", "话", "问题"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "잘못 걸었다", "options": ["打完了", "打通了", "打错了", "打好了"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "等一下", "options": ["빨리 오다", "잠깐 기다리다", "천천히 가다", "먼저 하다"], "answer": 1 },
+    { "type": "fill_blank", "question": "你打我的___就行。", "options": ["电话", "手机", "号码", "电脑"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "여쭤볼게요", "options": ["请说", "请看", "请问", "请走"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "我帮你叫他", "options": ["내가 그에게 전화할게요", "제가 그를 불러줄게요", "내가 그에게 말할게요", "내가 그를 찾을게요"], "answer": 1 },
+    { "type": "fill_blank", "question": "那我明天再给你___。", "options": ["发短信", "写信", "打电话", "发邮件"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "내일 오후에 가능해요", "options": ["今天下午可以", "明天上午可以", "明天下午可以", "后天下午可以"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "上次你打错了号码", "options": ["지난번에 전화를 안 받았어요", "지난번에 번호를 잘못 걸었어요", "지난번에 전화를 끊었어요", "지난번에 번호를 바꿨어요"], "answer": 1 }
   ]
 }

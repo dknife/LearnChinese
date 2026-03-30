@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "비행기표", "options": ["门票", "火车票", "机票", "船票"], "answer": 2 },
     { "type": "fill_blank", "question": "春节放假的时候你___去哪儿？(계획하다)", "options": ["打算", "可以", "应该", "喜欢"], "answer": 0 },
     { "type": "cn_to_kr", "question": "舒服", "options": ["깨끗하다", "편안하다", "아름답다", "친절하다"], "answer": 1 },
-    { "type": "kr_to_cn", "question": "여행하다", "options": ["加班", "上班", "旅游", "出发"], "answer": 2 }
+    { "type": "kr_to_cn", "question": "여행하다", "options": ["加班", "上班", "旅游", "出发"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "友好", "options": ["편안하다", "친절하다", "아름답다", "바쁘다"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "打算", "options": ["계획하다", "여행하다", "도착하다", "출발하다"], "answer": 0 },
+    { "type": "kr_to_cn", "question": "오랜만이다", "options": ["你好", "好久不见", "再见", "谢谢"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "편안하다", "options": ["友好", "干净", "舒服", "漂亮"], "answer": 2 },
+    { "type": "fill_blank", "question": "同事们都很___。(친절하다)", "options": ["舒服", "友好", "干净", "漂亮"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "机票", "options": ["입장권", "기차표", "비행기표", "배표"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "旅游", "options": ["출근하다", "여행하다", "야근하다", "퇴근하다"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "계획하다", "options": ["旅游", "打算", "舒服", "友好"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "친절하다, 우호적이다", "options": ["舒服", "干净", "友好", "好久不见"], "answer": 2 },
+    { "type": "fill_blank", "question": "你能帮我在网上订两张___吗？(비행기표)", "options": ["门票", "火车票", "机票", "船票"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "不用太贵，干净舒服就好。", "options": ["너무 비쌀 필요 없어요, 깨끗하고 편하면 돼요.", "비싼 게 좋아요, 편하니까요.", "너무 저렴하면 안 돼요, 깨끗해야 해요.", "가격은 상관없어요, 편하면 돼요."], "answer": 0 },
+    { "type": "cn_to_kr", "question": "上个月刚换了新工作。", "options": ["지난달에 막 새 직장으로 옮겼어요.", "이번 달에 새 직장을 찾고 있어요.", "다음 달에 새 직장으로 옮길 거예요.", "지난달에 직장을 그만뒀어요."], "answer": 0 },
+    { "type": "fill_blank", "question": "___回来以后，我们一起吃顿饭吧。(여행)", "options": ["工作", "旅游", "加班", "上班"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "베이징 오리구이를 꼭 먹어 보세요.", "options": ["别忘了尝尝北京烤鸭。", "别忘了去看长城。", "别忘了买机票。", "别忘了订酒店。"], "answer": 0 },
+    { "type": "fill_blank", "question": "我想去北京看看长城，听说那里的风景特别___。(아름답다)", "options": ["好", "大", "美", "远"], "answer": 2 }
   ]
 }

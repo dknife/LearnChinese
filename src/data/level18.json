@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "머리가 아프다", "options": ["肚子疼", "牙疼", "头疼", "嗓子疼"], "answer": 2 },
     { "type": "fill_blank", "question": "每天___三次药，饭后吃。", "options": ["喝", "吃", "拿", "买"], "answer": 1 },
     { "type": "cn_to_kr", "question": "不舒服", "options": ["행복하다", "피곤하다", "몸이 안 좋다", "배고프다"], "answer": 2 },
-    { "type": "kr_to_cn", "question": "약국", "options": ["医院", "药店", "诊所", "药房"], "answer": 1 }
+    { "type": "kr_to_cn", "question": "약국", "options": ["医院", "药店", "诊所", "药房"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "吃药", "options": ["약을 사다", "약을 먹다", "약을 바르다", "약을 처방하다"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "医生", "options": ["간호사", "약사", "의사", "환자"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "열이 나다", "options": ["咳嗽", "发烧", "头疼", "感冒"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "의사", "options": ["护士", "药师", "病人", "医生"], "answer": 3 },
+    { "type": "fill_blank", "question": "让我量一下___。", "options": ["血压", "体温", "身高", "体重"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "药店", "options": ["병원", "약국", "진료소", "응급실"], "answer": 1 },
+    { "type": "fill_blank", "question": "我给你___点儿药。", "options": ["买", "拿", "开", "吃"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "약을 먹다", "options": ["开药", "买药", "吃药", "拿药"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "咳嗽", "options": ["두통", "기침", "콧물", "복통"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "몸이 안 좋다", "options": ["很累", "不舒服", "不高兴", "不开心"], "answer": 1 },
+    { "type": "fill_blank", "question": "多喝水，好好___。", "options": ["工作", "学习", "休息", "运动"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "头疼", "options": ["치통", "두통", "복통", "요통"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "기침하다", "options": ["发烧", "头疼", "咳嗽", "感冒"], "answer": 2 },
+    { "type": "fill_blank", "question": "你去一楼的___拿药就可以了。", "options": ["医院", "诊所", "药店", "超市"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "体温", "options": ["혈압", "체온", "맥박", "체중"], "answer": 1 }
   ]
 }

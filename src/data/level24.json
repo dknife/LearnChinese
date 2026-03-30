@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "만두", "options": ["月饼", "红包", "饺子", "春节"], "answer": 2 },
     { "type": "fill_blank", "question": "春节的时候，大家都___七天。(쉬다)", "options": ["过年", "放假", "加班", "上班"], "answer": 1 },
     { "type": "cn_to_kr", "question": "中秋节", "options": ["춘절", "중추절", "단오절", "원소절"], "answer": 1 },
-    { "type": "kr_to_cn", "question": "춘절 (중국 설날)", "options": ["中秋节", "放假", "春节", "红包"], "answer": 2 }
+    { "type": "kr_to_cn", "question": "춘절 (중국 설날)", "options": ["中秋节", "放假", "春节", "红包"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "饺子", "options": ["월병", "만두", "떡", "국수"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "放假", "options": ["출근", "야근", "휴가", "퇴근"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "월병", "options": ["饺子", "红包", "月饼", "春节"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "세뱃돈, 홍바오", "options": ["春节", "红包", "饺子", "月饼"], "answer": 1 },
+    { "type": "fill_blank", "question": "我们全家一起包___。(만두)", "options": ["月饼", "红包", "饺子", "年糕"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "月饼", "options": ["만두", "월병", "세뱃돈", "떡"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "春节", "options": ["중추절", "단오절", "춘절", "원소절"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "휴가, 방학", "options": ["春节", "中秋节", "红包", "放假"], "answer": 3 },
+    { "type": "kr_to_cn", "question": "중추절 (추석)", "options": ["春节", "中秋节", "放假", "红包"], "answer": 1 },
+    { "type": "fill_blank", "question": "中秋节我们会吃___，赏月。(월병)", "options": ["饺子", "月饼", "红包", "年糕"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "大家都回家过年。", "options": ["모두 여행을 가요.", "모두 집에 가서 설을 쇠어요.", "모두 야근을 해요.", "모두 만두를 먹어요."], "answer": 1 },
+    { "type": "cn_to_kr", "question": "当然是春节了，就是中国的新年。", "options": ["당연히 중추절이에요, 바로 중국의 추석이죠.", "당연히 춘절이에요, 바로 중국의 설날이죠.", "당연히 단오절이에요, 바로 중국의 단오이죠.", "당연히 원소절이에요, 바로 중국의 정월대보름이죠."], "answer": 1 },
+    { "type": "fill_blank", "question": "春节的时候还会发___。(세뱃돈)", "options": ["月饼", "饺子", "红包", "礼物"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "달을 감상하다", "options": ["吃月饼", "包饺子", "赏月", "放假"], "answer": 2 },
+    { "type": "fill_blank", "question": "中国最重要的___是什么？(명절)", "options": ["工作", "节日", "食物", "地方"], "answer": 1 }
   ]
 }

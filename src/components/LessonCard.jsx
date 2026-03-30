@@ -23,7 +23,7 @@ export default function LessonCard({ level, title, status, score }) {
 
   return (
     <div className="flex flex-col items-center gap-1" onClick={handleClick}>
-      <div className="relative">
+      <div className="relative overflow-hidden rounded-full">
         <div className={`level-node ${statusClass}`}>
           {status === 'locked' ? (
             <span className="text-xl">🔒</span>
@@ -32,8 +32,11 @@ export default function LessonCard({ level, title, status, score }) {
           )}
         </div>
         {status === 'completed' && (
-          <div className="absolute -top-1 -right-1 w-6 h-6 bg-gradient-to-br from-yellow-400 to-orange-500 rounded-full flex items-center justify-center border-2 border-white shadow-md animate-pop">
-            <span className="text-xs">✓</span>
+          <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
+            <div className="absolute w-[120%] bg-gradient-to-r from-yellow-400 via-amber-400 to-orange-400 text-center py-[1px] shadow-md"
+              style={{ transform: 'rotate(-35deg)' }}>
+              <span className="text-[9px] font-black text-white tracking-wider drop-shadow-sm">PASS</span>
+            </div>
           </div>
         )}
       </div>
@@ -46,9 +49,6 @@ export default function LessonCard({ level, title, status, score }) {
           </span>
         )}
       </span>
-      {status === 'completed' && score != null && (
-        <span className="text-xs text-game-yellow">⭐ {score}/5</span>
-      )}
     </div>
   )
 }

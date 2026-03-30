@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "체크아웃", "options": ["入住", "退房", "预订", "取消"], "answer": 1 },
     { "type": "fill_blank", "question": "这是房间的___。", "options": ["密码", "卡片", "钥匙", "电话"], "answer": 2 },
     { "type": "cn_to_kr", "question": "房间", "options": ["호텔", "로비", "방", "화장실"], "answer": 2 },
-    { "type": "kr_to_cn", "question": "열쇠", "options": ["密码", "钥匙", "房卡", "门"], "answer": 1 }
+    { "type": "kr_to_cn", "question": "열쇠", "options": ["密码", "钥匙", "房卡", "门"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "入住", "options": ["체크아웃", "체크인", "예약", "취소"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "退房", "options": ["체크인", "예약하다", "체크아웃", "연장하다"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "예약하다", "options": ["取消", "确认", "预订", "变更"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "비밀번호", "options": ["钥匙", "房卡", "密码", "号码"], "answer": 2 },
+    { "type": "fill_blank", "question": "请问您___姓？", "options": ["贵", "您", "什么", "哪"], "answer": 0 },
+    { "type": "cn_to_kr", "question": "密码", "options": ["열쇠", "카드", "비밀번호", "번호"], "answer": 2 },
+    { "type": "fill_blank", "question": "房间里有___网络吗？", "options": ["有线", "无线", "手机", "电脑"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "체크인", "options": ["退房", "预订", "入住", "登记"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "钥匙", "options": ["카드", "열쇠", "비밀번호", "자물쇠"], "answer": 1 },
+    { "type": "fill_blank", "question": "预订了___晚，从今天到星期四。", "options": ["两", "三", "四", "五"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "방", "options": ["酒店", "大厅", "房间", "卫生间"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "无线网络", "options": ["유선 인터넷", "와이파이", "데이터", "블루투스"], "answer": 1 },
+    { "type": "fill_blank", "question": "退房时间是上午___点。", "options": ["九", "十", "十一", "十二"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "즐거운 숙박 되세요", "options": ["欢迎光临", "祝您入住愉快", "一路平安", "再见"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "预订了三晚", "options": ["2박 예약했다", "3박 예약했다", "4박 예약했다", "5박 예약했다"], "answer": 1 }
   ]
 }

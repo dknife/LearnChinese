@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "환전하다", "options": ["存钱", "换钱", "花钱", "借钱"], "answer": 1 },
     { "type": "fill_blank", "question": "我想把韩币换成___。", "options": ["美元", "人民币", "日元", "欧元"], "answer": 1 },
     { "type": "cn_to_kr", "question": "取款", "options": ["입금하다", "송금하다", "출금하다", "환전하다"], "answer": 2 },
-    { "type": "kr_to_cn", "question": "계좌", "options": ["银行", "账户", "存款", "汇率"], "answer": 1 }
+    { "type": "kr_to_cn", "question": "계좌", "options": ["银行", "账户", "存款", "汇率"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "存款", "options": ["출금하다", "예금하다", "환전하다", "송금하다"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "人民币", "options": ["미국 달러", "일본 엔", "인민폐", "유로"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "출금하다", "options": ["存款", "取款", "换钱", "汇款"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "환율", "options": ["利率", "汇率", "手续费", "余额"], "answer": 1 },
+    { "type": "fill_blank", "question": "请出示您的___。", "options": ["身份证", "护照", "银行卡", "手机"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "换钱", "options": ["돈을 빌리다", "돈을 쓰다", "환전하다", "돈을 모으다"], "answer": 2 },
+    { "type": "fill_blank", "question": "我还想开一个___账户。", "options": ["取款", "存款", "汇款", "转账"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "인민폐", "options": ["美元", "韩币", "人民币", "日元"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "账户", "options": ["은행", "환율", "계좌", "이자"], "answer": 2 },
+    { "type": "fill_blank", "question": "您也可以用ATM机___。", "options": ["存款", "换钱", "取款", "汇款"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "货币", "options": ["화폐", "환율", "이자", "수수료"], "answer": 0 },
+    { "type": "kr_to_cn", "question": "예금하다", "options": ["取款", "换钱", "存款", "汇款"], "answer": 2 },
+    { "type": "fill_blank", "question": "今天的___是多少？", "options": ["价格", "汇率", "利息", "手续费"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "여권을 보여주세요", "options": ["请出示您的身份证", "请出示您的护照", "请出示您的银行卡", "请出示您的机票"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "我想换钱", "options": ["돈을 빌리고 싶어요", "환전하고 싶어요", "돈을 찾고 싶어요", "돈을 보내고 싶어요"], "answer": 1 }
   ]
 }

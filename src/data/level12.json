@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "시간이 있다", "options": ["没空", "有空", "方便", "有时间"], "answer": 1 },
     { "type": "fill_blank", "question": "这个周末你___吗？", "options": ["有空", "在哪儿", "什么时候", "怎么样"], "answer": 0 },
     { "type": "cn_to_kr", "question": "什么时候方便？", "options": ["어디가 편해?", "언제가 편해?", "뭐가 편해?", "누가 편해?"], "answer": 1 },
-    { "type": "fill_blank", "question": "我们在电影院门口___吧。", "options": ["去", "来", "见", "走"], "answer": 2 }
+    { "type": "fill_blank", "question": "我们在电影院门口___吧。", "options": ["去", "来", "见", "走"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "方便", "options": ["바쁘다", "편리하다", "멀다", "가깝다"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "电影院", "options": ["도서관", "영화관", "식당", "학교"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "到时候见！", "options": ["내일 보자!", "그때 보자!", "다시 만나자!", "조심히 가!"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "我们一起去看电影吧。", "options": ["우리 같이 밥 먹으러 가자.", "우리 같이 영화 보러 가자.", "우리 같이 산책하러 가자.", "우리 같이 운동하러 가자."], "answer": 1 },
+    { "type": "cn_to_kr", "question": "周六下午两点怎么样？", "options": ["토요일 오전 두 시 어때?", "일요일 오후 두 시 어때?", "토요일 오후 두 시 어때?", "금요일 오후 세 시 어때?"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "有空啊，你想做什么？", "options": ["바빠, 다음에 하자.", "시간 있어, 뭐 하고 싶어?", "시간 없어, 미안해.", "좋아, 어디서 만날까?"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "没问题", "options": ["문제있어", "문제없어", "미안해", "걱정마"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "편리하다", "options": ["有空", "方便", "没问题", "怎么样"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "영화관", "options": ["图书馆", "电影院", "体育馆", "博物馆"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "언제", "options": ["什么时候", "在哪儿", "怎么样", "为什么"], "answer": 0 },
+    { "type": "kr_to_cn", "question": "어디서 만날까", "options": ["什么时候见", "在哪儿见", "怎么见", "为什么见"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "주말", "options": ["周末", "周一", "下午", "上午"], "answer": 0 },
+    { "type": "kr_to_cn", "question": "입구", "options": ["出口", "门口", "窗口", "路口"], "answer": 1 },
+    { "type": "fill_blank", "question": "周六下午两点___？", "options": ["怎么样", "在哪儿", "什么时候", "有空"], "answer": 0 },
+    { "type": "fill_blank", "question": "我们一起去看___吧。", "options": ["电视", "电影", "书", "比赛"], "answer": 1 }
   ]
 }

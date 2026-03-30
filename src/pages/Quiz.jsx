@@ -16,7 +16,13 @@ export default function Quiz() {
   const levelNum = parseInt(level)
 
   const levelData = getLevelData(levelNum)
-  const questions = levelData?.quiz || []
+  const allQuestions = levelData?.quiz || []
+
+  // Randomly select 10 questions from the pool (shuffle and slice)
+  const [questions] = useState(() => {
+    const shuffled = [...allQuestions].sort(() => Math.random() - 0.5)
+    return shuffled.slice(0, 10)
+  })
   const totalQuestions = questions.length
 
   const [currentQuestion, setCurrentQuestion] = useState(0)

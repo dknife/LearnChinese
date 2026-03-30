@@ -26,6 +26,21 @@
     { "type": "kr_to_cn", "question": "동료", "options": ["老板", "同事", "朋友", "家人"], "answer": 1 },
     { "type": "fill_blank", "question": "今天下午要___，你知道吗？(회의하다)", "options": ["上班", "加班", "下班", "开会"], "answer": 3 },
     { "type": "cn_to_kr", "question": "老板", "options": ["동료", "친구", "사장", "선생님"], "answer": 2 },
-    { "type": "kr_to_cn", "question": "출근하다", "options": ["下班", "加班", "开会", "上班"], "answer": 3 }
+    { "type": "kr_to_cn", "question": "출근하다", "options": ["下班", "加班", "开会", "上班"], "answer": 3 },
+    { "type": "cn_to_kr", "question": "下班", "options": ["출근하다", "퇴근하다", "야근하다", "회의하다"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "上班", "options": ["퇴근하다", "출근하다", "야근하다", "쉬다"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "야근하다", "options": ["上班", "下班", "加班", "开会"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "사장, 보스", "options": ["同事", "老板", "朋友", "老师"], "answer": 1 },
+    { "type": "fill_blank", "question": "我早上九点___，下午六点下班。(출근하다)", "options": ["加班", "开会", "上班", "下班"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "开会", "options": ["출근하다", "야근하다", "회의하다", "퇴근하다"], "answer": 2 },
+    { "type": "cn_to_kr", "question": "同事", "options": ["사장", "동료", "선생님", "가족"], "answer": 1 },
+    { "type": "kr_to_cn", "question": "회의하다", "options": ["加班", "上班", "下班", "开会"], "answer": 3 },
+    { "type": "kr_to_cn", "question": "퇴근하다", "options": ["上班", "下班", "加班", "开会"], "answer": 1 },
+    { "type": "fill_blank", "question": "最近工作太忙了，经常要___。(야근하다)", "options": ["上班", "下班", "开会", "加班"], "answer": 3 },
+    { "type": "cn_to_kr", "question": "老板说这次会议很重要。", "options": ["동료가 이번 회의에 참석한다고 했어요.", "사장님이 이번 회의가 매우 중요하다고 했어요.", "사장님이 오늘 퇴근이 늦다고 했어요.", "동료가 야근을 해야 한다고 했어요."], "answer": 1 },
+    { "type": "fill_blank", "question": "我的___们都在加班。(동료)", "options": ["老板", "朋友", "同事", "老师"], "answer": 2 },
+    { "type": "kr_to_cn", "question": "매일 몇 시에 출근해요?", "options": ["你每天几点下班？", "你每天几点上班？", "你每天几点开会？", "你每天几点加班？"], "answer": 1 },
+    { "type": "cn_to_kr", "question": "大家经常一起吃午饭。", "options": ["다들 자주 같이 야근해요.", "다들 자주 같이 점심을 먹어요.", "다들 자주 같이 회의해요.", "다들 자주 같이 퇴근해요."], "answer": 1 },
+    { "type": "fill_blank", "question": "___说这次会议很重要。(사장님)", "options": ["同事", "朋友", "老板", "老师"], "answer": 2 }
   ]
 }

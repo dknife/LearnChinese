@@ -4,8 +4,8 @@ import useProgress from '../hooks/useProgress'
 import Confetti from '../components/Confetti'
 import { TOTAL_LEVELS } from '../data/levels'
 
-const PASS_THRESHOLD = 4
-const TOTAL_QUESTIONS = 5
+const PASS_THRESHOLD = 8
+const TOTAL_QUESTIONS = 10
 
 export default function Result() {
   const { level } = useParams()
