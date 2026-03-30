@@ -58,9 +58,9 @@ window.LEVEL_DATA = {
       },
       {
         "speaker": "A",
-        "chinese": "我叫朴志敏。你呢？",
-        "pinyin": "Wǒ jiào Piáo Zhìmǐn. Nǐ ne?",
-        "korean": "저는 박지민이라고 해요. 당신은요?"
+        "chinese": "我叫姜永敏。你呢？",
+        "pinyin": "Wǒ jiào Jiāng Yǒngmǐn. Nǐ ne?",
+        "korean": "저는 강영민이라고 해요. 당신은요?"
       },
       {
         "speaker": "B",
