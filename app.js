@@ -361,9 +361,10 @@ async function renderLangSelect() {
     const total = metas[i].totalLevels;
     cardsHTML += `
       <a href="#/${code}" class="lang-card lang-card-${code}">
-        <span class="lang-card-icon">${lang.emoji}</span>
-        <span class="lang-card-name">${lang.name}</span>
-        <span class="lang-card-desc">${lang.nameKr} 생활회화</span>
+        <div class="lang-card-top">
+          <span class="lang-card-icon">${lang.emoji}</span>
+          <span class="lang-card-name">${lang.name}</span>
+        </div>
         <span class="lang-card-levels">${progress} / ${total} 레벨 완료</span>
       </a>
     `;
@@ -573,9 +574,11 @@ async function renderLesson(level) {
     }
 
     const foreignTitle = levelData[lang.titleField] || '';
+    const bgNum = String(Math.floor(Math.random() * 5) + 1).padStart(3, '0');
+    const bgImage = `data/${currentLang}/images/${bgNum}.jpg`;
 
     app.innerHTML = `
-      <div class="lesson-page">
+      <div class="lesson-page" style="--lesson-bg: url('${bgImage}')">
         <div class="lesson-container">
           <a href="#/${currentLang}" class="back-link">&larr; 레벨 선택</a>
 
@@ -685,6 +688,9 @@ async function renderQuiz(level) {
   const ff = lang.foreignField;
   const pf = lang.pronField;
   const titles = await DataLoader.getTitles(currentLang);
+
+  const bgNum = String(Math.floor(Math.random() * 5) + 1).padStart(3, '0');
+  const bgImage = `data/${currentLang}/images/${bgNum}.jpg`;
 
   if (!levelData) {
     app.innerHTML = `
@@ -809,7 +815,7 @@ async function renderQuiz(level) {
     }
 
     app.innerHTML = `
-      <div class="quiz-page">
+      <div class="quiz-page" style="--lesson-bg: url('${bgImage}')">
         <div class="quiz-header">
           <span class="quiz-level-info">레벨 ${level} — ${titles[level] || ''}</span>
           <span class="quiz-counter">${currentQuestion + 1} / ${totalQuestions}</span>
@@ -883,6 +889,8 @@ async function renderResult(level, searchParams) {
   const PASS_THRESHOLD = 8;
   const TOTAL_QUESTIONS = 10;
   const passed = scoreVal >= PASS_THRESHOLD;
+  const bgNum = String(Math.floor(Math.random() * 5) + 1).padStart(3, '0');
+  const bgImage = `data/${currentLang}/images/${bgNum}.jpg`;
   const totalLevels = await DataLoader.getTotal(currentLang);
   const isLastLevel = level >= totalLevels;
   const nextLevel = level + 1;
@@ -907,7 +915,7 @@ async function renderResult(level, searchParams) {
   }
 
   app.innerHTML = `
-    <div class="result-page">
+    <div class="result-page" style="--lesson-bg: url('${bgImage}')">
       <div class="result-card-wrapper">
         <div class="result-card ${passed ? 'result-card-pass' : 'result-card-fail'}">
           <div class="result-top-bar ${passed ? 'result-top-bar-pass' : 'result-top-bar-fail'}"></div>
