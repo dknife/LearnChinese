@@ -280,7 +280,15 @@ function renderLesson(level) {
     return;
   }
 
-  const conversations = levelData.conversations || [];
+  // variants 지원: 각 대화 단계에서 랜덤으로 하나를 선택
+  const rawConversations = levelData.conversations || [];
+  const conversations = rawConversations.map(conv => {
+    if (conv.variants && conv.variants.length > 0) {
+      const pick = conv.variants[Math.floor(Math.random() * conv.variants.length)];
+      return { speaker: conv.speaker, ...pick };
+    }
+    return conv;
+  });
   const vocabulary = levelData.vocabulary || [];
   const totalBubbles = conversations.length;
   let visibleCount = 0;
