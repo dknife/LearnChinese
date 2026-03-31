@@ -899,14 +899,64 @@ html {
   margin-bottom: 0.5rem;
 }
 
+/* Lesson header bottom row (round indicator + TTS toggle) */
+.lesson-header-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 0.6rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid rgba(255,255,255,0.1);
+}
+
+/* Round indicator dots */
+.round-indicator {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+.round-label {
+  font-size: 0.8rem;
+  color: #a0a8c0;
+  margin-right: 0.2rem;
+}
+.round-dot {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  font-size: 0.7rem;
+  font-weight: 700;
+  background: #3a3f55;
+  color: #666;
+  transition: all 0.3s;
+}
+.round-dot.active {
+  background: linear-gradient(135deg, #3b82f6, #8b5cf6);
+  color: #fff;
+  box-shadow: 0 0 8px rgba(59,130,246,0.4);
+}
+.round-dot.completed {
+  background: #22c55e;
+  color: #fff;
+}
+
+/* Next round button */
+.btn-next-round {
+  background: linear-gradient(135deg, #f59e0b, #f97316) !important;
+  color: #fff !important;
+}
+.btn-next-round:hover {
+  background: linear-gradient(135deg, #d97706, #ea580c) !important;
+}
+
 /* Auto TTS toggle switch */
 .auto-tts-toggle {
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  margin-top: 0.6rem;
-  padding-top: 0.5rem;
-  border-top: 1px solid rgba(255,255,255,0.1);
 }
 .auto-tts-label {
   font-size: 0.85rem;

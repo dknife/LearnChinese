@@ -288,21 +288,28 @@ function renderLesson(level) {
     return;
   }
 
-  // variants 지원: 각 대화 단계에서 랜덤으로 하나를 선택
   const rawConversations = levelData.conversations || [];
-  const conversations = rawConversations.map(conv => {
-    if (conv.variants && conv.variants.length > 0) {
-      const pick = conv.variants[Math.floor(Math.random() * conv.variants.length)];
-      return { speaker: conv.speaker, ...pick };
-    }
-    return conv;
-  });
   const vocabulary = levelData.vocabulary || [];
+  const TOTAL_ROUNDS = 3;
+  let currentRound = 1;
+  let conversations = pickVariants(rawConversations);
   const totalBubbles = conversations.length;
   let visibleCount = 0;
 
+  // variants에서 랜덤으로 하나씩 선택하여 대화 생성
+  function pickVariants(raw) {
+    return raw.map(conv => {
+      if (conv.variants && conv.variants.length > 0) {
+        const pick = conv.variants[Math.floor(Math.random() * conv.variants.length)];
+        return { speaker: conv.speaker, ...pick };
+      }
+      return conv;
+    });
+  }
+
   function render() {
     const allRevealed = visibleCount >= totalBubbles;
+    const isLastRound = currentRound >= TOTAL_ROUNDS;
 
     let bubblesHTML = '';
     conversations.slice(0, visibleCount).forEach((conv, index) => {
@@ -322,7 +329,7 @@ function renderLesson(level) {
     });
 
     let vocabHTML = '';
-    if (allRevealed && vocabulary.length > 0) {
+    if (allRevealed && isLastRound && vocabulary.length > 0) {
       vocabHTML = `
         <div class="vocab-section animate-slide-up">
           <div class="vocab-header">
@@ -342,11 +349,17 @@ function renderLesson(level) {
       `;
     }
 
-    let quizBtnHTML = '';
-    if (allRevealed) {
-      quizBtnHTML = `
+    let bottomBtnHTML = '';
+    if (allRevealed && isLastRound) {
+      bottomBtnHTML = `
         <div class="lesson-quiz-btn animate-slide-up">
           <button class="btn-game btn-success quiz-start-btn" id="startQuizBtn">🎯 퀴즈 시작</button>
+        </div>
+      `;
+    } else if (allRevealed && !isLastRound) {
+      bottomBtnHTML = `
+        <div class="lesson-quiz-btn animate-slide-up">
+          <button class="btn-game btn-next-round" id="nextRoundBtn">다음 대화 시나리오로 (${currentRound} / ${TOTAL_ROUNDS})</button>
         </div>
       `;
     }
@@ -360,6 +373,13 @@ function renderLesson(level) {
           </button>
         </div>
       `;
+    }
+
+    // 라운드 인디케이터
+    let roundDots = '';
+    for (let i = 1; i <= TOTAL_ROUNDS; i++) {
+      const cls = i < currentRound ? 'round-dot completed' : i === currentRound ? 'round-dot active' : 'round-dot';
+      roundDots += `<span class="${cls}">${i}</span>`;
     }
 
     app.innerHTML = `
@@ -376,16 +396,22 @@ function renderLesson(level) {
               </div>
             </div>
             ${levelData.description ? `<p class="lesson-description">${levelData.description}</p>` : ''}
-            <div class="auto-tts-toggle">
-              <label class="tts-switch">
-                <input type="checkbox" id="autoTTSSwitch" ${_autoTTS ? 'checked' : ''}>
-                <span class="tts-slider"></span>
-              </label>
-              <span class="auto-tts-label">자동 음성 ${_autoTTS ? 'ON' : 'OFF'}</span>
+            <div class="lesson-header-bottom">
+              <div class="round-indicator">
+                <span class="round-label">대화</span>
+                ${roundDots}
+              </div>
+              <div class="auto-tts-toggle">
+                <label class="tts-switch">
+                  <input type="checkbox" id="autoTTSSwitch" ${_autoTTS ? 'checked' : ''}>
+                  <span class="tts-slider"></span>
+                </label>
+                <span class="auto-tts-label">자동 음성 ${_autoTTS ? 'ON' : 'OFF'}</span>
+              </div>
             </div>
           </div>
 
-          ${renderProgressBar(visibleCount, totalBubbles, `대화 진행: ${visibleCount} / ${totalBubbles}`)}
+          ${renderProgressBar(visibleCount, totalBubbles, `대화 ${currentRound}/${TOTAL_ROUNDS} — 진행: ${visibleCount} / ${totalBubbles}`)}
         </div>
 
         <div class="lesson-container bubbles-container">
@@ -395,7 +421,7 @@ function renderLesson(level) {
         <div class="lesson-container">
           ${revealBtnHTML}
           ${vocabHTML}
-          ${quizBtnHTML}
+          ${bottomBtnHTML}
         </div>
       </div>
     `;
@@ -416,7 +442,6 @@ function renderLesson(level) {
         if (visibleCount < totalBubbles) {
           visibleCount++;
           render();
-          // Scroll to latest bubble & auto-speak
           setTimeout(() => {
             const bubbles = document.querySelectorAll('.bubble-row');
             if (bubbles.length > 0) {
@@ -430,6 +455,22 @@ function renderLesson(level) {
       });
     }
 
+    const nextRoundBtn = document.getElementById('nextRoundBtn');
+    if (nextRoundBtn) {
+      nextRoundBtn.addEventListener('click', () => {
+        currentRound++;
+        conversations = pickVariants(rawConversations);
+        visibleCount = 1;
+        render();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        setTimeout(() => {
+          if (_autoTTS) {
+            speakChinese(conversations[0].chinese);
+          }
+        }, 300);
+      });
+    }
+
     const quizBtn = document.getElementById('startQuizBtn');
     if (quizBtn) {
       quizBtn.addEventListener('click', () => {
@@ -438,18 +479,14 @@ function renderLesson(level) {
     }
   }
 
+  // 첫 진입 시 첫 대화를 열고 음성 재생
+  visibleCount = 1;
   render();
-
-  // 첫 진입 시 자동으로 첫 대화를 열고 음성 재생
-  if (visibleCount === 0) {
-    visibleCount = 1;
-    render();
-    setTimeout(() => {
-      if (_autoTTS) {
-        speakChinese(conversations[0].chinese);
-      }
-    }, 300);
-  }
+  setTimeout(() => {
+    if (_autoTTS) {
+      speakChinese(conversations[0].chinese);
+    }
+  }, 300);
 }
 
 // ------------------------------------------------------------
