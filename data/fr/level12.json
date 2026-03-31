@@ -1,0 +1,73 @@
+{
+  "level": 12,
+  "title": "약속 잡기",
+  "titleFr": "Prendre Rendez-vous",
+  "description": "프랑스어로 약속을 잡고 일정을 조율하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Marie, tu es libre samedi prochain ? On pourrait se voir.", "pronunciation": "마리, 뒤 에 리브르 쌈디 프호쉥? 옹 뿌헤 스 부아르.", "korean": "마리, 다음 주 토요일에 시간 돼? 만날 수 있을 것 같아." },
+        { "french": "Bonjour, je voudrais prendre rendez-vous avec le docteur Martin.", "pronunciation": "봉주르, 쥬 부드헤 프헝드르 헝데부 아벡 르 독뙤르 마르떵.", "korean": "안녕하세요, 마르탱 의사 선생님과 진료 예약을 잡고 싶습니다." },
+        { "french": "Pierre, ça te dit d'aller au cinéma vendredi soir ?", "pronunciation": "피에르, 사 뜨 디 달레 오 시네마 벙드르디 수아르?", "korean": "피에르, 금요일 저녁에 영화 보러 갈래?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Samedi, je suis prise le matin. Mais l'après-midi, je suis libre !", "pronunciation": "쌈디, 쥬 스위 프히즈 르 마떵. 메 라프헤 미디, 쥬 스위 리브르!", "korean": "토요일 오전은 바빠. 그런데 오후에는 시간 돼!" },
+        { "french": "Le docteur Martin est disponible jeudi à quatorze heures. Ça vous convient ?", "pronunciation": "르 독뙤르 마르떵 에 디스뽀니블 죄디 아 까또르즈 외르. 사 부 꽁비엥?", "korean": "마르탱 선생님은 목요일 14시에 가능합니다. 괜찮으세요?" },
+        { "french": "Bonne idée ! Quel film tu veux voir ?", "pronunciation": "본 이데! 겔 필름 뒤 뵈 부아르?", "korean": "좋은 생각이야! 어떤 영화 보고 싶어?" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Super ! On se retrouve à quelle heure et où ?", "pronunciation": "쉬페르! 옹 스 르뜨루브 아 겔 외르 에 우?", "korean": "좋아! 몇 시에 어디서 만날까?" },
+        { "french": "Jeudi à quatorze heures, c'est parfait. Je note le rendez-vous.", "pronunciation": "죄디 아 까또르즈 외르, 세 빠르페. 쥬 노뜨 르 헝데부.", "korean": "목요일 14시요, 좋습니다. 예약 메모할게요." },
+        { "french": "Il y a un nouveau film français. La séance est à vingt heures.", "pronunciation": "일 이 아 엉 누보 필름 프헝세. 라 세엉스 에 아 벙 외르.", "korean": "새로운 프랑스 영화가 있어. 상영은 8시야." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "On se retrouve à quatorze heures au café de la place ? Ça te va ?", "pronunciation": "옹 스 르뜨루브 아 까또르즈 외르 오 까페 드 라 쁠라스? 사 뜨 바?", "korean": "2시에 광장 카페에서 만날까? 괜찮아?" },
+        { "french": "D'accord. N'oubliez pas d'apporter votre carte vitale.", "pronunciation": "다꼬르. 누블리에 빠 다뽀르떼 보뜨르 까르뜨 비딸.", "korean": "알겠습니다. 의료보험 카드를 가져오시는 거 잊지 마세요." },
+        { "french": "Vingt heures, c'est bien. On mange un morceau avant ?", "pronunciation": "벙 외르, 세 비엥. 옹 멍쥬 엉 모르소 아벙?", "korean": "8시 좋아. 그전에 간단히 뭐 먹을까?" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Oui, parfait ! J'ai hâte d'y être. On se tient au courant par SMS.", "pronunciation": "위, 빠르페! 제 아뜨 디 에뜨르. 옹 스 띠엥 오 꾸헝 빠르 에스엠에스.", "korean": "응, 완벽해! 기대돼. 문자로 연락하자." },
+        { "french": "Bien sûr, je n'oublierai pas. Merci beaucoup.", "pronunciation": "비엥 쉬르, 쥬 누블리헤 빠. 메르시 보꾸.", "korean": "물론이죠, 잊지 않을게요. 감사합니다." },
+        { "french": "Oui, bonne idée ! Il y a un bon restaurant italien à côté du cinéma.", "pronunciation": "위, 본 이데! 일 이 아 엉 봉 헤스또헝 이딸리엥 아 꼬떼 뒤 시네마.", "korean": "응, 좋은 생각! 영화관 옆에 맛있는 이탈리안 식당이 있어." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "D'accord ! Si jamais tu dois annuler, préviens-moi à l'avance.", "pronunciation": "다꼬르! 시 자메 뒤 두아 아뉠레, 프헤비엥 무아 아 라벙스.", "korean": "알겠어! 혹시 취소해야 하면 미리 알려줘." },
+        { "french": "De rien. À jeudi alors. Bonne journée !", "pronunciation": "드 히엥. 아 죄디 알로르. 본 주르네!", "korean": "별말씀을요. 그럼 목요일에 봐요. 좋은 하루 보내세요!" },
+        { "french": "Super, on fait comme ça. J'ai vraiment hâte !", "pronunciation": "쉬페르, 옹 페 꼼 사. 제 브헤멍 아뜨!", "korean": "좋아, 그렇게 하자. 정말 기대돼!" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Promis ! À samedi alors. Passe une bonne semaine !", "pronunciation": "프호미! 아 쌈디 알로르. 빠스 윈 본 스멘!", "korean": "약속해! 그럼 토요일에. 좋은 한 주 보내!" },
+        { "french": "Merci, à jeudi. Bonne journée à vous aussi !", "pronunciation": "메르시, 아 죄디. 본 주르네 아 부 오시!", "korean": "감사합니다, 목요일에 뵈어요. 좋은 하루 되세요!" },
+        { "french": "Moi aussi ! Alors à vendredi. Bisous !", "pronunciation": "무아 오시! 알로르 아 벙드르디. 비주!", "korean": "나도! 그럼 금요일에. 안녕!" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "le rendez-vous", "pronunciation": "르 헝데부", "korean": "약속, 예약" },
+    { "french": "être libre / disponible", "pronunciation": "에뜨르 리브르 / 디스뽀니블", "korean": "시간이 되다" },
+    { "french": "annuler", "pronunciation": "아뉠레", "korean": "취소하다" },
+    { "french": "reporter", "pronunciation": "르뽀르떼", "korean": "연기하다" },
+    { "french": "confirmer", "pronunciation": "꽁피르메", "korean": "확인하다" },
+    { "french": "prévenir", "pronunciation": "프헤브니르", "korean": "미리 알리다" },
+    { "french": "avoir hâte", "pronunciation": "아부아르 아뜨", "korean": "기대하다, 간절히 원하다" }
+  ]
+}

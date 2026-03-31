@@ -1,0 +1,74 @@
+{
+  "level": 17,
+  "title": "은행 & 환전",
+  "titleFr": "Banque et Change",
+  "description": "프랑스어로 은행과 환전에 필요한 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Bonjour, je voudrais changer des wons en euros.", "pronunciation": "봉주르, 주 부드레 숑제 데 원 앙 뇌로.", "korean": "안녕하세요, 원화를 유로로 환전하고 싶어요." },
+        { "french": "Quel est le taux de change aujourd'hui ?", "pronunciation": "겔 에 르 토 드 숑주 오주르뒤이?", "korean": "오늘 환율이 얼마인가요?" },
+        { "french": "Je voudrais ouvrir un compte bancaire.", "pronunciation": "주 부드레 우브리르 앙 콩트 방게르.", "korean": "은행 계좌를 개설하고 싶어요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Bien sûr. Combien voulez-vous changer ?", "pronunciation": "비앙 쉬르. 콩비앙 불레 부 숑제?", "korean": "물론이죠. 얼마나 환전하시겠어요?" },
+        { "french": "Le taux est à 1 euro pour 1 450 wons.", "pronunciation": "르 토 에 타 앙 뇌로 뿌르 밀 까트르 상 생깡트 원.", "korean": "1유로에 1,450원입니다." },
+        { "french": "Vous avez une pièce d'identité ?", "pronunciation": "부 자베 윈 피에스 디덩티테?", "korean": "신분증을 가지고 계신가요?" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Je voudrais changer cinq cent mille wons.", "pronunciation": "주 부드레 숑제 생크 상 밀 원.", "korean": "50만 원을 환전하고 싶어요." },
+        { "french": "D'accord. En petites coupures, s'il vous plaît.", "pronunciation": "다코르. 앙 프티트 쿠퓌르, 실 부 플레.", "korean": "네. 소액권으로 부탁드려요." },
+        { "french": "Oui, voici mon passeport.", "pronunciation": "위, 부아시 몽 파스포르.", "korean": "네, 여기 제 여권이요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Cela fait environ 345 euros. Il y a une commission de 3 euros.", "pronunciation": "슬라 페 엉비롱 트루아 상 까렁트 생크 뇌로. 일 이 아 윈 코미시옹 드 트루아 뇌로.", "korean": "약 345유로이고, 수수료가 3유로입니다." },
+        { "french": "Voici des billets de 20 et de 10 euros.", "pronunciation": "부아시 데 비예 드 뱅 에 드 디 즈뇌로.", "korean": "20유로와 10유로 지폐로 드립니다." },
+        { "french": "Merci. Veuillez remplir ce formulaire.", "pronunciation": "메르시. 뵈예 렁플리르 스 포르뮐레르.", "korean": "감사합니다. 이 양식을 작성해 주세요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "D'accord, pas de problème. Voici le formulaire.", "pronunciation": "다코르, 파 드 프로블렘. 부아시 르 포르뮐레르.", "korean": "네, 문제없어요. 양식 여기 있습니다." },
+        { "french": "Est-ce que je peux aussi retirer de l'argent ?", "pronunciation": "에스 크 주 뿌 오시 르티레 드 라르정?", "korean": "돈을 인출할 수도 있나요?" },
+        { "french": "Où se trouve le distributeur automatique ?", "pronunciation": "우 스 트루브 르 디스트리뷔퇴르 오토마티크?", "korean": "ATM이 어디에 있나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Parfait. Votre transaction est terminée.", "pronunciation": "파르페. 보트르 트렁작시옹 에 테르미네.", "korean": "좋아요. 거래가 완료되었습니다." },
+        { "french": "Oui, avec votre carte bancaire internationale.", "pronunciation": "위, 아벡 보트르 카르트 방게르 앵테르나시오날.", "korean": "네, 국제 은행 카드로 가능합니다." },
+        { "french": "Le distributeur est juste à côté de l'entrée.", "pronunciation": "르 디스트리뷔퇴르 에 쥐스트 아 코테 드 렁트레.", "korean": "ATM은 입구 바로 옆에 있어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci beaucoup pour votre aide.", "pronunciation": "메르시 보쿠 뿌르 보트르 에드.", "korean": "도움 주셔서 감사합니다." },
+        { "french": "Très bien. Merci et bonne journée !", "pronunciation": "트레 비앙. 메르시 에 본 주르네!", "korean": "좋습니다. 감사하고 좋은 하루 보내세요!" },
+        { "french": "Parfait, je vais y aller. Merci !", "pronunciation": "파르페, 주 베 지 알레. 메르시!", "korean": "좋아요, 가볼게요. 감사합니다!" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "le taux de change", "pronunciation": "르 토 드 숑주", "korean": "환율" },
+    { "french": "changer", "pronunciation": "숑제", "korean": "환전하다" },
+    { "french": "un billet", "pronunciation": "앙 비예", "korean": "지폐" },
+    { "french": "la commission", "pronunciation": "라 코미시옹", "korean": "수수료" },
+    { "french": "le compte bancaire", "pronunciation": "르 콩트 방게르", "korean": "은행 계좌" },
+    { "french": "retirer", "pronunciation": "르티레", "korean": "인출하다" },
+    { "french": "le distributeur", "pronunciation": "르 디스트리뷔퇴르", "korean": "ATM, 현금 인출기" },
+    { "french": "un formulaire", "pronunciation": "앙 포르뮐레르", "korean": "양식, 서류" }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "level": 16,
+  "title": "전화 통화",
+  "titleFr": "Conversation Téléphonique",
+  "description": "프랑스어로 전화 통화에 필요한 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Allô, bonjour. Est-ce que je pourrais parler à Sophie ?", "pronunciation": "알로, 봉주르. 에스 크 주 뿌레 파를레 아 소피?", "korean": "여보세요, 소피 좀 바꿔주시겠어요?" },
+        { "french": "Allô, c'est Youngmin à l'appareil.", "pronunciation": "알로, 세 영민 아 라파레이.", "korean": "여보세요, 영민입니다." },
+        { "french": "Bonjour, je voudrais prendre rendez-vous.", "pronunciation": "봉주르, 주 부드레 프렁드르 랑데부.", "korean": "안녕하세요, 예약을 하고 싶은데요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Un instant, s'il vous plaît. Je vous la passe.", "pronunciation": "앙 넹스땅, 실 부 플레. 주 부 라 파스.", "korean": "잠시만요, 바꿔드릴게요." },
+        { "french": "Bonjour Youngmin. Comment allez-vous ?", "pronunciation": "봉주르 영민. 코멍 탈레 부?", "korean": "안녕하세요 영민, 어떻게 지내세요?" },
+        { "french": "Bien sûr. Pour quel jour souhaitez-vous ?", "pronunciation": "비앙 쉬르. 뿌르 겔 주르 수에테 부?", "korean": "물론이죠. 어느 날로 하시겠어요?" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci. C'est au sujet de notre réunion de demain.", "pronunciation": "메르시. 세 토 쉬제 드 노트르 레위니옹 드 드맹.", "korean": "감사합니다. 내일 회의 건으로 전화했어요." },
+        { "french": "Très bien, merci. Je vous appelle pour confirmer.", "pronunciation": "트레 비앙, 메르시. 주 부 자펠 뿌르 콩피르메.", "korean": "잘 지내요. 확인차 전화드렸어요." },
+        { "french": "Vendredi prochain, si possible.", "pronunciation": "방드르디 프로셍, 시 포시블.", "korean": "가능하면 다음 주 금요일이요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "D'accord, la réunion est confirmée à 14 heures.", "pronunciation": "다코르, 라 레위니옹 에 콩피르메 아 까토르즈 뢰르.", "korean": "네, 회의는 오후 2시로 확인되었어요." },
+        { "french": "Merci d'avoir appelé. C'est bien noté.", "pronunciation": "메르시 다부아르 아플레. 세 비앙 노테.", "korean": "전화해 주셔서 감사해요. 잘 기록했어요." },
+        { "french": "Vendredi à 10 heures, ça vous convient ?", "pronunciation": "방드르디 아 디 즈뢰르, 사 부 콩비앙?", "korean": "금요일 10시 괜찮으세요?" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Parfait. Pourriez-vous m'envoyer l'adresse par SMS ?", "pronunciation": "파르페. 뿌리에 부 멍부아예 라드레스 파르 에스엠에스?", "korean": "좋아요. 주소를 문자로 보내주시겠어요?" },
+        { "french": "Excusez-moi, la ligne est mauvaise. Pouvez-vous répéter ?", "pronunciation": "엑스퀴제 무아, 라 리뉴 에 모베즈. 뿌베 부 레페테?", "korean": "죄송해요, 신호가 안 좋아요. 다시 말씀해 주시겠어요?" },
+        { "french": "Oui, c'est parfait. Merci beaucoup.", "pronunciation": "위, 세 파르페. 메르시 보쿠.", "korean": "네, 좋아요. 감사합니다." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Bien sûr, je vous l'envoie tout de suite.", "pronunciation": "비앙 쉬르, 주 부 렁부아 뚜 드 쉬트.", "korean": "물론이죠, 바로 보내드릴게요." },
+        { "french": "Oui, je répète : vendredi à dix heures.", "pronunciation": "위, 주 레페트: 방드르디 아 디 즈뢰르.", "korean": "네, 다시 말씀드려요: 금요일 10시요." },
+        { "french": "De rien. N'hésitez pas à rappeler si besoin.", "pronunciation": "드 리앙. 네지테 파 아 라플레 시 브주앙.", "korean": "천만에요. 필요하면 다시 전화하세요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci, Sophie. À vendredi alors ! Au revoir.", "pronunciation": "메르시, 소피. 아 방드르디 알로르! 오 르부아르.", "korean": "고마워요, 소피. 그럼 금요일에! 안녕히 계세요." },
+        { "french": "D'accord, merci pour tout. Bonne journée !", "pronunciation": "다코르, 메르시 뿌르 뚜. 본 주르네!", "korean": "네, 모든 것 감사해요. 좋은 하루 보내세요!" },
+        { "french": "Entendu. Je vous rappelle si j'ai des questions.", "pronunciation": "엉텅뒤. 주 부 라펠 시 제 데 게스티옹.", "korean": "알겠어요. 질문 있으면 다시 전화할게요." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "allô", "pronunciation": "알로", "korean": "여보세요" },
+    { "french": "l'appareil", "pronunciation": "라파레이", "korean": "전화기" },
+    { "french": "un rendez-vous", "pronunciation": "앙 랑데부", "korean": "약속, 예약" },
+    { "french": "la réunion", "pronunciation": "라 레위니옹", "korean": "회의" },
+    { "french": "rappeler", "pronunciation": "라플레", "korean": "다시 전화하다" },
+    { "french": "la ligne", "pronunciation": "라 리뉴", "korean": "전화 회선" },
+    { "french": "confirmer", "pronunciation": "콩피르메", "korean": "확인하다" }
+  ]
+}

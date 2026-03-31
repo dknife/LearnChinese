@@ -1,0 +1,74 @@
+{
+  "level": 10,
+  "title": "음식 & 맛 표현",
+  "titleFr": "Nourriture et Saveurs",
+  "description": "프랑스어로 음식과 맛을 표현하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Pierre, qu'est-ce que tu aimes manger ?", "pronunciation": "피에르, 게스끄 뒤 엠 멍제?", "korean": "피에르, 어떤 음식 좋아해?" },
+        { "french": "Quelle est la spécialité de cette région ?", "pronunciation": "겔 에 라 스페시알리떼 드 세뜨 헤지옹?", "korean": "이 지역의 특산물이 뭔가요?" },
+        { "french": "Tu as déjà goûté la cuisine coréenne ?", "pronunciation": "뒤 아 데자 구떼 라 뀌진 꼬헤엔?", "korean": "한국 음식 먹어본 적 있어?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "J'adore le fromage et le pain frais. C'est typiquement français !", "pronunciation": "자도르 르 프호마쥬 에 르 빵 프헤. 세 띠삐끄멍 프헝세!", "korean": "치즈와 갓 구운 빵을 아주 좋아해. 전형적인 프랑스식이지!" },
+        { "french": "Ici, on est connu pour la ratatouille et la bouillabaisse.", "pronunciation": "이시, 옹 에 꼬뉘 뿌르 라 하따뚜이 에 라 부이야베스.", "korean": "여기는 라따뚜이와 부야베스로 유명해요." },
+        { "french": "Oui, j'ai mangé du bibimbap une fois. C'était épicé mais délicieux !", "pronunciation": "위, 제 멍제 뒤 비빔밥 윈 푸아. 세떼 에삐세 메 델리시외!", "korean": "응, 비빔밥 한 번 먹어봤어. 매웠지만 맛있었어!" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "J'aimerais essayer un plat français authentique. Tu me conseilles quoi ?", "pronunciation": "제므헤 에세이에 엉 쁠라 프헝세 오떵띠끄. 뒤 므 꽁세이 꾸아?", "korean": "정통 프랑스 요리를 먹어보고 싶어. 뭘 추천해?" },
+        { "french": "Ce plat sent très bon ! C'est fait avec quoi ?", "pronunciation": "스 쁠라 쌍 뜨헤 봉! 세 페 아벡 꾸아?", "korean": "이 요리 냄새가 정말 좋다! 뭘로 만든 거야?" },
+        { "french": "Moi, je trouve la cuisine française un peu salée. Et toi ?", "pronunciation": "무아, 쥬 뜨루브 라 뀌진 프헝세즈 엉 뵈 살레. 에 뚜아?", "korean": "나는 프랑스 요리가 좀 짠 것 같아. 너는?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Essaye le croque-monsieur ! C'est simple mais savoureux.", "pronunciation": "에세이 르 크호끄 므시외! 세 쌩쁠 메 사부르외.", "korean": "크로크무슈를 먹어봐! 간단하지만 맛있어." },
+        { "french": "C'est du poulet avec des herbes de Provence et de la crème fraîche.", "pronunciation": "세 뒤 뿔레 아벡 데 제르브 드 프호벙스 에 드 라 크헴 프헤슈.", "korean": "프로방스 허브와 생크림을 넣은 닭고기야." },
+        { "french": "Ça dépend des plats. Goûte cette quiche, elle est bien équilibrée.", "pronunciation": "사 데펑 데 쁠라. 구뜨 세뜨 끼슈, 엘 에 비엥 에낄리브헤.", "korean": "요리에 따라 달라. 이 키시 먹어봐, 맛이 균형 잡혀있어." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Mmm, c'est vraiment délicieux ! C'est sucré et salé en même temps.", "pronunciation": "음, 세 브헤멍 델리시외! 세 쉬크헤 에 살레 엉 멤 떵.", "korean": "음, 정말 맛있다! 달콤하면서도 짭짤해." },
+        { "french": "C'est un peu amer, mais j'aime bien. C'est original.", "pronunciation": "세 떵 뵈 아메르, 메 젬 비엥. 세 오리지날.", "korean": "좀 쓰지만 좋아. 독특해." },
+        { "french": "C'est très crémeux et fondant. J'adore !", "pronunciation": "세 뜨헤 크헤뫼 에 퐁덩. 자도르!", "korean": "아주 크리미하고 부드러워. 너무 좋아!" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Content que ça te plaise ! Tu veux goûter le dessert aussi ?", "pronunciation": "꽁떵 끄 사 뜨 쁠레즈! 뒤 뵈 구떼 르 데세르 오시?", "korean": "마음에 들었다니 기뻐! 디저트도 맛볼래?" },
+        { "french": "Je suis ravi ! Pour le dessert, la crème brûlée est incontournable.", "pronunciation": "쥬 스위 하비! 뿌르 르 데세르, 라 크헴 브륄레 에 엥꽁뚜르나블.", "korean": "기쁘다! 디저트는 크렘 브륄레가 필수야." },
+        { "french": "Tu devrais aussi essayer les macarons. Ils sont légers et parfumés.", "pronunciation": "뒤 드브헤 오시 에세이에 레 마까홍. 일 쏭 레제 에 빠르퓌메.", "korean": "마카롱도 먹어봐야 해. 가볍고 향이 좋아." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Oui, je veux tout goûter ! La cuisine française est vraiment riche.", "pronunciation": "위, 쥬 뵈 뚜 구떼! 라 뀌진 프헝세즈 에 브헤멍 히슈.", "korean": "응, 다 맛보고 싶어! 프랑스 요리는 정말 풍부해." },
+        { "french": "Absolument ! Un jour, je te ferai goûter le kimchi. C'est épicé !", "pronunciation": "압솔뤼멍! 엉 주르, 쥬 뜨 프헤 구떼 르 김치. 세 에삐세!", "korean": "물론이지! 언젠가 김치를 맛보게 해줄게. 매워!" },
+        { "french": "Merci pour cette découverte culinaire. C'était un vrai régal !", "pronunciation": "메르시 뿌르 세뜨 데쿠베르뜨 뀔리네르. 세떼 엉 브헤 헤갈!", "korean": "이 맛있는 발견에 감사해. 정말 진수성찬이었어!" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "délicieux / bon", "pronunciation": "델리시외 / 봉", "korean": "맛있는" },
+    { "french": "sucré", "pronunciation": "쉬크헤", "korean": "단" },
+    { "french": "salé", "pronunciation": "살레", "korean": "짠" },
+    { "french": "épicé", "pronunciation": "에삐세", "korean": "매운" },
+    { "french": "amer", "pronunciation": "아메르", "korean": "쓴" },
+    { "french": "le fromage", "pronunciation": "르 프호마쥬", "korean": "치즈" },
+    { "french": "le pain", "pronunciation": "르 빵", "korean": "빵" },
+    { "french": "goûter", "pronunciation": "구떼", "korean": "맛보다" }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "level": 3,
+  "title": "가족 소개",
+  "titleFr": "Présentation de la Famille",
+  "description": "프랑스어로 가족을 소개하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Pierre, je voudrais te présenter ma famille.", "pronunciation": "피에르, 쥬 부드헤 뜨 프헤정떼 마 파미유.", "korean": "피에르, 우리 가족을 소개하고 싶어요." },
+        { "french": "Tu veux voir une photo de ma famille ?", "pronunciation": "뒤 뵈 부아르 윈 포또 드 마 파미유?", "korean": "우리 가족 사진 볼래?" },
+        { "french": "Je vais vous parler de ma famille.", "pronunciation": "쥬 베 부 빠를레 드 마 파미유.", "korean": "제 가족에 대해 말씀드릴게요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Oui, avec plaisir ! Tu as une grande famille ?", "pronunciation": "위, 아벡 플레지르! 뒤 아 윈 그헝드 파미유?", "korean": "네, 좋아요! 대가족이야?" },
+        { "french": "Bien sûr ! Montre-moi la photo.", "pronunciation": "비엥 쉬르! 몽뜨르 무아 라 포또.", "korean": "물론이지! 사진 보여줘." },
+        { "french": "Je serais ravi d'en savoir plus.", "pronunciation": "쥬 스헤 하비 덩 사부아르 플뤼스.", "korean": "더 알게 되면 기쁘겠어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Voici mon père et ma mère. Ils habitent à Séoul.", "pronunciation": "부아시 몽 페르 에 마 메르. 일 자비뜨 아 세울.", "korean": "여기 아버지와 어머니예요. 서울에 사세요." },
+        { "french": "Là, c'est mon père. Il est professeur. Et ma mère est médecin.", "pronunciation": "라, 세 몽 페르. 일 에 프호페쇠르. 에 마 메르 에 메드쌩.", "korean": "여기는 아버지예요. 교수님이세요. 어머니는 의사예요." },
+        { "french": "Mes parents sont à la retraite maintenant.", "pronunciation": "메 빠헝 쏭 아 라 르뜨헤뜨 멩뜨넝.", "korean": "부모님은 지금 은퇴하셨어요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Ils ont l'air très gentils. Tu as des frères et sœurs ?", "pronunciation": "일 종 레르 뜨헤 정띠. 뒤 아 데 프헤르 에 쇠르?", "korean": "아주 다정해 보여요. 형제자매가 있어?" },
+        { "french": "C'est super ! Et tu as des frères ou des sœurs ?", "pronunciation": "세 쉬페르! 에 뒤 아 데 프헤르 우 데 쇠르?", "korean": "멋져요! 형제나 자매가 있어?" },
+        { "french": "Quelle belle famille ! Tu es fils unique ?", "pronunciation": "겔 벨 파미유! 뒤 에 피스 위니크?", "korean": "아름다운 가족이네요! 외동이야?" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Oui, j'ai un frère aîné et une sœur cadette.", "pronunciation": "위, 제 엉 프헤르 에네 에 윈 쇠르 까데뜨.", "korean": "네, 형 하나와 여동생 하나가 있어요." },
+        { "french": "J'ai une grande sœur. Elle est mariée et a deux enfants.", "pronunciation": "제 윈 그헝드 쇠르. 엘 에 마리에 에 아 두 엉펑.", "korean": "누나가 한 명 있어요. 결혼해서 아이가 둘 있어요." },
+        { "french": "Non, j'ai un petit frère. Il a vingt ans.", "pronunciation": "농, 제 엉 쁘띠 프헤르. 일 아 벙 엉.", "korean": "아니요, 남동생이 있어요. 스무 살이에요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "C'est bien d'avoir des frères et sœurs. Moi, j'ai deux sœurs.", "pronunciation": "세 비엥 다부아르 데 프헤르 에 쇠르. 무아, 제 두 쇠르.", "korean": "형제자매가 있으면 좋지. 나는 자매가 둘 있어." },
+        { "french": "Moi aussi, j'ai un frère. Il habite à Marseille.", "pronunciation": "무아 오시, 제 엉 프헤르. 일 아비뜨 아 마르세이유.", "korean": "나도 형제가 있어. 마르세유에 살아." },
+        { "french": "Chez nous aussi, la famille est importante.", "pronunciation": "셰 누 오시, 라 파미유 에 엥뽀르떵뜨.", "korean": "우리도 가족이 중요해요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Oui, la famille c'est le plus important. On dîne ensemble ce soir ?", "pronunciation": "위, 라 파미유 세 르 플뤼 엥뽀르떵. 옹 딘 엉셩블 스 수아르?", "korean": "네, 가족이 가장 중요하죠. 오늘 저녁 같이 식사할래요?" },
+        { "french": "C'est vrai. Un jour, tu pourras rencontrer mes parents.", "pronunciation": "세 브헤. 엉 주르, 뒤 뿌하 헝꽁뜨헤 메 빠헝.", "korean": "맞아. 언젠가 우리 부모님을 만날 수 있을 거야." },
+        { "french": "Tout à fait. J'espère que nos familles se rencontreront.", "pronunciation": "뚜 따 페. 제스페르 끄 노 파미유 스 헝꽁뜨르헝.", "korean": "맞아요. 우리 가족들이 만날 수 있으면 좋겠어요." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "la famille", "pronunciation": "라 파미유", "korean": "가족" },
+    { "french": "le père", "pronunciation": "르 페르", "korean": "아버지" },
+    { "french": "la mère", "pronunciation": "라 메르", "korean": "어머니" },
+    { "french": "le frère", "pronunciation": "르 프헤르", "korean": "형제, 남자형제" },
+    { "french": "la sœur", "pronunciation": "라 쇠르", "korean": "자매, 여자형제" },
+    { "french": "les enfants", "pronunciation": "레 엉펑", "korean": "아이들" },
+    { "french": "marié(e)", "pronunciation": "마리에", "korean": "결혼한" },
+    { "french": "les parents", "pronunciation": "레 빠헝", "korean": "부모님" }
+  ]
+}

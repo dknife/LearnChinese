@@ -1,0 +1,74 @@
+{
+  "level": 2,
+  "title": "숫자 & 날짜",
+  "titleFr": "Nombres et Dates",
+  "description": "프랑스어로 숫자와 날짜를 표현하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Excusez-moi, on est quel jour aujourd'hui ?", "pronunciation": "엑스뀌제 무아, 옹 에 겔 주르 오주르뒤이?", "korean": "실례합니다, 오늘 무슨 요일이에요?" },
+        { "french": "Quelle est la date aujourd'hui ?", "pronunciation": "겔 에 라 다뜨 오주르뒤이?", "korean": "오늘 날짜가 어떻게 되나요?" },
+        { "french": "On est le combien aujourd'hui ?", "pronunciation": "옹 에 르 꽁비엥 오주르뒤이?", "korean": "오늘 며칠이에요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "On est le quinze mars. C'est un lundi.", "pronunciation": "옹 에 르 겡즈 마르스. 세 떵 룅디.", "korean": "3월 15일이에요. 월요일입니다." },
+        { "french": "Aujourd'hui, c'est le vingt avril.", "pronunciation": "오주르뒤이, 세 르 벙 아브릴.", "korean": "오늘은 4월 20일이에요." },
+        { "french": "Nous sommes le trois juin.", "pronunciation": "누 솜 르 뜨후아 쥐엥.", "korean": "6월 3일입니다." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci. Et votre numéro de téléphone, c'est quoi ?", "pronunciation": "메르시. 에 보뜨르 뉘메호 드 텔레폰, 세 꾸아?", "korean": "감사합니다. 전화번호가 어떻게 되세요?" },
+        { "french": "D'accord. Quel est votre âge, si ce n'est pas indiscret ?", "pronunciation": "다꼬르. 겔 에 보뜨르 아쥬, 시 스 네 빠 엥디스크헤?", "korean": "알겠습니다. 실례가 안 된다면 나이가 어떻게 되세요?" },
+        { "french": "Merci beaucoup. Vous êtes né en quelle année ?", "pronunciation": "메르시 보꾸. 부 제뜨 네 엉 겔 아네?", "korean": "감사합니다. 몇 년도에 태어나셨어요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "J'ai trente-deux ans. Je suis né en mille neuf cent quatre-vingt-quatorze.", "pronunciation": "제 뜨헝뜨 두 엉. 쥬 스위 네 엉 밀 뇌프 성 까뜨르 벙 까또르즈.", "korean": "서른두 살이에요. 1994년에 태어났어요." },
+        { "french": "J'ai vingt-cinq ans.", "pronunciation": "제 벙 쌩끄 엉.", "korean": "스물다섯 살이에요." },
+        { "french": "J'ai quarante ans. Mon anniversaire est en décembre.", "pronunciation": "제 까헝뜨 엉. 몽 아니베르세르 에 엉 데셩브르.", "korean": "마흔 살이에요. 생일은 12월이에요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Combien ça coûte, ce livre ?", "pronunciation": "꽁비엥 사 꾸뜨, 스 리브르?", "korean": "이 책은 얼마예요?" },
+        { "french": "C'est combien pour deux cafés ?", "pronunciation": "세 꽁비엥 뿌르 두 까페?", "korean": "커피 두 잔에 얼마예요?" },
+        { "french": "Quel est le prix de ce billet ?", "pronunciation": "겔 에 르 프히 드 스 비예?", "korean": "이 표의 가격이 어떻게 되나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Ça coûte douze euros cinquante.", "pronunciation": "사 꾸뜨 두즈 외로 쌩깡뜨.", "korean": "12유로 50센트입니다." },
+        { "french": "C'est cinq euros pour les deux.", "pronunciation": "세 쌩끄 외로 뿌르 레 두.", "korean": "두 잔에 5유로입니다." },
+        { "french": "Le billet coûte trente-cinq euros.", "pronunciation": "르 비예 꾸뜨 뜨헝뜨 쌩끄 외로.", "korean": "표는 35유로입니다." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "D'accord, merci beaucoup. Voilà vingt euros.", "pronunciation": "다꼬르, 메르시 보꾸. 부알라 벙 외로.", "korean": "알겠습니다, 감사합니다. 여기 20유로요." },
+        { "french": "Très bien. Je prends les deux.", "pronunciation": "뜨헤 비엥. 쥬 프헝 레 두.", "korean": "좋아요. 둘 다 살게요." },
+        { "french": "Parfait. Voici cinquante euros.", "pronunciation": "빠르페. 부아시 쌩깡뜨 외로.", "korean": "좋습니다. 여기 50유로요." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "un, deux, trois", "pronunciation": "엉, 두, 뜨후아", "korean": "1, 2, 3" },
+    { "french": "dix, vingt, trente", "pronunciation": "디스, 벙, 뜨헝뜨", "korean": "10, 20, 30" },
+    { "french": "aujourd'hui", "pronunciation": "오주르뒤이", "korean": "오늘" },
+    { "french": "lundi, mardi, mercredi", "pronunciation": "룅디, 마르디, 메르크르디", "korean": "월요일, 화요일, 수요일" },
+    { "french": "janvier, février, mars", "pronunciation": "정비에, 페브히에, 마르스", "korean": "1월, 2월, 3월" },
+    { "french": "combien", "pronunciation": "꽁비엥", "korean": "얼마" },
+    { "french": "euro", "pronunciation": "외로", "korean": "유로" },
+    { "french": "année", "pronunciation": "아네", "korean": "년, 해" }
+  ]
+}

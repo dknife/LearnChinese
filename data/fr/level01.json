@@ -1,0 +1,74 @@
+{
+  "level": 1,
+  "title": "인사 & 자기소개",
+  "titleFr": "Salutations et Présentation",
+  "description": "프랑스어로 인사하고 자기소개하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Bonjour ! Je m'appelle Youngmin.", "pronunciation": "봉주르! 쥬 마펠 영민.", "korean": "안녕하세요! 저는 영민이라고 합니다." },
+        { "french": "Salut ! Moi, c'est Youngmin.", "pronunciation": "살뤼! 무아, 세 영민.", "korean": "안녕! 나는 영민이야." },
+        { "french": "Bonsoir ! Je me présente, je suis Youngmin.", "pronunciation": "봉수아르! 쥬 므 프레정뜨, 쥬 스위 영민.", "korean": "안녕하세요! 자기소개를 하겠습니다, 저는 영민입니다." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Bonjour Youngmin ! Moi, c'est Pierre. Enchanté !", "pronunciation": "봉주르 영민! 무아, 세 피에르. 엉셩떼!", "korean": "안녕하세요 영민! 저는 피에르입니다. 만나서 반갑습니다!" },
+        { "french": "Salut ! Je suis Marie. Ravie de te connaître !", "pronunciation": "살뤼! 쥬 스위 마리. 하비 드 뜨 꼬네뜨르!", "korean": "안녕! 나는 마리야. 만나서 반가워!" },
+        { "french": "Bonsoir ! Je m'appelle Sophie. Enchantée !", "pronunciation": "봉수아르! 쥬 마펠 소피. 엉셩떼!", "korean": "안녕하세요! 저는 소피라고 합니다. 반갑습니다!" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Je suis coréen. Et vous, vous êtes français ?", "pronunciation": "쥬 스위 꼬레엥. 에 부, 부 제뜨 프헝세?", "korean": "저는 한국인입니다. 당신은 프랑스인이신가요?" },
+        { "french": "Je viens de Corée du Sud. Tu es d'où ?", "pronunciation": "쥬 비엥 드 꼬레 뒤 쉬드. 뒤 에 두?", "korean": "저는 한국에서 왔어요. 너는 어디 출신이야?" },
+        { "french": "Je suis originaire de Séoul. Et vous ?", "pronunciation": "쥬 스위 오리지네르 드 세울. 에 부?", "korean": "저는 서울 출신입니다. 당신은요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Oui, je suis français. Je viens de Paris.", "pronunciation": "위, 쥬 스위 프헝세. 쥬 비엥 드 빠리.", "korean": "네, 저는 프랑스인입니다. 파리에서 왔어요." },
+        { "french": "Je suis de Lyon. C'est dans le sud-est de la France.", "pronunciation": "쥬 스위 드 리옹. 세 덩 르 쉬데스뜨 드 라 프헝스.", "korean": "저는 리옹 출신이에요. 프랑스 남동쪽에 있어요." },
+        { "french": "Oui, je suis parisienne. J'habite à Paris.", "pronunciation": "위, 쥬 스위 빠리지엔. 자비뜨 아 빠리.", "korean": "네, 저는 파리 사람이에요. 파리에 살고 있어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Qu'est-ce que vous faites dans la vie ?", "pronunciation": "게스끄 부 페뜨 덩 라 비?", "korean": "직업이 뭐예요?" },
+        { "french": "Tu fais quoi comme travail ?", "pronunciation": "뒤 페 꾸아 꼼 뜨하바이?", "korean": "무슨 일을 해?" },
+        { "french": "Vous travaillez dans quel domaine ?", "pronunciation": "부 뜨하바이예 덩 겔 도멘?", "korean": "어떤 분야에서 일하세요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Je suis professeur. Et vous ?", "pronunciation": "쥬 스위 프호페쇠르. 에 부?", "korean": "저는 교수입니다. 당신은요?" },
+        { "french": "Je travaille comme ingénieur. Et toi ?", "pronunciation": "쥬 뜨하바이 꼼 엥제니외르. 에 뚜아?", "korean": "나는 엔지니어로 일해. 너는?" },
+        { "french": "Je suis étudiante en médecine.", "pronunciation": "쥬 스위 에뒤디엉뜨 엉 메드씬.", "korean": "저는 의대생이에요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Très bien ! Ravi de vous connaître. À bientôt !", "pronunciation": "뜨헤 비엥! 하비 드 부 꼬네뜨르. 아 비엥또!", "korean": "좋습니다! 만나서 반가웠어요. 또 봐요!" },
+        { "french": "Super ! Au plaisir de te revoir. Salut !", "pronunciation": "쉬페르! 오 플레지르 드 뜨 르부아르. 살뤼!", "korean": "좋아! 다시 만나길 바라. 잘 가!" },
+        { "french": "C'est un plaisir. Bonne journée !", "pronunciation": "세 떵 플레지르. 본 주르네!", "korean": "즐거웠습니다. 좋은 하루 보내세요!" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "bonjour", "pronunciation": "봉주르", "korean": "안녕하세요" },
+    { "french": "enchanté(e)", "pronunciation": "엉셩떼", "korean": "만나서 반갑습니다" },
+    { "french": "je m'appelle", "pronunciation": "쥬 마펠", "korean": "제 이름은 ~입니다" },
+    { "french": "je suis", "pronunciation": "쥬 스위", "korean": "저는 ~입니다" },
+    { "french": "au revoir", "pronunciation": "오 르부아르", "korean": "안녕히 가세요" },
+    { "french": "s'il vous plaît", "pronunciation": "실 부 플레", "korean": "부탁합니다" },
+    { "french": "merci", "pronunciation": "메르시", "korean": "감사합니다" },
+    { "french": "à bientôt", "pronunciation": "아 비엥또", "korean": "또 봐요" }
+  ]
+}

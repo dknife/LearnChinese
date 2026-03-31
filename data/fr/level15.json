@@ -1,0 +1,73 @@
+{
+  "level": 15,
+  "title": "취미 & 여가",
+  "titleFr": "Loisirs et Temps Libre",
+  "description": "프랑스어로 취미와 여가 활동에 관한 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Qu'est-ce que vous faites pendant votre temps libre ?", "pronunciation": "게스 크 부 페트 팡당 보트르 땅 리브르?", "korean": "여가 시간에 뭘 하세요?" },
+        { "french": "Vous avez des hobbies, Marie ?", "pronunciation": "부 자베 데 조비, 마리?", "korean": "마리, 취미가 있으세요?" },
+        { "french": "J'aimerais trouver un nouveau passe-temps.", "pronunciation": "제므레 트루베 앙 누보 파스땅.", "korean": "새로운 취미를 찾고 싶어요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "J'adore lire et faire de la randonnée.", "pronunciation": "자도르 리르 에 페르 드 라 랑도네.", "korean": "독서와 등산을 아주 좋아해요." },
+        { "french": "Je fais de la peinture le week-end.", "pronunciation": "주 페 드 라 팽뛰르 르 위캉.", "korean": "주말에 그림을 그려요." },
+        { "french": "Je joue du piano depuis dix ans.", "pronunciation": "주 주 뒤 피아노 드퓌 디 장.", "korean": "피아노를 10년째 치고 있어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "C'est super ! Moi, j'aime beaucoup la cuisine.", "pronunciation": "세 쉬페르! 무아, 젬 보쿠 라 퀴진.", "korean": "멋지네요! 저는 요리를 아주 좋아해요." },
+        { "french": "J'ai commencé à apprendre la photographie.", "pronunciation": "제 코멍세 아 아프렁드르 라 포토그라피.", "korean": "사진 찍는 걸 배우기 시작했어요." },
+        { "french": "Je fais du sport trois fois par semaine.", "pronunciation": "주 페 뒤 스포르 트루아 푸아 파르 스멘.", "korean": "일주일에 세 번 운동해요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Quel sport pratiquez-vous ?", "pronunciation": "겔 스포르 프라티게 부?", "korean": "무슨 운동을 하세요?" },
+        { "french": "Vous cuisinez des plats coréens ?", "pronunciation": "부 퀴지네 데 플라 코레앙?", "korean": "한국 음식을 만드세요?" },
+        { "french": "La photographie, c'est un très beau hobby.", "pronunciation": "라 포토그라피, 세 떵 트레 보 조비.", "korean": "사진 촬영은 정말 좋은 취미예요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Je fais de la natation et du jogging.", "pronunciation": "주 페 드 라 나타시옹 에 뒤 조깅.", "korean": "수영이랑 조깅을 해요." },
+        { "french": "Oui, et parfois des plats français aussi.", "pronunciation": "위, 에 파르푸아 데 플라 프랑세 오시.", "korean": "네, 가끔 프랑스 요리도 해요." },
+        { "french": "Est-ce qu'il y a un bon club de sport ici ?", "pronunciation": "에스 킬 이 아 앙 봉 클뢰브 드 스포르 이시?", "korean": "여기 좋은 스포츠 클럽이 있나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Il y a une piscine municipale près d'ici.", "pronunciation": "일 이 아 윈 피신 뮈니시팔 프레 디시.", "korean": "여기 근처에 시립 수영장이 있어요." },
+        { "french": "On pourrait cuisiner ensemble un jour !", "pronunciation": "옹 뿌레 퀴지네 앙상블 앙 주르!", "korean": "언젠가 같이 요리해 봐요!" },
+        { "french": "Je connais un très bon club, je vous donne l'adresse.", "pronunciation": "주 코네 앙 트레 봉 클뢰브, 주 부 돈 라드레스.", "korean": "아주 좋은 클럽을 알아요, 주소를 알려드릴게요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci beaucoup ! On y va ensemble ce week-end ?", "pronunciation": "메르시 보쿠! 옹 니 바 앙상블 스 위캉?", "korean": "감사해요! 이번 주말에 같이 가요?" },
+        { "french": "Avec plaisir ! Ce serait vraiment amusant.", "pronunciation": "아벡 플레지르! 스 스레 브레멍 아뮈장.", "korean": "좋아요! 정말 재미있을 거예요." },
+        { "french": "Super, j'ai hâte d'essayer !", "pronunciation": "쉬페르, 제 아트 데세예!", "korean": "좋아요, 해보고 싶어요!" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "le loisir", "pronunciation": "르 루아지르", "korean": "여가, 취미" },
+    { "french": "la randonnée", "pronunciation": "라 랑도네", "korean": "등산, 하이킹" },
+    { "french": "la peinture", "pronunciation": "라 팽뛰르", "korean": "그림, 회화" },
+    { "french": "la natation", "pronunciation": "라 나타시옹", "korean": "수영" },
+    { "french": "cuisiner", "pronunciation": "퀴지네", "korean": "요리하다" },
+    { "french": "le passe-temps", "pronunciation": "르 파스땅", "korean": "취미, 오락" },
+    { "french": "pratiquer", "pronunciation": "프라티게", "korean": "실천하다, 운동하다" }
+  ]
+}

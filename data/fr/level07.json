@@ -1,0 +1,73 @@
+{
+  "level": 7,
+  "title": "택시 & 대중교통",
+  "titleFr": "Taxi et Transports en Commun",
+  "description": "프랑스어로 택시와 대중교통을 이용하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Bonjour, je voudrais aller à la gare de Lyon, s'il vous plaît.", "pronunciation": "봉주르, 쥬 부드헤 알레 아 라 가르 드 리옹, 실 부 플레.", "korean": "안녕하세요, 리옹 역으로 가 주세요." },
+        { "french": "Taxi ! Pouvez-vous m'emmener à l'aéroport Charles de Gaulle ?", "pronunciation": "딱시! 뿌베 부 멍므네 아 라에로뽀르 샤를 드 골?", "korean": "택시! 샤를 드 골 공항에 데려다줄 수 있나요?" },
+        { "french": "Bonjour, c'est libre ? Je vais au centre-ville.", "pronunciation": "봉주르, 세 리브르? 쥬 베 오 쌍뜨르 빌.", "korean": "안녕하세요, 비었나요? 시내 중심으로 가려고요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Oui, montez. Ça prendra environ vingt minutes.", "pronunciation": "위, 몽떼. 사 프헝드하 엉비홍 벙 미뉘뜨.", "korean": "네, 타세요. 약 20분 걸릴 거예요." },
+        { "french": "Bien sûr. Mettez vos bagages dans le coffre.", "pronunciation": "비엥 쉬르. 메떼 보 바가쥬 덩 르 꼬프르.", "korean": "물론이죠. 짐은 트렁크에 넣으세요." },
+        { "french": "Oui, c'est libre. Le centre-ville, c'est parti !", "pronunciation": "위, 세 리브르. 르 쌍뜨르 빌, 세 빠르띠!", "korean": "네, 비었어요. 시내 중심으로 출발합니다!" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Il y a beaucoup de circulation aujourd'hui ?", "pronunciation": "일 이 아 보꾸 드 시르뀔라시옹 오주르뒤이?", "korean": "오늘 교통 체증이 심한가요?" },
+        { "french": "On peut prendre un chemin plus rapide ?", "pronunciation": "옹 뵈 프헝드르 엉 슈멩 플뤼 하삐드?", "korean": "더 빠른 길로 갈 수 있나요?" },
+        { "french": "Combien ça va coûter à peu près ?", "pronunciation": "꽁비엥 사 바 꾸떼 아 뵈 프헤?", "korean": "대략 얼마 정도 될까요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Un peu, c'est l'heure de pointe. On va passer par les petites rues.", "pronunciation": "엉 뵈, 세 뢰르 드 쁘앙뜨. 옹 바 빠세 빠르 레 쁘띠뜨 뤼.", "korean": "좀 그래요, 출퇴근 시간이거든요. 작은 골목으로 갈게요." },
+        { "french": "Je connais un raccourci. Ne vous inquiétez pas.", "pronunciation": "쥬 꼬네 엉 하꾸르시. 느 부 쟁끼에떼 빠.", "korean": "지름길을 알아요. 걱정 마세요." },
+        { "french": "Ce sera environ trente euros avec le compteur.", "pronunciation": "스 스하 엉비홍 뜨헝뜨 외로 아벡 르 꽁뙤르.", "korean": "미터기로 약 30유로 정도 될 거예요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "D'accord. Au fait, où est-ce que je peux acheter un ticket de métro ?", "pronunciation": "다꼬르. 오 페, 우 에스끄 쥬 뵈 아슈떼 엉 띠게 드 메뜨로?", "korean": "알겠어요. 참, 지하철 표는 어디서 살 수 있나요?" },
+        { "french": "Merci. Quelle ligne de métro va à Montmartre ?", "pronunciation": "메르시. 겔 리뉴 드 메뜨로 바 아 몽마르뜨르?", "korean": "감사해요. 몽마르트르로 가는 지하철은 몇 호선이에요?" },
+        { "french": "Vous connaissez les horaires du dernier métro ?", "pronunciation": "부 꼬네세 레 조헤르 뒤 데르니에 메뜨로?", "korean": "막차 지하철 시간을 아시나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Vous pouvez acheter des tickets aux distributeurs automatiques dans la station.", "pronunciation": "부 뿌베 아슈떼 데 띠게 오 디스뜨리뷔뙤르 오또마띠끄 덩 라 스따시옹.", "korean": "역 안 자동판매기에서 표를 살 수 있어요." },
+        { "french": "C'est la ligne douze. Prenez-la à Abbesses.", "pronunciation": "세 라 리뉴 두즈. 프르네 라 아 아베스.", "korean": "12호선이에요. 아베스 역에서 타세요." },
+        { "french": "Le dernier métro part vers une heure du matin.", "pronunciation": "르 데르니에 메뜨로 빠르 베르 윈 외르 뒤 마떵.", "korean": "막차는 새벽 1시쯤 출발해요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Parfait, merci pour les infos. Vous pouvez me déposer ici.", "pronunciation": "빠르페, 메르시 뿌르 레 쟁포. 부 뿌베 므 데뽀제 이시.", "korean": "좋아요, 정보 감사해요. 여기서 내려주세요." },
+        { "french": "Super, merci beaucoup. Combien je vous dois ?", "pronunciation": "쉬페르, 메르시 보꾸. 꽁비엥 쥬 부 두아?", "korean": "좋아요, 감사합니다. 얼마를 드리면 되나요?" },
+        { "french": "Merci pour le trajet et les conseils. Bonne journée !", "pronunciation": "메르시 뿌르 르 뜨라제 에 레 꽁세이. 본 주르네!", "korean": "이동과 조언 감사합니다. 좋은 하루 보내세요!" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "le taxi", "pronunciation": "르 딱시", "korean": "택시" },
+    { "french": "le métro", "pronunciation": "르 메뜨로", "korean": "지하철" },
+    { "french": "le bus", "pronunciation": "르 뷔스", "korean": "버스" },
+    { "french": "la gare", "pronunciation": "라 가르", "korean": "기차역" },
+    { "french": "un ticket / un billet", "pronunciation": "엉 띠게 / 엉 비예", "korean": "표" },
+    { "french": "la circulation", "pronunciation": "라 시르뀔라시옹", "korean": "교통" },
+    { "french": "monter / descendre", "pronunciation": "몽떼 / 데셩드르", "korean": "타다 / 내리다" }
+  ]
+}

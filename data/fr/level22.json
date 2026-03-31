@@ -1,0 +1,74 @@
+{
+  "level": 22,
+  "title": "긴급 상황",
+  "titleFr": "Situations d'Urgence",
+  "description": "프랑스어로 긴급 상황에서 필요한 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Au secours ! J'ai besoin d'aide !", "pronunciation": "오 스쿠르! 제 브주앙 데드!", "korean": "도와주세요! 도움이 필요해요!" },
+        { "french": "Excusez-moi, c'est une urgence. Appelez la police !", "pronunciation": "엑스퀴제 무아, 세 윈 위르정스. 아플레 라 폴리스!", "korean": "실례합니다, 긴급 상황이에요. 경찰을 불러주세요!" },
+        { "french": "J'ai perdu mon portefeuille et mon passeport !", "pronunciation": "제 페르뒤 몽 포르트푀이 에 몽 파스포르!", "korean": "지갑이랑 여권을 잃어버렸어요!" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Calmez-vous. Qu'est-ce qui s'est passé ?", "pronunciation": "칼메 부. 게스 키 세 파세?", "korean": "진정하세요. 무슨 일이 있었나요?" },
+        { "french": "D'accord, je vais appeler le 17 tout de suite.", "pronunciation": "다코르, 주 베 아플레 르 디세트 뚜 드 쉬트.", "korean": "네, 지금 바로 17번(경찰)에 전화할게요." },
+        { "french": "Où les avez-vous perdus ? Vous souvenez-vous ?", "pronunciation": "우 레 자베 부 페르뒤? 부 수브네 부?", "korean": "어디서 잃어버리셨어요? 기억나세요?" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "On m'a volé mon sac dans le métro.", "pronunciation": "옹 마 볼레 몽 삭 당 르 메트로.", "korean": "지하철에서 가방을 소매치기당했어요." },
+        { "french": "Il y a eu un accident de voiture devant moi.", "pronunciation": "일 이 아 위 앙 낙시덩 드 부아뛰르 드방 무아.", "korean": "제 앞에서 자동차 사고가 났어요." },
+        { "french": "Je crois que c'était dans le restaurant tout à l'heure.", "pronunciation": "주 크루아 크 세테 당 르 레스토랑 뚜 타 뢰르.", "korean": "아까 식당에서 잃어버린 것 같아요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Vous devez aller au commissariat pour porter plainte.", "pronunciation": "부 드베 알레 오 코미사리아 뿌르 포르테 플렝트.", "korean": "경찰서에 가서 신고해야 해요." },
+        { "french": "Quelqu'un est blessé ? J'appelle le SAMU, le 15.", "pronunciation": "겔껭 에 블레세? 자펠 르 사뮈, 르 캥즈.", "korean": "다친 사람이 있나요? 응급 구조대 15번에 전화할게요." },
+        { "french": "Retournez au restaurant et demandez au serveur.", "pronunciation": "르투르네 오 레스토랑 에 드멍데 오 세르뵈르.", "korean": "식당에 돌아가서 종업원에게 물어보세요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Où est le commissariat le plus proche ?", "pronunciation": "우 에 르 코미사리아 르 플뤼 프로쉬?", "korean": "가장 가까운 경찰서가 어디인가요?" },
+        { "french": "Je ne parle pas très bien français. Pouvez-vous m'aider ?", "pronunciation": "주 느 파를 파 트레 비앙 프랑세. 뿌베 부 메데?", "korean": "프랑스어를 잘 못해요. 도와주실 수 있나요?" },
+        { "french": "Je dois aussi contacter mon ambassade.", "pronunciation": "주 두아 오시 콩탁테 몽 남바사드.", "korean": "대사관에도 연락해야 해요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "C'est à 200 mètres, prenez la première rue à gauche.", "pronunciation": "세 타 두 상 메트르, 프르네 라 프르미에르 뤼 아 고쉬.", "korean": "200미터 앞, 첫 번째 왼쪽 길로 가세요." },
+        { "french": "Ne vous inquiétez pas, je vais vous accompagner.", "pronunciation": "느 부 쟁키에테 파, 주 베 부 자콩파녜.", "korean": "걱정 마세요, 같이 가 드릴게요." },
+        { "french": "L'ambassade de Corée est dans le 16e arrondissement.", "pronunciation": "렁바사드 드 코레 에 당 르 세지엠 아롱디스멍.", "korean": "한국 대사관은 16구에 있어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci infiniment. Vous êtes très gentil.", "pronunciation": "메르시 앵피니멍. 부 제트 트레 정티.", "korean": "정말 감사합니다. 너무 친절하시네요." },
+        { "french": "Merci de votre aide. Je suis vraiment soulagé.", "pronunciation": "메르시 드 보트르 에드. 주 쉬 브레멍 술라제.", "korean": "도움 감사합니다. 정말 안심이 됐어요." },
+        { "french": "Heureusement que vous étiez là. Merci beaucoup.", "pronunciation": "뢰르즈멍 크 부 제티에 라. 메르시 보쿠.", "korean": "다행히 당신이 있었네요. 정말 감사해요." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "l'urgence", "pronunciation": "뤼르정스", "korean": "긴급 상황" },
+    { "french": "la police", "pronunciation": "라 폴리스", "korean": "경찰" },
+    { "french": "le commissariat", "pronunciation": "르 코미사리아", "korean": "경찰서" },
+    { "french": "l'ambassade", "pronunciation": "렁바사드", "korean": "대사관" },
+    { "french": "voler", "pronunciation": "볼레", "korean": "훔치다" },
+    { "french": "porter plainte", "pronunciation": "포르테 플렝트", "korean": "신고하다" },
+    { "french": "un accident", "pronunciation": "앙 낙시덩", "korean": "사고" },
+    { "french": "blessé", "pronunciation": "블레세", "korean": "부상당한" }
+  ]
+}

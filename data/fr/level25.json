@@ -1,0 +1,74 @@
+{
+  "level": 25,
+  "title": "종합 회화",
+  "titleFr": "Conversation Générale",
+  "description": "프랑스어 종합 회화로 다양한 상황에서의 표현을 복습해 봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Pierre, ça fait longtemps ! Comment allez-vous ?", "pronunciation": "피에르, 사 페 롱땅! 코멍 탈레 부?", "korean": "피에르, 오랜만이에요! 어떻게 지내세요?" },
+        { "french": "Bonjour Pierre. Vous avez l'air en forme.", "pronunciation": "봉주르 피에르. 부 자베 레르 엉 포름.", "korean": "안녕하세요 피에르. 건강해 보이세요." },
+        { "french": "Salut Pierre ! Ça me fait plaisir de vous revoir.", "pronunciation": "살뤼 피에르! 사 므 페 플레지르 드 부 르부아르.", "korean": "안녕 피에르! 다시 만나서 반가워요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Youngmin ! Quelle surprise ! Je vais très bien, merci.", "pronunciation": "영민! 겔 쉬르프리즈! 주 베 트레 비앙, 메르시.", "korean": "영민! 정말 반갑네요! 아주 잘 지내요." },
+        { "french": "Merci ! Je reviens de vacances en Provence.", "pronunciation": "메르시! 주 르비앙 드 바캉스 엉 프로벙스.", "korean": "고마워요! 프로방스에서 휴가 다녀왔어요." },
+        { "french": "Moi aussi ! Votre français s'est beaucoup amélioré !", "pronunciation": "무아 오시! 보트르 프랑세 세 보쿠 아멜리오레!", "korean": "저도요! 프랑스어가 정말 많이 늘었네요!" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci ! J'étudie tous les jours. La France me manque.", "pronunciation": "메르시! 제뛰디 뚜 레 주르. 라 프랑스 므 멍크.", "korean": "고마워요! 매일 공부하고 있어요. 프랑스가 그리워요." },
+        { "french": "La Provence ! C'est l'endroit que je veux visiter le plus.", "pronunciation": "라 프로벙스! 세 렁드루아 크 주 뵈 비지테 르 플뤼.", "korean": "프로방스! 제가 가장 가보고 싶은 곳이에요." },
+        { "french": "J'ai beaucoup pratiqué. On va prendre un café ensemble ?", "pronunciation": "제 보쿠 프라티게. 옹 바 프렁드르 앙 카페 엉상블?", "korean": "많이 연습했어요. 같이 커피 한잔할까요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Vous devriez revenir cet été. Je vous ferai visiter.", "pronunciation": "부 드브리에 르브니르 세 떼떼. 주 부 프레 비지테.", "korean": "올여름에 다시 오세요. 제가 안내해 드릴게요." },
+        { "french": "Les champs de lavande sont incroyables en juillet.", "pronunciation": "레 숑 드 라벙드 송 쟁크루아야블 엉 쥐이예.", "korean": "7월에 라벤더 밭이 정말 장관이에요." },
+        { "french": "Avec plaisir ! Je connais un excellent café pas loin.", "pronunciation": "아벡 플레지르! 주 코네 앙 넥셀랑 카페 파 루앙.", "korean": "좋아요! 가까운 데 아주 좋은 카페를 알아요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Ce serait formidable ! Qu'est-ce que vous recommandez ?", "pronunciation": "스 스레 포르미다블! 게스 크 부 르코멍데?", "korean": "정말 좋겠어요! 뭘 추천하세요?" },
+        { "french": "J'ai appris tellement de choses grâce à vous.", "pronunciation": "제 아프리 텔멍 드 쇼즈 그라스 아 부.", "korean": "당신 덕분에 정말 많이 배웠어요." },
+        { "french": "Vous savez, vivre en France a changé ma vie.", "pronunciation": "부 사베, 비브르 엉 프랑스 아 숑제 마 비.", "korean": "아시죠, 프랑스에서의 생활이 제 인생을 바꿨어요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Visitez Nice, Lyon et les châteaux de la Loire aussi.", "pronunciation": "비지테 니스, 리옹 에 레 샤토 드 라 루아르 오시.", "korean": "니스, 리옹, 루아르 고성도 꼭 가보세요." },
+        { "french": "C'est réciproque ! J'ai appris beaucoup sur la Corée.", "pronunciation": "세 레시프로크! 제 아프리 보쿠 쉬르 라 코레.", "korean": "저도 마찬가지예요! 한국에 대해 많이 배웠어요." },
+        { "french": "C'est beau de voir quelqu'un s'ouvrir à une nouvelle culture.", "pronunciation": "세 보 드 부아르 겔껭 수브리르 아 윈 누벨 퀼뛰르.", "korean": "새로운 문화에 마음을 여는 모습이 아름다워요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci pour tout, Pierre. Notre amitié est précieuse pour moi.", "pronunciation": "메르시 뿌르 뚜, 피에르. 노트르 아미티에 에 프레시외즈 뿌르 무아.", "korean": "모든 것에 감사해요, 피에르. 우리 우정은 저에게 소중해요." },
+        { "french": "À bientôt ! On se revoit très vite, j'espère.", "pronunciation": "아 비앙토! 옹 스 르부아 트레 비트, 제스페르.", "korean": "곧 봐요! 빨리 다시 만나길 바라요." },
+        { "french": "Au revoir Pierre ! Prenez soin de vous.", "pronunciation": "오 르부아르 피에르! 프르네 수앙 드 부.", "korean": "안녕히 가세요 피에르! 건강하세요." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "l'amitié", "pronunciation": "라미티에", "korean": "우정" },
+    { "french": "s'améliorer", "pronunciation": "사멜리오레", "korean": "향상되다" },
+    { "french": "recommander", "pronunciation": "르코멍데", "korean": "추천하다" },
+    { "french": "formidable", "pronunciation": "포르미다블", "korean": "놀라운, 멋진" },
+    { "french": "réciproque", "pronunciation": "레시프로크", "korean": "상호적인" },
+    { "french": "précieux", "pronunciation": "프레시외", "korean": "소중한" },
+    { "french": "prendre soin de", "pronunciation": "프렁드르 수앙 드", "korean": "돌보다, 챙기다" },
+    { "french": "à bientôt", "pronunciation": "아 비앙토", "korean": "곧 만나요" }
+  ]
+}

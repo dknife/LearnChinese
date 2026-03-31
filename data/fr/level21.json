@@ -1,0 +1,74 @@
+{
+  "level": 21,
+  "title": "관광 & 사진",
+  "titleFr": "Tourisme et Photos",
+  "description": "프랑스어로 관광과 사진 촬영에 필요한 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Excusez-moi, pourriez-vous prendre une photo de moi ?", "pronunciation": "엑스퀴제 무아, 뿌리에 부 프렁드르 윈 포토 드 무아?", "korean": "실례합니다, 제 사진 좀 찍어주시겠어요?" },
+        { "french": "Quels sont les monuments à ne pas manquer à Paris ?", "pronunciation": "겔 송 레 모뉘멍 아 느 파 멍게 아 파리?", "korean": "파리에서 꼭 봐야 할 명소가 뭔가요?" },
+        { "french": "Où est l'office de tourisme le plus proche ?", "pronunciation": "우 에 로피스 드 투리즘 르 플뤼 프로쉬?", "korean": "가장 가까운 관광 안내소가 어디인가요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Bien sûr ! Souriez ! Voilà, c'est fait.", "pronunciation": "비앙 쉬르! 수리에! 부알라, 세 페.", "korean": "물론이죠! 웃으세요! 됐어요." },
+        { "french": "La Tour Eiffel, le Louvre et Notre-Dame sont incontournables.", "pronunciation": "라 뚜르 에펠, 르 루브르 에 노트르담 송 탱콩투르나블.", "korean": "에펠탑, 루브르, 노트르담은 필수예요." },
+        { "french": "C'est juste en face, à côté de la mairie.", "pronunciation": "세 쥐스트 엉 파스, 아 코테 드 라 메리.", "korean": "바로 맞은편, 시청 옆에 있어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci ! La vue d'ici est magnifique.", "pronunciation": "메르시! 라 뷔 디시 에 마니피크.", "korean": "감사해요! 여기 경치가 정말 아름답네요." },
+        { "french": "Est-ce qu'on peut monter en haut de la Tour Eiffel ?", "pronunciation": "에스 콩 뿌 몽테 엉 오 드 라 뚜르 에펠?", "korean": "에펠탑 꼭대기까지 올라갈 수 있나요?" },
+        { "french": "Y a-t-il une visite guidée en coréen ?", "pronunciation": "이 아 틸 윈 비지트 기데 엉 코레앙?", "korean": "한국어 가이드 투어가 있나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Oui, c'est l'un des plus beaux panoramas de Paris.", "pronunciation": "위, 세 렁 데 플뤼 보 파노라마 드 파리.", "korean": "네, 파리에서 가장 아름다운 전망 중 하나예요." },
+        { "french": "Oui, il y a un ascenseur ou on peut prendre l'escalier.", "pronunciation": "위, 일 이 아 앙 나상쇠르 우 옹 뿌 프렁드르 레스칼리에.", "korean": "네, 엘리베이터가 있고 계단으로도 갈 수 있어요." },
+        { "french": "Malheureusement non, mais il y a un audioguide en coréen.", "pronunciation": "말뢰르즈멍 농, 메 일 이 아 앙 노디오기드 엉 코레앙.", "korean": "아쉽지만 없어요. 대신 한국어 오디오 가이드가 있어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Combien coûte l'entrée du musée du Louvre ?", "pronunciation": "콩비앙 쿠트 렁트레 뒤 뮈제 뒤 루브르?", "korean": "루브르 박물관 입장료가 얼마인가요?" },
+        { "french": "Est-ce qu'on peut prendre des photos à l'intérieur ?", "pronunciation": "에스 콩 뿌 프렁드르 데 포토 아 랭테리외르?", "korean": "실내에서 사진을 찍어도 되나요?" },
+        { "french": "Je voudrais visiter Montmartre cet après-midi.", "pronunciation": "주 부드레 비지테 몽마르트르 세 타프레 미디.", "korean": "오후에 몽마르트르를 방문하고 싶어요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "C'est 17 euros. Gratuit le premier dimanche du mois.", "pronunciation": "세 디세트 뇌로. 그라뛰이 르 프르미에 디멍슈 뒤 무아.", "korean": "17유로예요. 매달 첫째 일요일은 무료입니다." },
+        { "french": "Oui, mais sans flash, s'il vous plaît.", "pronunciation": "위, 메 상 플래쉬, 실 부 플레.", "korean": "네, 하지만 플래시 없이 부탁드려요." },
+        { "french": "Bonne idée ! Prenez le métro ligne 2 jusqu'à Anvers.", "pronunciation": "본 이데! 프르네 르 메트로 리뉴 두 쥐스카 엉베르.", "korean": "좋은 생각이에요! 지하철 2호선으로 앙베르역까지 가세요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Génial ! Je vais y aller demain matin.", "pronunciation": "제니알! 주 베 지 알레 드맹 마탱.", "korean": "좋아요! 내일 아침에 가볼게요." },
+        { "french": "D'accord, je ferai attention. Merci du conseil.", "pronunciation": "다코르, 주 프레 아텅시옹. 메르시 뒤 콩세이.", "korean": "네, 조심할게요. 조언 감사해요." },
+        { "french": "Merci, Pierre ! Ce voyage est vraiment inoubliable.", "pronunciation": "메르시, 피에르! 스 부아야주 에 브레멍 이누블리아블.", "korean": "고마워요, 피에르! 이 여행은 정말 잊을 수 없을 거예요." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "le tourisme", "pronunciation": "르 투리즘", "korean": "관광" },
+    { "french": "le monument", "pronunciation": "르 모뉘멍", "korean": "명소, 기념물" },
+    { "french": "le musée", "pronunciation": "르 뮈제", "korean": "박물관, 미술관" },
+    { "french": "la photo", "pronunciation": "라 포토", "korean": "사진" },
+    { "french": "la visite guidée", "pronunciation": "라 비지트 기데", "korean": "가이드 투어" },
+    { "french": "l'entrée", "pronunciation": "렁트레", "korean": "입장, 입구" },
+    { "french": "le panorama", "pronunciation": "르 파노라마", "korean": "전경, 파노라마" },
+    { "french": "inoubliable", "pronunciation": "이누블리아블", "korean": "잊을 수 없는" }
+  ]
+}

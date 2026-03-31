@@ -1,0 +1,74 @@
+{
+  "level": 14,
+  "title": "날씨 & 계절",
+  "titleFr": "La Météo et les Saisons",
+  "description": "프랑스어로 날씨와 계절에 관한 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Quel temps fait-il aujourd'hui ?", "pronunciation": "겔 땅 페 띨 오주르뒤이?", "korean": "오늘 날씨가 어때요?" },
+        { "french": "Il fait vraiment beau ce matin !", "pronunciation": "일 페 브레멍 보 스 마탱!", "korean": "오늘 아침 날씨가 정말 좋네요!" },
+        { "french": "On dirait qu'il va pleuvoir.", "pronunciation": "옹 디레 킬 바 플뢰부아르.", "korean": "비가 올 것 같아요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Il fait très beau, il y a du soleil.", "pronunciation": "일 페 트레 보, 일 이 아 뒤 솔레이.", "korean": "아주 맑고 햇살이 좋아요." },
+        { "french": "Oui, c'est parfait pour se promener.", "pronunciation": "위, 세 파르페 뿌르 스 프롬네.", "korean": "네, 산책하기 딱 좋아요." },
+        { "french": "Il fait un peu nuageux et frais.", "pronunciation": "일 페 앙 뿌 뉘아죄 에 프레.", "korean": "좀 흐리고 서늘해요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Quelle est votre saison préférée, Pierre ?", "pronunciation": "겔 에 보트르 세종 프레페레, 피에르?", "korean": "피에르, 가장 좋아하는 계절이 뭐예요?" },
+        { "french": "Vous aimez l'hiver en France ?", "pronunciation": "부 제메 리베르 앙 프랑스?", "korean": "프랑스의 겨울을 좋아하세요?" },
+        { "french": "Est-ce qu'il neige souvent ici ?", "pronunciation": "에스 킬 네주 수방 이시?", "korean": "여기 눈이 자주 오나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Je préfère le printemps, les fleurs sont magnifiques.", "pronunciation": "주 프레페르 르 프랭땅, 레 플뢰르 송 마니피크.", "korean": "봄이 좋아요, 꽃들이 아름답거든요." },
+        { "french": "L'automne est aussi très joli avec les feuilles colorées.", "pronunciation": "로톤 에 토시 트레 졸리 아벡 레 푀이 콜로레.", "korean": "가을도 단풍이 예뻐서 좋아요." },
+        { "french": "Non, il neige rarement à Paris.", "pronunciation": "농, 일 네주 라르멍 아 파리.", "korean": "아뇨, 파리에는 눈이 드물어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "En Corée, l'été est très chaud et humide.", "pronunciation": "앙 코레, 레떼 에 트레 쇼 에 위미드.", "korean": "한국의 여름은 매우 덥고 습해요." },
+        { "french": "Il pleut beaucoup pendant la mousson.", "pronunciation": "일 플뢰 보쿠 팡당 라 무송.", "korean": "장마철에 비가 많이 와요." },
+        { "french": "La température peut dépasser 35 degrés.", "pronunciation": "라 땅페라뛰르 뿌 데파세 트렁트생크 드그레.", "korean": "기온이 35도를 넘기도 해요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "C'est pareil dans le sud de la France en été.", "pronunciation": "세 파레이 당 르 쉬드 드 라 프랑스 앙 네떼.", "korean": "프랑스 남부도 여름에 비슷해요." },
+        { "french": "Il fait souvent plus de 30 degrés à Nice.", "pronunciation": "일 페 수방 플뤼 드 트렁트 드그레 아 니스.", "korean": "니스는 30도가 넘는 날이 많아요." },
+        { "french": "Mais le climat est sec, donc c'est plus supportable.", "pronunciation": "메 르 클리마 에 섹, 동 세 플뤼 쉬포르타블.", "korean": "하지만 건조해서 견딜 만해요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "J'aimerais bien voir la neige dans les Alpes un jour.", "pronunciation": "제므레 비앙 부아르 라 네주 당 레 잘프 앙 주르.", "korean": "언젠가 알프스의 눈을 보고 싶어요." },
+        { "french": "La météo dit qu'il fera beau demain.", "pronunciation": "라 메테오 디 킬 프라 보 드맹.", "korean": "일기예보에서 내일 맑다고 하네요." },
+        { "french": "J'espère qu'il ne pleuvra pas ce week-end.", "pronunciation": "제스페르 킬 느 플뢰브라 파 스 위캉.", "korean": "주말에 비가 안 왔으면 좋겠어요." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "la météo", "pronunciation": "라 메테오", "korean": "날씨, 일기예보" },
+    { "french": "le soleil", "pronunciation": "르 솔레이", "korean": "태양" },
+    { "french": "la pluie", "pronunciation": "라 플뤼", "korean": "비" },
+    { "french": "la neige", "pronunciation": "라 네주", "korean": "눈" },
+    { "french": "le printemps", "pronunciation": "르 프랭땅", "korean": "봄" },
+    { "french": "l'été", "pronunciation": "레떼", "korean": "여름" },
+    { "french": "l'automne", "pronunciation": "로톤", "korean": "가을" },
+    { "french": "l'hiver", "pronunciation": "리베르", "korean": "겨울" }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "level": 13,
+  "title": "옷 & 외모",
+  "titleFr": "Vêtements et Apparence",
+  "description": "프랑스어로 옷과 외모를 묘사하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Sophie, j'ai besoin de nouveaux vêtements. Tu m'accompagnes ?", "pronunciation": "소피, 제 브주앙 드 누보 베뜨멍. 뒤 마꽁빠뉴?", "korean": "소피, 새 옷이 필요해. 같이 가줄래?" },
+        { "french": "Je cherche une veste pour l'hiver. Vous avez des conseils ?", "pronunciation": "쥬 셰르슈 윈 베스뜨 뿌르 리베르. 부 자베 데 꽁세이?", "korean": "겨울용 재킷을 찾고 있어요. 조언해주실 수 있나요?" },
+        { "french": "Qu'est-ce que tu penses de cette robe ? Elle me va bien ?", "pronunciation": "게스끄 뒤 펑스 드 세뜨 호브? 엘 므 바 비엥?", "korean": "이 원피스 어때? 나한테 잘 어울려?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Avec plaisir ! Tu cherches quelque chose en particulier ?", "pronunciation": "아벡 플레지르! 뒤 셰르슈 겔끄 쇼즈 엉 빠르띠뀔리에?", "korean": "좋아! 특별히 찾는 게 있어?" },
+        { "french": "Oui, cette veste en laine est très chaude et élégante.", "pronunciation": "위, 세뜨 베스뜨 엉 렌 에 뜨헤 쇼드 에 엘레겅뜨.", "korean": "네, 이 울 재킷은 아주 따뜻하고 우아해요." },
+        { "french": "Elle est magnifique ! La couleur rouge te va très bien.", "pronunciation": "엘 에 마니피끄! 라 꿀뢰르 후쥬 뜨 바 뜨헤 비엥.", "korean": "멋지다! 빨간색이 너한테 아주 잘 어울려." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Je voudrais quelque chose de décontracté mais chic. Style parisien.", "pronunciation": "쥬 부드헤 겔끄 쇼즈 드 데꽁뜨락떼 메 쉬끄. 스띨 빠리지엥.", "korean": "캐주얼하면서도 세련된 걸 원해. 파리지앵 스타일로." },
+        { "french": "Je fais du quarante-deux. Vous avez cette taille ?", "pronunciation": "쥬 페 뒤 까헝뜨 두. 부 자베 세뜨 따이?", "korean": "42사이즈예요. 이 사이즈 있나요?" },
+        { "french": "Merci ! Et ces chaussures noires, elles iraient bien avec ?", "pronunciation": "메르시! 에 세 쇼쉬르 누아르, 엘 이헤 비엥 아벡?", "korean": "고마워! 이 검은 구두랑 잘 어울릴까?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Alors essaye ce jean slim avec cette chemise blanche. C'est très chic.", "pronunciation": "알로르 에세이 스 진 슬림 아벡 세뜨 슈미즈 블렁슈. 세 뜨헤 쉬끄.", "korean": "그럼 이 슬림 청바지에 흰 셔츠를 입어봐. 아주 세련돼." },
+        { "french": "Oui, nous avons toutes les tailles. La cabine est par là.", "pronunciation": "위, 누 자봉 뚜뜨 레 따이. 라 까빈 에 빠르 라.", "korean": "네, 모든 사이즈가 있어요. 탈의실은 저쪽이에요." },
+        { "french": "Absolument ! Les chaussures noires vont avec tout.", "pronunciation": "압솔뤼멍! 레 쇼쉬르 누아르 봉 아벡 뚜.", "korean": "물론이지! 검은 구두는 뭐든 잘 어울려." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "J'adore ! Ça me va comme un gant. Tu trouves que ça me grossit pas ?", "pronunciation": "자도르! 사 므 바 꼼 엉 겅. 뒤 뜨루브 끄 사 므 그호시 빠?", "korean": "마음에 들어! 딱 맞아. 나 뚱뚱해 보이진 않아?" },
+        { "french": "La taille est parfaite. Et en bleu, vous l'avez ?", "pronunciation": "라 따이 에 빠르페뜨. 에 엉 블뢰, 부 라베?", "korean": "사이즈가 딱 맞아요. 파란색도 있나요?" },
+        { "french": "J'aimerais aussi un foulard pour compléter la tenue.", "pronunciation": "제므헤 오시 엉 풀라르 뿌르 꽁플레떼 라 뜨뉘.", "korean": "옷차림을 완성할 스카프도 하나 갖고 싶어." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Pas du tout ! Au contraire, ça te mincit. Tu es très élégant.", "pronunciation": "빠 뒤 뚜! 오 꽁뜨헤르, 사 뜨 멩시. 뒤 에 뜨헤 엘레겅.", "korean": "전혀! 오히려 날씬해 보여. 아주 우아해." },
+        { "french": "Oui, voilà le même modèle en bleu marine. C'est très tendance.", "pronunciation": "위, 부알라 르 멤 모델 엉 블뢰 마힌. 세 뜨헤 떵덩스.", "korean": "네, 여기 같은 모델 남색이요. 아주 유행이에요." },
+        { "french": "Ce foulard en soie irait parfaitement. Regarde ce motif.", "pronunciation": "스 풀라르 엉 수아 이헤 빠르페뜨멍. 르가르드 스 모띠프.", "korean": "이 실크 스카프가 완벽할 거야. 이 무늬 봐." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci Sophie, tu as vraiment bon goût ! Je prends tout ça.", "pronunciation": "메르시 소피, 뒤 아 브헤멍 봉 구! 쥬 프헝 뚜 사.", "korean": "고마워 소피, 센스가 정말 좋아! 다 살게." },
+        { "french": "Parfait, je prends les deux. Vous faites des retouches ?", "pronunciation": "빠르페, 쥬 프헝 레 두. 부 페뜨 데 르뚜슈?", "korean": "좋아요, 둘 다 살게요. 수선도 해주시나요?" },
+        { "french": "C'est magnifique ! Avec cette tenue, je serai le plus élégant de la soirée.", "pronunciation": "세 마니피끄! 아벡 세뜨 뜨뉘, 쥬 스헤 르 플뤼 엘레겅 드 라 수아헤.", "korean": "멋져! 이 옷이면 파티에서 가장 우아할 거야." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "les vêtements", "pronunciation": "레 베뜨멍", "korean": "옷" },
+    { "french": "la robe", "pronunciation": "라 호브", "korean": "원피스, 드레스" },
+    { "french": "le pantalon", "pronunciation": "르 빵딸롱", "korean": "바지" },
+    { "french": "la chemise", "pronunciation": "라 슈미즈", "korean": "셔츠" },
+    { "french": "les chaussures", "pronunciation": "레 쇼쉬르", "korean": "신발" },
+    { "french": "la taille", "pronunciation": "라 따이", "korean": "사이즈" },
+    { "french": "essayer", "pronunciation": "에세이에", "korean": "입어보다" },
+    { "french": "élégant(e)", "pronunciation": "엘레겅(뜨)", "korean": "우아한, 세련된" }
+  ]
+}

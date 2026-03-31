@@ -1,0 +1,74 @@
+{
+  "level": 8,
+  "title": "시간 표현",
+  "titleFr": "Exprimer l'Heure",
+  "description": "프랑스어로 시간을 묻고 표현하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Excusez-moi, quelle heure est-il ?", "pronunciation": "엑스뀌제 무아, 겔 외르 에 띨?", "korean": "실례합니다, 지금 몇 시예요?" },
+        { "french": "Vous avez l'heure, s'il vous plaît ?", "pronunciation": "부 자베 뢰르, 실 부 플레?", "korean": "시간 좀 알 수 있을까요?" },
+        { "french": "Il est quelle heure maintenant ?", "pronunciation": "일 에 겔 외르 멩뜨넝?", "korean": "지금 몇 시죠?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Il est neuf heures et demie.", "pronunciation": "일 에 뇌브 외르 에 드미.", "korean": "9시 30분이에요." },
+        { "french": "Il est midi pile.", "pronunciation": "일 에 미디 삘.", "korean": "정오 정각이에요." },
+        { "french": "Il est trois heures moins le quart.", "pronunciation": "일 에 뜨후아 외르 무앙 르 까르.", "korean": "2시 45분(3시 15분 전)이에요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci. À quelle heure ouvre le musée ?", "pronunciation": "메르시. 아 겔 외르 우브르 르 뮈제?", "korean": "감사해요. 박물관은 몇 시에 열어요?" },
+        { "french": "Le cours commence à quelle heure ?", "pronunciation": "르 꾸르 꼬멍스 아 겔 외르?", "korean": "수업은 몇 시에 시작해요?" },
+        { "french": "Le train part à quelle heure ?", "pronunciation": "르 뜨헹 빠르 아 겔 외르?", "korean": "기차는 몇 시에 출발해요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Le musée ouvre à dix heures du matin et ferme à six heures du soir.", "pronunciation": "르 뮈제 우브르 아 디즈 외르 뒤 마떵 에 페름 아 시즈 외르 뒤 수아르.", "korean": "박물관은 오전 10시에 열고 오후 6시에 닫아요." },
+        { "french": "Le cours commence à huit heures et quart.", "pronunciation": "르 꾸르 꼬멍스 아 위뜨 외르 에 까르.", "korean": "수업은 8시 15분에 시작해요." },
+        { "french": "Le prochain train part à quatorze heures trente-cinq.", "pronunciation": "르 프호쉥 뜨헹 빠르 아 까또르즈 외르 뜨헝뜨 쌩끄.", "korean": "다음 기차는 14시 35분에 출발해요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Je suis en retard ! Le rendez-vous est dans combien de temps ?", "pronunciation": "쥬 스위 엉 르따르! 르 헝데부 에 덩 꽁비엥 드 떵?", "korean": "늦었어요! 약속까지 얼마나 남았어요?" },
+        { "french": "J'ai une réunion à quatorze heures. J'ai encore le temps ?", "pronunciation": "제 윈 헤위니옹 아 까또르즈 외르. 제 엉꼬르 르 떵?", "korean": "2시에 회의가 있어요. 아직 시간이 있나요?" },
+        { "french": "À quelle heure tu es libre ce soir ?", "pronunciation": "아 겔 외르 뒤 에 리브르 스 수아르?", "korean": "오늘 저녁 몇 시에 시간 돼?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Dans vingt minutes. Dépêche-toi !", "pronunciation": "덩 벙 미뉘뜨. 데뻬슈 뚜아!", "korean": "20분 후예요. 서둘러!" },
+        { "french": "Il est une heure. Tu as encore une heure devant toi.", "pronunciation": "일 에 윈 외르. 뒤 아 엉꼬르 윈 외르 드벙 뚜아.", "korean": "1시예요. 아직 1시간 남았어." },
+        { "french": "Je suis libre à partir de vingt heures. On se retrouve à huit heures ?", "pronunciation": "쥬 스위 리브르 아 빠르띠르 드 벙 외르. 옹 스 르뜨루브 아 위뜨 외르?", "korean": "저녁 8시부터 시간 돼. 8시에 만날까?" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "D'accord, à huit heures devant le restaurant. À ce soir !", "pronunciation": "다꼬르, 아 위뜨 외르 드벙 르 헤스또헝. 아 스 수아르!", "korean": "좋아, 8시에 식당 앞에서. 오늘 저녁에 봐!" },
+        { "french": "Parfait. Je serai là à l'heure. À tout à l'heure !", "pronunciation": "빠르페. 쥬 스헤 라 아 뢰르. 아 뚜 따 뢰르!", "korean": "좋아요. 제시간에 갈게요. 이따 봐요!" },
+        { "french": "Super, je me dépêche. On se voit dans une demi-heure.", "pronunciation": "쉬페르, 쥬 므 데뻬슈. 옹 스 부아 덩 윈 드미 외르.", "korean": "좋아, 서두를게. 30분 후에 보자." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "l'heure", "pronunciation": "뢰르", "korean": "시간" },
+    { "french": "et demie", "pronunciation": "에 드미", "korean": "30분 (반)" },
+    { "french": "et quart", "pronunciation": "에 까르", "korean": "15분" },
+    { "french": "moins le quart", "pronunciation": "무앙 르 까르", "korean": "15분 전" },
+    { "french": "du matin", "pronunciation": "뒤 마떵", "korean": "오전" },
+    { "french": "du soir", "pronunciation": "뒤 수아르", "korean": "오후/저녁" },
+    { "french": "en retard / à l'heure / en avance", "pronunciation": "엉 르따르 / 아 뢰르 / 엉 아벙스", "korean": "늦은 / 정시 / 일찍" },
+    { "french": "se dépêcher", "pronunciation": "스 데뻬셰", "korean": "서두르다" }
+  ]
+}

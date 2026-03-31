@@ -41,6 +41,40 @@ const LANGS = {
       kr_to_foreign: '한국어 → 스페인어',
     },
   },
+  fr: {
+    code: 'fr',
+    name: 'Français',
+    nameKr: '프랑스어',
+    emoji: '🇫🇷',
+    progressKey: 'learnFrench_progress',
+    ttsLang: 'fr-FR',
+    ttsRate: 0.9,
+    foreignField: 'french',
+    pronField: 'pronunciation',
+    titleField: 'titleFr',
+    quizLabels: {
+      vocab: '단어 시험',
+      foreign_to_kr: '프랑스어 → 한국어',
+      kr_to_foreign: '한국어 → 프랑스어',
+    },
+  },
+  ja: {
+    code: 'ja',
+    name: '日本語',
+    nameKr: '일본어',
+    emoji: '🇯🇵',
+    progressKey: 'learnJapanese_progress',
+    ttsLang: 'ja-JP',
+    ttsRate: 0.9,
+    foreignField: 'japanese',
+    pronField: 'reading',
+    titleField: 'titleJa',
+    quizLabels: {
+      vocab: '단어 시험',
+      foreign_to_kr: '일본어 → 한국어',
+      kr_to_foreign: '한국어 → 일본어',
+    },
+  },
 };
 
 // ------------------------------------------------------------
@@ -152,7 +186,7 @@ async function handleRoute() {
   let match;
 
   // Language-prefixed routes: #/zh/... or #/es/...
-  match = hash.match(/^#\/(zh|es)\/result\/(\d+)\??(.*)?$/);
+  match = hash.match(/^#\/(zh|es|fr|ja)\/result\/(\d+)\??(.*)?$/);
   if (match) {
     currentLang = match[1];
     const level = parseInt(match[2]);
@@ -161,14 +195,14 @@ async function handleRoute() {
     return;
   }
 
-  match = hash.match(/^#\/(zh|es)\/quiz\/(\d+)$/);
+  match = hash.match(/^#\/(zh|es|fr|ja)\/quiz\/(\d+)$/);
   if (match) {
     currentLang = match[1];
     await renderQuiz(parseInt(match[2]));
     return;
   }
 
-  match = hash.match(/^#\/(zh|es)\/lesson\/(\d+)$/);
+  match = hash.match(/^#\/(zh|es|fr|ja)\/lesson\/(\d+)$/);
   if (match) {
     currentLang = match[1];
     await renderLesson(parseInt(match[2]));
@@ -183,6 +217,16 @@ async function handleRoute() {
   }
   if (hash === '#/es' || hash === '#/spanish') {
     currentLang = 'es';
+    await renderHome();
+    return;
+  }
+  if (hash === '#/fr' || hash === '#/french') {
+    currentLang = 'fr';
+    await renderHome();
+    return;
+  }
+  if (hash === '#/ja' || hash === '#/japanese') {
+    currentLang = 'ja';
     await renderHome();
     return;
   }
@@ -259,8 +303,7 @@ function setAutoTTS(val) { _autoTTS = val; }
 // 음성 목록이 비동기로 로드되므로 미리 요청
 if ('speechSynthesis' in window) {
   window.speechSynthesis.onvoiceschanged = () => {
-    _ttsVoices.zh = findVoice('zh');
-    _ttsVoices.es = findVoice('es');
+    Object.keys(LANGS).forEach(code => { _ttsVoices[code] = findVoice(code); });
   };
   window.speechSynthesis.getVoices();
 }
@@ -308,29 +351,30 @@ function createConfetti() {
 // ------------------------------------------------------------
 async function renderLangSelect() {
   const app = document.getElementById('app');
-  const zhProgress = Progress._getStore('zh').data.completedLevels.length;
-  const esProgress = Progress._getStore('es').data.completedLevels.length;
-  const [zhMeta, esMeta] = await Promise.all([DataLoader.loadMeta('zh'), DataLoader.loadMeta('es')]);
-  const zhTotal = zhMeta.totalLevels;
-  const esTotal = esMeta.totalLevels;
+  const langCodes = Object.keys(LANGS);
+  const metas = await Promise.all(langCodes.map(code => DataLoader.loadMeta(code)));
+
+  let cardsHTML = '';
+  langCodes.forEach((code, i) => {
+    const lang = LANGS[code];
+    const progress = Progress._getStore(code).data.completedLevels.length;
+    const total = metas[i].totalLevels;
+    cardsHTML += `
+      <a href="#/${code}" class="lang-card lang-card-${code}">
+        <span class="lang-card-icon">${lang.emoji}</span>
+        <span class="lang-card-name">${lang.name}</span>
+        <span class="lang-card-desc">${lang.nameKr} 생활회화</span>
+        <span class="lang-card-levels">${progress} / ${total} 레벨 완료</span>
+      </a>
+    `;
+  });
 
   app.innerHTML = `
     <div class="lang-select-page">
       <h1 class="lang-select-title">어떤 언어를 배울까요?</h1>
       <p class="lang-select-subtitle">학습할 언어를 선택하세요</p>
       <div class="lang-cards">
-        <a href="#/zh" class="lang-card lang-card-chinese">
-          <span class="lang-card-icon">🐼</span>
-          <span class="lang-card-name">中文</span>
-          <span class="lang-card-desc">중국어 생활회화</span>
-          <span class="lang-card-levels">${zhProgress} / ${zhTotal} 레벨 완료</span>
-        </a>
-        <a href="#/es" class="lang-card lang-card-spanish">
-          <span class="lang-card-icon">🇪🇸</span>
-          <span class="lang-card-name">Español</span>
-          <span class="lang-card-desc">스페인어 생활회화</span>
-          <span class="lang-card-levels">${esProgress} / ${esTotal} 레벨 완료</span>
-        </a>
+        ${cardsHTML}
       </div>
     </div>
   `;

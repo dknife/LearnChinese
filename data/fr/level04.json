@@ -1,0 +1,74 @@
+{
+  "level": 4,
+  "title": "식당에서 주문",
+  "titleFr": "Commander au Restaurant",
+  "description": "프랑스어로 식당에서 음식을 주문하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Bonjour, je voudrais une table pour deux, s'il vous plaît.", "pronunciation": "봉주르, 쥬 부드헤 윈 따블 뿌르 두, 실 부 플레.", "korean": "안녕하세요, 2인 테이블 부탁합니다." },
+        { "french": "Bonsoir, vous avez une table de libre ?", "pronunciation": "봉수아르, 부 자베 윈 따블 드 리브르?", "korean": "안녕하세요, 빈 테이블이 있나요?" },
+        { "french": "Bonjour, on a réservé une table au nom de Youngmin.", "pronunciation": "봉주르, 옹 아 헤제르베 윈 따블 오 농 드 영민.", "korean": "안녕하세요, 영민 이름으로 예약했습니다." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Bien sûr, suivez-moi. Voici le menu.", "pronunciation": "비엥 쉬르, 쉬이베 무아. 부아시 르 므뉘.", "korean": "물론이죠, 따라오세요. 여기 메뉴입니다." },
+        { "french": "Oui, par ici s'il vous plaît. Je vous apporte la carte.", "pronunciation": "위, 빠르 이시 실 부 플레. 쥬 부 자뽀르뜨 라 까르뜨.", "korean": "네, 이쪽으로요. 메뉴판을 가져다 드릴게요." },
+        { "french": "Oui, votre table est prête. Installez-vous.", "pronunciation": "위, 보뜨르 따블 에 프헤뜨. 엥스딸레 부.", "korean": "네, 테이블이 준비되어 있습니다. 앉으세요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Qu'est-ce que vous recommandez ?", "pronunciation": "게스끄 부 르꼬멍데?", "korean": "추천 메뉴가 뭔가요?" },
+        { "french": "Quel est le plat du jour ?", "pronunciation": "겔 에 르 쁠라 뒤 주르?", "korean": "오늘의 요리가 뭔가요?" },
+        { "french": "Je peux voir la carte des vins ?", "pronunciation": "쥬 뵈 부아르 라 까르뜨 데 벙?", "korean": "와인 리스트를 볼 수 있을까요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Je vous recommande le bœuf bourguignon. C'est notre spécialité.", "pronunciation": "쥬 부 르꼬멍드 르 뵈프 부르기뇽. 세 노뜨르 스페시알리떼.", "korean": "뵈프 부르기뇽을 추천합니다. 저희 전문 요리입니다." },
+        { "french": "Aujourd'hui, c'est le coq au vin. C'est délicieux.", "pronunciation": "오주르뒤이, 세 르 꼬끄 오 벙. 세 델리시외.", "korean": "오늘은 코코뱅입니다. 아주 맛있어요." },
+        { "french": "Notre soupe à l'oignon est très populaire.", "pronunciation": "노뜨르 수프 아 로뇽 에 뜨헤 뽀퓔레르.", "korean": "저희 양파 수프가 아주 인기 있어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Très bien. Je vais prendre le bœuf bourguignon et une salade.", "pronunciation": "뜨헤 비엥. 쥬 베 프헝드르 르 뵈프 부르기뇽 에 윈 살라드.", "korean": "좋아요. 뵈프 부르기뇽과 샐러드 주세요." },
+        { "french": "Je prends le plat du jour et un verre de vin rouge.", "pronunciation": "쥬 프헝 르 쁠라 뒤 주르 에 엉 베르 드 벙 후쥬.", "korean": "오늘의 요리와 적포도주 한 잔 주세요." },
+        { "french": "Pour moi, une soupe à l'oignon et un steak, s'il vous plaît.", "pronunciation": "뿌르 무아, 윈 수프 아 로뇽 에 엉 스떼끄, 실 부 플레.", "korean": "저는 양파 수프와 스테이크 부탁합니다." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Parfait. Et comme boisson ?", "pronunciation": "빠르페. 에 꼼 부아쏭?", "korean": "좋습니다. 음료는요?" },
+        { "french": "Très bien. Vous désirez un dessert aussi ?", "pronunciation": "뜨헤 비엥. 부 데지헤 엉 데세르 오시?", "korean": "좋습니다. 디저트도 드실 건가요?" },
+        { "french": "D'accord. La cuisson du steak, vous la voulez comment ?", "pronunciation": "다꼬르. 라 뀌쏭 뒤 스떼끄, 부 라 불레 꼬멍?", "korean": "알겠습니다. 스테이크 굽기는 어떻게 해 드릴까요?" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Un verre d'eau et l'addition, s'il vous plaît.", "pronunciation": "엉 베르 도 에 라디시옹, 실 부 플레.", "korean": "물 한 잔과 계산서 부탁합니다." },
+        { "french": "Non merci, pas de dessert. L'addition, s'il vous plaît.", "pronunciation": "농 메르시, 빠 드 데세르. 라디시옹, 실 부 플레.", "korean": "아니요, 디저트는 괜찮아요. 계산서 부탁합니다." },
+        { "french": "À point, s'il vous plaît. C'était délicieux, merci !", "pronunciation": "아 쁘앙, 실 부 플레. 세떼 델리시외, 메르시!", "korean": "미디엄으로요. 맛있었습니다, 감사합니다!" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "le menu / la carte", "pronunciation": "르 므뉘 / 라 까르뜨", "korean": "메뉴 / 메뉴판" },
+    { "french": "commander", "pronunciation": "꼬멍데", "korean": "주문하다" },
+    { "french": "le plat du jour", "pronunciation": "르 쁠라 뒤 주르", "korean": "오늘의 요리" },
+    { "french": "l'addition", "pronunciation": "라디시옹", "korean": "계산서" },
+    { "french": "la boisson", "pronunciation": "라 부아쏭", "korean": "음료" },
+    { "french": "délicieux", "pronunciation": "델리시외", "korean": "맛있는" },
+    { "french": "réserver", "pronunciation": "헤제르베", "korean": "예약하다" },
+    { "french": "le dessert", "pronunciation": "르 데세르", "korean": "디저트" }
+  ]
+}

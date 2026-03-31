@@ -1,0 +1,73 @@
+{
+  "level": 23,
+  "title": "직장 & 업무",
+  "titleFr": "Travail et Bureau",
+  "description": "프랑스어로 직장 생활과 업무에 관한 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Bonjour Sophie, la réunion est à quelle heure aujourd'hui ?", "pronunciation": "봉주르 소피, 라 레위니옹 에 아 겔 뢰르 오주르뒤이?", "korean": "안녕 소피, 오늘 회의가 몇 시야?" },
+        { "french": "J'ai terminé le rapport. Voulez-vous le vérifier ?", "pronunciation": "제 테르미네 르 라포르. 불레 부 르 베리피에?", "korean": "보고서를 끝냈어요. 확인해 주시겠어요?" },
+        { "french": "Excusez-moi, je serai en retard à cause du trafic.", "pronunciation": "엑스퀴제 무아, 주 스레 엉 르타르 아 코즈 뒤 트라피크.", "korean": "죄송해요, 교통 때문에 늦을 것 같아요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "La réunion est à 10 heures en salle de conférence B.", "pronunciation": "라 레위니옹 에 아 디 즈뢰르 엉 살 드 콩페렁스 베.", "korean": "회의는 10시에 B 회의실에서 있어요." },
+        { "french": "Oui, envoyez-le moi par email. Je le lirai ce matin.", "pronunciation": "위, 엉부아예 르 무아 파르 이메일. 주 르 리레 스 마탱.", "korean": "네, 이메일로 보내주세요. 오전에 읽을게요." },
+        { "french": "Pas de souci, prenez votre temps.", "pronunciation": "파 드 수시, 프르네 보트르 땅.", "korean": "괜찮아요, 천천히 오세요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Est-ce que le directeur sera présent à la réunion ?", "pronunciation": "에스 크 르 디렉퇴르 스라 프레장 아 라 레위니옹?", "korean": "이사님도 회의에 참석하시나요?" },
+        { "french": "J'ai une présentation à préparer pour vendredi.", "pronunciation": "제 윈 프레장타시옹 아 프레파레 뿌르 방드르디.", "korean": "금요일까지 발표를 준비해야 해요." },
+        { "french": "Pouvez-vous m'expliquer comment fonctionne ce logiciel ?", "pronunciation": "뿌베 부 멕스플리게 코멍 퐁시온 스 로지시엘?", "korean": "이 소프트웨어가 어떻게 작동하는지 설명해 주시겠어요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Oui, il présentera les objectifs du trimestre.", "pronunciation": "위, 일 프레정트라 레 좁젝티프 뒤 트리메스트르.", "korean": "네, 분기 목표를 발표하실 거예요." },
+        { "french": "Vous avez besoin d'aide ? Je peux vous donner des données.", "pronunciation": "부 자베 브주앙 데드? 주 뿌 부 도네 데 도네.", "korean": "도움이 필요하세요? 자료를 드릴 수 있어요." },
+        { "french": "Bien sûr, c'est très intuitif. Je vous montre.", "pronunciation": "비앙 쉬르, 세 트레 쟁뛰이티프. 주 부 몽트르.", "korean": "물론이요, 아주 직관적이에요. 보여드릴게요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci, ce serait très utile.", "pronunciation": "메르시, 스 스레 트레 쥐틸.", "korean": "고마워요, 아주 도움이 될 거예요." },
+        { "french": "Je dois envoyer ce document avant la fin de la journée.", "pronunciation": "주 두아 엉부아예 스 도퀴멍 아방 라 팡 드 라 주르네.", "korean": "오늘 안으로 이 문서를 보내야 해요." },
+        { "french": "On a une date limite pour ce projet ?", "pronunciation": "옹 아 윈 다트 리미트 뿌르 스 프로제?", "korean": "이 프로젝트 마감 기한이 있나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "De rien. N'hésitez pas si vous avez d'autres questions.", "pronunciation": "드 리앙. 네지테 파 시 부 자베 도트르 게스티옹.", "korean": "천만에요. 다른 질문이 있으면 말씀하세요." },
+        { "french": "Envoyez-le au chef d'équipe en copie aussi.", "pronunciation": "엉부아예 르 오 셰프 데키프 엉 코피 오시.", "korean": "팀장에게도 참조로 보내세요." },
+        { "french": "La date limite est le 15 du mois prochain.", "pronunciation": "라 다트 리미트 에 르 캥즈 뒤 무아 프로셍.", "korean": "마감은 다음 달 15일이에요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Compris. Je vais m'organiser pour respecter le délai.", "pronunciation": "콩프리. 주 베 모르가니제 뿌르 레스펙테 르 델레.", "korean": "알겠어요. 기한을 맞추도록 일정을 짜볼게요." },
+        { "french": "D'accord, bonne journée et bon travail à tous !", "pronunciation": "다코르, 본 주르네 에 봉 트라바이 아 뚜스!", "korean": "네, 좋은 하루 보내고 모두 힘내요!" },
+        { "french": "Merci Sophie, on fait une bonne équipe.", "pronunciation": "메르시 소피, 옹 페 윈 본 에키프.", "korean": "고마워 소피, 우리 좋은 팀이야." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "le bureau", "pronunciation": "르 뷔로", "korean": "사무실" },
+    { "french": "la réunion", "pronunciation": "라 레위니옹", "korean": "회의" },
+    { "french": "le rapport", "pronunciation": "르 라포르", "korean": "보고서" },
+    { "french": "la présentation", "pronunciation": "라 프레장타시옹", "korean": "발표, 프레젠테이션" },
+    { "french": "la date limite", "pronunciation": "라 다트 리미트", "korean": "마감 기한" },
+    { "french": "le projet", "pronunciation": "르 프로제", "korean": "프로젝트" },
+    { "french": "le collègue", "pronunciation": "르 콜레그", "korean": "동료" }
+  ]
+}

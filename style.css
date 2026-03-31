@@ -1596,13 +1596,23 @@ html {
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4);
 }
 
-.lang-card-chinese {
+.lang-card-chinese, .lang-card-zh {
   background: linear-gradient(135deg, #dc2626, #b91c1c);
   border: 2px solid rgba(255, 255, 255, 0.15);
 }
 
-.lang-card-spanish {
+.lang-card-spanish, .lang-card-es {
   background: linear-gradient(135deg, #d97706, #b45309);
+  border: 2px solid rgba(255, 255, 255, 0.15);
+}
+
+.lang-card-fr {
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  border: 2px solid rgba(255, 255, 255, 0.15);
+}
+
+.lang-card-ja {
+  background: linear-gradient(135deg, #dc2626, #be185d);
   border: 2px solid rgba(255, 255, 255, 0.15);
 }
 

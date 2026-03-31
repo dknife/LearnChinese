@@ -1,0 +1,74 @@
+{
+  "level": 18,
+  "title": "병원 & 약국",
+  "titleFr": "Hôpital et Pharmacie",
+  "description": "프랑스어로 병원과 약국에서 필요한 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Bonjour, je ne me sens pas bien. J'ai mal à la tête.", "pronunciation": "봉주르, 주 느 므 상 파 비앙. 제 말 아 라 테트.", "korean": "안녕하세요, 몸이 안 좋아요. 두통이 있어요." },
+        { "french": "J'ai de la fièvre depuis hier soir.", "pronunciation": "제 드 라 피에브르 드퓌 이에르 수아르.", "korean": "어젯밤부터 열이 있어요." },
+        { "french": "J'ai très mal à l'estomac.", "pronunciation": "제 트레 말 아 레스토마.", "korean": "위가 매우 아파요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Depuis quand avez-vous ces symptômes ?", "pronunciation": "드퓌 캉 아베 부 세 생프톰?", "korean": "언제부터 이런 증상이 있으셨나요?" },
+        { "french": "Avez-vous pris votre température ?", "pronunciation": "아베 부 프리 보트르 땅페라뛰르?", "korean": "체온을 재보셨나요?" },
+        { "french": "Je vais vous examiner. Asseyez-vous ici.", "pronunciation": "주 베 부 제그자미네. 아세예 부 이시.", "korean": "진찰해 드릴게요. 여기 앉으세요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Depuis deux jours environ.", "pronunciation": "드퓌 두 주르 엉비롱.", "korean": "약 이틀 전부터요." },
+        { "french": "Oui, j'ai 38,5 degrés de fièvre.", "pronunciation": "위, 제 트렁트 위트 생크 드그레 드 피에브르.", "korean": "네, 38.5도 열이 있어요." },
+        { "french": "J'ai aussi le nez qui coule et je tousse.", "pronunciation": "제 오시 르 네 키 쿨 에 주 투스.", "korean": "콧물도 나고 기침도 해요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "C'est probablement un rhume. Je vais vous prescrire des médicaments.", "pronunciation": "세 프로바블멍 앙 륌. 주 베 부 프레스크리르 데 메디카멍.", "korean": "감기 같네요. 약을 처방해 드릴게요." },
+        { "french": "Prenez ce médicament trois fois par jour après les repas.", "pronunciation": "프르네 스 메디카멍 트루아 푸아 파르 주르 아프레 레 르파.", "korean": "이 약을 식후에 하루 세 번 드세요." },
+        { "french": "Reposez-vous bien et buvez beaucoup d'eau.", "pronunciation": "르포제 부 비앙 에 뷔베 보쿠 도.", "korean": "푹 쉬시고 물을 많이 드세요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci, docteur. Où est la pharmacie la plus proche ?", "pronunciation": "메르시, 독퇴르. 우 에 라 파르마시 라 플뤼 프로쉬?", "korean": "감사합니다, 의사 선생님. 가장 가까운 약국이 어디인가요?" },
+        { "french": "Est-ce que j'ai besoin d'une ordonnance ?", "pronunciation": "에스 크 제 브주앙 딘 오르도낭스?", "korean": "처방전이 필요한가요?" },
+        { "french": "Combien de temps faut-il pour guérir ?", "pronunciation": "콩비앙 드 땅 포 띨 뿌르 게리르?", "korean": "완치되려면 얼마나 걸리나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Il y a une pharmacie au coin de la rue.", "pronunciation": "일 이 아 윈 파르마시 오 쿠앙 드 라 뤼.", "korean": "길 모퉁이에 약국이 있어요." },
+        { "french": "Oui, voici votre ordonnance.", "pronunciation": "위, 부아시 보트르 오르도낭스.", "korean": "네, 여기 처방전입니다." },
+        { "french": "En général, trois à cinq jours avec le traitement.", "pronunciation": "앙 제네랄, 트루아 아 생크 주르 아벡 르 트레트멍.", "korean": "보통 치료하면 3~5일이면 돼요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci beaucoup, docteur. Au revoir.", "pronunciation": "메르시 보쿠, 독퇴르. 오 르부아르.", "korean": "감사합니다, 의사 선생님. 안녕히 계세요." },
+        { "french": "D'accord, je vais bien me reposer. Merci.", "pronunciation": "다코르, 주 베 비앙 므 르포제. 메르시.", "korean": "네, 잘 쉬겠습니다. 감사해요." },
+        { "french": "Je vais aller chercher les médicaments tout de suite.", "pronunciation": "주 베 알레 셰르셰 레 메디카멍 뚜 드 쉬트.", "korean": "바로 약을 받으러 갈게요." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "le médecin", "pronunciation": "르 메드생", "korean": "의사" },
+    { "french": "la pharmacie", "pronunciation": "라 파르마시", "korean": "약국" },
+    { "french": "le médicament", "pronunciation": "르 메디카멍", "korean": "약" },
+    { "french": "l'ordonnance", "pronunciation": "로르도낭스", "korean": "처방전" },
+    { "french": "la fièvre", "pronunciation": "라 피에브르", "korean": "열" },
+    { "french": "le rhume", "pronunciation": "르 륌", "korean": "감기" },
+    { "french": "tousser", "pronunciation": "투세", "korean": "기침하다" },
+    { "french": "guérir", "pronunciation": "게리르", "korean": "치료되다, 낫다" }
+  ]
+}

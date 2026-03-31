@@ -1,0 +1,73 @@
+{
+  "level": 20,
+  "title": "호텔 체크인/아웃",
+  "titleFr": "Check-in et Check-out à l'Hôtel",
+  "description": "프랑스어로 호텔 체크인과 체크아웃에 필요한 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Bonsoir, j'ai une réservation au nom de Kang.", "pronunciation": "봉수아르, 제 윈 레제르바시옹 오 농 드 강.", "korean": "안녕하세요, 강이라는 이름으로 예약했어요." },
+        { "french": "Bonjour, je voudrais réserver une chambre pour deux nuits.", "pronunciation": "봉주르, 주 부드레 레제르베 윈 숑브르 뿌르 두 뉘.", "korean": "안녕하세요, 2박으로 방을 예약하고 싶어요." },
+        { "french": "Avez-vous une chambre disponible pour ce soir ?", "pronunciation": "아베 부 윈 숑브르 디스포니블 뿌르 스 수아르?", "korean": "오늘 밤 빈 방이 있나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Bienvenue, monsieur Kang. Votre chambre est au troisième étage.", "pronunciation": "비앙브뉘, 므시외 강. 보트르 숑브르 에 토 트루아지엠 에타주.", "korean": "환영합니다, 강 씨. 방은 3층에 있습니다." },
+        { "french": "Bien sûr. Chambre simple ou double ?", "pronunciation": "비앙 쉬르. 숑브르 생플 우 두블?", "korean": "물론이죠. 싱글룸인가요, 더블룸인가요?" },
+        { "french": "Oui, il nous reste une chambre avec vue sur la ville.", "pronunciation": "위, 일 누 레스트 윈 숑브르 아벡 뷔 쉬르 라 빌.", "korean": "네, 시내 전망 방이 하나 남아 있어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Le petit-déjeuner est inclus ?", "pronunciation": "르 프티 데죄네 에 탱클뤼?", "korean": "조식이 포함되어 있나요?" },
+        { "french": "Une chambre double, s'il vous plaît. Avec salle de bain.", "pronunciation": "윈 숑브르 두블, 실 부 플레. 아벡 살 드 방.", "korean": "더블룸으로요. 욕실 포함이요." },
+        { "french": "C'est combien par nuit ?", "pronunciation": "세 콩비앙 파르 뉘?", "korean": "1박에 얼마인가요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Oui, le petit-déjeuner est servi de 7h à 10h au restaurant.", "pronunciation": "위, 르 프티 데죄네 에 세르비 드 세 뜨뢰르 아 디 즈뢰르 오 레스토랑.", "korean": "네, 조식은 7시부터 10시까지 레스토랑에서 제공됩니다." },
+        { "french": "Toutes nos chambres ont une salle de bain privée.", "pronunciation": "뚜트 노 숑브르 옹 윈 살 드 방 프리베.", "korean": "모든 객실에 전용 욕실이 있어요." },
+        { "french": "C'est 120 euros par nuit, petit-déjeuner inclus.", "pronunciation": "세 상 뱅 뇌로 파르 뉘, 프티 데죄네 탱클뤼.", "korean": "1박에 120유로이고 조식이 포함돼요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Est-ce qu'il y a le wifi gratuit dans la chambre ?", "pronunciation": "에스 킬 이 아 르 위피 그라뛰이 당 라 숑브르?", "korean": "객실에 무료 와이파이가 되나요?" },
+        { "french": "À quelle heure est le check-out ?", "pronunciation": "아 겔 뢰르 에 르 셰카웃?", "korean": "체크아웃 시간이 몇 시인가요?" },
+        { "french": "Pourriez-vous me donner une chambre plus calme ?", "pronunciation": "뿌리에 부 므 도네 윈 숑브르 플뤼 칼므?", "korean": "좀 더 조용한 방을 주실 수 있나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Oui, le code wifi est sur la carte dans votre chambre.", "pronunciation": "위, 르 코드 위피 에 쉬르 라 카르트 당 보트르 숑브르.", "korean": "네, 와이파이 비밀번호는 객실 카드에 있어요." },
+        { "french": "Le check-out est à 11 heures du matin.", "pronunciation": "르 셰카웃 에 아 온즈 뢰르 뒤 마탱.", "korean": "체크아웃은 오전 11시입니다." },
+        { "french": "Bien sûr, je vous propose la chambre 305 côté jardin.", "pronunciation": "비앙 쉬르, 주 부 프로포즈 라 숑브르 트루아 상 생크 코테 자르댕.", "korean": "물론이죠, 정원 쪽 305호를 드릴게요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Parfait, merci. Je prends cette chambre.", "pronunciation": "파르페, 메르시. 주 프렁 세트 숑브르.", "korean": "좋아요, 감사합니다. 이 방으로 할게요." },
+        { "french": "Merci beaucoup. Le séjour était très agréable.", "pronunciation": "메르시 보쿠. 르 세주르 에테 트레 자그레아블.", "korean": "감사합니다. 아주 즐거운 숙박이었어요." },
+        { "french": "Je voudrais faire le check-out maintenant, s'il vous plaît.", "pronunciation": "주 부드레 페르 르 셰카웃 맹트넝, 실 부 플레.", "korean": "지금 체크아웃하고 싶어요." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "la réservation", "pronunciation": "라 레제르바시옹", "korean": "예약" },
+    { "french": "la chambre", "pronunciation": "라 숑브르", "korean": "방, 객실" },
+    { "french": "le petit-déjeuner", "pronunciation": "르 프티 데죄네", "korean": "조식, 아침 식사" },
+    { "french": "la clé", "pronunciation": "라 클레", "korean": "열쇠" },
+    { "french": "l'étage", "pronunciation": "레타주", "korean": "층" },
+    { "french": "le séjour", "pronunciation": "르 세주르", "korean": "숙박, 체류" },
+    { "french": "la salle de bain", "pronunciation": "라 살 드 방", "korean": "욕실" }
+  ]
+}

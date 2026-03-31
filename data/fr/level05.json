@@ -1,0 +1,73 @@
+{
+  "level": 5,
+  "title": "길 묻기 & 방향",
+  "titleFr": "Demander son Chemin",
+  "description": "프랑스어로 길을 묻고 방향을 안내하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Excusez-moi, je cherche la tour Eiffel. C'est par où ?", "pronunciation": "엑스뀌제 무아, 쥬 셰르슈 라 뚜르 에펠. 세 빠르 우?", "korean": "실례합니다, 에펠탑을 찾고 있어요. 어디로 가야 하나요?" },
+        { "french": "Pardon, pourriez-vous m'indiquer le chemin pour aller au musée ?", "pronunciation": "빠르동, 뿌리에 부 멩디게 르 슈멩 뿌르 알레 오 뮈제?", "korean": "실례합니다, 박물관 가는 길을 알려주시겠어요?" },
+        { "french": "S'il vous plaît, où se trouve la station de métro la plus proche ?", "pronunciation": "실 부 플레, 우 스 뜨루브 라 스따시옹 드 메뜨로 라 플뤼 프호슈?", "korean": "실례합니다, 가장 가까운 지하철역이 어디에 있나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Bien sûr ! Allez tout droit, puis tournez à gauche.", "pronunciation": "비엥 쉬르! 알레 뚜 드후아, 퓌이 뚜르네 아 고슈.", "korean": "물론이죠! 직진한 다음 왼쪽으로 도세요." },
+        { "french": "Le musée ? C'est à cinq minutes à pied. Prenez la première rue à droite.", "pronunciation": "르 뮈제? 세 아 쌩끄 미뉘뜨 아 삐에. 프르네 라 프르미에르 뤼 아 드후아뜨.", "korean": "박물관이요? 걸어서 5분이에요. 첫 번째 길에서 오른쪽으로 가세요." },
+        { "french": "La station de métro est juste au coin de la rue.", "pronunciation": "라 스따시옹 드 메뜨로 에 쥐스뜨 오 꾸앙 드 라 뤼.", "korean": "지하철역은 길 모퉁이에 바로 있어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "C'est loin d'ici ?", "pronunciation": "세 루앙 디시?", "korean": "여기서 멀어요?" },
+        { "french": "Il faut combien de temps à pied ?", "pronunciation": "일 포 꽁비엥 드 떵 아 삐에?", "korean": "걸어서 얼마나 걸려요?" },
+        { "french": "On peut y aller en bus ?", "pronunciation": "옹 뵈 이 알레 엉 뷔스?", "korean": "버스로 갈 수 있나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Non, c'est à environ dix minutes à pied.", "pronunciation": "농, 세 아 엉비홍 디 미뉘뜨 아 삐에.", "korean": "아니요, 걸어서 약 10분이에요." },
+        { "french": "C'est un peu loin. Je vous conseille de prendre le métro.", "pronunciation": "세 떵 뵈 루앙. 쥬 부 꽁세이 드 프헝드르 르 메뜨로.", "korean": "좀 멀어요. 지하철을 타시는 걸 추천해요." },
+        { "french": "Oui, le bus numéro 72 va directement là-bas.", "pronunciation": "위, 르 뷔스 뉘메호 수아쌍뜨 두즈 바 디헤끄뜨멍 라 바.", "korean": "네, 72번 버스가 거기로 바로 가요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Et pour revenir ici, je prends quel bus ?", "pronunciation": "에 뿌르 르브니르 이시, 쥬 프헝 겔 뷔스?", "korean": "그리고 여기로 돌아오려면 몇 번 버스를 타야 해요?" },
+        { "french": "D'accord. Et l'arrêt de bus est où ?", "pronunciation": "다꼬르. 에 라헤 드 뷔스 에 우?", "korean": "알겠어요. 버스 정류장은 어디에 있어요?" },
+        { "french": "Je dois descendre à quelle station ?", "pronunciation": "쥬 두아 데셩드르 아 겔 스따시옹?", "korean": "어느 역에서 내려야 하나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Vous pouvez prendre le même bus dans l'autre sens.", "pronunciation": "부 뿌베 프헝드르 르 멤 뷔스 덩 로뜨르 쌍스.", "korean": "반대 방향으로 같은 버스를 타면 돼요." },
+        { "french": "L'arrêt est juste en face, de l'autre côté de la rue.", "pronunciation": "라헤 에 쥐스뜨 엉 파스, 드 로뜨르 꼬떼 드 라 뤼.", "korean": "정류장은 바로 맞은편, 길 건너에 있어요." },
+        { "french": "Descendez à la station Trocadéro, c'est la troisième station.", "pronunciation": "데셩데 아 라 스따시옹 뜨로까데로, 세 라 뜨후아지엠 스따시옹.", "korean": "트로카데로역에서 내리세요, 세 번째 역이에요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci beaucoup pour votre aide ! Bonne journée !", "pronunciation": "메르시 보꾸 뿌르 보뜨르 에드! 본 주르네!", "korean": "도움 주셔서 정말 감사합니다! 좋은 하루 보내세요!" },
+        { "french": "Vous êtes très aimable. Merci infiniment !", "pronunciation": "부 제뜨 뜨헤 에마블. 메르시 엥피니멍!", "korean": "정말 친절하시네요. 대단히 감사합니다!" },
+        { "french": "Super, j'ai compris. Merci beaucoup !", "pronunciation": "쉬페르, 제 꽁프히. 메르시 보꾸!", "korean": "좋아요, 알겠어요. 정말 감사합니다!" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "tout droit", "pronunciation": "뚜 드후아", "korean": "직진" },
+    { "french": "à gauche", "pronunciation": "아 고슈", "korean": "왼쪽으로" },
+    { "french": "à droite", "pronunciation": "아 드후아뜨", "korean": "오른쪽으로" },
+    { "french": "le chemin", "pronunciation": "르 슈멩", "korean": "길" },
+    { "french": "la station de métro", "pronunciation": "라 스따시옹 드 메뜨로", "korean": "지하철역" },
+    { "french": "l'arrêt de bus", "pronunciation": "라헤 드 뷔스", "korean": "버스 정류장" },
+    { "french": "loin / près", "pronunciation": "루앙 / 프헤", "korean": "멀리 / 가까이" }
+  ]
+}

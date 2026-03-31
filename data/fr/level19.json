@@ -1,0 +1,73 @@
+{
+  "level": 19,
+  "title": "공항 & 비행기",
+  "titleFr": "Aéroport et Avion",
+  "description": "프랑스어로 공항과 비행기에서 필요한 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Bonjour, je voudrais enregistrer mes bagages.", "pronunciation": "봉주르, 주 부드레 엉르지스트레 메 바가주.", "korean": "안녕하세요, 수하물을 부치고 싶어요." },
+        { "french": "Excusez-moi, où est le comptoir d'enregistrement ?", "pronunciation": "엑스퀴제 무아, 우 에 르 콩투아르 덩르지스트르멍?", "korean": "실례합니다, 체크인 카운터가 어디인가요?" },
+        { "french": "Mon vol est à quelle porte d'embarquement ?", "pronunciation": "몽 볼 에 아 겔 포르트 덩바르크멍?", "korean": "제 비행기는 몇 번 탑승구인가요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Votre passeport et votre billet, s'il vous plaît.", "pronunciation": "보트르 파스포르 에 보트르 비예, 실 부 플레.", "korean": "여권과 항공권을 보여주세요." },
+        { "french": "C'est au terminal 2, au fond à droite.", "pronunciation": "세 토 테르미날 두, 오 퐁 아 드루아트.", "korean": "터미널 2, 안쪽 오른편에 있어요." },
+        { "french": "Porte 24. L'embarquement commence à 14h30.", "pronunciation": "포르트 뱅카트르. 렁바르크멍 코멍스 아 까토르즈 뢰르 트렁트.", "korean": "24번 게이트입니다. 탑승은 14시 30분에 시작돼요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Est-ce que je peux avoir un siège côté hublot ?", "pronunciation": "에스 크 주 뿌 아부아르 앙 시에주 코테 위블로?", "korean": "창가 좌석으로 받을 수 있을까요?" },
+        { "french": "J'ai un bagage à main et une valise.", "pronunciation": "제 앙 바가주 아 맹 에 윈 발리즈.", "korean": "기내 가방 하나와 캐리어 하나가 있어요." },
+        { "french": "Mon vol a du retard ? Combien de temps ?", "pronunciation": "몽 볼 아 뒤 르타르? 콩비앙 드 땅?", "korean": "비행기가 지연되나요? 얼마나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Oui, le siège 15A côté hublot est disponible.", "pronunciation": "위, 르 시에주 캥즈 아 코테 위블로 에 디스포니블.", "korean": "네, 15A 창가 좌석이 비어 있어요." },
+        { "french": "La valise pèse 22 kilos, c'est dans la limite.", "pronunciation": "라 발리즈 페즈 뱅두 킬로, 세 당 라 리미트.", "korean": "캐리어가 22킬로로, 제한 내입니다." },
+        { "french": "Oui, environ 45 minutes de retard.", "pronunciation": "위, 엉비롱 까렁트 생크 미뉘트 드 르타르.", "korean": "네, 약 45분 지연됩니다." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Où est le contrôle de sécurité ?", "pronunciation": "우 에 르 콩트롤 드 세퀴리테?", "korean": "보안 검색대가 어디인가요?" },
+        { "french": "Y a-t-il un salon d'attente près de la porte ?", "pronunciation": "이 아 틸 앙 살롱 다탕트 프레 드 라 포르트?", "korean": "게이트 근처에 대기실이 있나요?" },
+        { "french": "Puis-je acheter quelque chose au duty free ?", "pronunciation": "퓌주 아슈테 겔크 쇼즈 오 뒤티 프리?", "korean": "면세점에서 물건을 살 수 있나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Suivez les panneaux, c'est tout droit après le couloir.", "pronunciation": "쉬이베 레 파노, 세 뚜 드루아 아프레 르 쿨루아르.", "korean": "표지판을 따라가세요, 복도 지나서 직진이에요." },
+        { "french": "Oui, il y a un espace d'attente avec des cafés.", "pronunciation": "위, 일 이 아 앙 에스파스 다탕트 아벡 데 카페.", "korean": "네, 카페가 있는 대기 공간이 있어요." },
+        { "french": "Le duty free est juste après le contrôle de sécurité.", "pronunciation": "르 뒤티 프리 에 쥐스트 아프레 르 콩트롤 드 세퀴리테.", "korean": "면세점은 보안 검색대 바로 뒤에 있어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci beaucoup. Bon, je vais passer la sécurité.", "pronunciation": "메르시 보쿠. 봉, 주 베 파세 라 세퀴리테.", "korean": "감사합니다. 자, 보안 검색을 통과할게요." },
+        { "french": "Super, merci pour les informations. Bon vol !", "pronunciation": "쉬페르, 메르시 뿌르 레 쟁포르마시옹. 봉 볼!", "korean": "좋아요, 정보 감사해요. 좋은 비행 되세요!" },
+        { "french": "D'accord, je vais me dépêcher. Merci !", "pronunciation": "다코르, 주 베 므 데페셰. 메르시!", "korean": "네, 서두를게요. 감사합니다!" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "l'aéroport", "pronunciation": "라에로포르", "korean": "공항" },
+    { "french": "le vol", "pronunciation": "르 볼", "korean": "비행, 항공편" },
+    { "french": "l'embarquement", "pronunciation": "렁바르크멍", "korean": "탑승" },
+    { "french": "les bagages", "pronunciation": "레 바가주", "korean": "수하물" },
+    { "french": "le passeport", "pronunciation": "르 파스포르", "korean": "여권" },
+    { "french": "le hublot", "pronunciation": "르 위블로", "korean": "비행기 창문" },
+    { "french": "le retard", "pronunciation": "르 르타르", "korean": "지연" }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "level": 9,
+  "title": "전화번호 & 주소",
+  "titleFr": "Numéro de Téléphone et Adresse",
+  "description": "프랑스어로 전화번호와 주소를 묻고 알려주는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Marie, quel est ton numéro de téléphone ?", "pronunciation": "마리, 겔 에 똥 뉘메호 드 텔레폰?", "korean": "마리, 전화번호가 뭐야?" },
+        { "french": "Excusez-moi, vous pourriez me donner votre numéro ?", "pronunciation": "엑스뀌제 무아, 부 뿌리에 므 도네 보뜨르 뉘메호?", "korean": "실례합니다, 전화번호를 알려주시겠어요?" },
+        { "french": "Je peux avoir ton numéro de portable ?", "pronunciation": "쥬 뵈 아부아르 똥 뉘메호 드 뽀르따블?", "korean": "휴대폰 번호 알 수 있을까?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Oui, c'est le zéro six, vingt-trois, quarante-cinq, soixante-sept, quatre-vingt-neuf.", "pronunciation": "위, 세 르 제로 시스, 벙 뜨후아, 까헝뜨 쌩끄, 수아쌍뜨 세뜨, 까뜨르 벙 뇌프.", "korean": "네, 06-23-45-67-89예요." },
+        { "french": "Bien sûr. Je vous l'écris. Vous avez un stylo ?", "pronunciation": "비엥 쉬르. 쥬 부 레크히. 부 자베 엉 스띨로?", "korean": "물론이죠. 적어드릴게요. 펜 있으세요?" },
+        { "french": "Oui, je t'envoie un SMS pour que tu l'aies.", "pronunciation": "위, 쥬 텅부아 엉 에스엠에스 뿌르 끄 뒤 레.", "korean": "응, 문자 보낼게 그러면 저장할 수 있잖아." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Merci. Et tu habites où exactement ?", "pronunciation": "메르시. 에 뒤 아비뜨 우 에그작뜨멍?", "korean": "고마워. 정확히 어디에 살아?" },
+        { "french": "Super, merci. Quelle est votre adresse ?", "pronunciation": "쉬페르, 메르시. 겔 에 보뜨르 아드헤스?", "korean": "좋아요, 감사합니다. 주소가 어떻게 되세요?" },
+        { "french": "D'accord. Et ton adresse e-mail, c'est quoi ?", "pronunciation": "다꼬르. 에 똥 아드헤스 이메일, 세 꾸아?", "korean": "알겠어. 이메일 주소는 뭐야?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "J'habite au quinze, rue de la Paix, dans le deuxième arrondissement.", "pronunciation": "자비뜨 오 겡즈, 뤼 드 라 빼, 덩 르 두지엠 아홍디스멍.", "korean": "빼 거리 15번지, 2구에 살아요." },
+        { "french": "Mon adresse est le huit, boulevard Saint-Michel, Paris.", "pronunciation": "몽 아드헤스 에 르 위뜨, 불바르 쌩 미셸, 빠리.", "korean": "주소는 파리 생미셸 대로 8번지예요." },
+        { "french": "C'est marie.dupont@mail.fr. Marie, point, dupont.", "pronunciation": "세 마리 뒤퐁 아 메일 포앙 에프에르. 마리, 쁘앙, 뒤퐁.", "korean": "marie.dupont@mail.fr이야. 마리, 점, 뒤퐁." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "Tu peux répéter l'adresse ? Je n'ai pas bien compris.", "pronunciation": "뒤 뵈 헤페떼 라드헤스? 쥬 네 빠 비엥 꽁프히.", "korean": "주소를 다시 말해줄 수 있어? 잘 못 알아들었어." },
+        { "french": "Comment ça s'écrit ? Vous pouvez épeler ?", "pronunciation": "꼬멍 사 세크히? 부 뿌베 에플레?", "korean": "어떻게 쓰나요? 철자를 말해주시겠어요?" },
+        { "french": "C'est dans quel quartier ?", "pronunciation": "세 덩 겔 까르띠에?", "korean": "어느 동네에 있어?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "french": "Bien sûr. R-U-E, D-E, L-A, P-A-I-X. Rue de la Paix.", "pronunciation": "비엥 쉬르. 에르 위 으, 데 으, 엘 아, 쁘 아 이 익스. 뤼 드 라 빼.", "korean": "물론이지. R-U-E, D-E, L-A, P-A-I-X. 빼 거리." },
+        { "french": "C'est dans le Quartier Latin, près de la Sorbonne.", "pronunciation": "세 덩 르 까르띠에 라떵, 프헤 드 라 소르본.", "korean": "라틴 지구, 소르본 근처에요." },
+        { "french": "C'est près de la place de la Bastille. Tu connais ?", "pronunciation": "세 프헤 드 라 쁠라스 드 라 바스띠유. 뒤 꼬네?", "korean": "바스티유 광장 근처야. 알아?" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "french": "D'accord, j'ai noté. Je t'enverrai une lettre bientôt !", "pronunciation": "다꼬르, 제 노떼. 쥬 텅베헤 윈 레뜨르 비엥또!", "korean": "알겠어, 적었어. 곧 편지 보낼게!" },
+        { "french": "Merci. Je t'ajouterai sur les réseaux sociaux.", "pronunciation": "메르시. 쥬 따주뜨헤 쉬르 레 헤조 소시오.", "korean": "고마워. SNS에서 친구 추가할게." },
+        { "french": "Parfait, j'ai tout noté. À bientôt alors !", "pronunciation": "빠르페, 제 뚜 노떼. 아 비엥또 알로르!", "korean": "좋아, 다 적었어. 그럼 곧 봐!" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "french": "le numéro de téléphone", "pronunciation": "르 뉘메호 드 텔레폰", "korean": "전화번호" },
+    { "french": "l'adresse", "pronunciation": "라드헤스", "korean": "주소" },
+    { "french": "le portable", "pronunciation": "르 뽀르따블", "korean": "휴대폰" },
+    { "french": "la rue", "pronunciation": "라 뤼", "korean": "거리" },
+    { "french": "le boulevard", "pronunciation": "르 불바르", "korean": "대로" },
+    { "french": "le quartier", "pronunciation": "르 까르띠에", "korean": "동네, 지구" },
+    { "french": "l'arrondissement", "pronunciation": "라홍디스멍", "korean": "(파리) 구" },
+    { "french": "épeler", "pronunciation": "에플레", "korean": "철자를 말하다" }
+  ]
+}

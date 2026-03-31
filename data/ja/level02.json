@@ -1,0 +1,74 @@
+{
+  "level": 2,
+  "title": "숫자 & 날짜",
+  "titleJa": "数字と日付",
+  "description": "일본어로 숫자와 날짜 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "japanese": "すみません、今日は何月何日ですか？", "reading": "스미마셍, 쿄우와 난가츠 난니치데스카?", "korean": "실례합니다, 오늘은 몇 월 며칠인가요?" },
+        { "japanese": "すみません、今日は何日ですか？", "reading": "스미마셍, 쿄우와 난니치데스카?", "korean": "실례합니다, 오늘은 며칠인가요?" },
+        { "japanese": "今日の日付を教えてください。", "reading": "쿄우노 히즈케오 오시에테쿠다사이.", "korean": "오늘 날짜를 알려주세요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "japanese": "今日は四月一日です。", "reading": "쿄우와 시가츠 츠이타치데스.", "korean": "오늘은 4월 1일입니다." },
+        { "japanese": "四月一日ですよ。", "reading": "시가츠 츠이타치데스요.", "korean": "4월 1일이에요." },
+        { "japanese": "今日は二〇二六年四月一日です。", "reading": "쿄우와 니센니쥬우로쿠넨 시가츠 츠이타치데스.", "korean": "오늘은 2026년 4월 1일입니다." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "japanese": "ありがとうございます。今、何時ですか？", "reading": "아리가또우고자이마스. 이마, 난지데스카?", "korean": "감사합니다. 지금 몇 시인가요?" },
+        { "japanese": "そうですか。時間も教えてください。", "reading": "소우데스카. 지캉모 오시에테쿠다사이.", "korean": "그렇군요. 시간도 알려주세요." },
+        { "japanese": "ありがとう。今何時ですか？", "reading": "아리가또우. 이마 난지데스카?", "korean": "고마워요. 지금 몇 시예요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "japanese": "午後三時半です。", "reading": "고고 산지한데스.", "korean": "오후 3시 반입니다." },
+        { "japanese": "今は午前十時です。", "reading": "이마와 고젠 쥬우지데스.", "korean": "지금은 오전 10시입니다." },
+        { "japanese": "二時十五分です。", "reading": "니지 쥬우고훈데스.", "korean": "2시 15분입니다." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "japanese": "この電話番号は何番ですか？", "reading": "코노 덴와방고우와 난방데스카?", "korean": "이 전화번호는 몇 번인가요?" },
+        { "japanese": "電話番号を教えていただけますか？", "reading": "덴와방고우오 오시에테이타다케마스카?", "korean": "전화번호를 알려주실 수 있나요?" },
+        { "japanese": "お電話番号は？", "reading": "오덴와방고우와?", "korean": "전화번호는요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "japanese": "〇三の一二三四の五六七八です。", "reading": "제로산노 이치니산용노 고로쿠나나하치데스.", "korean": "03-1234-5678입니다." },
+        { "japanese": "番号は〇九〇の一一一一の二二二二です。", "reading": "방고우와 제로큐우제로노 이치이치이치이치노 니니니니데스.", "korean": "번호는 090-1111-2222입니다." },
+        { "japanese": "〇八〇の三三三三の四四四四です。", "reading": "제로하치제로노 산산산산노 용용용용데스.", "korean": "080-3333-4444입니다." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "japanese": "分かりました。ありがとうございます。", "reading": "와카리마시타. 아리가또우고자이마스.", "korean": "알겠습니다. 감사합니다." },
+        { "japanese": "メモしました。ありがとうございます。", "reading": "메모시마시타. 아리가또우고자이마스.", "korean": "메모했습니다. 감사합니다." },
+        { "japanese": "ありがとうございます。後で電話します。", "reading": "아리가또우고자이마스. 아토데 덴와시마스.", "korean": "감사합니다. 나중에 전화하겠습니다." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "japanese": "数字", "reading": "스우지", "korean": "숫자" },
+    { "japanese": "日付", "reading": "히즈케", "korean": "날짜" },
+    { "japanese": "何時", "reading": "난지", "korean": "몇 시" },
+    { "japanese": "何分", "reading": "난푼", "korean": "몇 분" },
+    { "japanese": "午前", "reading": "고젠", "korean": "오전" },
+    { "japanese": "午後", "reading": "고고", "korean": "오후" },
+    { "japanese": "電話番号", "reading": "덴와방고우", "korean": "전화번호" },
+    { "japanese": "今日", "reading": "쿄우", "korean": "오늘" }
+  ]
+}
