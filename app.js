@@ -90,8 +90,20 @@ function handleRoute() {
     return;
   }
 
-  // Home: "" or "#/" or "#"
-  renderHome();
+  // Chinese Home: #/chinese
+  if (hash === '#/chinese') {
+    renderHome();
+    return;
+  }
+
+  // Spanish Home: #/spanish (placeholder)
+  if (hash === '#/spanish') {
+    renderSpanishHome();
+    return;
+  }
+
+  // Landing: language selection
+  renderLangSelect();
 }
 
 window.addEventListener('hashchange', handleRoute);
@@ -183,7 +195,54 @@ function createConfetti() {
 }
 
 // ------------------------------------------------------------
-// 3. renderHome()
+// 3a. renderLangSelect() — Language selection landing page
+// ------------------------------------------------------------
+function renderLangSelect() {
+  const app = document.getElementById('app');
+  app.innerHTML = `
+    <div class="lang-select-page">
+      <h1 class="lang-select-title">어떤 언어를 배울까요?</h1>
+      <p class="lang-select-subtitle">학습할 언어를 선택하세요</p>
+      <div class="lang-cards">
+        <a href="#/chinese" class="lang-card lang-card-chinese">
+          <span class="lang-card-icon">🐼</span>
+          <span class="lang-card-name">中文</span>
+          <span class="lang-card-desc">중국어 생활회화</span>
+          <span class="lang-card-levels">${window.TOTAL_LEVELS}개 레벨</span>
+        </a>
+        <a href="#/spanish" class="lang-card lang-card-spanish">
+          <span class="lang-card-icon">🇪🇸</span>
+          <span class="lang-card-name">Español</span>
+          <span class="lang-card-desc">스페인어 생활회화</span>
+          <span class="lang-card-badge">Coming Soon</span>
+        </a>
+      </div>
+    </div>
+  `;
+}
+
+// ------------------------------------------------------------
+// 3b. renderSpanishHome() — Spanish placeholder
+// ------------------------------------------------------------
+function renderSpanishHome() {
+  const app = document.getElementById('app');
+  app.innerHTML = `
+    <div class="home-page">
+      <div class="home-header">
+        <h1 class="home-title">🇪🇸 Español - 스페인어</h1>
+        <p style="text-align:center; color: #C4B5FD; margin-top: 1rem; font-size: 1.1rem;">
+          스페인어 콘텐츠를 준비 중입니다!<br>곧 만나요 🎉
+        </p>
+        <div style="text-align:center; margin-top: 2rem;">
+          <a href="#/" class="quiz-nav-btn" style="display:inline-block; text-decoration:none;">← 언어 선택으로</a>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+// ------------------------------------------------------------
+// 3c. renderHome() — Chinese level grid
 // ------------------------------------------------------------
 function renderHome() {
   const app = document.getElementById('app');

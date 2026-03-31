@@ -1541,3 +1541,113 @@ html {
     transform: scale(1);
   }
 }
+
+/* ----------------------------------------------------------
+   Language Selection Page
+   ---------------------------------------------------------- */
+.lang-select-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  padding: 2rem 1rem;
+}
+
+.lang-select-title {
+  font-size: 2rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, var(--game-yellow), var(--game-orange));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 0.5rem;
+}
+
+.lang-select-subtitle {
+  color: #C4B5FD;
+  font-size: 1.1rem;
+  margin-bottom: 2.5rem;
+}
+
+.lang-cards {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.lang-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  width: 200px;
+  padding: 2rem 1.5rem;
+  border-radius: 1.25rem;
+  text-decoration: none;
+  color: #fff;
+  transition: transform 0.2s, box-shadow 0.2s;
+  position: relative;
+}
+
+.lang-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4);
+}
+
+.lang-card-chinese {
+  background: linear-gradient(135deg, #dc2626, #b91c1c);
+  border: 2px solid rgba(255, 255, 255, 0.15);
+}
+
+.lang-card-spanish {
+  background: linear-gradient(135deg, #d97706, #b45309);
+  border: 2px solid rgba(255, 255, 255, 0.15);
+  opacity: 0.7;
+}
+
+.lang-card-icon {
+  font-size: 3.5rem;
+  line-height: 1;
+}
+
+.lang-card-name {
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+
+.lang-card-desc {
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.lang-card-levels {
+  font-size: 0.75rem;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 0.2rem 0.6rem;
+  border-radius: 1rem;
+  margin-top: 0.25rem;
+}
+
+.lang-card-badge {
+  font-size: 0.7rem;
+  font-weight: 700;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 0.2rem 0.7rem;
+  border-radius: 1rem;
+  margin-top: 0.25rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+@media (max-width: 480px) {
+  .lang-cards {
+    flex-direction: column;
+    align-items: center;
+  }
+  .lang-card {
+    width: 80%;
+    max-width: 240px;
+  }
+}
