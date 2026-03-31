@@ -1,55 +1,109 @@
 // ============================================================
-// app.js — Main application logic for Chinese Conversation Learning App
-// Loaded after data.js (provides LEVEL_DATA, TOTAL_LEVELS, LEVEL_TITLES, LEVEL_ICONS)
+// app.js — Multi-language Conversation Learning App
+// Supports Chinese (zh) and Spanish (es)
 // ============================================================
 
 // ------------------------------------------------------------
-// 1. Progress Manager
+// 0. Language Configuration
+// ------------------------------------------------------------
+const LANGS = {
+  zh: {
+    code: 'zh',
+    name: '中文',
+    nameKr: '중국어',
+    emoji: '🐼',
+    progressKey: 'learnChinese_progress',
+    ttsLang: 'zh-CN',
+    ttsRate: 0.85,
+    foreignField: 'chinese',
+    pronField: 'pinyin',
+    titleField: 'titleCn',
+    getData: () => window.LEVEL_DATA,
+    getTitles: () => window.LEVEL_TITLES,
+    getIcons: () => window.LEVEL_ICONS,
+    getTotal: () => window.TOTAL_LEVELS,
+    quizLabels: {
+      vocab: '단어 시험',
+      foreign_to_kr: '중국어 → 한국어',
+      kr_to_foreign: '한국어 → 중국어',
+    },
+  },
+  es: {
+    code: 'es',
+    name: 'Español',
+    nameKr: '스페인어',
+    emoji: '🇪🇸',
+    progressKey: 'learnSpanish_progress',
+    ttsLang: 'es-ES',
+    ttsRate: 0.9,
+    foreignField: 'spanish',
+    pronField: 'pronunciation',
+    titleField: 'titleEs',
+    getData: () => window.ES_LEVEL_DATA,
+    getTitles: () => window.ES_LEVEL_TITLES,
+    getIcons: () => window.ES_LEVEL_ICONS,
+    getTotal: () => window.ES_TOTAL_LEVELS,
+    quizLabels: {
+      vocab: '단어 시험',
+      foreign_to_kr: '스페인어 → 한국어',
+      kr_to_foreign: '한국어 → 스페인어',
+    },
+  },
+};
+
+let currentLang = null; // set by router
+
+function getLang() {
+  return LANGS[currentLang] || LANGS.zh;
+}
+
+// ------------------------------------------------------------
+// 1. Progress Manager (per-language)
 // ------------------------------------------------------------
 const Progress = {
-  _data: null,
-  _STORAGE_KEY: 'learnChinese_progress',
+  _stores: {},
 
-  load() {
-    try {
-      const saved = localStorage.getItem(this._STORAGE_KEY);
-      if (saved) {
-        this._data = JSON.parse(saved);
-      }
-    } catch {
-      // ignore parse errors
+  _getStore(langCode) {
+    const key = LANGS[langCode]?.progressKey || 'learnChinese_progress';
+    if (!this._stores[key]) {
+      let data = null;
+      try {
+        const saved = localStorage.getItem(key);
+        if (saved) data = JSON.parse(saved);
+      } catch {}
+      this._stores[key] = data || { completedLevels: [], scores: {} };
     }
-    if (!this._data) {
-      this._data = { completedLevels: [], scores: {} };
-    }
+    return { key, data: this._stores[key] };
   },
 
-  save() {
-    localStorage.setItem(this._STORAGE_KEY, JSON.stringify(this._data));
+  _save(key, data) {
+    localStorage.setItem(key, JSON.stringify(data));
   },
 
-  isLevelAvailable(level) {
-    return true;
-  },
+  isLevelAvailable() { return true; },
 
   isLevelCompleted(level) {
-    return this._data.completedLevels.includes(level);
+    const { data } = this._getStore(currentLang);
+    return data.completedLevels.includes(level);
   },
 
   completeLevel(level, score) {
-    if (!this._data.completedLevels.includes(level)) {
-      this._data.completedLevels.push(level);
+    const { key, data } = this._getStore(currentLang);
+    if (!data.completedLevels.includes(level)) {
+      data.completedLevels.push(level);
     }
-    this._data.scores[level] = score;
-    this.save();
+    data.scores[level] = score;
+    this._save(key, data);
   },
 
   getScore(level) {
-    return this._data.scores[level] ?? null;
+    const { data } = this._getStore(currentLang);
+    return data.scores[level] ?? null;
   },
 
   getTotalProgress() {
-    return this._data.completedLevels.length;
+    const { data } = this._getStore(currentLang);
+    return data.completedLevels.length;
   },
 };
 
@@ -62,95 +116,119 @@ function navigate(path) {
 
 function handleRoute() {
   const hash = window.location.hash || '#/';
-  const app = document.getElementById('app');
-
-  // Parse routes
   let match;
 
-  // Result: #/result/2?score=4&total=5
-  match = hash.match(/^#\/result\/(\d+)\??(.*)?$/);
+  // Language-prefixed routes: #/zh/... or #/es/...
+  match = hash.match(/^#\/(zh|es)\/result\/(\d+)\??(.*)?$/);
   if (match) {
-    const level = parseInt(match[1]);
-    const searchParams = new URLSearchParams(match[2] || '');
+    currentLang = match[1];
+    const level = parseInt(match[2]);
+    const searchParams = new URLSearchParams(match[3] || '');
     renderResult(level, searchParams);
     return;
   }
 
-  // Quiz: #/quiz/3
-  match = hash.match(/^#\/quiz\/(\d+)$/);
+  match = hash.match(/^#\/(zh|es)\/quiz\/(\d+)$/);
   if (match) {
-    renderQuiz(parseInt(match[1]));
+    currentLang = match[1];
+    renderQuiz(parseInt(match[2]));
     return;
   }
 
-  // Lesson: #/lesson/5
-  match = hash.match(/^#\/lesson\/(\d+)$/);
+  match = hash.match(/^#\/(zh|es)\/lesson\/(\d+)$/);
   if (match) {
-    renderLesson(parseInt(match[1]));
+    currentLang = match[1];
+    renderLesson(parseInt(match[2]));
     return;
   }
 
-  // Chinese Home: #/chinese
-  if (hash === '#/chinese') {
+  // Language home: #/zh or #/es (also #/chinese → #/zh, #/spanish → #/es)
+  if (hash === '#/zh' || hash === '#/chinese') {
+    currentLang = 'zh';
+    renderHome();
+    return;
+  }
+  if (hash === '#/es' || hash === '#/spanish') {
+    currentLang = 'es';
     renderHome();
     return;
   }
 
-  // Spanish Home: #/spanish (placeholder)
-  if (hash === '#/spanish') {
-    renderSpanishHome();
+  // Legacy routes without language prefix → Chinese
+  match = hash.match(/^#\/result\/(\d+)\??(.*)?$/);
+  if (match) {
+    currentLang = 'zh';
+    renderResult(parseInt(match[1]), new URLSearchParams(match[2] || ''));
+    return;
+  }
+  match = hash.match(/^#\/quiz\/(\d+)$/);
+  if (match) {
+    currentLang = 'zh';
+    renderQuiz(parseInt(match[1]));
+    return;
+  }
+  match = hash.match(/^#\/lesson\/(\d+)$/);
+  if (match) {
+    currentLang = 'zh';
+    renderLesson(parseInt(match[1]));
     return;
   }
 
   // Landing: language selection
+  currentLang = null;
   renderLangSelect();
 }
 
 window.addEventListener('hashchange', handleRoute);
 
 // ------------------------------------------------------------
-// TTS — 중국어 음성 재생 (Web Speech API)
+// TTS — Multi-language speech (Web Speech API)
 // ------------------------------------------------------------
-let _zhCNVoice = null;
+const _ttsVoices = {};
 
-function findMandarinVoice() {
+function findVoice(langCode) {
   const voices = window.speechSynthesis.getVoices();
-  // 1순위: 정확히 zh-CN
-  const exact = voices.find(v => v.lang === 'zh-CN');
-  if (exact) return exact;
-  // 2순위: zh-CN 변형 (예: zh-CN-XiaoxiaoNeural)
-  const cnVariant = voices.find(v => v.lang.startsWith('zh-CN'));
-  if (cnVariant) return cnVariant;
-  // 3순위: cmn (Mandarin 코드)
-  const cmn = voices.find(v => v.lang.startsWith('cmn'));
-  if (cmn) return cmn;
-  // 4순위: zh (광동어 zh-HK, zh-TW 제외)
-  const zhGeneric = voices.find(v => v.lang === 'zh' || (v.lang.startsWith('zh') && !v.lang.includes('HK') && !v.lang.includes('TW') && !v.lang.includes('yue')));
-  if (zhGeneric) return zhGeneric;
+  const lang = LANGS[langCode];
+  if (!lang) return null;
+  const ttsLang = lang.ttsLang;
+
+  // Exact match
+  let voice = voices.find(v => v.lang === ttsLang);
+  if (voice) return voice;
+  // Prefix match
+  voice = voices.find(v => v.lang.startsWith(ttsLang.split('-')[0]));
+  if (voice) return voice;
+  // For Chinese, also try cmn
+  if (langCode === 'zh') {
+    voice = voices.find(v => v.lang.startsWith('cmn'));
+    if (voice) return voice;
+  }
   return null;
 }
 
-function speakChinese(text, onEnd) {
-  if (!('speechSynthesis' in window)) { if (onEnd) onEnd(); return; }
+function speakForeign(text, onEnd) {
+  if (!('speechSynthesis' in window) || !currentLang) { if (onEnd) onEnd(); return; }
   window.speechSynthesis.cancel();
+  const lang = getLang();
   const utterance = new SpeechSynthesisUtterance(text);
-  utterance.lang = 'zh-CN';
-  utterance.rate = 0.85;
-  if (!_zhCNVoice) _zhCNVoice = findMandarinVoice();
-  if (_zhCNVoice) utterance.voice = _zhCNVoice;
+  utterance.lang = lang.ttsLang;
+  utterance.rate = lang.ttsRate;
+  if (!_ttsVoices[currentLang]) _ttsVoices[currentLang] = findVoice(currentLang);
+  if (_ttsVoices[currentLang]) utterance.voice = _ttsVoices[currentLang];
   if (onEnd) utterance.onend = onEnd;
   window.speechSynthesis.speak(utterance);
 }
 
 // 자동 음성 재생 설정 (항상 OFF로 시작, 레슨 내에서만 토글)
 let _autoTTS = false;
-function setAutoTTS(val) {
-  _autoTTS = val;
-}
+function setAutoTTS(val) { _autoTTS = val; }
 
 // 음성 목록이 비동기로 로드되므로 미리 요청
 if ('speechSynthesis' in window) {
-  window.speechSynthesis.onvoiceschanged = () => { _zhCNVoice = findMandarinVoice(); };
+  window.speechSynthesis.onvoiceschanged = () => {
+    _ttsVoices.zh = findVoice('zh');
+    _ttsVoices.es = findVoice('es');
+  };
   window.speechSynthesis.getVoices();
 }
 
@@ -159,7 +237,7 @@ function ttsButton(text) {
 }
 
 // ------------------------------------------------------------
-// 7. Helper functions
+// Helper functions
 // ------------------------------------------------------------
 function renderProgressBar(current, total, label) {
   const pct = total > 0 ? Math.round((current / total) * 100) : 0;
@@ -188,33 +266,36 @@ function createConfetti() {
   }
   document.body.appendChild(container);
   setTimeout(() => {
-    if (container.parentNode) {
-      container.parentNode.removeChild(container);
-    }
+    if (container.parentNode) container.parentNode.removeChild(container);
   }, 3000);
 }
 
 // ------------------------------------------------------------
-// 3a. renderLangSelect() — Language selection landing page
+// renderLangSelect() — Language selection landing page
 // ------------------------------------------------------------
 function renderLangSelect() {
   const app = document.getElementById('app');
+  const zhProgress = Progress._getStore('zh').data.completedLevels.length;
+  const esProgress = Progress._getStore('es').data.completedLevels.length;
+  const zhTotal = window.TOTAL_LEVELS || 25;
+  const esTotal = window.ES_TOTAL_LEVELS || 25;
+
   app.innerHTML = `
     <div class="lang-select-page">
       <h1 class="lang-select-title">어떤 언어를 배울까요?</h1>
       <p class="lang-select-subtitle">학습할 언어를 선택하세요</p>
       <div class="lang-cards">
-        <a href="#/chinese" class="lang-card lang-card-chinese">
+        <a href="#/zh" class="lang-card lang-card-chinese">
           <span class="lang-card-icon">🐼</span>
           <span class="lang-card-name">中文</span>
           <span class="lang-card-desc">중국어 생활회화</span>
-          <span class="lang-card-levels">${window.TOTAL_LEVELS}개 레벨</span>
+          <span class="lang-card-levels">${zhProgress} / ${zhTotal} 레벨 완료</span>
         </a>
-        <a href="#/spanish" class="lang-card lang-card-spanish">
+        <a href="#/es" class="lang-card lang-card-spanish">
           <span class="lang-card-icon">🇪🇸</span>
           <span class="lang-card-name">Español</span>
           <span class="lang-card-desc">스페인어 생활회화</span>
-          <span class="lang-card-badge">Coming Soon</span>
+          <span class="lang-card-levels">${esProgress} / ${esTotal} 레벨 완료</span>
         </a>
       </div>
     </div>
@@ -222,37 +303,17 @@ function renderLangSelect() {
 }
 
 // ------------------------------------------------------------
-// 3b. renderSpanishHome() — Spanish placeholder
-// ------------------------------------------------------------
-function renderSpanishHome() {
-  const app = document.getElementById('app');
-  app.innerHTML = `
-    <div class="home-page">
-      <div class="home-header">
-        <h1 class="home-title">🇪🇸 Español - 스페인어</h1>
-        <p style="text-align:center; color: #C4B5FD; margin-top: 1rem; font-size: 1.1rem;">
-          스페인어 콘텐츠를 준비 중입니다!<br>곧 만나요 🎉
-        </p>
-        <div style="text-align:center; margin-top: 2rem;">
-          <a href="#/" class="quiz-nav-btn" style="display:inline-block; text-decoration:none;">← 언어 선택으로</a>
-        </div>
-      </div>
-    </div>
-  `;
-}
-
-// ------------------------------------------------------------
-// 3c. renderHome() — Chinese level grid
+// renderHome() — Level grid (language-aware)
 // ------------------------------------------------------------
 function renderHome() {
   const app = document.getElementById('app');
+  const lang = getLang();
   const completedCount = Progress.getTotalProgress();
-  const TOTAL = window.TOTAL_LEVELS;
+  const TOTAL = lang.getTotal();
+  const titles = lang.getTitles();
+  const icons = lang.getIcons();
 
-  // Build levels 1..25
   const levels = Array.from({ length: TOTAL }, (_, i) => i + 1);
-
-  // Split into rows of 5
   const rows = [];
   for (let i = 0; i < levels.length; i += 5) {
     rows.push(levels.slice(i, i + 5));
@@ -260,24 +321,15 @@ function renderHome() {
 
   let gridHTML = '';
   rows.forEach((row, rowIndex) => {
-    // Even rows left-to-right, odd rows right-to-left (snake path)
     const orderedRow = rowIndex % 2 === 0 ? row : [...row].reverse();
-
     gridHTML += '<div class="level-row">';
     orderedRow.forEach((level) => {
       const completed = Progress.isLevelCompleted(level);
       const available = Progress.isLevelAvailable(level);
       const status = completed ? 'completed' : available ? 'available' : 'locked';
-      const icon = window.LEVEL_ICONS[level - 1] || '📚';
-      const score = completed ? Progress.getScore(level) : null;
-      const title = window.LEVEL_TITLES[level] || '';
-
-      const statusClass = {
-        locked: 'level-locked',
-        available: 'level-available',
-        completed: 'level-completed',
-      }[status];
-
+      const icon = icons[level - 1] || '📚';
+      const title = titles[level] || '';
+      const statusClass = { locked: 'level-locked', available: 'level-available', completed: 'level-completed' }[status];
       const clickable = status !== 'locked';
 
       gridHTML += `
@@ -303,7 +355,7 @@ function renderHome() {
   app.innerHTML = `
     <div class="home-page">
       <div class="home-header">
-        <h1 class="home-title">레벨 선택</h1>
+        <h1 class="home-title">${lang.emoji} ${lang.name} — ${lang.nameKr} 레벨 선택</h1>
         <div class="home-progress">
           ${renderProgressBar(completedCount, TOTAL, `${completedCount} / ${TOTAL} 레벨 완료`)}
         </div>
@@ -314,25 +366,28 @@ function renderHome() {
     </div>
   `;
 
-  // Event delegation for level clicks
   const grid = app.querySelector('.level-grid');
   if (grid) {
     grid.addEventListener('click', function (e) {
       const card = e.target.closest('[data-level]');
       if (card) {
         const level = parseInt(card.getAttribute('data-level'));
-        navigate('/lesson/' + level);
+        navigate(`/${currentLang}/lesson/${level}`);
       }
     });
   }
 }
 
 // ------------------------------------------------------------
-// 4. renderLesson(level)
+// renderLesson(level) — Conversation lesson (language-aware)
 // ------------------------------------------------------------
 function renderLesson(level) {
   const app = document.getElementById('app');
-  const levelData = window.LEVEL_DATA[level];
+  const lang = getLang();
+  const levelData = lang.getData()[level];
+  const ff = lang.foreignField; // e.g. 'chinese' or 'spanish'
+  const pf = lang.pronField;   // e.g. 'pinyin' or 'pronunciation'
+  const titles = lang.getTitles();
 
   if (!levelData) {
     app.innerHTML = `
@@ -340,7 +395,7 @@ function renderLesson(level) {
         <div class="error-emoji">😥</div>
         <h2 class="error-title">레벨을 찾을 수 없습니다</h2>
         <p class="error-text">레벨 ${level} 데이터가 존재하지 않습니다.</p>
-        <a href="#/" class="btn-game btn-primary">홈으로 돌아가기</a>
+        <a href="#/${currentLang}" class="btn-game btn-primary">홈으로 돌아가기</a>
       </div>
     `;
     return;
@@ -354,7 +409,6 @@ function renderLesson(level) {
   const totalBubbles = conversations.length;
   let visibleCount = 0;
 
-  // variants에서 랜덤으로 하나씩 선택하여 대화 생성
   function pickVariants(raw) {
     return raw.map(conv => {
       if (conv.variants && conv.variants.length > 0) {
@@ -370,16 +424,16 @@ function renderLesson(level) {
     const isLastRound = currentRound >= TOTAL_ROUNDS;
 
     let bubblesHTML = '';
-    conversations.slice(0, visibleCount).forEach((conv, index) => {
+    conversations.slice(0, visibleCount).forEach((conv) => {
       const isA = conv.speaker === 'A';
+      const foreignText = conv[ff];
+      const pronText = conv[pf];
       bubblesHTML += `
         <div class="bubble-row ${isA ? 'bubble-row-left' : 'bubble-row-right'}">
           <div class="bubble ${isA ? 'bubble-a' : 'bubble-b'}">
-            <div class="bubble-speaker">
-              ${isA ? '👤 A' : '👥 B'}
-            </div>
-            <p class="bubble-chinese ${conv.highlight ? 'bubble-highlight' : ''}">${conv.chinese} ${ttsButton(conv.chinese)}</p>
-            <p class="bubble-pinyin">${conv.pinyin}</p>
+            <div class="bubble-speaker">${isA ? '👤 A' : '👥 B'}</div>
+            <p class="bubble-chinese ${conv.highlight ? 'bubble-highlight' : ''}">${foreignText} ${ttsButton(foreignText)}</p>
+            <p class="bubble-pinyin">${pronText}</p>
             <p class="bubble-korean">${conv.korean}</p>
           </div>
         </div>
@@ -397,8 +451,8 @@ function renderLesson(level) {
           <div class="vocab-grid">
             ${vocabulary.map((word) => `
               <div class="vocab-card card-game">
-                <p class="vocab-chinese">${word.chinese} ${ttsButton(word.chinese)}</p>
-                <p class="vocab-pinyin">${word.pinyin}</p>
+                <p class="vocab-chinese">${word[ff]} ${ttsButton(word[ff])}</p>
+                <p class="vocab-pinyin">${word[pf]}</p>
                 <p class="vocab-korean">${word.korean}</p>
               </div>
             `).join('')}
@@ -433,24 +487,25 @@ function renderLesson(level) {
       `;
     }
 
-    // 라운드 인디케이터
     let roundDots = '';
     for (let i = 1; i <= TOTAL_ROUNDS; i++) {
       const cls = i < currentRound ? 'round-dot completed' : i === currentRound ? 'round-dot active' : 'round-dot';
       roundDots += `<span class="${cls}">${i}</span>`;
     }
 
+    const foreignTitle = levelData[lang.titleField] || '';
+
     app.innerHTML = `
       <div class="lesson-page">
         <div class="lesson-container">
-          <a href="#/" class="back-link">&larr; 레벨 선택</a>
+          <a href="#/${currentLang}" class="back-link">&larr; 레벨 선택</a>
 
           <div class="lesson-header card-game">
             <div class="lesson-header-top">
               <span class="lesson-level-badge">${level}</span>
               <div class="lesson-header-info">
                 <h1 class="lesson-title">${levelData.title}</h1>
-                <p class="lesson-title-cn">${levelData.titleCn}</p>
+                <p class="lesson-title-cn">${foreignTitle}</p>
               </div>
             </div>
             ${levelData.description ? `<p class="lesson-description">${levelData.description}</p>` : ''}
@@ -484,7 +539,6 @@ function renderLesson(level) {
       </div>
     `;
 
-    // Attach event listeners
     const autoTTSSwitch = document.getElementById('autoTTSSwitch');
     if (autoTTSSwitch) {
       autoTTSSwitch.addEventListener('change', (e) => {
@@ -506,7 +560,7 @@ function renderLesson(level) {
               bubbles[bubbles.length - 1].scrollIntoView({ behavior: 'smooth', block: 'center' });
             }
             if (_autoTTS && visibleCount > 0) {
-              speakChinese(conversations[visibleCount - 1].chinese);
+              speakForeign(conversations[visibleCount - 1][ff]);
             }
           }, 50);
         }
@@ -522,9 +576,7 @@ function renderLesson(level) {
         render();
         window.scrollTo({ top: 0, behavior: 'smooth' });
         setTimeout(() => {
-          if (_autoTTS) {
-            speakChinese(conversations[0].chinese);
-          }
+          if (_autoTTS) speakForeign(conversations[0][ff]);
         }, 300);
       });
     }
@@ -532,27 +584,28 @@ function renderLesson(level) {
     const quizBtn = document.getElementById('startQuizBtn');
     if (quizBtn) {
       quizBtn.addEventListener('click', () => {
-        navigate('/quiz/' + level);
+        navigate(`/${currentLang}/quiz/${level}`);
       });
     }
   }
 
-  // 첫 진입 시 첫 대화를 열고 음성 재생
   visibleCount = 1;
   render();
   setTimeout(() => {
-    if (_autoTTS) {
-      speakChinese(conversations[0].chinese);
-    }
+    if (_autoTTS) speakForeign(conversations[0][ff]);
   }, 300);
 }
 
 // ------------------------------------------------------------
-// 5. renderQuiz(level)
+// renderQuiz(level) — Quiz (language-aware)
 // ------------------------------------------------------------
 function renderQuiz(level) {
   const app = document.getElementById('app');
-  const levelData = window.LEVEL_DATA[level];
+  const lang = getLang();
+  const levelData = lang.getData()[level];
+  const ff = lang.foreignField;
+  const pf = lang.pronField;
+  const titles = lang.getTitles();
 
   if (!levelData) {
     app.innerHTML = `
@@ -560,13 +613,12 @@ function renderQuiz(level) {
         <div class="error-emoji">😵</div>
         <h1 class="error-title">퀴즈를 찾을 수 없습니다</h1>
         <p class="error-text">레벨 ${level} 데이터가 존재하지 않습니다.</p>
-        <a href="#/" class="btn-game btn-primary">홈으로 돌아가기</a>
+        <a href="#/${currentLang}" class="btn-game btn-primary">홈으로 돌아가기</a>
       </div>
     `;
     return;
   }
 
-  // --- 대화 문장 풀 구성 (variants에서 랜덤 선택) ---
   const rawConvs = levelData.conversations || [];
   const allSentences = rawConvs.map(conv => {
     if (conv.variants && conv.variants.length > 0) {
@@ -576,7 +628,7 @@ function renderQuiz(level) {
     return conv;
   });
 
-  // --- 1) 단어 시험 4문제: vocabulary에서 자동 생성 ---
+  // 1) 단어 시험 4문제
   const vocab = levelData.vocabulary || [];
   const shuffledVocab = [...vocab].sort(() => Math.random() - 0.5);
   const vocabQuestions = shuffledVocab.slice(0, 4).map(word => {
@@ -590,16 +642,16 @@ function renderQuiz(level) {
     options.splice(answerIdx, 0, word.korean);
     return {
       type: 'vocab',
-      question: `${word.chinese} (${word.pinyin})`,
-      tts: word.chinese,
-      options: options,
+      question: `${word[ff]} (${word[pf]})`,
+      tts: word[ff],
+      options,
       answer: answerIdx
     };
   });
 
-  // --- 2) 중국어→한국어 해석 3문제: 대화 문장에서 자동 생성 ---
+  // 2) 외국어→한국어 3문제
   const shuffledSentences = [...allSentences].sort(() => Math.random() - 0.5);
-  const cnToKrQuestions = shuffledSentences.slice(0, 3).map(sent => {
+  const foreignToKrQuestions = shuffledSentences.slice(0, 3).map(sent => {
     const wrongAnswers = allSentences
       .filter(s => s.korean !== sent.korean)
       .sort(() => Math.random() - 0.5)
@@ -609,43 +661,36 @@ function renderQuiz(level) {
     const answerIdx = Math.floor(Math.random() * 4);
     options.splice(answerIdx, 0, sent.korean);
     return {
-      type: 'cn_to_kr',
-      question: sent.chinese,
-      tts: sent.chinese,
-      options: options,
+      type: 'foreign_to_kr',
+      question: sent[ff],
+      tts: sent[ff],
+      options,
       answer: answerIdx
     };
   });
 
-  // --- 3) 한국어→중국어 찾기 3문제: 대화 문장에서 자동 생성 ---
+  // 3) 한국어→외국어 3문제
   const remainingSentences = shuffledSentences.slice(3);
-  const krToCnPool = remainingSentences.length >= 3 ? remainingSentences : [...allSentences].sort(() => Math.random() - 0.5);
-  const krToCnQuestions = krToCnPool.slice(0, 3).map(sent => {
+  const krToForeignPool = remainingSentences.length >= 3 ? remainingSentences : [...allSentences].sort(() => Math.random() - 0.5);
+  const krToForeignQuestions = krToForeignPool.slice(0, 3).map(sent => {
     const wrongAnswers = allSentences
-      .filter(s => s.chinese !== sent.chinese)
+      .filter(s => s[ff] !== sent[ff])
       .sort(() => Math.random() - 0.5)
       .slice(0, 3)
-      .map(s => s.chinese);
+      .map(s => s[ff]);
     const options = [...wrongAnswers];
     const answerIdx = Math.floor(Math.random() * 4);
-    options.splice(answerIdx, 0, sent.chinese);
+    options.splice(answerIdx, 0, sent[ff]);
     return {
-      type: 'kr_to_cn',
+      type: 'kr_to_foreign',
       question: sent.korean,
-      options: options,
+      options,
       answer: answerIdx
     };
   });
 
-  const questions = [...vocabQuestions, ...cnToKrQuestions, ...krToCnQuestions];
+  const questions = [...vocabQuestions, ...foreignToKrQuestions, ...krToForeignQuestions];
   const totalQuestions = questions.length;
-
-  const TYPE_LABELS = {
-    vocab: '단어 시험',
-    cn_to_kr: '중국어 → 한국어',
-    kr_to_cn: '한국어 → 중국어',
-  };
-
   const OPTION_LABELS = ['A', 'B', 'C', 'D'];
 
   let currentQuestion = 0;
@@ -654,26 +699,19 @@ function renderQuiz(level) {
 
   function render() {
     const question = questions[currentQuestion];
-    const typeLabel = TYPE_LABELS[question.type] || question.type;
+    const typeLabel = lang.quizLabels[question.type] || question.type;
 
     let optionsHTML = '';
     question.options.forEach((option, index) => {
       let optClass = 'quiz-option';
-
       if (selected !== null) {
-        if (selected === index && index === question.answer) {
-          optClass += ' quiz-correct';
-        } else if (selected === index && index !== question.answer) {
-          optClass += ' quiz-wrong';
-        } else if (index === question.answer) {
-          optClass += ' quiz-correct';
-        } else {
-          optClass += ' quiz-option-default';
-        }
+        if (selected === index && index === question.answer) optClass += ' quiz-correct';
+        else if (selected === index) optClass += ' quiz-wrong';
+        else if (index === question.answer) optClass += ' quiz-correct';
+        else optClass += ' quiz-option-default';
       } else {
         optClass += ' quiz-option-default';
       }
-
       optionsHTML += `
         <button class="${optClass}" data-option="${index}" ${selected !== null ? 'disabled' : ''}>
           <span class="quiz-option-label">${OPTION_LABELS[index]}</span>
@@ -694,7 +732,7 @@ function renderQuiz(level) {
     app.innerHTML = `
       <div class="quiz-page">
         <div class="quiz-header">
-          <span class="quiz-level-info">레벨 ${level} — ${window.LEVEL_TITLES[level] || ''}</span>
+          <span class="quiz-level-info">레벨 ${level} — ${titles[level] || ''}</span>
           <span class="quiz-counter">${currentQuestion + 1} / ${totalQuestions}</span>
         </div>
 
@@ -720,12 +758,10 @@ function renderQuiz(level) {
       </div>
     `;
 
-    // 자동 TTS: 중국어 문장이 있는 문제가 표시될 때 읽어주기
     if (_autoTTS && selected === null && question.tts) {
-      setTimeout(() => speakChinese(question.tts), 100);
+      setTimeout(() => speakForeign(question.tts), 100);
     }
 
-    // Event delegation for options
     const optionsContainer = document.getElementById('quizOptions');
     if (optionsContainer) {
       optionsContainer.addEventListener('click', function (e) {
@@ -735,16 +771,11 @@ function renderQuiz(level) {
 
         const index = parseInt(btn.getAttribute('data-option'));
         selected = index;
-        const isCorrect = index === question.answer;
-        if (isCorrect) score++;
+        if (index === question.answer) score++;
         const newScore = score;
-
         render();
 
-        // 정답 확인 후 중국어 문장 읽어주기 (kr_to_cn: 정답 중국어, cn_to_kr: 원문)
-        if (_autoTTS && question.tts) {
-          speakChinese(question.tts);
-        }
+        if (_autoTTS && question.tts) speakForeign(question.tts);
 
         setTimeout(() => {
           if (currentQuestion + 1 < totalQuestions) {
@@ -752,7 +783,7 @@ function renderQuiz(level) {
             selected = null;
             render();
           } else {
-            navigate(`/result/${level}?score=${newScore}&total=${totalQuestions}`);
+            navigate(`/${currentLang}/result/${level}?score=${newScore}&total=${totalQuestions}`);
           }
         }, 1500);
       });
@@ -763,16 +794,17 @@ function renderQuiz(level) {
 }
 
 // ------------------------------------------------------------
-// 6. renderResult(level, searchParams)
+// renderResult(level, searchParams) — Result (language-aware)
 // ------------------------------------------------------------
 function renderResult(level, searchParams) {
   const app = document.getElementById('app');
+  const lang = getLang();
   const scoreVal = parseInt(searchParams.get('score')) || 0;
   const total = parseInt(searchParams.get('total')) || 5;
   const PASS_THRESHOLD = 8;
   const TOTAL_QUESTIONS = 10;
   const passed = scoreVal >= PASS_THRESHOLD;
-  const isLastLevel = level >= window.TOTAL_LEVELS;
+  const isLastLevel = level >= lang.getTotal();
   const nextLevel = level + 1;
 
   if (passed) {
@@ -783,13 +815,9 @@ function renderResult(level, searchParams) {
   let buttonsHTML = '';
   if (passed) {
     if (!isLastLevel) {
-      buttonsHTML += `
-        <button class="result-btn result-btn-next" data-action="next">다음 레벨 &rarr;</button>
-      `;
+      buttonsHTML += `<button class="result-btn result-btn-next" data-action="next">다음 레벨 &rarr;</button>`;
     }
-    buttonsHTML += `
-      <button class="result-btn result-btn-home-pass" data-action="home">홈으로</button>
-    `;
+    buttonsHTML += `<button class="result-btn result-btn-home-pass" data-action="home">홈으로</button>`;
   } else {
     buttonsHTML += `
       <button class="result-btn result-btn-retry" data-action="retry">다시 도전</button>
@@ -803,39 +831,23 @@ function renderResult(level, searchParams) {
       <div class="result-card-wrapper">
         <div class="result-card ${passed ? 'result-card-pass' : 'result-card-fail'}">
           <div class="result-top-bar ${passed ? 'result-top-bar-pass' : 'result-top-bar-fail'}"></div>
-
           <div class="result-content">
-            <div class="result-emoji animate-bounce">
-              ${passed ? '🎉' : '😅'}
-            </div>
-
+            <div class="result-emoji animate-bounce">${passed ? '🎉' : '😅'}</div>
             <h1 class="result-title ${passed ? 'result-title-pass' : 'result-title-fail'}">
               ${passed ? '축하합니다!' : '아쉬워요!'}
             </h1>
-
             <p class="result-subtitle">
-              ${passed
-                ? `레벨 ${level}을 통과했어요!`
-                : `레벨 ${level} 통과 기준에 못 미쳤어요.`
-              }
+              ${passed ? `레벨 ${level}을 통과했어요!` : `레벨 ${level} 통과 기준에 못 미쳤어요.`}
             </p>
-
             <div class="result-score-circle ${passed ? 'result-score-pass' : 'result-score-fail'}">
               <div>
                 <span class="result-score-num ${passed ? 'result-score-num-pass' : 'result-score-num-fail'}">${scoreVal}</span>
                 <span class="result-score-total ${passed ? 'result-score-total-pass' : 'result-score-total-fail'}">/${total}</span>
               </div>
             </div>
-
-            <p class="result-pass-info">
-              통과 기준: ${PASS_THRESHOLD}/${TOTAL_QUESTIONS} (${Math.round((PASS_THRESHOLD / TOTAL_QUESTIONS) * 100)}%)
-            </p>
-
-            <div class="result-buttons" id="resultButtons">
-              ${buttonsHTML}
-            </div>
+            <p class="result-pass-info">통과 기준: ${PASS_THRESHOLD}/${TOTAL_QUESTIONS} (${Math.round((PASS_THRESHOLD / TOTAL_QUESTIONS) * 100)}%)</p>
+            <div class="result-buttons" id="resultButtons">${buttonsHTML}</div>
           </div>
-
           <div class="result-corner result-corner-left">
             <div class="result-corner-shape ${passed ? 'result-corner-pass' : 'result-corner-fail-left'}"></div>
           </div>
@@ -847,26 +859,16 @@ function renderResult(level, searchParams) {
     </div>
   `;
 
-  // Event delegation for buttons
   const btnContainer = document.getElementById('resultButtons');
   if (btnContainer) {
     btnContainer.addEventListener('click', function (e) {
       const btn = e.target.closest('[data-action]');
       if (!btn) return;
-      const action = btn.getAttribute('data-action');
-      switch (action) {
-        case 'next':
-          navigate('/lesson/' + nextLevel);
-          break;
-        case 'retry':
-          navigate('/quiz/' + level);
-          break;
-        case 'review':
-          navigate('/lesson/' + level);
-          break;
-        case 'home':
-          navigate('/');
-          break;
+      switch (btn.getAttribute('data-action')) {
+        case 'next': navigate(`/${currentLang}/lesson/${nextLevel}`); break;
+        case 'retry': navigate(`/${currentLang}/quiz/${level}`); break;
+        case 'review': navigate(`/${currentLang}/lesson/${level}`); break;
+        case 'home': navigate(`/${currentLang}`); break;
       }
     });
   }
@@ -876,7 +878,6 @@ function renderResult(level, searchParams) {
 // Init on DOMContentLoaded
 // ------------------------------------------------------------
 document.addEventListener('DOMContentLoaded', () => {
-  Progress.load();
   handleRoute();
 
   // Global TTS click delegation
@@ -885,7 +886,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (btn) {
       e.preventDefault();
       e.stopPropagation();
-      speakChinese(btn.getAttribute('data-tts'));
+      speakForeign(btn.getAttribute('data-tts'));
     }
   });
 });
