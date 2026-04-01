@@ -1,0 +1,180 @@
+{
+  "level": 16,
+  "title": "전화 통화",
+  "titleSw": "Kupiga Simu",
+  "description": "스와힐리어로 전화 통화하는 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Halo? Ninaweza kuongea na Bwana Juma?",
+          "pronunciation": "할로? 니나웨자 쿠옹에아 나 브와나 주마?",
+          "korean": "여보세요? 주마 씨와 통화할 수 있을까요?"
+        },
+        {
+          "swahili": "Halo, ni nani anayeongea?",
+          "pronunciation": "할로, 니 나니 아나예옹에아?",
+          "korean": "여보세요, 누구세요?"
+        },
+        {
+          "swahili": "Halo, ninapiga simu kuhusu mkutano.",
+          "pronunciation": "할로, 니나피가 시무 쿠후수 므쿠타노.",
+          "korean": "여보세요, 회의에 대해 전화드렸어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Ndiyo, mimi ni Juma. Habari?",
+          "pronunciation": "은디요, 미미 니 주마. 하바리?",
+          "korean": "네, 저 주마예요. 안녕하세요?"
+        },
+        {
+          "swahili": "Mimi ni Amina. Unataka kuongea na nani?",
+          "pronunciation": "미미 니 아미나. 우나타카 쿠옹에아 나 나니?",
+          "korean": "저는 아미나예요. 누구와 통화하고 싶으세요?"
+        },
+        {
+          "swahili": "Habari! Mkutano wa lini?",
+          "pronunciation": "하바리! 므쿠타노 와 리니?",
+          "korean": "안녕하세요! 어느 회의요?"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Samahani, sikusikia vizuri. Sema tena?",
+          "pronunciation": "사마하니, 시쿠시키아 비주리. 세마 테나?",
+          "korean": "죄송합니다, 잘 안 들렸어요. 다시 말해주세요."
+        },
+        {
+          "swahili": "Mtandao ni mbaya. Unaweza kusikia?",
+          "pronunciation": "므탄다오 니 므바야. 우나웨자 쿠시키아?",
+          "korean": "신호가 안 좋아요. 들리세요?"
+        },
+        {
+          "swahili": "Tafadhali ongea polepole zaidi.",
+          "pronunciation": "타파달리 옹에아 폴레폴레 자이디.",
+          "korean": "더 천천히 말해주세요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Sawa, nitasema polepole. Unasikia sasa?",
+          "pronunciation": "사와, 니타세마 폴레폴레. 우나시키아 사사?",
+          "korean": "좋아요, 천천히 말할게요. 이제 들리세요?"
+        },
+        {
+          "swahili": "Ndiyo, ninakusikia. Endelea.",
+          "pronunciation": "은디요, 니나쿠시키아. 엔델레아.",
+          "korean": "네, 들려요. 계속하세요."
+        },
+        {
+          "swahili": "Nitakutumia ujumbe wa maandishi badala yake.",
+          "pronunciation": "니타쿠투미아 우줌베 와 마안디시 바달라 야게.",
+          "korean": "대신 문자 메시지를 보낼게요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Nitakupigia simu baadaye. Uko busy sasa?",
+          "pronunciation": "니타쿠피기아 시무 바아다예. 우코 비지 사사?",
+          "korean": "나중에 다시 전화할게요. 지금 바쁘세요?"
+        },
+        {
+          "swahili": "Tafadhali nipigie simu ukifika.",
+          "pronunciation": "타파달리 니피기에 시무 우키피카.",
+          "korean": "도착하면 전화해 주세요."
+        },
+        {
+          "swahili": "Naweza kukuachia ujumbe?",
+          "pronunciation": "나웨자 쿠쿠아치아 우줌베?",
+          "korean": "메시지를 남겨도 될까요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Sasa niko huru. Ongea tu.",
+          "pronunciation": "사사 니코 후루. 옹에아 투.",
+          "korean": "지금 한가해요. 말씀하세요."
+        },
+        {
+          "swahili": "Sawa, nitakupigia nikifika.",
+          "pronunciation": "사와, 니타쿠피기아 니키피카.",
+          "korean": "좋아요, 도착하면 전화할게요."
+        },
+        {
+          "swahili": "Ndiyo, acha ujumbe. Nitajibu haraka.",
+          "pronunciation": "은디요, 아차 우줌베. 니타지부 하라카.",
+          "korean": "네, 메시지 남기세요. 빨리 답할게요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Asante. Tutaongea baadaye. Kwaheri!",
+          "pronunciation": "아산테. 투타옹에아 바아다예. 쿠와헤리!",
+          "korean": "감사합니다. 나중에 통화해요. 안녕히!"
+        },
+        {
+          "swahili": "Sawa, nimekuelewa. Nitasubiri simu yako.",
+          "pronunciation": "사와, 니메쿠엘레와. 니타수비리 시무 야코.",
+          "korean": "좋아요, 알겠어요. 전화 기다릴게요."
+        },
+        {
+          "swahili": "Asante kwa wakati wako. Kwa heri!",
+          "pronunciation": "아산테 쿠와 와카티 와코. 쿠와 헤리!",
+          "korean": "시간 내주셔서 감사해요. 안녕히!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "kupiga simu",
+      "pronunciation": "쿠피가 시무",
+      "korean": "전화하다"
+    },
+    {
+      "swahili": "kuongea",
+      "pronunciation": "쿠옹에아",
+      "korean": "말하다"
+    },
+    {
+      "swahili": "kusikia",
+      "pronunciation": "쿠시키아",
+      "korean": "듣다"
+    },
+    {
+      "swahili": "ujumbe",
+      "pronunciation": "우줌베",
+      "korean": "메시지"
+    },
+    {
+      "swahili": "mtandao",
+      "pronunciation": "므탄다오",
+      "korean": "네트워크, 신호"
+    },
+    {
+      "swahili": "kujibu",
+      "pronunciation": "쿠지부",
+      "korean": "답하다"
+    }
+  ]
+}

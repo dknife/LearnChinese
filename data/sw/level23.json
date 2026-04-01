@@ -1,0 +1,180 @@
+{
+  "level": 23,
+  "title": "직장 & 업무",
+  "titleSw": "Kazi na Ofisi",
+  "description": "스와힐리어로 직장과 업무에 관한 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Unafanya kazi gani?",
+          "pronunciation": "우나파냐 카지 가니?",
+          "korean": "무슨 일을 하세요?"
+        },
+        {
+          "swahili": "Unafanya kazi wapi?",
+          "pronunciation": "우나파냐 카지 와피?",
+          "korean": "어디서 일하세요?"
+        },
+        {
+          "swahili": "Umefanya kazi hii kwa muda gani?",
+          "pronunciation": "우메파냐 카지 히이 쿠와 무다 가니?",
+          "korean": "이 일을 한 지 얼마나 됐어요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Mimi ni mhandisi wa kompyuta.",
+          "pronunciation": "미미 니 므한디시 와 콤퓨타.",
+          "korean": "저는 컴퓨터 엔지니어예요."
+        },
+        {
+          "swahili": "Ninafanya kazi katika kampuni ya simu.",
+          "pronunciation": "니나파냐 카지 카티카 캄푸니 야 시무.",
+          "korean": "통신 회사에서 일해요."
+        },
+        {
+          "swahili": "Nimefanya kazi hii kwa miaka mitano.",
+          "pronunciation": "니메파냐 카지 히이 쿠와 미아카 미타노.",
+          "korean": "5년째 이 일을 하고 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Mkutano unaanza saa ngapi?",
+          "pronunciation": "므쿠타노 우나안자 사아 응가피?",
+          "korean": "회의가 몇 시에 시작해요?"
+        },
+        {
+          "swahili": "Ripoti hii inahitajika lini?",
+          "pronunciation": "리포티 히이 이나히타지카 리니?",
+          "korean": "이 보고서가 언제 필요해요?"
+        },
+        {
+          "swahili": "Nimemalizia kazi yangu ya leo.",
+          "pronunciation": "니메말리지아 카지 양우 야 레오.",
+          "korean": "오늘 할 일을 끝냈어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Mkutano unaanza saa nne asubuhi.",
+          "pronunciation": "므쿠타노 우나안자 사아 은네 아수부히.",
+          "korean": "회의는 아침 10시에 시작해요."
+        },
+        {
+          "swahili": "Ripoti inahitajika Ijumaa.",
+          "pronunciation": "리포티 이나히타지카 이주마아.",
+          "korean": "보고서는 금요일까지 필요해요."
+        },
+        {
+          "swahili": "Vizuri sana! Umefanya kazi nzuri.",
+          "pronunciation": "비주리 사나! 우메파냐 카지 은주리.",
+          "korean": "아주 좋아요! 잘 했어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Bosi wangu anataka kuongea nami.",
+          "pronunciation": "보시 왕우 아나타카 쿠옹에아 나미.",
+          "korean": "상사가 저와 이야기하고 싶어 해요."
+        },
+        {
+          "swahili": "Ninahitaji likizo ya siku tatu.",
+          "pronunciation": "니나히타지 리키조 야 시쿠 타투.",
+          "korean": "3일 휴가가 필요해요."
+        },
+        {
+          "swahili": "Mshahara unalipwa lini?",
+          "pronunciation": "므샤하라 우날리프와 리니?",
+          "korean": "급여가 언제 나와요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Labda ana habari njema kwako.",
+          "pronunciation": "라브다 아나 하바리 은제마 쿠와코.",
+          "korean": "아마 좋은 소식이 있을 거예요."
+        },
+        {
+          "swahili": "Jaza fomu ya likizo na umpe meneja.",
+          "pronunciation": "자자 포무 야 리키조 나 움페 메네자.",
+          "korean": "휴가 신청서를 작성해서 매니저에게 주세요."
+        },
+        {
+          "swahili": "Mshahara unalipwa mwisho wa mwezi.",
+          "pronunciation": "므샤하라 우날리프와 므위쇼 와 므웨지.",
+          "korean": "급여는 월말에 나와요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Kazi hii inafurahisha sana.",
+          "pronunciation": "카지 히이 이나푸라히샤 사나.",
+          "korean": "이 일은 정말 재미있어요."
+        },
+        {
+          "swahili": "Tunapaswa kushirikiana vizuri timu.",
+          "pronunciation": "투나파스와 쿠시리키아나 비주리 티무.",
+          "korean": "팀으로 잘 협력해야 해요."
+        },
+        {
+          "swahili": "Asante kwa kufanya kazi pamoja.",
+          "pronunciation": "아산테 쿠와 쿠파냐 카지 파모자.",
+          "korean": "함께 일해줘서 감사합니다."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "kazi",
+      "pronunciation": "카지",
+      "korean": "일, 직장"
+    },
+    {
+      "swahili": "ofisi",
+      "pronunciation": "오피시",
+      "korean": "사무실"
+    },
+    {
+      "swahili": "mkutano",
+      "pronunciation": "므쿠타노",
+      "korean": "회의"
+    },
+    {
+      "swahili": "mshahara",
+      "pronunciation": "므샤하라",
+      "korean": "급여"
+    },
+    {
+      "swahili": "likizo",
+      "pronunciation": "리키조",
+      "korean": "휴가"
+    },
+    {
+      "swahili": "bosi",
+      "pronunciation": "보시",
+      "korean": "상사"
+    }
+  ]
+}

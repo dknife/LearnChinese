@@ -1,0 +1,180 @@
+{
+  "level": 13,
+  "title": "옷 & 외모",
+  "titleSw": "Nguo na Sura",
+  "description": "스와힐리어로 옷과 외모에 대해 표현하는 방법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Unavaa nguo nzuri leo!",
+          "pronunciation": "우나바아 응우오 은주리 레오!",
+          "korean": "오늘 옷이 멋져요!"
+        },
+        {
+          "swahili": "Shati lako ni zuri sana.",
+          "pronunciation": "샤티 라코 니 주리 사나.",
+          "korean": "셔츠가 정말 예뻐요."
+        },
+        {
+          "swahili": "Gauni hilo linakufaa vizuri.",
+          "pronunciation": "가우니 힐로 리나쿠파아 비주리.",
+          "korean": "그 드레스가 잘 어울려요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Asante! Nimenunua hivi juzi.",
+          "pronunciation": "아산테! 니메누누아 히비 주지.",
+          "korean": "감사합니다! 요전에 샀어요."
+        },
+        {
+          "swahili": "Asante sana! Rangi hii ni ya kupendeza.",
+          "pronunciation": "아산테 사나! 랑이 히이 니 야 쿠펜데자.",
+          "korean": "감사합니다! 이 색이 예쁘죠."
+        },
+        {
+          "swahili": "Nashukuru! Ni gauni langu nipendalo zaidi.",
+          "pronunciation": "나슈쿠루! 니 가우니 랑우 니펜달로 자이디.",
+          "korean": "감사해요! 제가 제일 좋아하는 드레스예요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Ninahitaji suruali mpya.",
+          "pronunciation": "니나히타지 수루알리 므퍄.",
+          "korean": "새 바지가 필요해요."
+        },
+        {
+          "swahili": "Viatu hivi ni vidogo sana kwangu.",
+          "pronunciation": "비아투 히비 니 비도고 사나 쿠왕우.",
+          "korean": "이 신발은 저한테 너무 작아요."
+        },
+        {
+          "swahili": "Kofia hii ni kubwa mno.",
+          "pronunciation": "코피아 히이 니 쿠브와 므노.",
+          "korean": "이 모자는 너무 커요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Unapenda rangi gani? Nyeusi au nyeupe?",
+          "pronunciation": "우나펜다 랑이 가니? 녜우시 아우 녜우페?",
+          "korean": "무슨 색을 좋아해요? 검정이요 흰색이요?"
+        },
+        {
+          "swahili": "Jaribu saizi kubwa zaidi.",
+          "pronunciation": "자리부 사이지 쿠브와 자이디.",
+          "korean": "더 큰 사이즈를 신어보세요."
+        },
+        {
+          "swahili": "Kuna saizi ndogo zaidi pale.",
+          "pronunciation": "쿠나 사이지 은도고 자이디 팔레.",
+          "korean": "저기 더 작은 사이즈가 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Mtu yule ana nywele ndefu.",
+          "pronunciation": "므투 율레 아나 뉴웰레 은데푸.",
+          "korean": "저 사람은 머리카락이 길어요."
+        },
+        {
+          "swahili": "Yeye ni mrefu na mwembamba.",
+          "pronunciation": "예예 니 므레푸 나 므웸바므바.",
+          "korean": "그 사람은 키가 크고 날씬해요."
+        },
+        {
+          "swahili": "Ana macho mazuri sana.",
+          "pronunciation": "아나 마초 마주리 사나.",
+          "korean": "눈이 정말 예뻐요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Ndiyo, na anavaa kitenge kizuri.",
+          "pronunciation": "은디요, 나 아나바아 키텡에 키주리.",
+          "korean": "네, 그리고 예쁜 키텡게를 입고 있어요."
+        },
+        {
+          "swahili": "Yeye ni mzuri sana. Anapendeza.",
+          "pronunciation": "예예 니 므주리 사나. 아나펜데자.",
+          "korean": "정말 잘생겼어요/예뻐요. 멋져요."
+        },
+        {
+          "swahili": "Ndiyo, ana tabasamu zuri pia.",
+          "pronunciation": "은디요, 아나 타바사무 주리 피아.",
+          "korean": "네, 미소도 예뻐요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Ninapenda mtindo wako wa kuvaa.",
+          "pronunciation": "니나펜다 므틴도 와코 와 쿠바아.",
+          "korean": "당신의 패션 스타일이 좋아요."
+        },
+        {
+          "swahili": "Rangi nyekundu inakufaa sana.",
+          "pronunciation": "랑이 녜쿤두 이나쿠파아 사나.",
+          "korean": "빨간색이 잘 어울려요."
+        },
+        {
+          "swahili": "Unaonekana mzuri leo!",
+          "pronunciation": "우나오네카나 므주리 레오!",
+          "korean": "오늘 멋져 보여요!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "nguo",
+      "pronunciation": "응우오",
+      "korean": "옷"
+    },
+    {
+      "swahili": "viatu",
+      "pronunciation": "비아투",
+      "korean": "신발"
+    },
+    {
+      "swahili": "rangi",
+      "pronunciation": "랑이",
+      "korean": "색깔"
+    },
+    {
+      "swahili": "nywele",
+      "pronunciation": "뉴웰레",
+      "korean": "머리카락"
+    },
+    {
+      "swahili": "mrefu",
+      "pronunciation": "므레푸",
+      "korean": "키가 큰, 긴"
+    },
+    {
+      "swahili": "mfupi",
+      "pronunciation": "므푸피",
+      "korean": "키가 작은, 짧은"
+    }
+  ]
+}

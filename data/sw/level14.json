@@ -1,0 +1,180 @@
+{
+  "level": 14,
+  "title": "날씨 & 계절",
+  "titleSw": "Hali ya Hewa na Misimu",
+  "description": "스와힐리어로 날씨와 계절에 대해 표현하는 방법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Hali ya hewa ikoje leo?",
+          "pronunciation": "할리 야 헤와 이코제 레오?",
+          "korean": "오늘 날씨가 어때요?"
+        },
+        {
+          "swahili": "Je, itanyesha mvua leo?",
+          "pronunciation": "제, 이타녜샤 므부아 레오?",
+          "korean": "오늘 비가 올까요?"
+        },
+        {
+          "swahili": "Leo kuna joto sana!",
+          "pronunciation": "레오 쿠나 조토 사나!",
+          "korean": "오늘 정말 더워요!"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Leo ni siku ya jua. Hewa ni nzuri.",
+          "pronunciation": "레오 니 시쿠 야 주아. 헤와 니 은주리.",
+          "korean": "오늘은 맑은 날이에요. 날씨가 좋아요."
+        },
+        {
+          "swahili": "Ndiyo, mawingu yako mengi. Labda itanyesha.",
+          "pronunciation": "은디요, 마윙우 야코 멩이. 라브다 이타녜샤.",
+          "korean": "네, 구름이 많아요. 아마 비가 올 거예요."
+        },
+        {
+          "swahili": "Ndiyo, joto ni nyuzi thelathini na tano!",
+          "pronunciation": "은디요, 조토 니 뉴지 텔라시니 나 타노!",
+          "korean": "네, 35도예요!"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Tanzania ina misimu gani?",
+          "pronunciation": "탄자니아 이나 미시무 가니?",
+          "korean": "탄자니아에는 어떤 계절이 있어요?"
+        },
+        {
+          "swahili": "Mvua inanyesha mara nyingi hapa?",
+          "pronunciation": "므부아 이나녜샤 마라 니잉이 하파?",
+          "korean": "여기 비가 자주 와요?"
+        },
+        {
+          "swahili": "Msimu wa baridi ni lini?",
+          "pronunciation": "므시무 와 바리디 니 리니?",
+          "korean": "추운 계절은 언제예요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Tuna msimu wa mvua na msimu wa kiangazi.",
+          "pronunciation": "투나 므시무 와 므부아 나 므시무 와 키앙아지.",
+          "korean": "우기와 건기가 있어요."
+        },
+        {
+          "swahili": "Ndiyo, hasa mwezi wa Aprili na Mei.",
+          "pronunciation": "은디요, 하사 므웨지 와 아프릴리 나 메이.",
+          "korean": "네, 특히 4월과 5월에요."
+        },
+        {
+          "swahili": "Juni hadi Agosti ni baridi kidogo.",
+          "pronunciation": "주니 하디 아고스티 니 바리디 키도고.",
+          "korean": "6월부터 8월까지 약간 추워요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Ninapenda hali ya hewa ya joto.",
+          "pronunciation": "니나펜다 할리 야 헤와 야 조토.",
+          "korean": "더운 날씨를 좋아해요."
+        },
+        {
+          "swahili": "Mvua inanipendeza. Ni ya kupendeza.",
+          "pronunciation": "므부아 이나니펜데자. 니 야 쿠펜데자.",
+          "korean": "비가 좋아요. 멋져요."
+        },
+        {
+          "swahili": "Korea ina misimu minne.",
+          "pronunciation": "코레아 이나 미시무 민네.",
+          "korean": "한국에는 사계절이 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Mimi pia! Jua la Afrika ni zuri.",
+          "pronunciation": "미미 피아! 주아 라 아프리카 니 주리.",
+          "korean": "저도요! 아프리카의 햇살은 좋아요."
+        },
+        {
+          "swahili": "Ndiyo, mvua inafanya ardhi kuwa kijani.",
+          "pronunciation": "은디요, 므부아 이나파냐 아르디 쿠와 키자니.",
+          "korean": "네, 비가 오면 땅이 초록빛이 돼요."
+        },
+        {
+          "swahili": "Kweli? Ni tofauti na hapa. Naomba kunitembelea!",
+          "pronunciation": "쿠웰리? 니 토파우티 나 하파. 나옴바 쿠니템벨레아!",
+          "korean": "정말요? 여기랑 다르네요. 방문하고 싶어요!"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Ndiyo, karibu Korea! Utapenda theluji.",
+          "pronunciation": "은디요, 카리부 코레아! 우타펜다 텔루지.",
+          "korean": "네, 한국에 오세요! 눈이 좋을 거예요."
+        },
+        {
+          "swahili": "Hali ya hewa ya leo ni kamili kwa kutembea.",
+          "pronunciation": "할리 야 헤와 야 레오 니 카밀리 쿠와 쿠템베아.",
+          "korean": "오늘 날씨는 산책하기 딱 좋아요."
+        },
+        {
+          "swahili": "Twende nje! Jua linang'aa.",
+          "pronunciation": "트웬데 은제! 주아 리나응아아.",
+          "korean": "밖에 나가요! 해가 빛나요."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "hali ya hewa",
+      "pronunciation": "할리 야 헤와",
+      "korean": "날씨"
+    },
+    {
+      "swahili": "mvua",
+      "pronunciation": "므부아",
+      "korean": "비"
+    },
+    {
+      "swahili": "jua",
+      "pronunciation": "주아",
+      "korean": "해, 태양"
+    },
+    {
+      "swahili": "baridi",
+      "pronunciation": "바리디",
+      "korean": "추운, 차가운"
+    },
+    {
+      "swahili": "joto",
+      "pronunciation": "조토",
+      "korean": "더운, 더위"
+    },
+    {
+      "swahili": "msimu",
+      "pronunciation": "므시무",
+      "korean": "계절"
+    }
+  ]
+}

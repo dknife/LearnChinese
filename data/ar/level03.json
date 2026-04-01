@@ -1,0 +1,180 @@
+{
+  "level": 3,
+  "title": "가족 소개",
+  "titleAr": "تقديم العائلة",
+  "description": "가족 구성원을 아랍어로 소개하는 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "هل لديك عائلة كبيرة؟",
+          "romanization": "Hal ladayka ʿā'ila kabīra?",
+          "korean": "가족이 많으세요?"
+        },
+        {
+          "arabic": "كم عدد أفراد عائلتك؟",
+          "romanization": "Kam ʿadad afrād ʿā'ilatik?",
+          "korean": "가족이 몇 명이에요?"
+        },
+        {
+          "arabic": "أخبرني عن عائلتك.",
+          "romanization": "Akhbirnī ʿan ʿā'ilatik.",
+          "korean": "가족에 대해 말해주세요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "نعم، عائلتي كبيرة. لدي أربعة إخوة.",
+          "romanization": "Naʿam, ʿā'ilatī kabīra. Ladayya arbaʿat ikhwa.",
+          "korean": "네, 가족이 많아요. 형제가 넷이에요."
+        },
+        {
+          "arabic": "نحن خمسة: أبي وأمي وأخي وأختي وأنا.",
+          "romanization": "Naḥnu khamsa: abī wa ummī wa akhī wa ukhtī wa anā.",
+          "korean": "다섯 명이에요: 아빠, 엄마, 형, 누나, 그리고 저예요."
+        },
+        {
+          "arabic": "عائلتي صغيرة. لدي أخت واحدة فقط.",
+          "romanization": "ʿĀ'ilatī ṣaghīra. Ladayya ukht wāḥida faqaṭ.",
+          "korean": "가족이 적어요. 여동생 한 명뿐이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "ماذا يعمل والدك؟",
+          "romanization": "Mādhā yaʿmal wāliduk?",
+          "korean": "아버지는 무슨 일을 하세요?"
+        },
+        {
+          "arabic": "هل والدتك تعمل؟",
+          "romanization": "Hal wālidatuk taʿmal?",
+          "korean": "어머니는 일하세요?"
+        },
+        {
+          "arabic": "أين يعيش والداك؟",
+          "romanization": "Ayna yaʿīsh wālidāk?",
+          "korean": "부모님은 어디에 사세요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "أبي طبيب وأمي معلمة.",
+          "romanization": "Abī ṭabīb wa ummī muʿallima.",
+          "korean": "아빠는 의사이고 엄마는 선생님이에요."
+        },
+        {
+          "arabic": "نعم، أمي مهندسة.",
+          "romanization": "Naʿam, ummī muhandisa.",
+          "korean": "네, 엄마는 엔지니어예요."
+        },
+        {
+          "arabic": "يعيشان في القاهرة.",
+          "romanization": "Yaʿīshān fī al-Qāhira.",
+          "korean": "카이로에 사세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "هل أنت متزوج؟",
+          "romanization": "Hal anta mutazawwij?",
+          "korean": "결혼하셨어요?"
+        },
+        {
+          "arabic": "هل لديك أطفال؟",
+          "romanization": "Hal ladayka aṭfāl?",
+          "korean": "아이가 있으세요?"
+        },
+        {
+          "arabic": "كم عمر أطفالك؟",
+          "romanization": "Kam ʿumr aṭfālik?",
+          "korean": "아이들이 몇 살이에요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "نعم، أنا متزوج ولدي طفلان.",
+          "romanization": "Naʿam, anā mutazawwij wa ladayya ṭiflān.",
+          "korean": "네, 결혼했고 아이가 둘이에요."
+        },
+        {
+          "arabic": "لا، أنا أعزب.",
+          "romanization": "Lā, anā aʿzab.",
+          "korean": "아니요, 미혼이에요."
+        },
+        {
+          "arabic": "ابني عمره سبع سنوات وابنتي عمرها خمس سنوات.",
+          "romanization": "Ibnī ʿumruhu sabʿ sanawāt wa ibnatī ʿumruhā khams sanawāt.",
+          "korean": "아들은 7살이고 딸은 5살이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "عائلتك جميلة! أتمنى لكم السعادة.",
+          "romanization": "ʿĀ'ilatuk jamīla! Atamannā lakum as-saʿāda.",
+          "korean": "가족이 좋으시네요! 행복하시길 바라요."
+        },
+        {
+          "arabic": "أحب أن أرى صورة عائلتك.",
+          "romanization": "Uḥibbu an arā ṣūrat ʿā'ilatik.",
+          "korean": "가족 사진을 보고 싶어요."
+        },
+        {
+          "arabic": "شكراً على إخباري عن عائلتك!",
+          "romanization": "Shukran ʿalā ikhbārī ʿan ʿā'ilatik!",
+          "korean": "가족에 대해 알려줘서 고마워요!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "عائلة",
+      "romanization": "ʿā'ila",
+      "korean": "가족"
+    },
+    {
+      "arabic": "أب",
+      "romanization": "ab",
+      "korean": "아버지"
+    },
+    {
+      "arabic": "أم",
+      "romanization": "umm",
+      "korean": "어머니"
+    },
+    {
+      "arabic": "أخ",
+      "romanization": "akh",
+      "korean": "형제"
+    },
+    {
+      "arabic": "أخت",
+      "romanization": "ukht",
+      "korean": "자매"
+    },
+    {
+      "arabic": "ابن",
+      "romanization": "ibn",
+      "korean": "아들"
+    }
+  ]
+}

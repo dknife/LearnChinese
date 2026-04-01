@@ -1,0 +1,180 @@
+{
+  "level": 25,
+  "title": "종합 회화",
+  "titleSw": "Mazungumzo ya Jumla",
+  "description": "스와힐리어 종합 회화를 연습해봅시다. 다양한 주제를 다룹니다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Habari za mchana! Umeshindaje?",
+          "pronunciation": "하바리 자 므차나! 우메신다제?",
+          "korean": "좋은 오후에요! 어떻게 지냈어요?"
+        },
+        {
+          "swahili": "Hujambo! Habari za kazi?",
+          "pronunciation": "후잠보! 하바리 자 카지?",
+          "korean": "안녕하세요! 일은 어때요?"
+        },
+        {
+          "swahili": "Salaam! Nimekukosa sana.",
+          "pronunciation": "살람! 니메쿠코사 사나.",
+          "korean": "안녕! 많이 보고 싶었어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Nzuri sana! Nimekuwa na shughuli nyingi.",
+          "pronunciation": "은주리 사나! 니메쿠와 나 슈울리 니잉이.",
+          "korean": "아주 좋아요! 바쁜 일이 많았어요."
+        },
+        {
+          "swahili": "Kazi ni nzuri. Nimepandishwa cheo!",
+          "pronunciation": "카지 니 은주리. 니메판디시와 체오!",
+          "korean": "일은 좋아요. 승진했어요!"
+        },
+        {
+          "swahili": "Mimi pia! Tukutane na kuzungumza.",
+          "pronunciation": "미미 피아! 투쿠타네 나 쿠중움자.",
+          "korean": "저도요! 만나서 이야기해요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Hongera sana! Tunasherehekea lini?",
+          "pronunciation": "홍에라 사나! 투나셰레헤게아 리니?",
+          "korean": "축하합니다! 언제 축하해요?"
+        },
+        {
+          "swahili": "Nimepanga safari ya kwenda Zanzibar mwezi ujao.",
+          "pronunciation": "니메팡아 사파리 야 퀜다 잔지바르 므웨지 우자오.",
+          "korean": "다음 달에 잔지바르 여행을 계획했어요."
+        },
+        {
+          "swahili": "Nimejifunza Kiswahili kwa miezi sita sasa.",
+          "pronunciation": "니메지푼자 키스와힐리 쿠와 미에지 시타 사사.",
+          "korean": "스와힐리어를 배운 지 6개월 됐어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Asante! Tutakwenda mgahawani kesho jioni.",
+          "pronunciation": "아산테! 투타퀜다 므가하와니 게쇼 지오니.",
+          "korean": "감사해요! 내일 저녁에 식당에 갈 거예요."
+        },
+        {
+          "swahili": "Nzuri sana! Zanzibar ni paradiso!",
+          "pronunciation": "은주리 사나! 잔지바르 니 파라디소!",
+          "korean": "아주 좋아요! 잔지바르는 천국이에요!"
+        },
+        {
+          "swahili": "Unaongea vizuri sana! Umejifunza haraka.",
+          "pronunciation": "우나옹에아 비주리 사나! 우메지푼자 하라카.",
+          "korean": "정말 잘 말하네요! 빨리 배웠어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Ninapenda sana maisha hapa Tanzania.",
+          "pronunciation": "니나펜다 사나 마이샤 하파 탄자니아.",
+          "korean": "탄자니아에서의 생활이 정말 좋아요."
+        },
+        {
+          "swahili": "Watu wa hapa ni wakarimu sana.",
+          "pronunciation": "와투 와 하파 니 와카리무 사나.",
+          "korean": "여기 사람들은 정말 친절해요."
+        },
+        {
+          "swahili": "Nimejifunza mengi kutoka kwa marafiki wangu.",
+          "pronunciation": "니메지푼자 멩이 쿠토카 쿠와 마라피키 왕우.",
+          "korean": "친구들에게서 많이 배웠어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Karibuni sana! Tanzania ni nyumbani kwako pia.",
+          "pronunciation": "카리부니 사나! 탄자니아 니 뉴음바니 쿠와코 피아.",
+          "korean": "정말 환영해요! 탄자니아도 당신의 집이에요."
+        },
+        {
+          "swahili": "Asante! Na wewe ni rafiki mzuri sana kwetu.",
+          "pronunciation": "아산테! 나 웨웨 니 라피키 므주리 사나 쿠웨투.",
+          "korean": "감사해요! 당신도 우리에게 정말 좋은 친구예요."
+        },
+        {
+          "swahili": "Ndivyo ilivyo! Marafiki wanajifunza kutoka kwa kila mmoja.",
+          "pronunciation": "은디뵤 일리뵤! 마라피키 와나지푼자 쿠토카 쿠와 킬라 므모자.",
+          "korean": "맞아요! 친구들은 서로에게 배우는 거예요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Tutaendelea kuwa marafiki milele! Asante sana!",
+          "pronunciation": "투타엔델레아 쿠와 마라피키 밀레레! 아산테 사나!",
+          "korean": "영원히 친구로 남아요! 정말 감사합니다!"
+        },
+        {
+          "swahili": "Safari yangu ya kujifunza Kiswahili imeanza vizuri.",
+          "pronunciation": "사파리 양우 야 쿠지푼자 키스와힐리 이메안자 비주리.",
+          "korean": "스와힐리어 학습 여정이 잘 시작됐어요."
+        },
+        {
+          "swahili": "Kwaheri kwa sasa! Tutaonana tena karibuni!",
+          "pronunciation": "쿠와헤리 쿠와 사사! 투타오나나 테나 카리부니!",
+          "korean": "이만 안녕히! 곧 다시 만나요!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "mazungumzo",
+      "pronunciation": "마중움조",
+      "korean": "대화"
+    },
+    {
+      "swahili": "maisha",
+      "pronunciation": "마이샤",
+      "korean": "생활, 삶"
+    },
+    {
+      "swahili": "kujifunza",
+      "pronunciation": "쿠지푼자",
+      "korean": "배우다"
+    },
+    {
+      "swahili": "marafiki",
+      "pronunciation": "마라피키",
+      "korean": "친구들"
+    },
+    {
+      "swahili": "milele",
+      "pronunciation": "밀레레",
+      "korean": "영원히"
+    },
+    {
+      "swahili": "hongera",
+      "pronunciation": "홍에라",
+      "korean": "축하"
+    }
+  ]
+}

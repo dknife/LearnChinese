@@ -1,0 +1,180 @@
+{
+  "level": 15,
+  "title": "취미 & 여가",
+  "titleSw": "Burudani na Mapumziko",
+  "description": "스와힐리어로 취미와 여가 활동에 대해 이야기하는 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Unapenda kufanya nini wakati wa mapumziko?",
+          "pronunciation": "우나펜다 쿠파냐 니니 와카티 와 마품지코?",
+          "korean": "쉬는 시간에 뭘 하는 걸 좋아해요?"
+        },
+        {
+          "swahili": "Una hobby gani?",
+          "pronunciation": "우나 호비 가니?",
+          "korean": "취미가 뭐예요?"
+        },
+        {
+          "swahili": "Unapenda michezo?",
+          "pronunciation": "우나펜다 미체조?",
+          "korean": "운동을 좋아해요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Ninapenda kusoma vitabu na kusikiliza muziki.",
+          "pronunciation": "니나펜다 쿠소마 비타부 나 쿠시킬리자 무지키.",
+          "korean": "책 읽기와 음악 듣기를 좋아해요."
+        },
+        {
+          "swahili": "Ninapenda kupiga picha na kucheza mpira.",
+          "pronunciation": "니나펜다 쿠피가 피차 나 쿠체자 므피라.",
+          "korean": "사진 찍기와 축구를 좋아해요."
+        },
+        {
+          "swahili": "Ninapenda kupika na kutazama filamu.",
+          "pronunciation": "니나펜다 쿠피카 나 쿠타자마 필라무.",
+          "korean": "요리하기와 영화 보기를 좋아해요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Mimi ninapenda kucheza gitaa.",
+          "pronunciation": "미미 니나펜다 쿠체자 기타아.",
+          "korean": "저는 기타 치는 걸 좋아해요."
+        },
+        {
+          "swahili": "Ninapenda kusafiri na kuona maeneo mapya.",
+          "pronunciation": "니나펜다 쿠사피리 나 쿠오나 마에네오 마퍄.",
+          "korean": "여행하면서 새로운 곳을 보는 걸 좋아해요."
+        },
+        {
+          "swahili": "Mimi ninapenda kuogelea baharini.",
+          "pronunciation": "미미 니나펜다 쿠오겔레아 바하리니.",
+          "korean": "바다에서 수영하는 걸 좋아해요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Nzuri! Unacheza vizuri?",
+          "pronunciation": "은주리! 우나체자 비주리?",
+          "korean": "멋져요! 잘 치세요?"
+        },
+        {
+          "swahili": "Kusafiri ni kuzuri! Umefika nchi gani?",
+          "pronunciation": "쿠사피리 니 쿠주리! 우메피카 은치 가니?",
+          "korean": "여행은 좋죠! 어느 나라에 가봤어요?"
+        },
+        {
+          "swahili": "Mimi pia! Bahari ya Zanzibar ni nzuri sana.",
+          "pronunciation": "미미 피아! 바하리 야 잔지바르 니 은주리 사나.",
+          "korean": "저도요! 잔지바르 바다가 정말 아름다워요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Twende kucheza mpira wiki ijayo!",
+          "pronunciation": "트웬데 쿠체자 므피라 위키 이자요!",
+          "korean": "다음 주에 같이 축구해요!"
+        },
+        {
+          "swahili": "Kuna tamasha la muziki wiki hii.",
+          "pronunciation": "쿠나 타마샤 라 무지키 위키 히이.",
+          "korean": "이번 주에 음악 축제가 있어요."
+        },
+        {
+          "swahili": "Tuende kutembelea mbuga ya wanyama.",
+          "pronunciation": "투엔데 쿠템벨레아 므부가 야 와냐마.",
+          "korean": "야생동물 공원에 가요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Sawa! Nitakuwa tayari. Ni saa ngapi?",
+          "pronunciation": "사와! 니타쿠와 타야리. 니 사아 응가피?",
+          "korean": "좋아요! 준비할게요. 몇 시에요?"
+        },
+        {
+          "swahili": "Vizuri sana! Ninapenda muziki wa Bongo Fleva.",
+          "pronunciation": "비주리 사나! 니나펜다 무지키 와 봉오 플레바.",
+          "korean": "아주 좋아요! 봉오 플레바 음악을 좋아해요."
+        },
+        {
+          "swahili": "Ndiyo! Nataka kuona simba na tembo!",
+          "pronunciation": "은디요! 나타카 쿠오나 심바 나 템보!",
+          "korean": "네! 사자와 코끼리를 보고 싶어요!"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Itakuwa raha kubwa! Ninasubiri kwa hamu.",
+          "pronunciation": "이타쿠와 라하 쿠브와! 니나수비리 쿠와 하무.",
+          "korean": "정말 재밌을 거예요! 기대하고 있어요."
+        },
+        {
+          "swahili": "Mapumziko ni muhimu. Lazima tupumzike vizuri.",
+          "pronunciation": "마품지코 니 무히무. 라지마 투품지게 비주리.",
+          "korean": "휴식은 중요해요. 잘 쉬어야 해요."
+        },
+        {
+          "swahili": "Tutafurahia pamoja!",
+          "pronunciation": "투타푸라히아 파모자!",
+          "korean": "같이 즐기자!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "burudani",
+      "pronunciation": "부루다니",
+      "korean": "오락, 즐거움"
+    },
+    {
+      "swahili": "michezo",
+      "pronunciation": "미체조",
+      "korean": "스포츠, 운동"
+    },
+    {
+      "swahili": "muziki",
+      "pronunciation": "무지키",
+      "korean": "음악"
+    },
+    {
+      "swahili": "kusoma",
+      "pronunciation": "쿠소마",
+      "korean": "읽다"
+    },
+    {
+      "swahili": "kusafiri",
+      "pronunciation": "쿠사피리",
+      "korean": "여행하다"
+    },
+    {
+      "swahili": "mapumziko",
+      "pronunciation": "마품지코",
+      "korean": "휴식"
+    }
+  ]
+}

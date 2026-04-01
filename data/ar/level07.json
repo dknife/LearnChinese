@@ -1,0 +1,180 @@
+{
+  "level": 7,
+  "title": "택시 & 대중교통",
+  "titleAr": "التاكسي والمواصلات",
+  "description": "택시와 대중교통 이용 시 필요한 아랍어 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "تاكسي! هل أنت فارغ؟",
+          "romanization": "Tāksī! Hal anta fārigh?",
+          "korean": "택시! 비어 있나요?"
+        },
+        {
+          "arabic": "أريد الذهاب إلى وسط المدينة.",
+          "romanization": "Urīdu adh-dhahāb ilā wasaṭ al-madīna.",
+          "korean": "시내 중심으로 가고 싶어요."
+        },
+        {
+          "arabic": "كم تكلفة الرحلة إلى المطار؟",
+          "romanization": "Kam taklifat ar-riḥla ilā al-maṭār?",
+          "korean": "공항까지 요금이 얼마예요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "نعم، تفضل. إلى أين؟",
+          "romanization": "Naʿam, tafaḍḍal. Ilā ayn?",
+          "korean": "네, 타세요. 어디로요?"
+        },
+        {
+          "arabic": "حسناً، سأستخدم العداد.",
+          "romanization": "Ḥasanan, sa'astakhdimu al-ʿaddād.",
+          "korean": "좋아요, 미터기를 사용할게요."
+        },
+        {
+          "arabic": "حوالي عشرين ديناراً.",
+          "romanization": "Ḥawālī ʿishrīn dīnāran.",
+          "korean": "약 20디나르예요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "من فضلك، توقف هنا.",
+          "romanization": "Min faḍlik, tawaqqaf hunā.",
+          "korean": "여기서 세워주세요."
+        },
+        {
+          "arabic": "هل يمكنك الإسراع قليلاً؟ أنا متأخر.",
+          "romanization": "Hal yumkinuk al-isrāʿ qalīlan? Anā muta'akhkhir.",
+          "korean": "좀 빨리 갈 수 있나요? 늦었어요."
+        },
+        {
+          "arabic": "من فضلك، انتظرني خمس دقائق.",
+          "romanization": "Min faḍlik, intaẓirnī khams daqā'iq.",
+          "korean": "5분만 기다려주세요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "حاضر! المبلغ خمسة دنانير.",
+          "romanization": "Ḥāḍir! Al-mablagh khamsat danānīr.",
+          "korean": "알겠습니다! 5디나르입니다."
+        },
+        {
+          "arabic": "سأحاول، لكن هناك ازدحام مروري.",
+          "romanization": "Sa'uḥāwil, lākin hunāka izdiḥām murūrī.",
+          "korean": "노력해볼게요, 하지만 교통체증이 있어요."
+        },
+        {
+          "arabic": "حسناً، سأنتظر هنا.",
+          "romanization": "Ḥasanan, sa'antaẓir hunā.",
+          "korean": "좋아요, 여기서 기다릴게요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أين محطة الحافلات؟",
+          "romanization": "Ayna maḥaṭṭat al-ḥāfilāt?",
+          "korean": "버스 정류장이 어디에요?"
+        },
+        {
+          "arabic": "أي حافلة تذهب إلى السوق القديم؟",
+          "romanization": "Ayyu ḥāfila tadhhab ilā as-sūq al-qadīm?",
+          "korean": "옛 시장으로 가는 버스는 몇 번이에요?"
+        },
+        {
+          "arabic": "كم سعر التذكرة؟",
+          "romanization": "Kam siʿr at-tadhkira?",
+          "korean": "표가 얼마예요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "المحطة على بعد مئة متر من هنا.",
+          "romanization": "Al-maḥaṭṭa ʿalā buʿd mi'at mitr min hunā.",
+          "korean": "정류장은 여기서 100미터 거리예요."
+        },
+        {
+          "arabic": "خذ الحافلة رقم سبعة.",
+          "romanization": "Khudh al-ḥāfila raqam sabʿa.",
+          "korean": "7번 버스를 타세요."
+        },
+        {
+          "arabic": "التذكرة بنصف دينار.",
+          "romanization": "At-tadhkira bi-niṣf dīnār.",
+          "korean": "표는 0.5디나르예요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "شكراً! متى تأتي الحافلة القادمة؟",
+          "romanization": "Shukran! Matā ta'tī al-ḥāfila al-qādima?",
+          "korean": "감사합니다! 다음 버스는 언제 와요?"
+        },
+        {
+          "arabic": "هل هذه الحافلة تتوقف عند المتحف؟",
+          "romanization": "Hal hādhihi al-ḥāfila tatawaqqaf ʿinda al-matḥaf?",
+          "korean": "이 버스가 박물관에 서나요?"
+        },
+        {
+          "arabic": "أين أنزل للوصول إلى الفندق؟",
+          "romanization": "Ayna anzil lil-wuṣūl ilā al-funduq?",
+          "korean": "호텔에 가려면 어디서 내려야 하나요?"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "تاكسي",
+      "romanization": "tāksī",
+      "korean": "택시"
+    },
+    {
+      "arabic": "حافلة",
+      "romanization": "ḥāfila",
+      "korean": "버스"
+    },
+    {
+      "arabic": "محطة",
+      "romanization": "maḥaṭṭa",
+      "korean": "정류장/역"
+    },
+    {
+      "arabic": "تذكرة",
+      "romanization": "tadhkira",
+      "korean": "표/티켓"
+    },
+    {
+      "arabic": "مطار",
+      "romanization": "maṭār",
+      "korean": "공항"
+    },
+    {
+      "arabic": "ازدحام",
+      "romanization": "izdiḥām",
+      "korean": "교통체증"
+    }
+  ]
+}

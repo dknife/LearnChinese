@@ -1,0 +1,180 @@
+{
+  "level": 8,
+  "title": "시간 표현",
+  "titleSw": "Wakati",
+  "description": "스와힐리어로 시간을 묻고 표현하는 방법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Samahani, saa ngapi sasa?",
+          "pronunciation": "사마하니, 사아 응가피 사사?",
+          "korean": "실례합니다, 지금 몇 시예요?"
+        },
+        {
+          "swahili": "Saa yako inasema nini?",
+          "pronunciation": "사아 야코 이나세마 니니?",
+          "korean": "시계가 뭐라고 해요?"
+        },
+        {
+          "swahili": "Ni wakati gani sasa?",
+          "pronunciation": "니 와카티 가니 사사?",
+          "korean": "지금 무슨 시간이에요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Ni saa tatu asubuhi.",
+          "pronunciation": "니 사아 타투 아수부히.",
+          "korean": "아침 9시예요."
+        },
+        {
+          "swahili": "Ni saa sita mchana.",
+          "pronunciation": "니 사아 시타 므차나.",
+          "korean": "낮 12시예요."
+        },
+        {
+          "swahili": "Ni saa moja na nusu usiku.",
+          "pronunciation": "니 사아 모자 나 누수 우시쿠.",
+          "korean": "밤 7시 반이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Mkutano unaanza saa ngapi?",
+          "pronunciation": "므쿠타노 우나안자 사아 응가피?",
+          "korean": "회의가 몇 시에 시작해요?"
+        },
+        {
+          "swahili": "Duka linafunguka saa ngapi?",
+          "pronunciation": "두카 리나풍우카 사아 응가피?",
+          "korean": "가게는 몇 시에 열어요?"
+        },
+        {
+          "swahili": "Darasa linaisha lini?",
+          "pronunciation": "다라사 리나이샤 리니?",
+          "korean": "수업이 언제 끝나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Mkutano unaanza saa nne asubuhi.",
+          "pronunciation": "므쿠타노 우나안자 사아 은네 아수부히.",
+          "korean": "회의는 아침 10시에 시작해요."
+        },
+        {
+          "swahili": "Duka linafunguka saa mbili asubuhi.",
+          "pronunciation": "두카 리나풍우카 사아 므빌리 아수부히.",
+          "korean": "가게는 아침 8시에 열어요."
+        },
+        {
+          "swahili": "Darasa linaisha saa kumi na moja jioni.",
+          "pronunciation": "다라사 리나이샤 사아 쿠미 나 모자 지오니.",
+          "korean": "수업은 오후 5시에 끝나요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Nimechelewa! Nisamehe.",
+          "pronunciation": "니메첼레와! 니사메헤.",
+          "korean": "늦었어요! 죄송합니다."
+        },
+        {
+          "swahili": "Bado kuna wakati?",
+          "pronunciation": "바도 쿠나 와카티?",
+          "korean": "아직 시간이 있나요?"
+        },
+        {
+          "swahili": "Nitafika mapema kesho.",
+          "pronunciation": "니타피카 마페마 게쇼.",
+          "korean": "내일은 일찍 올게요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Hakuna shida. Keti chini.",
+          "pronunciation": "하쿠나 시다. 게티 치니.",
+          "korean": "괜찮아요. 앉으세요."
+        },
+        {
+          "swahili": "Ndiyo, bado dakika kumi.",
+          "pronunciation": "은디요, 바도 다키카 쿠미.",
+          "korean": "네, 아직 10분 있어요."
+        },
+        {
+          "swahili": "Vizuri. Tukutane saa mbili asubuhi.",
+          "pronunciation": "비주리. 투쿠타네 사아 므빌리 아수부히.",
+          "korean": "좋아요. 아침 8시에 만나요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Sawa, tutaonana kesho asubuhi!",
+          "pronunciation": "사와, 투타오나나 게쇼 아수부히!",
+          "korean": "좋아요, 내일 아침에 만나요!"
+        },
+        {
+          "swahili": "Nzuri, nitakuwa tayari kwa wakati.",
+          "pronunciation": "은주리, 니타쿠와 타야리 쿠와 와카티.",
+          "korean": "좋아요, 제시간에 준비하겠습니다."
+        },
+        {
+          "swahili": "Asante! Kwaheri, usiku mwema!",
+          "pronunciation": "아산테! 쿠와헤리, 우시쿠 므웨마!",
+          "korean": "감사합니다! 안녕히, 좋은 밤 되세요!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "saa",
+      "pronunciation": "사아",
+      "korean": "시간, 시계"
+    },
+    {
+      "swahili": "dakika",
+      "pronunciation": "다키카",
+      "korean": "분"
+    },
+    {
+      "swahili": "asubuhi",
+      "pronunciation": "아수부히",
+      "korean": "아침"
+    },
+    {
+      "swahili": "jioni",
+      "pronunciation": "지오니",
+      "korean": "저녁"
+    },
+    {
+      "swahili": "usiku",
+      "pronunciation": "우시쿠",
+      "korean": "밤"
+    },
+    {
+      "swahili": "kesho",
+      "pronunciation": "게쇼",
+      "korean": "내일"
+    }
+  ]
+}

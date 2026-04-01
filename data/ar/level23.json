@@ -1,0 +1,180 @@
+{
+  "level": 23,
+  "title": "직장 & 업무",
+  "titleAr": "العمل والمكتب",
+  "description": "직장과 업무에 관한 아랍어 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "ماذا تعمل؟",
+          "romanization": "Mādhā taʿmal?",
+          "korean": "무슨 일을 하세요?"
+        },
+        {
+          "arabic": "أين تعمل؟",
+          "romanization": "Ayna taʿmal?",
+          "korean": "어디서 일하세요?"
+        },
+        {
+          "arabic": "هل تحب عملك؟",
+          "romanization": "Hal tuḥibb ʿamalak?",
+          "korean": "일을 좋아하세요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "أنا مهندس برمجيات. أعمل في شركة تقنية.",
+          "romanization": "Anā muhandis barmajiyyāt. Aʿmal fī sharika tiqniyya.",
+          "korean": "저는 소프트웨어 엔지니어예요. IT 회사에서 일해요."
+        },
+        {
+          "arabic": "أعمل في بنك في وسط المدينة.",
+          "romanization": "Aʿmal fī bank fī wasaṭ al-madīna.",
+          "korean": "시내 중심의 은행에서 일해요."
+        },
+        {
+          "arabic": "نعم، أحب عملي كثيراً. إنه ممتع.",
+          "romanization": "Naʿam, uḥibb ʿamalī kathīran. Innahu mumtiʿ.",
+          "korean": "네, 일을 정말 좋아해요. 재미있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "لدينا اجتماع في الساعة العاشرة.",
+          "romanization": "Ladaynā ijtimāʿ fī as-sāʿa al-ʿāshira.",
+          "korean": "10시에 회의가 있어요."
+        },
+        {
+          "arabic": "هل أنهيت التقرير؟",
+          "romanization": "Hal anhayta at-taqrīr?",
+          "korean": "보고서 끝냈어요?"
+        },
+        {
+          "arabic": "المدير يريد مقابلتك.",
+          "romanization": "Al-mudīr yurīdu muqābalatik.",
+          "korean": "사장님이 면담을 원하세요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "حسناً، سأحضر العرض التقديمي.",
+          "romanization": "Ḥasanan, sa'uḥaḍḍir al-ʿarḍ at-taqdīmī.",
+          "korean": "알겠어요, 프레젠테이션을 준비할게요."
+        },
+        {
+          "arabic": "تقريباً. أحتاج إلى ساعة أخرى.",
+          "romanization": "Taqrīban. Aḥtāj ilā sāʿa ukhrā.",
+          "korean": "거의요. 한 시간 더 필요해요."
+        },
+        {
+          "arabic": "حسناً، سأذهب إلى مكتبه الآن.",
+          "romanization": "Ḥasanan, sa'adhhab ilā maktabihi al-ān.",
+          "korean": "알겠어요, 지금 사무실로 갈게요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "هل يمكنك إرسال البريد الإلكتروني للعميل؟",
+          "romanization": "Hal yumkinuk irsāl al-barīd al-iliktrūnī lil-ʿamīl?",
+          "korean": "고객에게 이메일을 보내줄 수 있어요?"
+        },
+        {
+          "arabic": "أحتاج إلى إجازة الأسبوع القادم.",
+          "romanization": "Aḥtāj ilā ijāza al-usbūʿ al-qādim.",
+          "korean": "다음 주에 휴가가 필요해요."
+        },
+        {
+          "arabic": "متى موعد تسليم المشروع؟",
+          "romanization": "Matā mawʿid taslīm al-mashrūʿ?",
+          "korean": "프로젝트 마감일이 언제예요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "بالتأكيد، سأرسله قبل نهاية اليوم.",
+          "romanization": "Bit-ta'kīd, sa'ursiluhu qabl nihāyat al-yawm.",
+          "korean": "물론이죠, 오늘 끝나기 전에 보낼게요."
+        },
+        {
+          "arabic": "تحدث مع المدير. ستحتاج إلى موافقته.",
+          "romanization": "Taḥaddath maʿa al-mudīr. Sataḥtāj ilā muwāfaqatihi.",
+          "korean": "사장님과 얘기하세요. 승인이 필요해요."
+        },
+        {
+          "arabic": "الموعد النهائي يوم الجمعة القادم.",
+          "romanization": "Al-mawʿid an-nihā'ī yawm al-jumʿa al-qādim.",
+          "korean": "마감일은 다음 금요일이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "عمل جماعي رائع! أحسنتم!",
+          "romanization": "ʿAmal jamāʿī rā'iʿ! Aḥsantum!",
+          "korean": "훌륭한 팀워크예요! 잘했어요!"
+        },
+        {
+          "arabic": "دعونا نحتفل بنجاح المشروع!",
+          "romanization": "Daʿūnā naḥtafil binajāḥ al-mashrūʿ!",
+          "korean": "프로젝트 성공을 축하해요!"
+        },
+        {
+          "arabic": "أتمنى لكم عطلة نهاية أسبوع سعيدة!",
+          "romanization": "Atamannā lakum ʿuṭlat nihāyat usbūʿ saʿīda!",
+          "korean": "즐거운 주말 보내세요!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "عمل",
+      "romanization": "ʿamal",
+      "korean": "일/업무"
+    },
+    {
+      "arabic": "مكتب",
+      "romanization": "maktab",
+      "korean": "사무실"
+    },
+    {
+      "arabic": "مدير",
+      "romanization": "mudīr",
+      "korean": "사장/매니저"
+    },
+    {
+      "arabic": "اجتماع",
+      "romanization": "ijtimāʿ",
+      "korean": "회의"
+    },
+    {
+      "arabic": "مشروع",
+      "romanization": "mashrūʿ",
+      "korean": "프로젝트"
+    },
+    {
+      "arabic": "إجازة",
+      "romanization": "ijāza",
+      "korean": "휴가"
+    }
+  ]
+}

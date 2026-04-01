@@ -1,0 +1,180 @@
+{
+  "level": 6,
+  "title": "쇼핑하기",
+  "titleSw": "Kununua Vitu",
+  "description": "스와힐리어로 쇼핑할 때 필요한 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Habari! Ningependa kununua shati.",
+          "pronunciation": "하바리! 닝에펜다 쿠누누아 샤티.",
+          "korean": "안녕하세요! 셔츠를 사고 싶어요."
+        },
+        {
+          "swahili": "Samahani, mna viatu vya ngozi?",
+          "pronunciation": "사마하니, 므나 비아투 뷔아 응고지?",
+          "korean": "실례합니다, 가죽 신발 있나요?"
+        },
+        {
+          "swahili": "Ninatafuta zawadi kwa rafiki yangu.",
+          "pronunciation": "니나타푸타 자와디 쿠와 라피키 양우.",
+          "korean": "친구에게 줄 선물을 찾고 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Karibu! Tunazo shati nyingi. Unapenda rangi gani?",
+          "pronunciation": "카리부! 투나조 샤티 니잉이. 우나펜다 랑이 가니?",
+          "korean": "어서 오세요! 셔츠가 많아요. 어떤 색을 좋아하세요?"
+        },
+        {
+          "swahili": "Ndiyo, tuna viatu vya ngozi. Saizi yako ni ipi?",
+          "pronunciation": "은디요, 투나 비아투 뷔아 응고지. 사이지 야코 니 이피?",
+          "korean": "네, 가죽 신발이 있어요. 사이즈가 어떻게 되세요?"
+        },
+        {
+          "swahili": "Tunazo zawadi nzuri. Unataka nini hasa?",
+          "pronunciation": "투나조 자와디 은주리. 우나타카 니니 하사?",
+          "korean": "좋은 선물이 있어요. 뭘 원하시나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Napenda rangi ya bluu. Hii ni bei gani?",
+          "pronunciation": "나펜다 랑이 야 블루우. 히이 니 베이 가니?",
+          "korean": "파란색이 좋아요. 이것은 얼마예요?"
+        },
+        {
+          "swahili": "Saizi yangu ni arobaini na mbili. Naweza kujaribu?",
+          "pronunciation": "사이지 양우 니 아로바이니 나 므빌리. 나웨자 쿠자리부?",
+          "korean": "사이즈는 42예요. 신어볼 수 있을까요?"
+        },
+        {
+          "swahili": "Nionyeshe kitu kizuri zaidi.",
+          "pronunciation": "니오녜셰 키투 키주리 자이디.",
+          "korean": "더 좋은 것을 보여주세요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Hii ni shilingi elfu ishirini.",
+          "pronunciation": "히이 니 실링이 엘푸 이시리니.",
+          "korean": "이것은 2만 실링이에요."
+        },
+        {
+          "swahili": "Ndiyo, jaribu hivi. Chumba cha kubadilishia kiko pale.",
+          "pronunciation": "은디요, 자리부 히비. 춤바 차 쿠바딜리시아 키코 팔레.",
+          "korean": "네, 이것을 신어보세요. 탈의실은 저기예요."
+        },
+        {
+          "swahili": "Hiki ni kipya na cha ubora wa juu.",
+          "pronunciation": "히키 니 키퍄 나 차 우보라 와 주우.",
+          "korean": "이것은 새 것이고 고급 품질이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Ni ghali sana. Unaweza kupunguza bei?",
+          "pronunciation": "니 갈리 사나. 우나웨자 쿠풍우자 베이?",
+          "korean": "너무 비싸요. 가격을 좀 깎아주실 수 있나요?"
+        },
+        {
+          "swahili": "Kuna punguzo?",
+          "pronunciation": "쿠나 풍우조?",
+          "korean": "할인이 있나요?"
+        },
+        {
+          "swahili": "Nikiununua viwili, bei itakuwa ngapi?",
+          "pronunciation": "니키우누누아 비윌리, 베이 이타쿠와 응가피?",
+          "korean": "두 개 사면 얼마예요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Sawa, nitakupa kwa shilingi elfu kumi na tano.",
+          "pronunciation": "사와, 니타쿠파 쿠와 실링이 엘푸 쿠미 나 타노.",
+          "korean": "좋아요, 1만 5천 실링에 드릴게요."
+        },
+        {
+          "swahili": "Ndiyo, tuna punguzo la asilimia kumi.",
+          "pronunciation": "은디요, 투나 풍우조 라 아실리미아 쿠미.",
+          "korean": "네, 10% 할인이 있어요."
+        },
+        {
+          "swahili": "Viwili kwa shilingi elfu thelathini.",
+          "pronunciation": "비윌리 쿠와 실링이 엘푸 텔라시니.",
+          "korean": "두 개에 3만 실링이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Sawa, nitanunua. Naweza kulipa kwa kadi?",
+          "pronunciation": "사와, 니타누누아. 나웨자 쿨리파 쿠와 카디?",
+          "korean": "좋아요, 살게요. 카드로 결제할 수 있나요?"
+        },
+        {
+          "swahili": "Nzuri, nitachukua hii. Hii ni pesa.",
+          "pronunciation": "은주리, 니타추쿠아 히이. 히이 니 페사.",
+          "korean": "좋아요, 이것을 가져갈게요. 여기 돈이요."
+        },
+        {
+          "swahili": "Asante! Nifungie vizuri, tafadhali.",
+          "pronunciation": "아산테! 니풍이에 비주리, 타파달리.",
+          "korean": "감사합니다! 잘 포장해 주세요."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "kununua",
+      "pronunciation": "쿠누누아",
+      "korean": "사다"
+    },
+    {
+      "swahili": "bei",
+      "pronunciation": "베이",
+      "korean": "가격"
+    },
+    {
+      "swahili": "ghali",
+      "pronunciation": "갈리",
+      "korean": "비싼"
+    },
+    {
+      "swahili": "rahisi",
+      "pronunciation": "라히시",
+      "korean": "싼, 쉬운"
+    },
+    {
+      "swahili": "pesa",
+      "pronunciation": "페사",
+      "korean": "돈"
+    },
+    {
+      "swahili": "duka",
+      "pronunciation": "두카",
+      "korean": "가게"
+    }
+  ]
+}

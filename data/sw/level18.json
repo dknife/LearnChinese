@@ -1,0 +1,180 @@
+{
+  "level": 18,
+  "title": "병원 & 약국",
+  "titleSw": "Hospitali na Duka la Dawa",
+  "description": "스와힐리어로 병원과 약국에서 쓰는 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Daktari, sijisikii vizuri.",
+          "pronunciation": "닥타리, 시지시키이 비주리.",
+          "korean": "의사 선생님, 몸이 안 좋아요."
+        },
+        {
+          "swahili": "Nina maumivu ya kichwa.",
+          "pronunciation": "니나 마우미부 야 키치와.",
+          "korean": "두통이 있어요."
+        },
+        {
+          "swahili": "Ninahisi homa na baridi.",
+          "pronunciation": "니나히시 호마 나 바리디.",
+          "korean": "열이 나고 오한이 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Pole sana. Unahisi maumivu wapi?",
+          "pronunciation": "폴레 사나. 우나히시 마우미부 와피?",
+          "korean": "안됐네요. 어디가 아프세요?"
+        },
+        {
+          "swahili": "Tangu lini unahisi hivyo?",
+          "pronunciation": "탕우 리니 우나히시 히뵤?",
+          "korean": "언제부터 그렇게 느꼈어요?"
+        },
+        {
+          "swahili": "Nitakupima. Lala hapa, tafadhali.",
+          "pronunciation": "니타쿠피마. 랄라 하파, 타파달리.",
+          "korean": "검사해볼게요. 여기 누우세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Nina maumivu ya tumbo tangu jana.",
+          "pronunciation": "니나 마우미부 야 툼보 탕우 자나.",
+          "korean": "어제부터 배가 아파요."
+        },
+        {
+          "swahili": "Nimekohoa siku tatu.",
+          "pronunciation": "니메코호아 시쿠 타투.",
+          "korean": "3일째 기침을 해요."
+        },
+        {
+          "swahili": "Miguu yangu inaumia.",
+          "pronunciation": "미구우 양우 이나우미아.",
+          "korean": "다리가 아파요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Nitakuandikia dawa. Nenda duka la dawa.",
+          "pronunciation": "니타쿠안디키아 다와. 넨다 두카 라 다와.",
+          "korean": "처방전을 써드릴게요. 약국에 가세요."
+        },
+        {
+          "swahili": "Una homa. Pumzika nyumbani siku mbili.",
+          "pronunciation": "우나 호마. 품지카 뉴음바니 시쿠 므빌리.",
+          "korean": "열이 있어요. 이틀간 집에서 쉬세요."
+        },
+        {
+          "swahili": "Tunahitaji kupiga eksirei. Njoo hapa.",
+          "pronunciation": "투나히타지 쿠피가 엑시레이. 은조오 하파.",
+          "korean": "엑스레이를 찍어야 해요. 이쪽으로 오세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Ninahitaji dawa ya maumivu.",
+          "pronunciation": "니나히타지 다와 야 마우미부.",
+          "korean": "진통제가 필요해요."
+        },
+        {
+          "swahili": "Nina mzio wa penicillin.",
+          "pronunciation": "니나 므지오 와 페니실린.",
+          "korean": "페니실린 알레르기가 있어요."
+        },
+        {
+          "swahili": "Dawa hii niimeze mara ngapi kwa siku?",
+          "pronunciation": "다와 히이 니이메제 마라 응가피 쿠와 시쿠?",
+          "korean": "이 약은 하루에 몇 번 먹어요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Meza dawa hii mara tatu kwa siku, baada ya chakula.",
+          "pronunciation": "메자 다와 히이 마라 타투 쿠와 시쿠, 바아다 야 차쿨라.",
+          "korean": "이 약은 하루 세 번 식후에 드세요."
+        },
+        {
+          "swahili": "Sawa, nitakupa dawa nyingine.",
+          "pronunciation": "사와, 니타쿠파 다와 니잉이네.",
+          "korean": "좋아요, 다른 약을 드릴게요."
+        },
+        {
+          "swahili": "Meza moja asubuhi na moja jioni.",
+          "pronunciation": "메자 모자 아수부히 나 모자 지오니.",
+          "korean": "아침에 한 알, 저녁에 한 알 드세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Asante, daktari. Nitafuata maelekezo.",
+          "pronunciation": "아산테, 닥타리. 니타푸아타 마엘레게조.",
+          "korean": "감사합니다, 의사 선생님. 지시를 따르겠습니다."
+        },
+        {
+          "swahili": "Nimekuelewa. Nirudi lini?",
+          "pronunciation": "니메쿠엘레와. 니루디 리니?",
+          "korean": "이해했어요. 언제 다시 올까요?"
+        },
+        {
+          "swahili": "Asante kwa msaada. Ninahisi vizuri tayari.",
+          "pronunciation": "아산테 쿠와 므사아다. 니나히시 비주리 타야리.",
+          "korean": "도움 감사합니다. 벌써 좀 나아져요."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "daktari",
+      "pronunciation": "닥타리",
+      "korean": "의사"
+    },
+    {
+      "swahili": "hospitali",
+      "pronunciation": "호스피탈리",
+      "korean": "병원"
+    },
+    {
+      "swahili": "dawa",
+      "pronunciation": "다와",
+      "korean": "약"
+    },
+    {
+      "swahili": "maumivu",
+      "pronunciation": "마우미부",
+      "korean": "통증"
+    },
+    {
+      "swahili": "homa",
+      "pronunciation": "호마",
+      "korean": "열, 감기"
+    },
+    {
+      "swahili": "pumzika",
+      "pronunciation": "품지카",
+      "korean": "쉬다"
+    }
+  ]
+}

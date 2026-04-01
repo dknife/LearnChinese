@@ -1,0 +1,180 @@
+{
+  "level": 17,
+  "title": "은행 & 환전",
+  "titleAr": "البنك وصرف العملات",
+  "description": "은행과 환전에 필요한 아랍어 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أين أقرب بنك من هنا؟",
+          "romanization": "Ayna aqrab bank min hunā?",
+          "korean": "여기서 가장 가까운 은행이 어디에요?"
+        },
+        {
+          "arabic": "أريد فتح حساب مصرفي.",
+          "romanization": "Urīdu fatḥ ḥisāb maṣrifī.",
+          "korean": "은행 계좌를 개설하고 싶어요."
+        },
+        {
+          "arabic": "أريد صرف عملات أجنبية.",
+          "romanization": "Urīdu ṣarf ʿumlāt ajnabiyya.",
+          "korean": "외화를 환전하고 싶어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "البنك في الشارع الرئيسي، على بعد خمس دقائق.",
+          "romanization": "Al-bank fī ash-shāriʿ ar-ra'īsī, ʿalā buʿd khams daqā'iq.",
+          "korean": "은행은 주요 거리에 있어요, 5분 거리예요."
+        },
+        {
+          "arabic": "تحتاج إلى جواز سفرك وصورة شخصية.",
+          "romanization": "Taḥtāj ilā jawāz safarik wa ṣūra shakhṣiyya.",
+          "korean": "여권과 증명사진이 필요해요."
+        },
+        {
+          "arabic": "أي عملة تريد صرفها؟",
+          "romanization": "Ayya ʿumla turīd ṣarfahā?",
+          "korean": "어떤 통화를 환전하시겠어요?"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أريد تحويل دولارات إلى دنانير.",
+          "romanization": "Urīdu taḥwīl dūlārāt ilā danānīr.",
+          "korean": "달러를 디나르로 바꾸고 싶어요."
+        },
+        {
+          "arabic": "ما سعر الصرف اليوم؟",
+          "romanization": "Mā siʿr aṣ-ṣarf al-yawm?",
+          "korean": "오늘 환율이 어떻게 되나요?"
+        },
+        {
+          "arabic": "أريد سحب مال من حسابي.",
+          "romanization": "Urīdu saḥb māl min ḥisābī.",
+          "korean": "제 계좌에서 돈을 인출하고 싶어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "كم دولاراً تريد تحويلها؟",
+          "romanization": "Kam dūlāran turīdu taḥwīlahā?",
+          "korean": "얼마나 환전하시겠어요?"
+        },
+        {
+          "arabic": "الدولار الواحد يساوي سبعمئة وعشرة فلسات.",
+          "romanization": "Ad-dūlār al-wāḥid yusāwī sabʿami'a wa ʿasharat filsāt.",
+          "korean": "1달러는 710필스예요."
+        },
+        {
+          "arabic": "كم تريد سحبه؟ تفضل بملء هذا النموذج.",
+          "romanization": "Kam turīdu saḥbahu? Tafaḍḍal bimal' hādhā an-namūdhaj.",
+          "korean": "얼마를 인출하시겠어요? 이 양식을 작성해주세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أريد تحويل مئتي دولار.",
+          "romanization": "Urīdu taḥwīl mi'atay dūlār.",
+          "korean": "200달러를 환전하고 싶어요."
+        },
+        {
+          "arabic": "هل هناك رسوم على التحويل؟",
+          "romanization": "Hal hunāka rusūm ʿalā at-taḥwīl?",
+          "korean": "환전 수수료가 있나요?"
+        },
+        {
+          "arabic": "هل يمكنني استخدام بطاقتي في الصراف الآلي؟",
+          "romanization": "Hal yumkinunī istikhdām biṭāqatī fī aṣ-ṣarrāf al-ālī?",
+          "korean": "ATM에서 제 카드를 사용할 수 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "حسناً، ستحصل على مئة واثنين وأربعين ديناراً.",
+          "romanization": "Ḥasanan, sataḥṣul ʿalā mi'a wa ithnay wa arbaʿīn dīnāran.",
+          "korean": "알겠어요, 142디나르를 받으실 거예요."
+        },
+        {
+          "arabic": "نعم، هناك رسم بسيط بنسبة واحد بالمئة.",
+          "romanization": "Naʿam, hunāka rasm basīṭ binisbat wāḥid bil-mi'a.",
+          "korean": "네, 1% 소액 수수료가 있어요."
+        },
+        {
+          "arabic": "نعم، الصراف الآلي يقبل البطاقات الدولية.",
+          "romanization": "Naʿam, aṣ-ṣarrāf al-ālī yaqbal al-biṭāqāt ad-dawliyya.",
+          "korean": "네, ATM에서 국제 카드를 사용할 수 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "شكراً جزيلاً! هذا يساعدني كثيراً.",
+          "romanization": "Shukran jazīlan! Hādhā yusāʿidunī kathīran.",
+          "korean": "정말 감사합니다! 많은 도움이 됩니다."
+        },
+        {
+          "arabic": "ممتاز! سأستخدم الصراف الآلي.",
+          "romanization": "Mumtāz! Sa'astakhdimu aṣ-ṣarrāf al-ālī.",
+          "korean": "좋아요! ATM을 사용할게요."
+        },
+        {
+          "arabic": "هل يمكنني الحصول على إيصال؟",
+          "romanization": "Hal yumkinunī al-ḥuṣūl ʿalā īṣāl?",
+          "korean": "영수증을 받을 수 있나요?"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "بنك",
+      "romanization": "bank",
+      "korean": "은행"
+    },
+    {
+      "arabic": "عملة",
+      "romanization": "ʿumla",
+      "korean": "통화"
+    },
+    {
+      "arabic": "صرف",
+      "romanization": "ṣarf",
+      "korean": "환전"
+    },
+    {
+      "arabic": "حساب",
+      "romanization": "ḥisāb",
+      "korean": "계좌"
+    },
+    {
+      "arabic": "سحب",
+      "romanization": "saḥb",
+      "korean": "인출"
+    },
+    {
+      "arabic": "إيداع",
+      "romanization": "īdāʿ",
+      "korean": "입금"
+    }
+  ]
+}

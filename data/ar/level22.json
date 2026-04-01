@@ -1,0 +1,180 @@
+{
+  "level": 22,
+  "title": "긴급 상황",
+  "titleAr": "حالات الطوارئ",
+  "description": "긴급 상황에서 필요한 아랍어 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "ساعدوني! أحتاج مساعدة!",
+          "romanization": "Sāʿidūnī! Aḥtāj musāʿada!",
+          "korean": "도와주세요! 도움이 필요해요!"
+        },
+        {
+          "arabic": "اتصلوا بالشرطة فوراً!",
+          "romanization": "Ittaṣilū bish-shurṭa fawran!",
+          "korean": "경찰에 바로 전화해주세요!"
+        },
+        {
+          "arabic": "اتصلوا بالإسعاف! هناك حادث!",
+          "romanization": "Ittaṣilū bil-isʿāf! Hunāka ḥādith!",
+          "korean": "구급차를 불러주세요! 사고가 났어요!"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "ماذا حدث؟ هل أنت بخير؟",
+          "romanization": "Mādhā ḥadath? Hal anta bikhayr?",
+          "korean": "무슨 일이에요? 괜찮으세요?"
+        },
+        {
+          "arabic": "حسناً، سأتصل بالشرطة الآن.",
+          "romanization": "Ḥasanan, sa'attaṣil bish-shurṭa al-ān.",
+          "korean": "알겠어요, 지금 경찰에 전화할게요."
+        },
+        {
+          "arabic": "لا تتحرك! الإسعاف في الطريق.",
+          "romanization": "Lā tataḥarrak! Al-isʿāf fī aṭ-ṭarīq.",
+          "korean": "움직이지 마세요! 구급차가 오고 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "فقدت جواز سفري!",
+          "romanization": "Faqadtu jawāz safarī!",
+          "korean": "여권을 잃어버렸어요!"
+        },
+        {
+          "arabic": "سُرقت حقيبتي!",
+          "romanization": "Suriqat ḥaqībatī!",
+          "korean": "가방을 도둑맞았어요!"
+        },
+        {
+          "arabic": "ضعت ولا أعرف أين أنا.",
+          "romanization": "Ḍiʿtu wa lā aʿrif ayna anā.",
+          "korean": "길을 잃었고 어디 있는지 모르겠어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "يجب أن تذهب إلى السفارة فوراً.",
+          "romanization": "Yajib an tadhhab ilā as-sifāra fawran.",
+          "korean": "바로 대사관에 가야 해요."
+        },
+        {
+          "arabic": "هل تتذكر أين كنت عندما سُرقت؟",
+          "romanization": "Hal tatadhakkar ayna kunta ʿindamā suriqat?",
+          "korean": "도둑맞았을 때 어디에 있었는지 기억하세요?"
+        },
+        {
+          "arabic": "اهدأ. أرسل لي موقعك وسآتي إليك.",
+          "romanization": "Ihda'. Arsil lī mawqiʿak wa sa'ātī ilayk.",
+          "korean": "진정하세요. 위치를 보내면 갈게요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "هناك حريق! أين المخرج؟",
+          "romanization": "Hunāka ḥarīq! Ayna al-makhraj?",
+          "korean": "불이야! 출구가 어디에요?"
+        },
+        {
+          "arabic": "أشعر بالدوخة. أحتاج إلى الجلوس.",
+          "romanization": "Ashʿur bid-dawkha. Aḥtāj ilā al-julūs.",
+          "korean": "어지러워요. 앉아야 해요."
+        },
+        {
+          "arabic": "أين أقرب مركز شرطة؟",
+          "romanization": "Ayna aqrab markaz shurṭa?",
+          "korean": "가장 가까운 경찰서가 어디에요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "مخرج الطوارئ على اليمين! أسرع!",
+          "romanization": "Makhraj aṭ-ṭawāri' ʿalā al-yamīn! Asriʿ!",
+          "korean": "비상구는 오른쪽에 있어요! 빨리요!"
+        },
+        {
+          "arabic": "اجلس هنا واشرب ماءً. سأطلب مساعدة.",
+          "romanization": "Ijlis hunā washrab mā'an. Sa'aṭlub musāʿada.",
+          "korean": "여기 앉아서 물을 마시세요. 도움을 요청할게요."
+        },
+        {
+          "arabic": "مركز الشرطة في الشارع التالي على اليسار.",
+          "romanization": "Markaz ash-shurṭa fī ash-shāriʿ at-tālī ʿalā al-yasār.",
+          "korean": "경찰서는 다음 거리 왼쪽에 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "شكراً جزيلاً على مساعدتك! أنقذت حياتي!",
+          "romanization": "Shukran jazīlan ʿalā musāʿadatik! Anqadhta ḥayātī!",
+          "korean": "도와주셔서 정말 감사합니다! 생명을 구해주셨어요!"
+        },
+        {
+          "arabic": "سأبلغ الشرطة عن السرقة.",
+          "romanization": "Sa'ubligh ash-shurṭa ʿan as-sariqa.",
+          "korean": "경찰에 도난 신고할게요."
+        },
+        {
+          "arabic": "هل يمكنك البقاء معي حتى يأتي الإسعاف؟",
+          "romanization": "Hal yumkinuk al-baqā' maʿī ḥattā ya'tī al-isʿāf?",
+          "korean": "구급차가 올 때까지 같이 있어줄 수 있나요?"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "طوارئ",
+      "romanization": "ṭawāri'",
+      "korean": "긴급 상황"
+    },
+    {
+      "arabic": "شرطة",
+      "romanization": "shurṭa",
+      "korean": "경찰"
+    },
+    {
+      "arabic": "إسعاف",
+      "romanization": "isʿāf",
+      "korean": "구급차"
+    },
+    {
+      "arabic": "حريق",
+      "romanization": "ḥarīq",
+      "korean": "화재"
+    },
+    {
+      "arabic": "سرقة",
+      "romanization": "sariqa",
+      "korean": "도난"
+    },
+    {
+      "arabic": "مساعدة",
+      "romanization": "musāʿada",
+      "korean": "도움"
+    }
+  ]
+}

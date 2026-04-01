@@ -1,0 +1,180 @@
+{
+  "level": 4,
+  "title": "식당에서 주문",
+  "titleSw": "Kuagiza Chakula Mgahawani",
+  "description": "스와힐리어로 식당에서 음식을 주문하는 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Habari! Tuna meza ya watu wawili?",
+          "pronunciation": "하바리! 투나 메자 야 와투 와윌리?",
+          "korean": "안녕하세요! 2인 테이블이 있나요?"
+        },
+        {
+          "swahili": "Samahani, kuna nafasi?",
+          "pronunciation": "사마하니, 쿠나 나파시?",
+          "korean": "실례합니다, 자리가 있나요?"
+        },
+        {
+          "swahili": "Ningependa meza karibu na dirisha.",
+          "pronunciation": "닝에펜다 메자 카리부 나 디리샤.",
+          "korean": "창가 자리를 원합니다."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Karibu! Ndiyo, tuna meza hapa. Keti hapa.",
+          "pronunciation": "카리부! 은디요, 투나 메자 하파. 게티 하파.",
+          "korean": "환영합니다! 네, 여기 테이블이 있어요. 여기 앉으세요."
+        },
+        {
+          "swahili": "Ndiyo, karibu. Hii ni orodha ya chakula.",
+          "pronunciation": "은디요, 카리부. 히이 니 오로다 야 차쿨라.",
+          "korean": "네, 어서 오세요. 이것이 메뉴입니다."
+        },
+        {
+          "swahili": "Samahani, meza zote zimejaa. Subiri kidogo.",
+          "pronunciation": "사마하니, 메자 조테 지메자아. 수비리 키도고.",
+          "korean": "죄송합니다, 테이블이 다 찼어요. 잠시 기다려주세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Ningependa kuagiza. Nina njaa sana!",
+          "pronunciation": "닝에펜다 쿠아기자. 니나 은자아 사나!",
+          "korean": "주문하고 싶어요. 배가 너무 고파요!"
+        },
+        {
+          "swahili": "Nipe orodha ya chakula, tafadhali.",
+          "pronunciation": "니페 오로다 야 차쿨라, 타파달리.",
+          "korean": "메뉴를 주세요."
+        },
+        {
+          "swahili": "Chakula gani mnachopendekeza?",
+          "pronunciation": "차쿨라 가니 므나초펜데게자?",
+          "korean": "어떤 음식을 추천하세요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Ugali na nyama ya kuchoma ni maarufu sana.",
+          "pronunciation": "우갈리 나 냐마 야 쿠초마 니 마아루푸 사나.",
+          "korean": "우갈리와 구운 고기가 아주 인기 있어요."
+        },
+        {
+          "swahili": "Pilau yetu ni tamu sana.",
+          "pronunciation": "필라우 예투 니 타무 사나.",
+          "korean": "우리 필라우가 아주 맛있어요."
+        },
+        {
+          "swahili": "Samaki wa kupaka ni maalum leo.",
+          "pronunciation": "사마키 와 쿠파카 니 마알룸 레오.",
+          "korean": "코코넛 생선 요리가 오늘의 특선이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Nipe ugali na nyama, tafadhali.",
+          "pronunciation": "니페 우갈리 나 냐마, 타파달리.",
+          "korean": "우갈리와 고기 주세요."
+        },
+        {
+          "swahili": "Nitachukua pilau na chai.",
+          "pronunciation": "니타추쿠아 필라우 나 차이.",
+          "korean": "필라우와 차를 먹을게요."
+        },
+        {
+          "swahili": "Ningependa samaki na wali.",
+          "pronunciation": "닝에펜다 사마키 나 왈리.",
+          "korean": "생선과 밥을 원해요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Sawa! Ungependa kinywaji gani?",
+          "pronunciation": "사와! 웅에펜다 키뉴와지 가니?",
+          "korean": "좋아요! 음료는 뭘로 하시겠어요?"
+        },
+        {
+          "swahili": "Vizuri. Unataka maji au soda?",
+          "pronunciation": "비주리. 우나타카 마지 아우 소다?",
+          "korean": "좋습니다. 물이요 아니면 소다요?"
+        },
+        {
+          "swahili": "Chakula kitakuwa tayari dakika kumi.",
+          "pronunciation": "차쿨라 키타쿠와 타야리 다키카 쿠미.",
+          "korean": "음식은 10분 후에 준비됩니다."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Nipe maji baridi, tafadhali. Asante!",
+          "pronunciation": "니페 마지 바리디, 타파달리. 아산테!",
+          "korean": "시원한 물 주세요. 감사합니다!"
+        },
+        {
+          "swahili": "Chai ya maziwa, tafadhali.",
+          "pronunciation": "차이 야 마지와, 타파달리.",
+          "korean": "밀크티 주세요."
+        },
+        {
+          "swahili": "Soda tu. Na bili baadaye, tafadhali.",
+          "pronunciation": "소다 투. 나 빌리 바아다예, 타파달리.",
+          "korean": "소다만요. 나중에 계산서 주세요."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "chakula",
+      "pronunciation": "차쿨라",
+      "korean": "음식"
+    },
+    {
+      "swahili": "meza",
+      "pronunciation": "메자",
+      "korean": "테이블"
+    },
+    {
+      "swahili": "orodha",
+      "pronunciation": "오로다",
+      "korean": "메뉴, 목록"
+    },
+    {
+      "swahili": "tafadhali",
+      "pronunciation": "타파달리",
+      "korean": "제발, 부디"
+    },
+    {
+      "swahili": "maji",
+      "pronunciation": "마지",
+      "korean": "물"
+    },
+    {
+      "swahili": "njaa",
+      "pronunciation": "은자아",
+      "korean": "배고픔"
+    }
+  ]
+}

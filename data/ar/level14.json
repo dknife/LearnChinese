@@ -1,0 +1,180 @@
+{
+  "level": 14,
+  "title": "날씨 & 계절",
+  "titleAr": "الطقس والفصول",
+  "description": "날씨와 계절에 관한 아랍어 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "كيف الطقس اليوم؟",
+          "romanization": "Kayfa aṭ-ṭaqs al-yawm?",
+          "korean": "오늘 날씨가 어때요?"
+        },
+        {
+          "arabic": "هل ستمطر اليوم؟",
+          "romanization": "Hal satumṭir al-yawm?",
+          "korean": "오늘 비가 올까요?"
+        },
+        {
+          "arabic": "ما درجة الحرارة اليوم؟",
+          "romanization": "Mā darajat al-ḥarāra al-yawm?",
+          "korean": "오늘 기온이 몇 도예요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "الطقس جميل ومشمس اليوم.",
+          "romanization": "Aṭ-ṭaqs jamīl wa mushmis al-yawm.",
+          "korean": "오늘 날씨가 좋고 맑아요."
+        },
+        {
+          "arabic": "نعم، حسب توقعات الطقس ستمطر بعد الظهر.",
+          "romanization": "Naʿam, ḥasab tawaqquʿāt aṭ-ṭaqs satumṭir baʿd aẓ-ẓuhr.",
+          "korean": "네, 일기예보에 따르면 오후에 비가 올 거예요."
+        },
+        {
+          "arabic": "حوالي ثلاثين درجة. حار جداً!",
+          "romanization": "Ḥawālī thalāthīn daraja. Ḥārr jiddan!",
+          "korean": "약 30도예요. 너무 더워요!"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أحب فصل الربيع. والآنت؟",
+          "romanization": "Uḥibb faṣl ar-rabīʿ. Wa anta?",
+          "korean": "저는 봄을 좋아해요. 당신은요?"
+        },
+        {
+          "arabic": "الشتاء بارد جداً هنا.",
+          "romanization": "Ash-shitā' bārid jiddan hunā.",
+          "korean": "여기는 겨울이 너무 추워요."
+        },
+        {
+          "arabic": "متى يبدأ الصيف هنا؟",
+          "romanization": "Matā yabda' aṣ-ṣayf hunā?",
+          "korean": "여기서 여름은 언제 시작해요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "أنا أفضل الخريف. الطقس معتدل.",
+          "romanization": "Anā ufaḍḍil al-kharīf. Aṭ-ṭaqs muʿtadil.",
+          "korean": "저는 가을이 좋아요. 날씨가 온화해요."
+        },
+        {
+          "arabic": "نعم، لكن الثلج جميل!",
+          "romanization": "Naʿam, lākin ath-thalj jamīl!",
+          "korean": "네, 하지만 눈이 아름다워요!"
+        },
+        {
+          "arabic": "يبدأ الصيف في شهر يونيو عادةً.",
+          "romanization": "Yabda' aṣ-ṣayf fī shahr Yūnyū ʿādatan.",
+          "korean": "보통 6월에 여름이 시작돼요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "هل يجب أن آخذ مظلة؟",
+          "romanization": "Hal yajib an ākhudh miẓalla?",
+          "korean": "우산을 가져가야 할까요?"
+        },
+        {
+          "arabic": "الجو غائم اليوم.",
+          "romanization": "Al-jaww ghā'im al-yawm.",
+          "korean": "오늘 흐려요."
+        },
+        {
+          "arabic": "الرياح قوية اليوم!",
+          "romanization": "Ar-riyāḥ qawiyya al-yawm!",
+          "korean": "오늘 바람이 세요!"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "نعم، خذ مظلة احتياطاً.",
+          "romanization": "Naʿam, khudh miẓalla iḥtiyāṭan.",
+          "korean": "네, 혹시 모르니 우산을 가져가세요."
+        },
+        {
+          "arabic": "ربما تمطر لاحقاً.",
+          "romanization": "Rubbamā tumṭir lāḥiqan.",
+          "korean": "나중에 비가 올 수도 있어요."
+        },
+        {
+          "arabic": "نعم، ارتدِ معطفاً ثقيلاً.",
+          "romanization": "Naʿam, irtadi miʿṭafan thaqīlan.",
+          "korean": "네, 두꺼운 외투를 입으세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "آمل أن يكون الطقس جيداً في عطلة نهاية الأسبوع.",
+          "romanization": "Āmul an yakūn aṭ-ṭaqs jayyidan fī ʿuṭlat nihāyat al-usbūʿ.",
+          "korean": "주말에 날씨가 좋으면 좋겠어요."
+        },
+        {
+          "arabic": "أحب المطر. إنه يجعلني هادئاً.",
+          "romanization": "Uḥibb al-maṭar. Innahu yajʿalunī hādi'an.",
+          "korean": "비를 좋아해요. 차분해져요."
+        },
+        {
+          "arabic": "الطقس في الخليج حار جداً في الصيف.",
+          "romanization": "Aṭ-ṭaqs fī al-Khalīj ḥārr jiddan fī aṣ-ṣayf.",
+          "korean": "걸프 지역은 여름에 매우 더워요."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "طقس",
+      "romanization": "ṭaqs",
+      "korean": "날씨"
+    },
+    {
+      "arabic": "مطر",
+      "romanization": "maṭar",
+      "korean": "비"
+    },
+    {
+      "arabic": "شمس",
+      "romanization": "shams",
+      "korean": "태양"
+    },
+    {
+      "arabic": "ربيع",
+      "romanization": "rabīʿ",
+      "korean": "봄"
+    },
+    {
+      "arabic": "صيف",
+      "romanization": "ṣayf",
+      "korean": "여름"
+    },
+    {
+      "arabic": "شتاء",
+      "romanization": "shitā'",
+      "korean": "겨울"
+    }
+  ]
+}

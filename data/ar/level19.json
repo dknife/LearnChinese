@@ -1,0 +1,180 @@
+{
+  "level": 19,
+  "title": "공항 & 비행기",
+  "titleAr": "المطار والطائرة",
+  "description": "공항과 비행기에서 필요한 아랍어 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أين مكتب تسجيل الوصول؟",
+          "romanization": "Ayna maktab tasjīl al-wuṣūl?",
+          "korean": "체크인 카운터가 어디에요?"
+        },
+        {
+          "arabic": "أريد حجز تذكرة إلى القاهرة.",
+          "romanization": "Urīdu ḥajz tadhkira ilā al-Qāhira.",
+          "korean": "카이로행 항공권을 예약하고 싶어요."
+        },
+        {
+          "arabic": "متى موعد إقلاع الطائرة؟",
+          "romanization": "Matā mawʿid iqlāʿ aṭ-ṭā'ira?",
+          "korean": "비행기 이륙 시간이 언제예요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "مكتب التسجيل في الطابق الأرضي، بوابة رقم ثلاثة.",
+          "romanization": "Maktab at-tasjīl fī aṭ-ṭābiq al-arḍī, bawwāba raqam thalātha.",
+          "korean": "체크인 카운터는 1층, 3번 게이트에 있어요."
+        },
+        {
+          "arabic": "هل تريد ذهاباً فقط أم ذهاباً وإياباً؟",
+          "romanization": "Hal turīdu dhahāban faqaṭ am dhahāban wa iyāban?",
+          "korean": "편도를 원하세요, 왕복을 원하세요?"
+        },
+        {
+          "arabic": "الطائرة تقلع في الساعة العاشرة صباحاً.",
+          "romanization": "Aṭ-ṭā'ira tuqliʿ fī as-sāʿa al-ʿāshira ṣabāḥan.",
+          "korean": "비행기는 아침 10시에 출발해요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أريد ذهاباً وإياباً، درجة سياحية.",
+          "romanization": "Urīdu dhahāban wa iyāban, daraja siyāḥiyya.",
+          "korean": "이코노미석 왕복으로 주세요."
+        },
+        {
+          "arabic": "هل يمكنني اختيار مقعد بجانب النافذة؟",
+          "romanization": "Hal yumkinunī ikhtiyār maqʿad bijānib an-nāfidha?",
+          "korean": "창가 좌석을 선택할 수 있나요?"
+        },
+        {
+          "arabic": "كم وزن الأمتعة المسموح به؟",
+          "romanization": "Kam wazn al-amtiʿa al-masmūḥ bihi?",
+          "korean": "허용 수하물 무게가 얼마예요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "حسناً. الثمن أربعمئة دينار.",
+          "romanization": "Ḥasanan. Ath-thaman arbaʿu mi'at dīnār.",
+          "korean": "알겠어요. 가격은 400디나르예요."
+        },
+        {
+          "arabic": "بالتأكيد. المقعد 12A بجانب النافذة.",
+          "romanization": "Bit-ta'kīd. Al-maqʿad ithnā ʿashar A bijānib an-nāfidha.",
+          "korean": "물론이죠. 12A 창가석이에요."
+        },
+        {
+          "arabic": "ثلاثون كيلوغراماً للأمتعة المسجلة.",
+          "romanization": "Thalāthūn kīlūghrāman lil-amtiʿa al-musajjala.",
+          "korean": "위탁 수하물은 30킬로그램이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أين بوابة المغادرة؟",
+          "romanization": "Ayna bawwābat al-mughādara?",
+          "korean": "출발 게이트가 어디에요?"
+        },
+        {
+          "arabic": "هل الرحلة في موعدها أم متأخرة؟",
+          "romanization": "Hal ar-riḥla fī mawʿidihā am muta'akhkhira?",
+          "korean": "비행기가 정시인가요, 지연인가요?"
+        },
+        {
+          "arabic": "أين يمكنني استلام أمتعتي؟",
+          "romanization": "Ayna yumkinunī istilām amtiʿatī?",
+          "korean": "짐은 어디서 찾나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "بوابة المغادرة رقم خمسة عشر. اتبع اللافتات.",
+          "romanization": "Bawwābat al-mughādara raqam khamsat ʿashar. Ittabiʿ al-lāfitāt.",
+          "korean": "출발 게이트는 15번이에요. 안내판을 따라가세요."
+        },
+        {
+          "arabic": "للأسف، الرحلة متأخرة ساعة واحدة.",
+          "romanization": "Lil-asaf, ar-riḥla muta'akhkhira sāʿa wāḥida.",
+          "korean": "죄송하지만, 비행기가 1시간 지연됐어요."
+        },
+        {
+          "arabic": "استلام الأمتعة في الطابق السفلي، حزام رقم أربعة.",
+          "romanization": "Istilām al-amtiʿa fī aṭ-ṭābiq as-suflī, ḥizām raqam arbaʿa.",
+          "korean": "수하물 수취는 아래층, 4번 벨트에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "شكراً! رحلة سعيدة!",
+          "romanization": "Shukran! Riḥla saʿīda!",
+          "korean": "감사합니다! 좋은 여행 되세요!"
+        },
+        {
+          "arabic": "هل يمكنني الحصول على بطاقة الصعود؟",
+          "romanization": "Hal yumkinunī al-ḥuṣūl ʿalā biṭāqat aṣ-ṣuʿūd?",
+          "korean": "탑승권을 받을 수 있나요?"
+        },
+        {
+          "arabic": "أين مكتب الجمارك؟",
+          "romanization": "Ayna maktab al-jamārik?",
+          "korean": "세관이 어디에요?"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "مطار",
+      "romanization": "maṭār",
+      "korean": "공항"
+    },
+    {
+      "arabic": "طائرة",
+      "romanization": "ṭā'ira",
+      "korean": "비행기"
+    },
+    {
+      "arabic": "تذكرة",
+      "romanization": "tadhkira",
+      "korean": "항공권"
+    },
+    {
+      "arabic": "أمتعة",
+      "romanization": "amtiʿa",
+      "korean": "수하물"
+    },
+    {
+      "arabic": "بوابة",
+      "romanization": "bawwāba",
+      "korean": "게이트"
+    },
+    {
+      "arabic": "جواز سفر",
+      "romanization": "jawāz safar",
+      "korean": "여권"
+    }
+  ]
+}

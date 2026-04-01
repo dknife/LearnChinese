@@ -1,0 +1,180 @@
+{
+  "level": 21,
+  "title": "관광 & 사진",
+  "titleSw": "Utalii na Picha",
+  "description": "스와힐리어로 관광과 사진 찍기에 관한 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Mahali hapa ni pazuri sana!",
+          "pronunciation": "마할리 하파 니 파주리 사나!",
+          "korean": "여기 정말 아름다워요!"
+        },
+        {
+          "swahili": "Tunaweza kutembelea Serengeti?",
+          "pronunciation": "투나웨자 쿠템벨레아 세렝게티?",
+          "korean": "세렝게티를 방문할 수 있나요?"
+        },
+        {
+          "swahili": "Kuna vivutio gani hapa karibu?",
+          "pronunciation": "쿠나 비부티오 가니 하파 카리부?",
+          "korean": "근처에 어떤 명소가 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Ndiyo! Mlima Kilimanjaro ni mzuri pia.",
+          "pronunciation": "은디요! 믈리마 킬리만자로 니 므주리 피아.",
+          "korean": "네! 킬리만자로 산도 아름다워요."
+        },
+        {
+          "swahili": "Ndiyo, safari ya siku moja inapatikana.",
+          "pronunciation": "은디요, 사파리 야 시쿠 모자 이나파티카나.",
+          "korean": "네, 당일 사파리가 가능해요."
+        },
+        {
+          "swahili": "Kuna Zanzibar, mbuga ya Ngorongoro, na Bagamoyo.",
+          "pronunciation": "쿠나 잔지바르, 므부가 야 응오롱오로, 나 바가모요.",
+          "korean": "잔지바르, 응고롱고로 분화구, 바가모요가 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Naweza kupiga picha hapa?",
+          "pronunciation": "나웨자 쿠피가 피차 하파?",
+          "korean": "여기서 사진 찍어도 되나요?"
+        },
+        {
+          "swahili": "Tafadhali nipige picha hapa.",
+          "pronunciation": "타파달리 니피게 피차 하파.",
+          "korean": "여기서 사진 좀 찍어주세요."
+        },
+        {
+          "swahili": "Tuchukue picha pamoja!",
+          "pronunciation": "투추쿠에 피차 파모자!",
+          "korean": "같이 사진 찍어요!"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Ndiyo, kupiga picha kunaruhusiwa hapa.",
+          "pronunciation": "은디요, 쿠피가 피차 쿠나루후시와 하파.",
+          "korean": "네, 여기서 사진 촬영이 허용돼요."
+        },
+        {
+          "swahili": "Bila shaka! Simama hapa, nitapiga picha.",
+          "pronunciation": "빌라 샤카! 시마마 하파, 니타피가 피차.",
+          "korean": "물론이요! 여기 서세요, 찍어드릴게요."
+        },
+        {
+          "swahili": "Sawa! Tabasamu! Moja, mbili, tatu!",
+          "pronunciation": "사와! 타바사무! 모자, 므빌리, 타투!",
+          "korean": "좋아요! 웃으세요! 하나, 둘, 셋!"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Tutaweza kuona wanyama gani?",
+          "pronunciation": "투타웨자 쿠오나 와냐마 가니?",
+          "korean": "어떤 동물들을 볼 수 있어요?"
+        },
+        {
+          "swahili": "Safari inagharimu kiasi gani?",
+          "pronunciation": "사파리 이나가리무 키아시 가니?",
+          "korean": "사파리 비용이 얼마예요?"
+        },
+        {
+          "swahili": "Mtaalamu atatueleza historia ya mahali?",
+          "pronunciation": "므타알라무 아타투엘레자 히스토리아 야 마할리?",
+          "korean": "가이드가 이곳의 역사를 설명해줄까요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Simba, tembo, twiga, na kiboko!",
+          "pronunciation": "심바, 템보, 트위가, 나 키보코!",
+          "korean": "사자, 코끼리, 기린, 하마요!"
+        },
+        {
+          "swahili": "Safari ya siku moja ni dola mia mbili.",
+          "pronunciation": "사파리 야 시쿠 모자 니 돌라 미아 므빌리.",
+          "korean": "당일 사파리는 200달러예요."
+        },
+        {
+          "swahili": "Ndiyo, mtaalamu wetu ana ujuzi mkubwa.",
+          "pronunciation": "은디요, 므타알라무 웨투 아나 우주지 므쿠브와.",
+          "korean": "네, 우리 가이드가 매우 전문적이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Safari hii ilikuwa ya kushangaza!",
+          "pronunciation": "사파리 히이 일리쿠와 야 쿠샹아자!",
+          "korean": "이 여행은 정말 놀라웠어요!"
+        },
+        {
+          "swahili": "Nimepiga picha nyingi sana. Kumbukumbu nzuri!",
+          "pronunciation": "니메피가 피차 니잉이 사나. 쿰부쿰부 은주리!",
+          "korean": "사진을 정말 많이 찍었어요. 좋은 추억이에요!"
+        },
+        {
+          "swahili": "Nitarudi tena Tanzania. Ni nchi nzuri!",
+          "pronunciation": "니타루디 테나 탄자니아. 니 은치 은주리!",
+          "korean": "탄자니아에 다시 올 거예요. 좋은 나라예요!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "utalii",
+      "pronunciation": "우탈리이",
+      "korean": "관광"
+    },
+    {
+      "swahili": "picha",
+      "pronunciation": "피차",
+      "korean": "사진"
+    },
+    {
+      "swahili": "vivutio",
+      "pronunciation": "비부티오",
+      "korean": "명소"
+    },
+    {
+      "swahili": "wanyama",
+      "pronunciation": "와냐마",
+      "korean": "동물들"
+    },
+    {
+      "swahili": "mlima",
+      "pronunciation": "믈리마",
+      "korean": "산"
+    },
+    {
+      "swahili": "kumbukumbu",
+      "pronunciation": "쿰부쿰부",
+      "korean": "기억, 추억"
+    }
+  ]
+}

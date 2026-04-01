@@ -1,0 +1,180 @@
+{
+  "level": 20,
+  "title": "호텔 체크인/아웃",
+  "titleAr": "تسجيل الدخول/الخروج من الفندق",
+  "description": "호텔 체크인과 체크아웃에 필요한 아랍어 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "مرحباً، لدي حجز باسم يونغمين.",
+          "romanization": "Marhaban, ladayya ḥajz bi-ism Yūngmīn.",
+          "korean": "안녕하세요, 영민 이름으로 예약했어요."
+        },
+        {
+          "arabic": "أريد حجز غرفة لليلتين.",
+          "romanization": "Urīdu ḥajz ghurfa lilaylatayn.",
+          "korean": "2박으로 방을 예약하고 싶어요."
+        },
+        {
+          "arabic": "هل لديكم غرفة فارغة الليلة؟",
+          "romanization": "Hal ladaykum ghurfa fārigha al-layla?",
+          "korean": "오늘 밤 빈 방이 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "أهلاً بك! نعم، وجدت حجزك. غرفة رقم 305.",
+          "romanization": "Ahlan bik! Naʿam, wajadtu ḥajzak. Ghurfa raqam thalāthmī'a wa khamsa.",
+          "korean": "어서오세요! 네, 예약을 확인했어요. 305호실이에요."
+        },
+        {
+          "arabic": "هل تريد غرفة مفردة أم مزدوجة؟",
+          "romanization": "Hal turīdu ghurfa mufrada am muzdawija?",
+          "korean": "싱글룸을 원하세요, 더블룸을 원하세요?"
+        },
+        {
+          "arabic": "نعم، لدينا غرفة متاحة. تكلفتها ثمانون ديناراً لليلة.",
+          "romanization": "Naʿam, ladaynā ghurfa mutāḥa. Taklifatuhā thamānūn dīnāran lil-layla.",
+          "korean": "네, 빈 방이 있어요. 1박에 80디나르예요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "هل تشمل الغرفة وجبة الإفطار؟",
+          "romanization": "Hal tashmul al-ghurfa wajbat al-ifṭār?",
+          "korean": "방에 조식이 포함되어 있나요?"
+        },
+        {
+          "arabic": "هل يوجد واي فاي مجاني؟",
+          "romanization": "Hal yūjad wāy fāy majjānī?",
+          "korean": "무료 와이파이가 있나요?"
+        },
+        {
+          "arabic": "في أي طابق الغرفة؟",
+          "romanization": "Fī ayyi ṭābiq al-ghurfa?",
+          "korean": "방이 몇 층에 있어요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "نعم، الإفطار من السابعة حتى العاشرة صباحاً.",
+          "romanization": "Naʿam, al-ifṭār min as-sābiʿa ḥattā al-ʿāshira ṣabāḥan.",
+          "korean": "네, 아침 7시부터 10시까지 조식이에요."
+        },
+        {
+          "arabic": "نعم، كلمة السر في بطاقة الغرفة.",
+          "romanization": "Naʿam, kalimat as-sirr fī biṭāqat al-ghurfa.",
+          "korean": "네, 비밀번호는 방 카드에 있어요."
+        },
+        {
+          "arabic": "في الطابق الثالث. المصعد على يمينك.",
+          "romanization": "Fī aṭ-ṭābiq ath-thālith. Al-miṣʿad ʿalā yamīnik.",
+          "korean": "3층에 있어요. 엘리베이터는 오른쪽에 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أريد تسجيل الخروج، من فضلك.",
+          "romanization": "Urīdu tasjīl al-khurūj, min faḍlik.",
+          "korean": "체크아웃하고 싶어요."
+        },
+        {
+          "arabic": "هل يمكنني تمديد الإقامة ليلة إضافية؟",
+          "romanization": "Hal yumkinunī tamdīd al-iqāma layla iḍāfiyya?",
+          "korean": "하루 더 연장할 수 있나요?"
+        },
+        {
+          "arabic": "هل يمكنني ترك أمتعتي هنا حتى المساء؟",
+          "romanization": "Hal yumkinunī tark amtiʿatī hunā ḥattā al-masā'?",
+          "korean": "저녁까지 짐을 맡겨도 될까요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "بالتأكيد. المبلغ الإجمالي مئة وستون ديناراً.",
+          "romanization": "Bit-ta'kīd. Al-mablagh al-ijmālī mi'a wa sittūn dīnāran.",
+          "korean": "알겠어요. 총 금액은 160디나르예요."
+        },
+        {
+          "arabic": "نعم، يمكنك التمديد. نفس الغرفة متاحة.",
+          "romanization": "Naʿam, yumkinuk at-tamdīd. Nafs al-ghurfa mutāḥa.",
+          "korean": "네, 연장 가능해요. 같은 방이 비어 있어요."
+        },
+        {
+          "arabic": "بالطبع، يمكنك ترك أمتعتك في غرفة الأمتعة.",
+          "romanization": "Biṭ-ṭabʿ, yumkinuk tark amtiʿatik fī ghurfat al-amtiʿa.",
+          "korean": "물론이죠, 짐 보관실에 맡기실 수 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "شكراً! كانت الإقامة ممتازة.",
+          "romanization": "Shukran! Kānat al-iqāma mumtāza.",
+          "korean": "감사합니다! 숙박이 훌륭했어요."
+        },
+        {
+          "arabic": "سأوصي بهذا الفندق لأصدقائي.",
+          "romanization": "Sa'ūṣī bihādhā al-funduq li-aṣdiqā'ī.",
+          "korean": "친구들에게 이 호텔을 추천할게요."
+        },
+        {
+          "arabic": "هل يمكنكم طلب تاكسي إلى المطار؟",
+          "romanization": "Hal yumkinukum ṭalab tāksī ilā al-maṭār?",
+          "korean": "공항까지 택시를 불러주실 수 있나요?"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "فندق",
+      "romanization": "funduq",
+      "korean": "호텔"
+    },
+    {
+      "arabic": "غرفة",
+      "romanization": "ghurfa",
+      "korean": "방"
+    },
+    {
+      "arabic": "حجز",
+      "romanization": "ḥajz",
+      "korean": "예약"
+    },
+    {
+      "arabic": "إفطار",
+      "romanization": "ifṭār",
+      "korean": "조식"
+    },
+    {
+      "arabic": "مفتاح",
+      "romanization": "miftāḥ",
+      "korean": "열쇠"
+    },
+    {
+      "arabic": "مصعد",
+      "romanization": "miṣʿad",
+      "korean": "엘리베이터"
+    }
+  ]
+}

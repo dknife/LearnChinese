@@ -1,0 +1,180 @@
+{
+  "level": 3,
+  "title": "가족 소개",
+  "titleSw": "Familia",
+  "description": "스와힐리어로 가족을 소개하는 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Una familia kubwa?",
+          "pronunciation": "우나 파밀리아 쿠브와?",
+          "korean": "가족이 많아요?"
+        },
+        {
+          "swahili": "Familia yako ni kubwa?",
+          "pronunciation": "파밀리아 야코 니 쿠브와?",
+          "korean": "당신의 가족은 대가족인가요?"
+        },
+        {
+          "swahili": "Niambie kuhusu familia yako.",
+          "pronunciation": "니암비에 쿠후수 파밀리아 야코.",
+          "korean": "가족에 대해 말해주세요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Ndiyo, nina ndugu watano.",
+          "pronunciation": "은디요, 니나 은두구 와타노.",
+          "korean": "네, 형제자매가 다섯 명이에요."
+        },
+        {
+          "swahili": "Familia yangu ni ndogo. Tuko watatu.",
+          "pronunciation": "파밀리아 양우 니 은도고. 투코 와타투.",
+          "korean": "우리 가족은 작아요. 셋이에요."
+        },
+        {
+          "swahili": "Nina baba, mama, na kaka mmoja.",
+          "pronunciation": "니나 바바, 마마, 나 카카 므모자.",
+          "korean": "아버지, 어머니, 형이 한 명 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Baba yako anafanya kazi gani?",
+          "pronunciation": "바바 야코 아나파냐 카지 가니?",
+          "korean": "아버지는 무슨 일을 하세요?"
+        },
+        {
+          "swahili": "Mama yako yuko wapi?",
+          "pronunciation": "마마 야코 유코 와피?",
+          "korean": "어머니는 어디 계세요?"
+        },
+        {
+          "swahili": "Wazazi wako wanaishi wapi?",
+          "pronunciation": "와자지 와코 와나이시 와피?",
+          "korean": "부모님은 어디에 사세요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Baba yangu ni mwalimu.",
+          "pronunciation": "바바 양우 니 므왈리무.",
+          "korean": "아버지는 선생님이에요."
+        },
+        {
+          "swahili": "Mama yangu yuko nyumbani.",
+          "pronunciation": "마마 양우 유코 뉴음바니.",
+          "korean": "어머니는 집에 계세요."
+        },
+        {
+          "swahili": "Wazazi wangu wanaishi Arusha.",
+          "pronunciation": "와자지 왕우 와나이시 아루샤.",
+          "korean": "부모님은 아루샤에 사세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Una watoto?",
+          "pronunciation": "우나 와토토?",
+          "korean": "자녀가 있어요?"
+        },
+        {
+          "swahili": "Una watoto wangapi?",
+          "pronunciation": "우나 와토토 왕가피?",
+          "korean": "자녀가 몇 명이에요?"
+        },
+        {
+          "swahili": "Watoto wako wana umri gani?",
+          "pronunciation": "와토토 와코 와나 움리 가니?",
+          "korean": "아이들은 몇 살이에요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Nina mtoto mmoja, binti yangu.",
+          "pronunciation": "니나 므토토 므모자, 빈티 양우.",
+          "korean": "아이가 한 명 있어요, 딸이에요."
+        },
+        {
+          "swahili": "Nina watoto wawili, mvulana na msichana.",
+          "pronunciation": "니나 와토토 와윌리, 므불라나 나 므시차나.",
+          "korean": "아이가 둘이에요, 아들과 딸이요."
+        },
+        {
+          "swahili": "Bado sina watoto.",
+          "pronunciation": "바도 시나 와토토.",
+          "korean": "아직 아이가 없어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Familia yako ni nzuri sana!",
+          "pronunciation": "파밀리아 야코 니 은주리 사나!",
+          "korean": "가족이 참 좋으시네요!"
+        },
+        {
+          "swahili": "Mungu abariki familia yako.",
+          "pronunciation": "문구 아바리키 파밀리아 야코.",
+          "korean": "가족에게 축복이 있기를."
+        },
+        {
+          "swahili": "Napenda kusikia kuhusu familia yako.",
+          "pronunciation": "나펜다 쿠시키아 쿠후수 파밀리아 야코.",
+          "korean": "가족 이야기를 듣게 되어 기뻐요."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "familia",
+      "pronunciation": "파밀리아",
+      "korean": "가족"
+    },
+    {
+      "swahili": "baba",
+      "pronunciation": "바바",
+      "korean": "아버지"
+    },
+    {
+      "swahili": "mama",
+      "pronunciation": "마마",
+      "korean": "어머니"
+    },
+    {
+      "swahili": "mtoto",
+      "pronunciation": "므토토",
+      "korean": "아이"
+    },
+    {
+      "swahili": "kaka",
+      "pronunciation": "카카",
+      "korean": "형, 오빠"
+    },
+    {
+      "swahili": "dada",
+      "pronunciation": "다다",
+      "korean": "언니, 누나"
+    }
+  ]
+}

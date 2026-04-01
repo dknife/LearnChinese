@@ -1,0 +1,180 @@
+{
+  "level": 5,
+  "title": "길 묻기 & 방향",
+  "titleSw": "Kuuliza Njia",
+  "description": "스와힐리어로 길을 묻고 방향을 안내하는 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Samahani, soko liko wapi?",
+          "pronunciation": "사마하니, 소코 리코 와피?",
+          "korean": "실례합니다, 시장이 어디에 있나요?"
+        },
+        {
+          "swahili": "Tafadhali, njiia ya kwenda hospitali?",
+          "pronunciation": "타파달리, 은지아 야 퀜다 호스피탈리?",
+          "korean": "병원 가는 길 좀 알려주세요."
+        },
+        {
+          "swahili": "Nimepotea. Stesheni ya basi iko wapi?",
+          "pronunciation": "니메포테아. 스테셰니 야 바시 이코 와피?",
+          "korean": "길을 잃었어요. 버스 정류장이 어디예요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Soko liko mbele, moja kwa moja.",
+          "pronunciation": "소코 리코 므벨레, 모자 쿠와 모자.",
+          "korean": "시장은 앞쪽으로 쭉 가면 있어요."
+        },
+        {
+          "swahili": "Nenda moja kwa moja, kisha geuka kulia.",
+          "pronunciation": "넨다 모자 쿠와 모자, 키샤 게우카 쿨리아.",
+          "korean": "쭉 가서 오른쪽으로 도세요."
+        },
+        {
+          "swahili": "Stesheni ya basi iko karibu. Fuata barabara hii.",
+          "pronunciation": "스테셰니 야 바시 이코 카리부. 푸아타 바라바라 히이.",
+          "korean": "버스 정류장은 가까워요. 이 길을 따라가세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Ni mbali sana?",
+          "pronunciation": "니 므발리 사나?",
+          "korean": "많이 멀어요?"
+        },
+        {
+          "swahili": "Itachukua dakika ngapi kutembea?",
+          "pronunciation": "이타추쿠아 다키카 응가피 쿠템베아?",
+          "korean": "걸어서 몇 분 걸려요?"
+        },
+        {
+          "swahili": "Naweza kwenda kwa miguu?",
+          "pronunciation": "나웨자 퀜다 쿠와 미구우?",
+          "korean": "걸어서 갈 수 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Hapana, ni karibu. Dakika tano tu.",
+          "pronunciation": "하파나, 니 카리부. 다키카 타노 투.",
+          "korean": "아니요, 가까워요. 5분이면 돼요."
+        },
+        {
+          "swahili": "Ni mbali kidogo. Chukua teksi.",
+          "pronunciation": "니 므발리 키도고. 추쿠아 텍시.",
+          "korean": "좀 멀어요. 택시를 타세요."
+        },
+        {
+          "swahili": "Ndiyo, lakini ni dakika ishirini kwa miguu.",
+          "pronunciation": "은디요, 라키니 니 다키카 이시리니 쿠와 미구우.",
+          "korean": "네, 하지만 걸어서 20분이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Geuka kushoto au kulia?",
+          "pronunciation": "게우카 쿠쇼토 아우 쿨리아?",
+          "korean": "왼쪽으로요 아니면 오른쪽으로요?"
+        },
+        {
+          "swahili": "Nenda moja kwa moja?",
+          "pronunciation": "넨다 모자 쿠와 모자?",
+          "korean": "직진하면 되나요?"
+        },
+        {
+          "swahili": "Kuna alama yoyote njiani?",
+          "pronunciation": "쿠나 알라마 요요테 은지아니?",
+          "korean": "길에 표시가 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Geuka kushoto kwenye taa ya trafiki.",
+          "pronunciation": "게우카 쿠쇼토 퀘니에 타아 야 트라피키.",
+          "korean": "신호등에서 왼쪽으로 도세요."
+        },
+        {
+          "swahili": "Ndiyo, nenda moja kwa moja hadi mwisho.",
+          "pronunciation": "은디요, 넨다 모자 쿠와 모자 하디 므위쇼.",
+          "korean": "네, 끝까지 직진하세요."
+        },
+        {
+          "swahili": "Utaona duka kubwa upande wa kulia.",
+          "pronunciation": "우타오나 두카 쿠브와 우판데 와 쿨리아.",
+          "korean": "오른쪽에 큰 가게가 보일 거예요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Asante sana kwa msaada wako!",
+          "pronunciation": "아산테 사나 쿠와 므사아다 와코!",
+          "korean": "도움 주셔서 감사합니다!"
+        },
+        {
+          "swahili": "Nimekuelewa. Asante!",
+          "pronunciation": "니메쿠엘레와. 아산테!",
+          "korean": "이해했어요. 감사합니다!"
+        },
+        {
+          "swahili": "Sawa, nitajaribu. Kwaheri!",
+          "pronunciation": "사와, 니타자리부. 쿠와헤리!",
+          "korean": "좋아요, 해볼게요. 안녕히 가세요!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "njia",
+      "pronunciation": "은지아",
+      "korean": "길"
+    },
+    {
+      "swahili": "kushoto",
+      "pronunciation": "쿠쇼토",
+      "korean": "왼쪽"
+    },
+    {
+      "swahili": "kulia",
+      "pronunciation": "쿨리아",
+      "korean": "오른쪽"
+    },
+    {
+      "swahili": "mbele",
+      "pronunciation": "므벨레",
+      "korean": "앞"
+    },
+    {
+      "swahili": "karibu",
+      "pronunciation": "카리부",
+      "korean": "가까이"
+    },
+    {
+      "swahili": "barabara",
+      "pronunciation": "바라바라",
+      "korean": "도로"
+    }
+  ]
+}

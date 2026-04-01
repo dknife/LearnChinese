@@ -1,0 +1,180 @@
+{
+  "level": 12,
+  "title": "약속 잡기",
+  "titleSw": "Kupanga Miadi",
+  "description": "스와힐리어로 약속을 잡는 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Tukutane lini?",
+          "pronunciation": "투쿠타네 리니?",
+          "korean": "언제 만날까요?"
+        },
+        {
+          "swahili": "Una wakati wa bure kesho?",
+          "pronunciation": "우나 와카티 와 부레 게쇼?",
+          "korean": "내일 시간 있어요?"
+        },
+        {
+          "swahili": "Ningependa kukuona wiki ijayo.",
+          "pronunciation": "닝에펜다 쿠쿠오나 위키 이자요.",
+          "korean": "다음 주에 만나고 싶어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Kesho asubuhi ninafanya kazi. Jioni sawa?",
+          "pronunciation": "게쇼 아수부히 니나파냐 카지. 지오니 사와?",
+          "korean": "내일 아침에 일해요. 저녁은 괜찮아요?"
+        },
+        {
+          "swahili": "Jumamosi ninakuwa huru. Tukutane saa ngapi?",
+          "pronunciation": "주마모시 니나쿠와 후루. 투쿠타네 사아 응가피?",
+          "korean": "토요일에 한가해요. 몇 시에 만날까요?"
+        },
+        {
+          "swahili": "Wiki ijayo siku gani unapendelea?",
+          "pronunciation": "위키 이자요 시쿠 가니 우나펜델레아?",
+          "korean": "다음 주 무슨 요일이 좋으세요?"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Saa nne jioni inafaa?",
+          "pronunciation": "사아 은네 지오니 이나파아?",
+          "korean": "저녁 10시 괜찮아요?"
+        },
+        {
+          "swahili": "Tukutane saa mbili mchana.",
+          "pronunciation": "투쿠타네 사아 므빌리 므차나.",
+          "korean": "낮 8시에 만나요."
+        },
+        {
+          "swahili": "Jumatano au Alhamisi, siku gani bora?",
+          "pronunciation": "주마타노 아우 알하미시, 시쿠 가니 보라?",
+          "korean": "수요일이나 목요일, 어느 날이 더 좋아요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Ndiyo, saa nne jioni ni sawa.",
+          "pronunciation": "은디요, 사아 은네 지오니 니 사와.",
+          "korean": "네, 저녁 10시 괜찮아요."
+        },
+        {
+          "swahili": "Saa mbili mchana ni vizuri. Wapi?",
+          "pronunciation": "사아 므빌리 므차나 니 비주리. 와피?",
+          "korean": "낮 8시 좋아요. 어디서요?"
+        },
+        {
+          "swahili": "Jumatano ni bora kwangu.",
+          "pronunciation": "주마타노 니 보라 쿠왕우.",
+          "korean": "수요일이 저한테 더 좋아요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Tukutane katika mkahawa ule mpya.",
+          "pronunciation": "투쿠타네 카티카 므카하와 울레 므퍄.",
+          "korean": "저 새 카페에서 만나요."
+        },
+        {
+          "swahili": "Je, mgahawa wa Serengeti unajua?",
+          "pronunciation": "제, 므가하와 와 세렝게티 우나주아?",
+          "korean": "세렝게티 식당을 알아요?"
+        },
+        {
+          "swahili": "Naweza kuja ofisini kwako?",
+          "pronunciation": "나웨자 쿠자 오피시니 쿠와코?",
+          "korean": "당신 사무실로 갈까요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Sawa! Mkahawa ule ni mzuri. Nitakuwa pale.",
+          "pronunciation": "사와! 므카하와 울레 니 므주리. 니타쿠와 팔레.",
+          "korean": "좋아요! 그 카페 좋아요. 거기 있을게요."
+        },
+        {
+          "swahili": "Ndiyo, ninaujua. Tutaonana pale.",
+          "pronunciation": "은디요, 니나우주아. 투타오나나 팔레.",
+          "korean": "네, 알아요. 거기서 만나요."
+        },
+        {
+          "swahili": "Ndiyo, njoo ofisini. Nitakusubiri.",
+          "pronunciation": "은디요, 은조오 오피시니. 니타쿠수비리.",
+          "korean": "네, 사무실로 오세요. 기다릴게요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Vizuri! Tutaonana Jumatano saa mbili.",
+          "pronunciation": "비주리! 투타오나나 주마타노 사아 므빌리.",
+          "korean": "좋아요! 수요일 8시에 만나요."
+        },
+        {
+          "swahili": "Sawa, nimeiweka kalenda. Usisahau!",
+          "pronunciation": "사와, 니메이웨카 카렌다. 우시사하우!",
+          "korean": "좋아요, 달력에 적었어요. 잊지 마세요!"
+        },
+        {
+          "swahili": "Nimekubaliana. Nikikawia, nitakupigia simu.",
+          "pronunciation": "니메쿠발리아나. 니키카위아, 니타쿠피기아 시무.",
+          "korean": "동의해요. 늦으면 전화할게요."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "miadi",
+      "pronunciation": "미아디",
+      "korean": "약속"
+    },
+    {
+      "swahili": "kukutana",
+      "pronunciation": "쿠쿠타나",
+      "korean": "만나다"
+    },
+    {
+      "swahili": "huru",
+      "pronunciation": "후루",
+      "korean": "자유로운, 한가한"
+    },
+    {
+      "swahili": "kupanga",
+      "pronunciation": "쿠팡아",
+      "korean": "계획하다"
+    },
+    {
+      "swahili": "kalenda",
+      "pronunciation": "카렌다",
+      "korean": "달력"
+    },
+    {
+      "swahili": "kukawia",
+      "pronunciation": "쿠카위아",
+      "korean": "늦다"
+    }
+  ]
+}

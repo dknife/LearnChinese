@@ -1,0 +1,180 @@
+{
+  "level": 24,
+  "title": "문화 & 명절",
+  "titleSw": "Utamaduni na Sikukuu",
+  "description": "스와힐리어로 문화와 명절에 관한 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Tanzania ina sikukuu gani muhimu?",
+          "pronunciation": "탄자니아 이나 시쿠쿠우 가니 무히무?",
+          "korean": "탄자니아에는 어떤 중요한 명절이 있어요?"
+        },
+        {
+          "swahili": "Ninajifunza kuhusu utamaduni wa Kiswahili.",
+          "pronunciation": "니나지푼자 쿠후수 우타마두니 와 키스와힐리.",
+          "korean": "스와힐리 문화에 대해 배우고 있어요."
+        },
+        {
+          "swahili": "Sikukuu ya Eid inaadhimishwa vipi?",
+          "pronunciation": "시쿠쿠우 야 이드 이나아디미시와 비피?",
+          "korean": "이드 명절은 어떻게 축하해요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Tuna Eid, Krismasi, na Siku ya Uhuru.",
+          "pronunciation": "투나 이드, 크리스마시, 나 시쿠 야 우후루.",
+          "korean": "이드, 크리스마스, 독립기념일이 있어요."
+        },
+        {
+          "swahili": "Nzuri! Utamaduni wetu ni tajiri sana.",
+          "pronunciation": "은주리! 우타마두니 웨투 니 타지리 사나.",
+          "korean": "좋아요! 우리 문화는 매우 풍부해요."
+        },
+        {
+          "swahili": "Watu wanasali, wanakula pamoja, na wanasherehekea.",
+          "pronunciation": "와투 와나살리, 와나쿨라 파모자, 나 와나셰레헤게아.",
+          "korean": "사람들이 기도하고, 함께 먹고, 축하해요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Muziki wa taarab ni nini?",
+          "pronunciation": "무지키 와 타아라브 니 니니?",
+          "korean": "타아라브 음악이 뭐예요?"
+        },
+        {
+          "swahili": "Ngoma ya jadi inapendeza sana!",
+          "pronunciation": "응오마 야 자디 이나펜데자 사나!",
+          "korean": "전통 춤이 정말 멋져요!"
+        },
+        {
+          "swahili": "Kitenge ni nini? Ninaona watu wengi wanavaa.",
+          "pronunciation": "키텡에 니 니니? 니나오나 와투 웽이 와나바아.",
+          "korean": "키텡게가 뭐예요? 많은 사람이 입고 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Taarab ni muziki wa jadi wa pwani ya Afrika.",
+          "pronunciation": "타아라브 니 무지키 와 자디 와 프와니 야 아프리카.",
+          "korean": "타아라브는 아프리카 해안 지역의 전통 음악이에요."
+        },
+        {
+          "swahili": "Asante! Ngoma ni sehemu muhimu ya utamaduni wetu.",
+          "pronunciation": "아산테! 응오마 니 세헤무 무히무 야 우타마두니 웨투.",
+          "korean": "감사해요! 춤은 우리 문화의 중요한 부분이에요."
+        },
+        {
+          "swahili": "Kitenge ni kitambaa cha rangi. Ni nguo ya jadi.",
+          "pronunciation": "키텡에 니 키탐바아 차 랑이. 니 응우오 야 자디.",
+          "korean": "키텡게는 화려한 천이에요. 전통 옷이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Ninajifunza Kiswahili kwa sababu ninapenda utamaduni.",
+          "pronunciation": "니나지푼자 키스와힐리 쿠와 사바부 니나펜다 우타마두니.",
+          "korean": "문화가 좋아서 스와힐리어를 배우고 있어요."
+        },
+        {
+          "swahili": "Korea pia ina utamaduni tajiri.",
+          "pronunciation": "코레아 피아 이나 우타마두니 타지리.",
+          "korean": "한국도 풍부한 문화가 있어요."
+        },
+        {
+          "swahili": "Ningependa kujua desturi zenu zaidi.",
+          "pronunciation": "닝에펜다 쿠주아 데스투리 제누 자이디.",
+          "korean": "여러분의 풍습을 더 알고 싶어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Ni vizuri sana! Kiswahili kinaunganisha watu wengi.",
+          "pronunciation": "니 비주리 사나! 키스와힐리 키나웅아니샤 와투 웽이.",
+          "korean": "아주 좋아요! 스와힐리어는 많은 사람을 이어줘요."
+        },
+        {
+          "swahili": "Kweli? Niambie kuhusu sikukuu za Korea!",
+          "pronunciation": "쿠웰리? 니암비에 쿠후수 시쿠쿠우 자 코레아!",
+          "korean": "정말요? 한국의 명절에 대해 말해주세요!"
+        },
+        {
+          "swahili": "Karibu sana! Tutakufundisha yote.",
+          "pronunciation": "카리부 사나! 투타쿠푼디샤 요테.",
+          "korean": "환영해요! 다 가르쳐드릴게요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Utamaduni wenu ni wa ajabu. Nimejifunza mengi!",
+          "pronunciation": "우타마두니 웨누 니 와 아자부. 니메지푼자 멩이!",
+          "korean": "여러분의 문화는 놀라워요. 많이 배웠어요!"
+        },
+        {
+          "swahili": "Tuendelee kubadilishana utamaduni!",
+          "pronunciation": "투엔델레에 쿠바딜리샤나 우타마두니!",
+          "korean": "계속 문화를 교류해요!"
+        },
+        {
+          "swahili": "Asante kwa kunifundisha kuhusu utamaduni wenu.",
+          "pronunciation": "아산테 쿠와 쿠니푼디샤 쿠후수 우타마두니 웨누.",
+          "korean": "여러분의 문화를 가르쳐주셔서 감사합니다."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "utamaduni",
+      "pronunciation": "우타마두니",
+      "korean": "문화"
+    },
+    {
+      "swahili": "sikukuu",
+      "pronunciation": "시쿠쿠우",
+      "korean": "명절, 축일"
+    },
+    {
+      "swahili": "ngoma",
+      "pronunciation": "응오마",
+      "korean": "춤, 북"
+    },
+    {
+      "swahili": "desturi",
+      "pronunciation": "데스투리",
+      "korean": "풍습, 전통"
+    },
+    {
+      "swahili": "sherehe",
+      "pronunciation": "셰레헤",
+      "korean": "축하, 파티"
+    },
+    {
+      "swahili": "jadi",
+      "pronunciation": "자디",
+      "korean": "전통의"
+    }
+  ]
+}

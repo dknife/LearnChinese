@@ -1,0 +1,180 @@
+{
+  "level": 18,
+  "title": "병원 & 약국",
+  "titleAr": "المستشفى والصيدلية",
+  "description": "병원과 약국에서 필요한 아랍어 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أشعر بالمرض. أين أقرب مستشفى؟",
+          "romanization": "Ashʿur bil-maraḍ. Ayna aqrab mustashfā?",
+          "korean": "아파요. 가장 가까운 병원이 어디에요?"
+        },
+        {
+          "arabic": "أحتاج إلى طبيب بسرعة!",
+          "romanization": "Aḥtāj ilā ṭabīb bisurʿa!",
+          "korean": "빨리 의사가 필요해요!"
+        },
+        {
+          "arabic": "أريد حجز موعد مع الطبيب.",
+          "romanization": "Urīdu ḥajz mawʿid maʿa aṭ-ṭabīb.",
+          "korean": "의사와 진료 예약을 하고 싶어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "المستشفى قريب. سأرافقك.",
+          "romanization": "Al-mustashfā qarīb. Sa'urāfiquk.",
+          "korean": "병원이 가까워요. 같이 갈게요."
+        },
+        {
+          "arabic": "ماذا تشعر بالضبط؟ هل لديك حمى؟",
+          "romanization": "Mādhā tashʿur biḍ-ḍabṭ? Hal ladayk ḥummā?",
+          "korean": "정확히 어디가 아프세요? 열이 있나요?"
+        },
+        {
+          "arabic": "الطبيب متاح يوم الأحد. هل يناسبك؟",
+          "romanization": "Aṭ-ṭabīb mutāḥ yawm al-aḥad. Hal yunāsibuk?",
+          "korean": "의사가 일요일에 가능해요. 괜찮으세요?"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "عندي صداع شديد وحمى.",
+          "romanization": "ʿIndī ṣudāʿ shadīd wa ḥummā.",
+          "korean": "심한 두통과 열이 있어요."
+        },
+        {
+          "arabic": "أعاني من ألم في المعدة.",
+          "romanization": "Uʿānī min alam fī al-maʿida.",
+          "korean": "위통이 있어요."
+        },
+        {
+          "arabic": "جرحت يدي. هل تحتاج إلى غرز؟",
+          "romanization": "Jaraḥtu yadī. Hal taḥtāj ilā ghurz?",
+          "korean": "손을 다쳤어요. 꿰매야 하나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "سأفحصك. افتح فمك وقل آه.",
+          "romanization": "Sa'afḥaṣuk. Iftaḥ famak wa qul āh.",
+          "korean": "검사해볼게요. 입을 벌리고 아 해보세요."
+        },
+        {
+          "arabic": "سأعطيك دواءً. تناوله ثلاث مرات يومياً.",
+          "romanization": "Sa'uʿṭīk dawā'an. Tanāwalhu thalāth marrāt yawmiyyan.",
+          "korean": "약을 처방해드릴게요. 하루 세 번 복용하세요."
+        },
+        {
+          "arabic": "دعني أنظف الجرح أولاً.",
+          "romanization": "Daʿnī unaẓẓif al-jurḥ awwalan.",
+          "korean": "먼저 상처를 소독할게요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أين الصيدلية؟ أحتاج إلى دواء.",
+          "romanization": "Ayna aṣ-ṣaydaliyya? Aḥtāj ilā dawā'.",
+          "korean": "약국이 어디에요? 약이 필요해요."
+        },
+        {
+          "arabic": "هل لديكم دواء للبرد؟",
+          "romanization": "Hal ladaykum dawā' lil-bard?",
+          "korean": "감기약이 있나요?"
+        },
+        {
+          "arabic": "هل أحتاج إلى وصفة طبية؟",
+          "romanization": "Hal aḥtāj ilā waṣfa ṭibbiyya?",
+          "korean": "처방전이 필요한가요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "الصيدلية بجانب المستشفى.",
+          "romanization": "Aṣ-ṣaydaliyya bijānib al-mustashfā.",
+          "korean": "약국은 병원 옆에 있어요."
+        },
+        {
+          "arabic": "نعم، تفضل هذا الدواء. تناول حبة كل ثماني ساعات.",
+          "romanization": "Naʿam, tafaḍḍal hādhā ad-dawā'. Tanāwal ḥabba kull thamānī sāʿāt.",
+          "korean": "네, 이 약이에요. 8시간마다 한 알씩 드세요."
+        },
+        {
+          "arabic": "لا، هذا الدواء متاح بدون وصفة.",
+          "romanization": "Lā, hādhā ad-dawā' mutāḥ bidūn waṣfa.",
+          "korean": "아니요, 이 약은 처방전 없이 살 수 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "شكراً يا دكتور! أتمنى أن أتحسن سريعاً.",
+          "romanization": "Shukran yā duktūr! Atamannā an ataḥassan sarīʿan.",
+          "korean": "감사합니다 의사 선생님! 빨리 낫기를 바라요."
+        },
+        {
+          "arabic": "كم سعر هذا الدواء؟",
+          "romanization": "Kam siʿr hādhā ad-dawā'?",
+          "korean": "이 약이 얼마예요?"
+        },
+        {
+          "arabic": "هل لديكم تأمين صحي دولي؟",
+          "romanization": "Hal ladaykum ta'mīn ṣiḥḥī dawlī?",
+          "korean": "국제 건강보험을 받나요?"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "مستشفى",
+      "romanization": "mustashfā",
+      "korean": "병원"
+    },
+    {
+      "arabic": "طبيب",
+      "romanization": "ṭabīb",
+      "korean": "의사"
+    },
+    {
+      "arabic": "دواء",
+      "romanization": "dawā'",
+      "korean": "약"
+    },
+    {
+      "arabic": "صيدلية",
+      "romanization": "ṣaydaliyya",
+      "korean": "약국"
+    },
+    {
+      "arabic": "ألم",
+      "romanization": "alam",
+      "korean": "통증"
+    },
+    {
+      "arabic": "حمى",
+      "romanization": "ḥummā",
+      "korean": "열"
+    }
+  ]
+}

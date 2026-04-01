@@ -1,0 +1,180 @@
+{
+  "level": 5,
+  "title": "길 묻기 & 방향",
+  "titleAr": "السؤال عن الاتجاهات",
+  "description": "길을 묻고 방향을 알려주는 아랍어 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "عفواً، أين المتحف الوطني؟",
+          "romanization": "ʿAfwan, ayna al-matḥaf al-waṭanī?",
+          "korean": "실례합니다, 국립박물관이 어디에 있나요?"
+        },
+        {
+          "arabic": "هل يمكنك مساعدتي؟ أنا تائه.",
+          "romanization": "Hal yumkinuk musāʿadatī? Anā tā'ih.",
+          "korean": "도와주실 수 있나요? 길을 잃었어요."
+        },
+        {
+          "arabic": "كيف أصل إلى محطة القطار؟",
+          "romanization": "Kayfa aṣilu ilā maḥaṭṭat al-qiṭār?",
+          "korean": "기차역까지 어떻게 가나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "اذهب مباشرة ثم انعطف يميناً.",
+          "romanization": "Idhhab mubāsharatan thumma inʿaṭif yamīnan.",
+          "korean": "직진하다가 오른쪽으로 도세요."
+        },
+        {
+          "arabic": "إنه قريب من هنا. على بعد خمس دقائق مشياً.",
+          "romanization": "Innahu qarīb min hunā. ʿAlā buʿd khams daqā'iq mashyan.",
+          "korean": "여기서 가까워요. 걸어서 5분 거리예요."
+        },
+        {
+          "arabic": "انعطف يساراً عند الإشارة الضوئية.",
+          "romanization": "Inʿaṭif yasāran ʿinda al-ishāra aḍ-ḍaw'iyya.",
+          "korean": "신호등에서 왼쪽으로 도세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "هل هو بعيد من هنا؟",
+          "romanization": "Hal huwa baʿīd min hunā?",
+          "korean": "여기서 먼가요?"
+        },
+        {
+          "arabic": "كم تستغرق المسافة؟",
+          "romanization": "Kam tastaghriqu al-masāfa?",
+          "korean": "얼마나 걸리나요?"
+        },
+        {
+          "arabic": "هل يمكنني المشي إلى هناك؟",
+          "romanization": "Hal yumkinunī al-mashy ilā hunāk?",
+          "korean": "거기까지 걸어갈 수 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "لا، إنه قريب جداً.",
+          "romanization": "Lā, innahu qarīb jiddan.",
+          "korean": "아니요, 아주 가까워요."
+        },
+        {
+          "arabic": "حوالي عشر دقائق بالسيارة.",
+          "romanization": "Ḥawālī ʿashr daqā'iq bis-sayyāra.",
+          "korean": "차로 약 10분이에요."
+        },
+        {
+          "arabic": "نعم، يمكنك المشي. إنه على بعد كيلومتر واحد.",
+          "romanization": "Naʿam, yumkinuk al-mashy. Innahu ʿalā buʿd kīlūmitr wāḥid.",
+          "korean": "네, 걸어갈 수 있어요. 1킬로미터 거리예요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "هل هناك محطة حافلات قريبة؟",
+          "romanization": "Hal hunāka maḥaṭṭat ḥāfilāt qarība?",
+          "korean": "근처에 버스 정류장이 있나요?"
+        },
+        {
+          "arabic": "أين أقرب صراف آلي؟",
+          "romanization": "Ayna aqrab ṣarrāf ālī?",
+          "korean": "가장 가까운 ATM이 어디에 있나요?"
+        },
+        {
+          "arabic": "هل يمكنك أن تريني على الخريطة؟",
+          "romanization": "Hal yumkinuk an turīyanī ʿalā al-kharīṭa?",
+          "korean": "지도에서 보여줄 수 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "نعم، المحطة أمام المسجد.",
+          "romanization": "Naʿam, al-maḥaṭṭa amām al-masjid.",
+          "korean": "네, 정류장은 모스크 앞에 있어요."
+        },
+        {
+          "arabic": "الصراف الآلي في الشارع التالي.",
+          "romanization": "Aṣ-ṣarrāf al-ālī fī ash-shāriʿ at-tālī.",
+          "korean": "ATM은 다음 거리에 있어요."
+        },
+        {
+          "arabic": "بالطبع، انظر هنا. نحن هنا والمتحف هنا.",
+          "romanization": "Biṭ-ṭabʿ, unẓur hunā. Naḥnu hunā wal-matḥaf hunā.",
+          "korean": "물론이죠, 여기 보세요. 우리는 여기 있고 박물관은 여기예요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "شكراً جزيلاً على مساعدتك!",
+          "romanization": "Shukran jazīlan ʿalā musāʿadatik!",
+          "korean": "도움 주셔서 정말 감사합니다!"
+        },
+        {
+          "arabic": "أنت لطيف جداً. شكراً!",
+          "romanization": "Anta laṭīf jiddan. Shukran!",
+          "korean": "정말 친절하시네요. 감사합니다!"
+        },
+        {
+          "arabic": "فهمت الآن. شكراً لك!",
+          "romanization": "Fahimtu al-ān. Shukran lak!",
+          "korean": "이제 알겠어요. 감사합니다!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "يمين",
+      "romanization": "yamīn",
+      "korean": "오른쪽"
+    },
+    {
+      "arabic": "يسار",
+      "romanization": "yasār",
+      "korean": "왼쪽"
+    },
+    {
+      "arabic": "مباشرة",
+      "romanization": "mubāshara",
+      "korean": "직진"
+    },
+    {
+      "arabic": "قريب",
+      "romanization": "qarīb",
+      "korean": "가까운"
+    },
+    {
+      "arabic": "بعيد",
+      "romanization": "baʿīd",
+      "korean": "먼"
+    },
+    {
+      "arabic": "شارع",
+      "romanization": "shāriʿ",
+      "korean": "거리/도로"
+    }
+  ]
+}

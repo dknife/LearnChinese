@@ -1,0 +1,180 @@
+{
+  "level": 20,
+  "title": "호텔 체크인/아웃",
+  "titleSw": "Hoteli",
+  "description": "스와힐리어로 호텔 체크인과 체크아웃 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Habari! Nina uhifadhi wa chumba.",
+          "pronunciation": "하바리! 니나 우히파디 와 춤바.",
+          "korean": "안녕하세요! 방 예약이 있어요."
+        },
+        {
+          "swahili": "Ningependa chumba kwa usiku mmoja.",
+          "pronunciation": "닝에펜다 춤바 쿠와 우시쿠 므모자.",
+          "korean": "하룻밤 묵을 방을 원해요."
+        },
+        {
+          "swahili": "Mna chumba kinachopatikana?",
+          "pronunciation": "므나 춤바 키나초파티카나?",
+          "korean": "빈 방이 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Karibu! Jina lako ni nani?",
+          "pronunciation": "카리부! 지나 라코 니 나니?",
+          "korean": "어서 오세요! 성함이 어떻게 되세요?"
+        },
+        {
+          "swahili": "Ndiyo, tuna chumba. Unataka cha mtu mmoja au wawili?",
+          "pronunciation": "은디요, 투나 춤바. 우나타카 차 므투 므모자 아우 와윌리?",
+          "korean": "네, 방이 있어요. 1인실이요 2인실이요?"
+        },
+        {
+          "swahili": "Ndiyo, tuna chumba kimoja. Bei ni shilingi laki moja kwa usiku.",
+          "pronunciation": "은디요, 투나 춤바 키모자. 베이 니 실링이 라키 모자 쿠와 우시쿠.",
+          "korean": "네, 방 하나 있어요. 1박에 10만 실링이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Chumba kina WiFi?",
+          "pronunciation": "춤바 키나 와이파이?",
+          "korean": "방에 와이파이가 있나요?"
+        },
+        {
+          "swahili": "Kifungua kinywa kinajumuishwa?",
+          "pronunciation": "키풍우아 키뉴와 키나주무이시와?",
+          "korean": "아침 식사가 포함되나요?"
+        },
+        {
+          "swahili": "Naweza kuona chumba kwanza?",
+          "pronunciation": "나웨자 쿠오나 춤바 쿠완자?",
+          "korean": "방을 먼저 볼 수 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Ndiyo, WiFi ni bure. Nenosiri ni 'karibu123'.",
+          "pronunciation": "은디요, 와이파이 니 부레. 네노시리 니 '카리부123'.",
+          "korean": "네, 와이파이는 무료예요. 비밀번호는 'karibu123'이에요."
+        },
+        {
+          "swahili": "Ndiyo, kifungua kinywa ni kuanzia saa moja hadi saa nne.",
+          "pronunciation": "은디요, 키풍우아 키뉴와 니 쿠안지아 사아 모자 하디 사아 은네.",
+          "korean": "네, 조식은 7시부터 10시까지예요."
+        },
+        {
+          "swahili": "Bila shaka! Nifuate, nitakuonyesha.",
+          "pronunciation": "빌라 샤카! 니푸아테, 니타쿠오녜샤.",
+          "korean": "물론이요! 따라오세요, 보여드릴게요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Chumba ni kizuri. Nitakaa usiku watatu.",
+          "pronunciation": "춤바 니 키주리. 니타카아 우시쿠 와타투.",
+          "korean": "방이 좋아요. 3박 할게요."
+        },
+        {
+          "swahili": "Kuna tatizo na maji ya moto.",
+          "pronunciation": "쿠나 타티조 나 마지 야 모토.",
+          "korean": "온수에 문제가 있어요."
+        },
+        {
+          "swahili": "Naweza kupata taulo za ziada?",
+          "pronunciation": "나웨자 쿠파타 타울로 자 지아다?",
+          "korean": "수건을 더 받을 수 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Vizuri! Hii ni funguo yako. Chumba nambari kumi na tano.",
+          "pronunciation": "비주리! 히이 니 풍우오 야코. 춤바 남바리 쿠미 나 타노.",
+          "korean": "좋아요! 이것이 열쇠예요. 15번 방이에요."
+        },
+        {
+          "swahili": "Pole sana! Nitapeleka fundi sasa hivi.",
+          "pronunciation": "폴레 사나! 니타펠레카 푼디 사사 히비.",
+          "korean": "죄송합니다! 기사를 바로 보낼게요."
+        },
+        {
+          "swahili": "Bila shaka, nitapeleka taulo mara moja.",
+          "pronunciation": "빌라 샤카, 니타펠레카 타울로 마라 모자.",
+          "korean": "물론이죠, 바로 수건을 보내드릴게요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Ninataka kutoka. Bili yangu ni ngapi?",
+          "pronunciation": "니나타카 쿠토카. 빌리 양우 니 응가피?",
+          "korean": "체크아웃하고 싶어요. 제 청구서가 얼마예요?"
+        },
+        {
+          "swahili": "Asante kwa huduma nzuri. Nitarudi tena!",
+          "pronunciation": "아산테 쿠와 후두마 은주리. 니타루디 테나!",
+          "korean": "좋은 서비스 감사합니다. 또 올게요!"
+        },
+        {
+          "swahili": "Kukaa hapa kulikuwa kuzuri sana. Asante!",
+          "pronunciation": "쿠카아 하파 쿨리쿠와 쿠주리 사나. 아산테!",
+          "korean": "여기 머무는 게 정말 좋았어요. 감사합니다!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "hoteli",
+      "pronunciation": "호텔리",
+      "korean": "호텔"
+    },
+    {
+      "swahili": "chumba",
+      "pronunciation": "춤바",
+      "korean": "방"
+    },
+    {
+      "swahili": "funguo",
+      "pronunciation": "풍우오",
+      "korean": "열쇠"
+    },
+    {
+      "swahili": "uhifadhi",
+      "pronunciation": "우히파디",
+      "korean": "예약"
+    },
+    {
+      "swahili": "bili",
+      "pronunciation": "빌리",
+      "korean": "청구서"
+    },
+    {
+      "swahili": "huduma",
+      "pronunciation": "후두마",
+      "korean": "서비스"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "level": 17,
+  "title": "은행 & 환전",
+  "titleSw": "Benki na Kubadilisha Pesa",
+  "description": "스와힐리어로 은행과 환전에 관한 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Samahani, benki iko wapi?",
+          "pronunciation": "사마하니, 벵키 이코 와피?",
+          "korean": "실례합니다, 은행이 어디에 있나요?"
+        },
+        {
+          "swahili": "Ninataka kufungua akaunti.",
+          "pronunciation": "니나타카 쿠풍우아 아카운티.",
+          "korean": "계좌를 개설하고 싶어요."
+        },
+        {
+          "swahili": "Ningependa kubadilisha pesa.",
+          "pronunciation": "닝에펜다 쿠바딜리샤 페사.",
+          "korean": "환전하고 싶어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Benki iko barabara ya pili kulia.",
+          "pronunciation": "벵키 이코 바라바라 야 필리 쿨리아.",
+          "korean": "은행은 오른쪽 두 번째 길에 있어요."
+        },
+        {
+          "swahili": "Karibu! Unahitaji kitambulisho chako.",
+          "pronunciation": "카리부! 우나히타지 키탐불리쇼 차코.",
+          "korean": "어서오세요! 신분증이 필요해요."
+        },
+        {
+          "swahili": "Ndiyo, tunabadilisha pesa. Fedha gani?",
+          "pronunciation": "은디요, 투나바딜리샤 페사. 페다 가니?",
+          "korean": "네, 환전해요. 어떤 통화요?"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Ninataka kubadilisha dola za Kimarekani kuwa shilingi.",
+          "pronunciation": "니나타카 쿠바딜리샤 돌라 자 키마레카니 쿠와 실링이.",
+          "korean": "미국 달러를 실링으로 바꾸고 싶어요."
+        },
+        {
+          "swahili": "Kiwango cha ubadilishaji ni kipi?",
+          "pronunciation": "키왕오 차 우바딜리샤지 니 키피?",
+          "korean": "환율이 얼마예요?"
+        },
+        {
+          "swahili": "Ninataka kubadilisha euro mia tano.",
+          "pronunciation": "니나타카 쿠바딜리샤 유로 미아 타노.",
+          "korean": "유로 500을 바꾸고 싶어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Dola moja ni shilingi elfu mbili na mia tano.",
+          "pronunciation": "돌라 모자 니 실링이 엘푸 므빌리 나 미아 타노.",
+          "korean": "1달러에 2,500실링이에요."
+        },
+        {
+          "swahili": "Kiwango cha leo ni kizuri. Hiki hapa.",
+          "pronunciation": "키왕오 차 레오 니 키주리. 히키 하파.",
+          "korean": "오늘 환율이 좋아요. 여기 있어요."
+        },
+        {
+          "swahili": "Euro mia tano ni shilingi milioni moja na laki tano.",
+          "pronunciation": "유로 미아 타노 니 실링이 밀리오니 모자 나 라키 타노.",
+          "korean": "유로 500은 150만 실링이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Ninataka kutoa pesa kwenye ATM.",
+          "pronunciation": "니나타카 쿠토아 페사 쿠에니에 에이티엠.",
+          "korean": "ATM에서 돈을 인출하고 싶어요."
+        },
+        {
+          "swahili": "Naweza kutuma pesa kwa simu?",
+          "pronunciation": "나웨자 쿠투마 페사 쿠와 시무?",
+          "korean": "모바일로 송금할 수 있나요?"
+        },
+        {
+          "swahili": "Ninataka kuweka pesa kwenye akaunti yangu.",
+          "pronunciation": "니나타카 쿠웨카 페사 쿠에니에 아카운티 양우.",
+          "korean": "계좌에 입금하고 싶어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "ATM iko pale. Unahitaji kadi yako.",
+          "pronunciation": "에이티엠 이코 팔레. 우나히타지 카디 야코.",
+          "korean": "ATM은 저기 있어요. 카드가 필요해요."
+        },
+        {
+          "swahili": "Ndiyo, unaweza kutumia M-Pesa kutuma pesa.",
+          "pronunciation": "은디요, 우나웨자 쿠투미아 엠페사 쿠투마 페사.",
+          "korean": "네, 엠페사로 송금할 수 있어요."
+        },
+        {
+          "swahili": "Sawa, jaza fomu hii na upe karani pesa.",
+          "pronunciation": "사와, 자자 포무 히이 나 우페 카라니 페사.",
+          "korean": "좋아요, 이 양식을 작성하고 직원에게 돈을 주세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Asante sana kwa msaada. Kwaheri!",
+          "pronunciation": "아산테 사나 쿠와 므사아다. 쿠와헤리!",
+          "korean": "도움 감사합니다. 안녕히!"
+        },
+        {
+          "swahili": "Nimekuelewa. Asante!",
+          "pronunciation": "니메쿠엘레와. 아산테!",
+          "korean": "이해했어요. 감사합니다!"
+        },
+        {
+          "swahili": "Vizuri, nimemalizia. Asante kwa huduma nzuri.",
+          "pronunciation": "비주리, 니메말리지아. 아산테 쿠와 후두마 은주리.",
+          "korean": "좋아요, 끝냈어요. 좋은 서비스 감사합니다."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "benki",
+      "pronunciation": "벵키",
+      "korean": "은행"
+    },
+    {
+      "swahili": "pesa",
+      "pronunciation": "페사",
+      "korean": "돈"
+    },
+    {
+      "swahili": "kubadilisha",
+      "pronunciation": "쿠바딜리샤",
+      "korean": "교환하다, 바꾸다"
+    },
+    {
+      "swahili": "akaunti",
+      "pronunciation": "아카운티",
+      "korean": "계좌"
+    },
+    {
+      "swahili": "kiwango",
+      "pronunciation": "키왕오",
+      "korean": "비율, 환율"
+    },
+    {
+      "swahili": "kutuma",
+      "pronunciation": "쿠투마",
+      "korean": "보내다"
+    }
+  ]
+}

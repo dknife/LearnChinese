@@ -1,0 +1,180 @@
+{
+  "level": 9,
+  "title": "전화번호 & 주소",
+  "titleSw": "Nambari ya Simu na Anwani",
+  "description": "스와힐리어로 전화번호와 주소를 묻고 알려주는 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Nambari yako ya simu ni ipi?",
+          "pronunciation": "남바리 야코 야 시무 니 이피?",
+          "korean": "전화번호가 뭐예요?"
+        },
+        {
+          "swahili": "Naweza kupata nambari yako?",
+          "pronunciation": "나웨자 쿠파타 남바리 야코?",
+          "korean": "번호를 알 수 있을까요?"
+        },
+        {
+          "swahili": "Una simu ya mkononi?",
+          "pronunciation": "우나 시무 야 므코노니?",
+          "korean": "휴대폰이 있으세요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Nambari yangu ni sifuri, saba, mbili, tatu, nne, tano, sita.",
+          "pronunciation": "남바리 양우 니 시푸리, 사바, 므빌리, 타투, 은네, 타노, 시타.",
+          "korean": "제 번호는 0, 7, 2, 3, 4, 5, 6이에요."
+        },
+        {
+          "swahili": "Ndiyo, nitakuandikia nambari yangu.",
+          "pronunciation": "은디요, 니타쿠안디키아 남바리 양우.",
+          "korean": "네, 제 번호를 적어드릴게요."
+        },
+        {
+          "swahili": "Ndiyo, nina simu ya mkononi. Nitakutumia ujumbe.",
+          "pronunciation": "은디요, 니나 시무 야 므코노니. 니타쿠투미아 우줌베.",
+          "korean": "네, 휴대폰이 있어요. 메시지를 보낼게요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Unaishi wapi? Anwani yako ni ipi?",
+          "pronunciation": "우나이시 와피? 안와니 야코 니 이피?",
+          "korean": "어디에 사세요? 주소가 뭐예요?"
+        },
+        {
+          "swahili": "Ofisi yako iko wapi?",
+          "pronunciation": "오피시 야코 이코 와피?",
+          "korean": "사무실이 어디에 있어요?"
+        },
+        {
+          "swahili": "Nyumba yako iko mtaa gani?",
+          "pronunciation": "뉴음바 야코 이코 므타아 가니?",
+          "korean": "집이 어느 거리에 있어요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Ninaishi Mtaa wa Samora, nambari kumi na mbili.",
+          "pronunciation": "니나이시 므타아 와 사모라, 남바리 쿠미 나 므빌리.",
+          "korean": "사모라 거리 12번지에 살아요."
+        },
+        {
+          "swahili": "Ofisi yangu iko katika jengo la Diamond.",
+          "pronunciation": "오피시 양우 이코 카티카 젱오 라 다이아몬드.",
+          "korean": "사무실은 다이아몬드 빌딩에 있어요."
+        },
+        {
+          "swahili": "Nyumba yangu iko Sinza, Dar es Salaam.",
+          "pronunciation": "뉴음바 양우 이코 신자, 다르 에스 살람.",
+          "korean": "집은 다르에스살람 신자에 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Barua pepe yako ni ipi?",
+          "pronunciation": "바루아 페페 야코 니 이피?",
+          "korean": "이메일 주소가 뭐예요?"
+        },
+        {
+          "swahili": "Una akaunti ya WhatsApp?",
+          "pronunciation": "우나 아카운티 야 왓사프?",
+          "korean": "왓츠앱 계정이 있으세요?"
+        },
+        {
+          "swahili": "Naweza kukutumia ujumbe?",
+          "pronunciation": "나웨자 쿠쿠투미아 우줌베?",
+          "korean": "메시지를 보내도 될까요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Barua pepe yangu ni juma arobaini na tano, gmail.",
+          "pronunciation": "바루아 페페 양우 니 주마 아로바이니 나 타노, 지메일.",
+          "korean": "제 이메일은 juma45@gmail이에요."
+        },
+        {
+          "swahili": "Ndiyo, nambari ya WhatsApp ni ile ile ya simu.",
+          "pronunciation": "은디요, 남바리 야 왓사프 니 일레 일레 야 시무.",
+          "korean": "네, 왓츠앱 번호는 전화번호와 같아요."
+        },
+        {
+          "swahili": "Bila shaka! Nitumie ujumbe wakati wowote.",
+          "pronunciation": "빌라 샤카! 니투미에 우줌베 와카티 워워테.",
+          "korean": "물론이요! 언제든지 메시지를 보내세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Asante! Nitawasiliana nawe hivi karibuni.",
+          "pronunciation": "아산테! 니타와실리아나 나웨 히비 카리부니.",
+          "korean": "감사합니다! 곧 연락드릴게요."
+        },
+        {
+          "swahili": "Nzuri, nimehifadhi nambari yako.",
+          "pronunciation": "은주리, 니메히파디 남바리 야코.",
+          "korean": "좋아요, 번호를 저장했어요."
+        },
+        {
+          "swahili": "Sawa, tutawasiliana. Kwaheri!",
+          "pronunciation": "사와, 투타와실리아나. 쿠와헤리!",
+          "korean": "좋아요, 연락해요. 안녕히 가세요!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "simu",
+      "pronunciation": "시무",
+      "korean": "전화"
+    },
+    {
+      "swahili": "anwani",
+      "pronunciation": "안와니",
+      "korean": "주소"
+    },
+    {
+      "swahili": "mtaa",
+      "pronunciation": "므타아",
+      "korean": "거리, 동네"
+    },
+    {
+      "swahili": "nyumba",
+      "pronunciation": "뉴음바",
+      "korean": "집"
+    },
+    {
+      "swahili": "barua pepe",
+      "pronunciation": "바루아 페페",
+      "korean": "이메일"
+    },
+    {
+      "swahili": "ujumbe",
+      "pronunciation": "우줌베",
+      "korean": "메시지"
+    }
+  ]
+}

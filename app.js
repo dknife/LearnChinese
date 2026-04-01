@@ -75,6 +75,40 @@ const LANGS = {
       kr_to_foreign: '한국어 → 일본어',
     },
   },
+  sw: {
+    code: 'sw',
+    name: 'Kiswahili',
+    nameKr: '스와힐리어',
+    emoji: '🇰🇪',
+    progressKey: 'learnSwahili_progress',
+    ttsLang: 'sw',
+    ttsRate: 0.9,
+    foreignField: 'swahili',
+    pronField: 'pronunciation',
+    titleField: 'titleSw',
+    quizLabels: {
+      vocab: '단어 시험',
+      foreign_to_kr: '스와힐리어 → 한국어',
+      kr_to_foreign: '한국어 → 스와힐리어',
+    },
+  },
+  ar: {
+    code: 'ar',
+    name: 'العربية',
+    nameKr: '아랍어',
+    emoji: '🇸🇦',
+    progressKey: 'learnArabic_progress',
+    ttsLang: 'ar-SA',
+    ttsRate: 0.85,
+    foreignField: 'arabic',
+    pronField: 'romanization',
+    titleField: 'titleAr',
+    quizLabels: {
+      vocab: '단어 시험',
+      foreign_to_kr: '아랍어 → 한국어',
+      kr_to_foreign: '한국어 → 아랍어',
+    },
+  },
 };
 
 // ------------------------------------------------------------
@@ -186,7 +220,7 @@ async function handleRoute() {
   let match;
 
   // Language-prefixed routes: #/zh/... or #/es/...
-  match = hash.match(/^#\/(zh|es|fr|ja)\/result\/(\d+)\??(.*)?$/);
+  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar)\/result\/(\d+)\??(.*)?$/);
   if (match) {
     currentLang = match[1];
     const level = parseInt(match[2]);
@@ -195,14 +229,14 @@ async function handleRoute() {
     return;
   }
 
-  match = hash.match(/^#\/(zh|es|fr|ja)\/quiz\/(\d+)$/);
+  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar)\/quiz\/(\d+)$/);
   if (match) {
     currentLang = match[1];
     await renderQuiz(parseInt(match[2]));
     return;
   }
 
-  match = hash.match(/^#\/(zh|es|fr|ja)\/lesson\/(\d+)$/);
+  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar)\/lesson\/(\d+)$/);
   if (match) {
     currentLang = match[1];
     await renderLesson(parseInt(match[2]));
@@ -227,6 +261,16 @@ async function handleRoute() {
   }
   if (hash === '#/ja' || hash === '#/japanese') {
     currentLang = 'ja';
+    await renderHome();
+    return;
+  }
+  if (hash === '#/sw' || hash === '#/swahili') {
+    currentLang = 'sw';
+    await renderHome();
+    return;
+  }
+  if (hash === '#/ar' || hash === '#/arabic') {
+    currentLang = 'ar';
     await renderHome();
     return;
   }

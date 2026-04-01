@@ -1,0 +1,180 @@
+{
+  "level": 25,
+  "title": "종합 회화",
+  "titleAr": "محادثة شاملة",
+  "description": "다양한 상황에서의 종합 아랍어 회화를 연습해봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "مرحباً يا أحمد! كيف حالك؟ لم أرك منذ فترة طويلة!",
+          "romanization": "Marhaban yā Aḥmad! Kayfa ḥāluk? Lam arak mundhu fatra ṭawīla!",
+          "korean": "안녕 아흐메드! 어떻게 지내? 오래간만이야!"
+        },
+        {
+          "arabic": "أهلاً! سعيد بلقائك مرة أخرى.",
+          "romanization": "Ahlan! Saʿīd biliqā'ik marra ukhrā.",
+          "korean": "안녕! 다시 만나서 반가워."
+        },
+        {
+          "arabic": "السلام عليكم! كيف الأحوال؟",
+          "romanization": "As-salāmu ʿalaykum! Kayfa al-aḥwāl?",
+          "korean": "안녕하세요! 어떻게 지내세요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "أهلاً يا يونغمين! الحمد لله، بخير. وأنت؟ ماذا فعلت مؤخراً؟",
+          "romanization": "Ahlan yā Yūngmīn! Al-ḥamdu lillāh, bikhayr. Wa anta? Mādhā faʿalta mu'akhkharan?",
+          "korean": "안녕 영민! 잘 지내, 고마워. 너는? 요즘 뭐 했어?"
+        },
+        {
+          "arabic": "وأنا كذلك! أخبرني عن أخبارك.",
+          "romanization": "Wa anā kadhālik! Akhbirnī ʿan akhbārik.",
+          "korean": "나도! 소식 좀 알려줘."
+        },
+        {
+          "arabic": "وعليكم السلام! كل شيء بخير، الحمد لله.",
+          "romanization": "Wa ʿalaykum as-salām! Kull shay' bikhayr, al-ḥamdu lillāh.",
+          "korean": "안녕하세요! 모든 게 잘 지내요, 감사합니다."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "سافرت إلى الأردن الشهر الماضي. كانت رحلة رائعة!",
+          "romanization": "Sāfartu ilā al-Urdun ash-shahr al-māḍī. Kānat riḥla rā'iʿa!",
+          "korean": "지난달에 요르단에 갔었어. 멋진 여행이었어!"
+        },
+        {
+          "arabic": "بدأت تعلم اللغة العربية. إنها صعبة لكنها ممتعة.",
+          "romanization": "Bada'tu taʿallum al-lugha al-ʿarabiyya. Innahā ṣaʿba lākinnahā mumtiʿa.",
+          "korean": "아랍어를 배우기 시작했어. 어렵지만 재미있어."
+        },
+        {
+          "arabic": "حصلت على وظيفة جديدة في شركة دولية.",
+          "romanization": "Ḥaṣaltu ʿalā waẓīfa jadīda fī sharika dawliyya.",
+          "korean": "국제 회사에서 새 직장을 얻었어."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "ما شاء الله! هل زرت البتراء والبحر الميت؟",
+          "romanization": "Mā shā' Allāh! Hal zurta al-Batrā' wal-Baḥr al-Mayyit?",
+          "korean": "정말! 페트라와 사해에 갔었어?"
+        },
+        {
+          "arabic": "مبروك! عربيتك أصبحت جيدة جداً!",
+          "romanization": "Mabrūk! ʿArabiyyatuk aṣbaḥat jayyida jiddan!",
+          "korean": "축하해! 네 아랍어 정말 좋아졌어!"
+        },
+        {
+          "arabic": "تهانينا! ماذا ستعمل في الشركة الجديدة؟",
+          "romanization": "Tahānīnā! Mādhā sataʿmal fī ash-sharika al-jadīda?",
+          "korean": "축하해! 새 회사에서 뭘 할 거야?"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "نعم، البتراء كانت مذهلة! والطعام الأردني لذيذ جداً.",
+          "romanization": "Naʿam, al-Batrā' kānat mudhhila! Waṭ-ṭaʿām al-urdunī ladhīdh jiddan.",
+          "korean": "응, 페트라는 놀라웠어! 그리고 요르단 음식은 정말 맛있었어."
+        },
+        {
+          "arabic": "شكراً! أمارس كل يوم. أريد أن أتحدث بطلاقة.",
+          "romanization": "Shukran! Umāris kull yawm. Urīdu an ataḥaddath biṭalāqa.",
+          "korean": "고마워! 매일 연습해. 유창하게 말하고 싶어."
+        },
+        {
+          "arabic": "سأعمل مديراً لقسم التسويق الدولي.",
+          "romanization": "Sa'aʿmal mudīran liqism at-taswīq ad-dawlī.",
+          "korean": "국제 마케팅 부서의 매니저로 일할 거야."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "يجب أن نذهب معاً في المرة القادمة. أعرف أماكن رائعة!",
+          "romanization": "Yajib an nadhhab maʿan fī al-marra al-qādima. Aʿrif amākin rā'iʿa!",
+          "korean": "다음에 같이 가자. 멋진 장소를 알아!"
+        },
+        {
+          "arabic": "ستنجح بالتأكيد! اللغة العربية تفتح أبواباً كثيرة.",
+          "romanization": "Satanjaḥ bit-ta'kīd! Al-lugha al-ʿarabiyya taftaḥ abwāban kathīra.",
+          "korean": "분명히 성공할 거야! 아랍어는 많은 기회를 열어줘."
+        },
+        {
+          "arabic": "فرصة رائعة! أتمنى لك كل التوفيق.",
+          "romanization": "Furṣa rā'iʿa! Atamannā lak kull at-tawfīq.",
+          "korean": "좋은 기회야! 모든 일이 잘 되길 바라."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "فكرة ممتازة! دعنا نخطط لرحلة معاً قريباً.",
+          "romanization": "Fikra mumtāza! Daʿnā nukhṭiṭ liriḥla maʿan qarīban.",
+          "korean": "좋은 생각이야! 곧 함께 여행을 계획하자."
+        },
+        {
+          "arabic": "شكراً يا صديقي! لقائك دائماً يسعدني. إلى اللقاء!",
+          "romanization": "Shukran yā ṣadīqī! Liqā'uk dā'iman yusʿidunī. Ilā al-liqā'!",
+          "korean": "고마워 친구야! 널 만나면 항상 기뻐. 또 만나!"
+        },
+        {
+          "arabic": "شكراً! سنبقى على تواصل. مع السلامة!",
+          "romanization": "Shukran! Sanabqā ʿalā tawāṣul. Maʿa as-salāma!",
+          "korean": "고마워! 계속 연락하자. 안녕히!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "محادثة",
+      "romanization": "muḥādatha",
+      "korean": "회화/대화"
+    },
+    {
+      "arabic": "رحلة",
+      "romanization": "riḥla",
+      "korean": "여행"
+    },
+    {
+      "arabic": "لغة",
+      "romanization": "lugha",
+      "korean": "언어"
+    },
+    {
+      "arabic": "صديق",
+      "romanization": "ṣadīq",
+      "korean": "친구"
+    },
+    {
+      "arabic": "توفيق",
+      "romanization": "tawfīq",
+      "korean": "성공/행운"
+    },
+    {
+      "arabic": "تواصل",
+      "romanization": "tawāṣul",
+      "korean": "소통/연락"
+    }
+  ]
+}

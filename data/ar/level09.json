@@ -1,0 +1,180 @@
+{
+  "level": 9,
+  "title": "전화번호 & 주소",
+  "titleAr": "رقم الهاتف والعنوان",
+  "description": "전화번호와 주소를 아랍어로 주고받는 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "ما رقم هاتفك؟",
+          "romanization": "Mā raqam hātifik?",
+          "korean": "전화번호가 뭐예요?"
+        },
+        {
+          "arabic": "هل يمكنني الحصول على رقمك؟",
+          "romanization": "Hal yumkinunī al-ḥuṣūl ʿalā raqamik?",
+          "korean": "번호를 알 수 있을까요?"
+        },
+        {
+          "arabic": "هل لديك بطاقة عمل؟",
+          "romanization": "Hal ladayk biṭāqat ʿamal?",
+          "korean": "명함이 있으세요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "رقمي هو صفر سبعة تسعة خمسة أربعة ثلاثة اثنان واحد.",
+          "romanization": "Raqmī huwa ṣifr sabʿa tisʿa khamsa arbaʿa thalātha ithnān wāḥid.",
+          "korean": "제 번호는 079-543-21이에요."
+        },
+        {
+          "arabic": "بالطبع. سأكتبه لك.",
+          "romanization": "Biṭ-ṭabʿ. Sa'aktubuhu lak.",
+          "korean": "물론이죠. 적어드릴게요."
+        },
+        {
+          "arabic": "نعم، تفضل هذه بطاقتي.",
+          "romanization": "Naʿam, tafaḍḍal hādhihi biṭāqatī.",
+          "korean": "네, 여기 제 명함이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "ما عنوانك؟",
+          "romanization": "Mā ʿunwānak?",
+          "korean": "주소가 어떻게 되세요?"
+        },
+        {
+          "arabic": "أين تسكن بالضبط؟",
+          "romanization": "Ayna taskun biḍ-ḍabṭ?",
+          "korean": "정확히 어디에 사세요?"
+        },
+        {
+          "arabic": "هل يمكنك كتابة العنوان لي؟",
+          "romanization": "Hal yumkinuk kitābat al-ʿunwān lī?",
+          "korean": "주소를 적어줄 수 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "أسكن في شارع الملك فيصل، رقم عشرين.",
+          "romanization": "Askun fī shāriʿ al-Malik Fayṣal, raqam ʿishrīn.",
+          "korean": "킹 파이살 거리 20번지에 살아요."
+        },
+        {
+          "arabic": "أسكن في حي السلام، بناية رقم خمسة.",
+          "romanization": "Askun fī ḥayy as-Salām, bināya raqam khamsa.",
+          "korean": "살람 동네, 5번 건물에 살아요."
+        },
+        {
+          "arabic": "بالطبع، سأكتبه على هذه الورقة.",
+          "romanization": "Biṭ-ṭabʿ, sa'aktubuhu ʿalā hādhihi al-waraqa.",
+          "korean": "물론이죠, 이 종이에 적어줄게요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "ما هو بريدك الإلكتروني؟",
+          "romanization": "Mā huwa barīduk al-iliktrūnī?",
+          "korean": "이메일 주소가 뭐예요?"
+        },
+        {
+          "arabic": "هل لديك حساب على وسائل التواصل؟",
+          "romanization": "Hal ladayk ḥisāb ʿalā wasā'il at-tawāṣul?",
+          "korean": "SNS 계정이 있으세요?"
+        },
+        {
+          "arabic": "سأرسل لك رسالة.",
+          "romanization": "Sa'ursil lak risāla.",
+          "korean": "메시지를 보낼게요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "بريدي هو أحمد على جيميل دوت كوم.",
+          "romanization": "Barīdī huwa Aḥmad ʿalā Jīmīl dūt kūm.",
+          "korean": "제 이메일은 Ahmed at gmail dot com이에요."
+        },
+        {
+          "arabic": "نعم، ابحث عن اسمي أحمد الخالدي.",
+          "romanization": "Naʿam, ibḥath ʿan ismī Aḥmad al-Khālidī.",
+          "korean": "네, 아흐메드 알칼리디로 검색하세요."
+        },
+        {
+          "arabic": "حسناً، سأنتظر رسالتك.",
+          "romanization": "Ḥasanan, sa'antaẓir risālatak.",
+          "korean": "좋아요, 메시지 기다릴게요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "شكراً! سأتصل بك قريباً.",
+          "romanization": "Shukran! Sa'attaṣil bik qarīban.",
+          "korean": "감사합니다! 곧 연락할게요."
+        },
+        {
+          "arabic": "سجلت رقمك في هاتفي.",
+          "romanization": "Sajjaltu raqamak fī hātifī.",
+          "korean": "제 핸드폰에 번호를 저장했어요."
+        },
+        {
+          "arabic": "ممتاز! نبقى على تواصل.",
+          "romanization": "Mumtāz! Nabqā ʿalā tawāṣul.",
+          "korean": "좋아요! 계속 연락해요."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "هاتف",
+      "romanization": "hātif",
+      "korean": "전화기"
+    },
+    {
+      "arabic": "رقم",
+      "romanization": "raqam",
+      "korean": "번호"
+    },
+    {
+      "arabic": "عنوان",
+      "romanization": "ʿunwān",
+      "korean": "주소"
+    },
+    {
+      "arabic": "بريد إلكتروني",
+      "romanization": "barīd iliktrūnī",
+      "korean": "이메일"
+    },
+    {
+      "arabic": "رسالة",
+      "romanization": "risāla",
+      "korean": "메시지"
+    },
+    {
+      "arabic": "بطاقة",
+      "romanization": "biṭāqa",
+      "korean": "카드/명함"
+    }
+  ]
+}

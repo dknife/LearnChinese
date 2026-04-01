@@ -1,0 +1,180 @@
+{
+  "level": 11,
+  "title": "감정 표현",
+  "titleAr": "التعبير عن المشاعر",
+  "description": "아랍어로 감정과 기분을 표현하는 방법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "كيف تشعر اليوم؟",
+          "romanization": "Kayfa tashʿur al-yawm?",
+          "korean": "오늘 기분이 어때요?"
+        },
+        {
+          "arabic": "تبدو سعيداً اليوم!",
+          "romanization": "Tabdū saʿīdan al-yawm!",
+          "korean": "오늘 행복해 보여요!"
+        },
+        {
+          "arabic": "هل كل شيء على ما يرام؟",
+          "romanization": "Hal kull shay' ʿalā mā yurām?",
+          "korean": "다 괜찮으세요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "أنا سعيد جداً اليوم!",
+          "romanization": "Anā saʿīd jiddan al-yawm!",
+          "korean": "오늘 너무 행복해요!"
+        },
+        {
+          "arabic": "نعم، لأنني نجحت في الامتحان!",
+          "romanization": "Naʿam, li'annanī najaḥtu fī al-imtiḥān!",
+          "korean": "네, 시험에 합격했거든요!"
+        },
+        {
+          "arabic": "في الحقيقة، أنا قلق قليلاً.",
+          "romanization": "Fī al-ḥaqīqa, anā qaliq qalīlan.",
+          "korean": "사실 좀 걱정이 돼요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "ما الذي يقلقك؟",
+          "romanization": "Mā alladhī yuqliquk?",
+          "korean": "뭐가 걱정이에요?"
+        },
+        {
+          "arabic": "مبروك! أنا فخور بك!",
+          "romanization": "Mabrūk! Anā fakhūr bik!",
+          "korean": "축하해요! 자랑스러워요!"
+        },
+        {
+          "arabic": "لا تقلق، كل شيء سيكون بخير.",
+          "romanization": "Lā taqlaq, kull shay' sayakūn bikhayr.",
+          "korean": "걱정 마세요, 다 잘 될 거예요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "أشعر بالتعب والإرهاق.",
+          "romanization": "Ashʿur bit-taʿab wal-irhāq.",
+          "korean": "피곤하고 지쳐요."
+        },
+        {
+          "arabic": "شكراً! أنا متحمس جداً!",
+          "romanization": "Shukran! Anā mutaḥammis jiddan!",
+          "korean": "고마워요! 너무 신나요!"
+        },
+        {
+          "arabic": "أتمنى ذلك. أنا متوتر بعض الشيء.",
+          "romanization": "Atamannā dhālik. Anā mutawattir baʿḍ ash-shay'.",
+          "korean": "그러면 좋겠어요. 좀 긴장돼요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أنا آسف لسماع ذلك.",
+          "romanization": "Anā āsif lisamāʿ dhālik.",
+          "korean": "그 얘기를 들으니 안타깝네요."
+        },
+        {
+          "arabic": "هل تريد التحدث عن ذلك؟",
+          "romanization": "Hal turīd at-taḥadduth ʿan dhālik?",
+          "korean": "그것에 대해 얘기하고 싶어요?"
+        },
+        {
+          "arabic": "أنا هنا من أجلك دائماً.",
+          "romanization": "Anā hunā min ajlik dā'iman.",
+          "korean": "항상 여기 있을게요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "شكراً لك. أنت صديق حقيقي.",
+          "romanization": "Shukran lak. Anta ṣadīq ḥaqīqī.",
+          "korean": "고마워요. 당신은 진정한 친구예요."
+        },
+        {
+          "arabic": "أشعر بالتحسن الآن. شكراً!",
+          "romanization": "Ashʿur bit-taḥassun al-ān. Shukran!",
+          "korean": "이제 기분이 나아졌어요. 고마워요!"
+        },
+        {
+          "arabic": "نعم، أحتاج إلى شخص يستمع إلي.",
+          "romanization": "Naʿam, aḥtāj ilā shakhṣ yastamiʿ ilayy.",
+          "korean": "네, 들어줄 사람이 필요해요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "سيكون كل شيء على ما يرام. ابتسم!",
+          "romanization": "Sayakūn kull shay' ʿalā mā yurām. Ibtasim!",
+          "korean": "다 잘 될 거예요. 웃어요!"
+        },
+        {
+          "arabic": "الحياة جميلة! استمتع بيومك.",
+          "romanization": "Al-ḥayāt jamīla! Istamtiʿ biyawmik.",
+          "korean": "인생은 아름다워요! 하루를 즐기세요."
+        },
+        {
+          "arabic": "أنا دائماً سعيد بصحبتك.",
+          "romanization": "Anā dā'iman saʿīd biṣuḥbatik.",
+          "korean": "당신과 함께라 항상 행복해요."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "سعيد",
+      "romanization": "saʿīd",
+      "korean": "행복한"
+    },
+    {
+      "arabic": "حزين",
+      "romanization": "ḥazīn",
+      "korean": "슬픈"
+    },
+    {
+      "arabic": "قلق",
+      "romanization": "qaliq",
+      "korean": "걱정하는"
+    },
+    {
+      "arabic": "متحمس",
+      "romanization": "mutaḥammis",
+      "korean": "신나는"
+    },
+    {
+      "arabic": "تعبان",
+      "romanization": "taʿbān",
+      "korean": "피곤한"
+    },
+    {
+      "arabic": "مشاعر",
+      "romanization": "mashāʿir",
+      "korean": "감정"
+    }
+  ]
+}

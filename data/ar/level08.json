@@ -1,0 +1,180 @@
+{
+  "level": 8,
+  "title": "시간 표현",
+  "titleAr": "التعبير عن الوقت",
+  "description": "아랍어로 시간을 표현하는 방법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "كم الساعة الآن، من فضلك؟",
+          "romanization": "Kam as-sāʿa al-ān, min faḍlik?",
+          "korean": "지금 몇 시인지 알 수 있을까요?"
+        },
+        {
+          "arabic": "متى يفتح المتجر؟",
+          "romanization": "Matā yaftaḥ al-matjar?",
+          "korean": "가게가 몇 시에 열어요?"
+        },
+        {
+          "arabic": "متى يبدأ الفيلم؟",
+          "romanization": "Matā yabda' al-fīlm?",
+          "korean": "영화가 몇 시에 시작해요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "الساعة الثانية والنصف.",
+          "romanization": "As-sāʿa ath-thāniya wan-niṣf.",
+          "korean": "2시 반이에요."
+        },
+        {
+          "arabic": "يفتح في الساعة التاسعة صباحاً.",
+          "romanization": "Yaftaḥ fī as-sāʿa at-tāsiʿa ṣabāḥan.",
+          "korean": "아침 9시에 열어요."
+        },
+        {
+          "arabic": "يبدأ في الساعة السابعة مساءً.",
+          "romanization": "Yabda' fī as-sāʿa as-sābiʿa masā'an.",
+          "korean": "저녁 7시에 시작해요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "متى ينتهي العمل؟",
+          "romanization": "Matā yantahī al-ʿamal?",
+          "korean": "일이 몇 시에 끝나요?"
+        },
+        {
+          "arabic": "هل لدينا وقت كافٍ؟",
+          "romanization": "Hal ladaynā waqt kāfin?",
+          "korean": "시간이 충분한가요?"
+        },
+        {
+          "arabic": "أنا متأخر! كم بقي من الوقت؟",
+          "romanization": "Anā muta'akhkhir! Kam baqiya min al-waqt?",
+          "korean": "늦었어요! 시간이 얼마나 남았어요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "ينتهي في الساعة الخامسة.",
+          "romanization": "Yantahī fī as-sāʿa al-khāmisa.",
+          "korean": "5시에 끝나요."
+        },
+        {
+          "arabic": "نعم، لدينا ساعة كاملة.",
+          "romanization": "Naʿam, ladaynā sāʿa kāmila.",
+          "korean": "네, 한 시간 있어요."
+        },
+        {
+          "arabic": "بقي عشر دقائق فقط!",
+          "romanization": "Baqiya ʿashr daqā'iq faqaṭ!",
+          "korean": "10분밖에 안 남았어요!"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "في أي وقت نلتقي غداً؟",
+          "romanization": "Fī ayyi waqt naltaqī ghadan?",
+          "korean": "내일 몇 시에 만날까요?"
+        },
+        {
+          "arabic": "هل يمكننا اللقاء في الصباح الباكر؟",
+          "romanization": "Hal yumkinunā al-liqā' fī aṣ-ṣabāḥ al-bākir?",
+          "korean": "이른 아침에 만날 수 있을까요?"
+        },
+        {
+          "arabic": "أفضل بعد الظهر.",
+          "romanization": "Ufaḍḍil baʿd aẓ-ẓuhr.",
+          "korean": "오후가 더 좋아요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "ما رأيك في الساعة العاشرة صباحاً؟",
+          "romanization": "Mā ra'yuk fī as-sāʿa al-ʿāshira ṣabāḥan?",
+          "korean": "아침 10시는 어때요?"
+        },
+        {
+          "arabic": "حسناً، في الساعة السابعة والربع.",
+          "romanization": "Ḥasanan, fī as-sāʿa as-sābiʿa war-rubʿ.",
+          "korean": "좋아요, 7시 15분에요."
+        },
+        {
+          "arabic": "ممتاز! نلتقي في الساعة الثالثة بعد الظهر.",
+          "romanization": "Mumtāz! Naltaqī fī as-sāʿa ath-thālitha baʿd aẓ-ẓuhr.",
+          "korean": "좋아요! 오후 3시에 만나요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "اتفقنا! أراك غداً.",
+          "romanization": "Ittafaqnā! Arāk ghadan.",
+          "korean": "약속! 내일 봐요."
+        },
+        {
+          "arabic": "لا تتأخر!",
+          "romanization": "Lā tata'akhkhar!",
+          "korean": "늦지 마세요!"
+        },
+        {
+          "arabic": "سأكون هناك في الموعد.",
+          "romanization": "Sa'akūn hunāk fī al-mawʿid.",
+          "korean": "시간에 맞춰 갈게요."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "ساعة",
+      "romanization": "sāʿa",
+      "korean": "시간/시계"
+    },
+    {
+      "arabic": "دقيقة",
+      "romanization": "daqīqa",
+      "korean": "분"
+    },
+    {
+      "arabic": "صباحاً",
+      "romanization": "ṣabāḥan",
+      "korean": "아침에"
+    },
+    {
+      "arabic": "مساءً",
+      "romanization": "masā'an",
+      "korean": "저녁에"
+    },
+    {
+      "arabic": "الآن",
+      "romanization": "al-ān",
+      "korean": "지금"
+    },
+    {
+      "arabic": "غداً",
+      "romanization": "ghadan",
+      "korean": "내일"
+    }
+  ]
+}

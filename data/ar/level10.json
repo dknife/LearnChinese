@@ -1,0 +1,180 @@
+{
+  "level": 10,
+  "title": "음식 & 맛 표현",
+  "titleAr": "الطعام والنكهات",
+  "description": "음식과 맛을 아랍어로 표현하는 방법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "ما هو طعامك المفضل؟",
+          "romanization": "Mā huwa ṭaʿāmuk al-mufaḍḍal?",
+          "korean": "좋아하는 음식이 뭐예요?"
+        },
+        {
+          "arabic": "هل تحب الطعام العربي؟",
+          "romanization": "Hal tuḥibb aṭ-ṭaʿām al-ʿarabī?",
+          "korean": "아랍 음식을 좋아하세요?"
+        },
+        {
+          "arabic": "هل جربت المنسف من قبل؟",
+          "romanization": "Hal jarrabta al-mansaf min qabl?",
+          "korean": "만사프를 먹어본 적 있어요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "أحب الكبسة. إنها لذيذة جداً!",
+          "romanization": "Uḥibb al-kabsa. Innahā ladhīdha jiddan!",
+          "korean": "카바사를 좋아해요. 정말 맛있어요!"
+        },
+        {
+          "arabic": "نعم، أحبه كثيراً! خاصة الحمص والفلافل.",
+          "romanization": "Naʿam, uḥibbuhu kathīran! Khāṣṣatan al-ḥummuṣ wal-falāfil.",
+          "korean": "네, 아주 좋아해요! 특히 후무스와 팔라펠이요."
+        },
+        {
+          "arabic": "لا، لم أجربه بعد. كيف طعمه؟",
+          "romanization": "Lā, lam ujarribhu baʿd. Kayfa ṭaʿmuhu?",
+          "korean": "아니요, 아직 안 먹어봤어요. 맛이 어때요?"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "هذا الطبق حار جداً!",
+          "romanization": "Hādhā aṭ-ṭabaq ḥārr jiddan!",
+          "korean": "이 요리 너무 매워요!"
+        },
+        {
+          "arabic": "هل يمكنك إضافة ملح؟",
+          "romanization": "Hal yumkinuk iḍāfat milḥ?",
+          "korean": "소금을 좀 넣어줄 수 있어요?"
+        },
+        {
+          "arabic": "الطعام حلو المذاق.",
+          "romanization": "Aṭ-ṭaʿām ḥulw al-madhāq.",
+          "korean": "음식이 달콤해요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "هل تريد ماءً؟ سيخفف الحرارة.",
+          "romanization": "Hal turīdu mā'an? Sayukhaffif al-ḥarāra.",
+          "korean": "물 드실래요? 매운맛이 줄어들 거예요."
+        },
+        {
+          "arabic": "بالطبع. تفضل الملح.",
+          "romanization": "Biṭ-ṭabʿ. Tafaḍḍal al-milḥ.",
+          "korean": "물론이죠. 여기 소금이에요."
+        },
+        {
+          "arabic": "نعم، هذه حلوى عربية تقليدية.",
+          "romanization": "Naʿam, hādhihi ḥalwā ʿarabiyya taqlīdiyya.",
+          "korean": "네, 이건 전통 아랍 디저트예요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "ما هي المكونات الرئيسية؟",
+          "romanization": "Mā hiya al-mukawwināt ar-ra'īsiyya?",
+          "korean": "주요 재료가 뭐예요?"
+        },
+        {
+          "arabic": "أنا لا آكل اللحم. هل هناك بديل؟",
+          "romanization": "Anā lā ākul al-laḥm. Hal hunāka badīl?",
+          "korean": "저는 고기를 안 먹어요. 대안이 있나요?"
+        },
+        {
+          "arabic": "هل هذا الطعام حلال؟",
+          "romanization": "Hal hādhā aṭ-ṭaʿām ḥalāl?",
+          "korean": "이 음식은 할랄인가요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "اللحم والأرز والبهارات.",
+          "romanization": "Al-laḥm wal-aruzz wal-bahārāt.",
+          "korean": "고기, 쌀, 향신료예요."
+        },
+        {
+          "arabic": "نعم، يمكنك تجربة الخضار المشوية.",
+          "romanization": "Naʿam, yumkinuk tajribat al-khaḍār al-mashwiyya.",
+          "korean": "네, 구운 채소를 드셔보세요."
+        },
+        {
+          "arabic": "نعم، بالتأكيد. كل طعامنا حلال.",
+          "romanization": "Naʿam, bit-ta'kīd. Kull ṭaʿāminā ḥalāl.",
+          "korean": "네, 물론이죠. 모든 음식이 할랄이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "هذا لذيذ جداً! أريد الوصفة.",
+          "romanization": "Hādhā ladhīdh jiddan! Urīd al-waṣfa.",
+          "korean": "이거 정말 맛있어요! 레시피를 알고 싶어요."
+        },
+        {
+          "arabic": "سأطلب المزيد. إنه رائع!",
+          "romanization": "Sa'aṭlub al-mazīd. Innahu rā'iʿ!",
+          "korean": "더 주문할게요. 훌륭해요!"
+        },
+        {
+          "arabic": "شكراً على الطعام الممتاز!",
+          "romanization": "Shukran ʿalā aṭ-ṭaʿām al-mumtāz!",
+          "korean": "훌륭한 음식 감사합니다!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "لذيذ",
+      "romanization": "ladhīdh",
+      "korean": "맛있는"
+    },
+    {
+      "arabic": "حار",
+      "romanization": "ḥārr",
+      "korean": "매운"
+    },
+    {
+      "arabic": "حلو",
+      "romanization": "ḥulw",
+      "korean": "달콤한"
+    },
+    {
+      "arabic": "ملح",
+      "romanization": "milḥ",
+      "korean": "소금"
+    },
+    {
+      "arabic": "لحم",
+      "romanization": "laḥm",
+      "korean": "고기"
+    },
+    {
+      "arabic": "خضار",
+      "romanization": "khaḍār",
+      "korean": "채소"
+    }
+  ]
+}

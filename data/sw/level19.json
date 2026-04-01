@@ -1,0 +1,180 @@
+{
+  "level": 19,
+  "title": "공항 & 비행기",
+  "titleSw": "Uwanja wa Ndege",
+  "description": "스와힐리어로 공항과 비행기에서 쓰는 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Samahani, kaunta ya kujiandikisha iko wapi?",
+          "pronunciation": "사마하니, 카운타 야 쿠지안디키샤 이코 와피?",
+          "korean": "실례합니다, 체크인 카운터가 어디에요?"
+        },
+        {
+          "swahili": "Ningependa kujiandikisha kwa ndege ya Nairobi.",
+          "pronunciation": "닝에펜다 쿠지안디키샤 쿠와 은데게 야 나이로비.",
+          "korean": "나이로비행 비행기 체크인하고 싶어요."
+        },
+        {
+          "swahili": "Ndege yangu inaondoka saa ngapi?",
+          "pronunciation": "은데게 양우 이나온도카 사아 응가피?",
+          "korean": "제 비행기가 몇 시에 출발해요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Kaunta ya kujiandikisha iko upande wa kushoto.",
+          "pronunciation": "카운타 야 쿠지안디키샤 이코 우판데 와 쿠쇼토.",
+          "korean": "체크인 카운터는 왼쪽에 있어요."
+        },
+        {
+          "swahili": "Karibu. Nipe pasipoti yako, tafadhali.",
+          "pronunciation": "카리부. 니페 파시포티 야코, 타파달리.",
+          "korean": "어서오세요. 여권을 주세요."
+        },
+        {
+          "swahili": "Ndege yako inaondoka saa tatu asubuhi.",
+          "pronunciation": "은데게 야코 이나온도카 사아 타투 아수부히.",
+          "korean": "비행기는 아침 9시에 출발해요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Ningependa kiti cha dirisha, tafadhali.",
+          "pronunciation": "닝에펜다 키티 차 디리샤, 타파달리.",
+          "korean": "창가 좌석을 원합니다."
+        },
+        {
+          "swahili": "Mzigo wangu una kilo ngapi?",
+          "pronunciation": "므지고 왕우 우나 킬로 응가피?",
+          "korean": "제 짐이 몇 킬로예요?"
+        },
+        {
+          "swahili": "Kuna muda wa kupumzika kabla ya ndege?",
+          "pronunciation": "쿠나 무다 와 쿠품지카 카블라 야 은데게?",
+          "korean": "비행기 전에 쉴 시간이 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Sawa, nimekupa kiti nambari kumi na mbili A.",
+          "pronunciation": "사와, 니메쿠파 키티 남바리 쿠미 나 므빌리 에이.",
+          "korean": "좋아요, 12A 좌석을 드렸어요."
+        },
+        {
+          "swahili": "Mzigo wako una kilo ishirini na tatu. Ni sawa.",
+          "pronunciation": "므지고 와코 우나 킬로 이시리니 나 타투. 니 사와.",
+          "korean": "짐이 23킬로예요. 괜찮아요."
+        },
+        {
+          "swahili": "Ndiyo, ndege inaondoka baada ya saa moja. Pumzika.",
+          "pronunciation": "은디요, 은데게 이나온도카 바아다 야 사아 모자. 품지카.",
+          "korean": "네, 비행기는 한 시간 후에 출발해요. 쉬세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Lango la kuingia ni lipi?",
+          "pronunciation": "랑오 라 쿠잉이아 니 리피?",
+          "korean": "탑승 게이트가 어디예요?"
+        },
+        {
+          "swahili": "Ndege imechelewa?",
+          "pronunciation": "은데게 이메첼레와?",
+          "korean": "비행기가 지연됐나요?"
+        },
+        {
+          "swahili": "Wapi naweza kupata mzigo wangu?",
+          "pronunciation": "와피 나웨자 쿠파타 므지고 왕우?",
+          "korean": "짐을 어디서 찾을 수 있어요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Lango nambari saba. Nenda upande wa kulia.",
+          "pronunciation": "랑오 남바리 사바. 넨다 우판데 와 쿨리아.",
+          "korean": "7번 게이트예요. 오른쪽으로 가세요."
+        },
+        {
+          "swahili": "Ndiyo, imechelewa dakika thelathini.",
+          "pronunciation": "은디요, 이메첼레와 다키카 텔라시니.",
+          "korean": "네, 30분 지연됐어요."
+        },
+        {
+          "swahili": "Eneo la mizigo liko chini. Fuata ishara.",
+          "pronunciation": "에네오 라 미지고 리코 치니. 푸아타 이샤라.",
+          "korean": "수하물 구역은 아래층이에요. 표지판을 따라가세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Asante! Safari njema!",
+          "pronunciation": "아산테! 사파리 은제마!",
+          "korean": "감사합니다! 좋은 여행 되세요!"
+        },
+        {
+          "swahili": "Nimepata mzigo wangu. Asante sana!",
+          "pronunciation": "니메파타 므지고 왕우. 아산테 사나!",
+          "korean": "짐을 찾았어요. 감사합니다!"
+        },
+        {
+          "swahili": "Tumefika salama. Alhamdulillah!",
+          "pronunciation": "투메피카 살라마. 알함둘릴라!",
+          "korean": "무사히 도착했어요. 감사합니다!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "ndege",
+      "pronunciation": "은데게",
+      "korean": "비행기"
+    },
+    {
+      "swahili": "uwanja wa ndege",
+      "pronunciation": "우완자 와 은데게",
+      "korean": "공항"
+    },
+    {
+      "swahili": "pasipoti",
+      "pronunciation": "파시포티",
+      "korean": "여권"
+    },
+    {
+      "swahili": "mzigo",
+      "pronunciation": "므지고",
+      "korean": "짐, 수하물"
+    },
+    {
+      "swahili": "kiti",
+      "pronunciation": "키티",
+      "korean": "좌석"
+    },
+    {
+      "swahili": "lango",
+      "pronunciation": "랑오",
+      "korean": "게이트, 문"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "level": 1,
+  "title": "인사 & 자기소개",
+  "titleAr": "التحية والتعريف بالنفس",
+  "description": "아랍어로 인사하고 자기소개하는 기본 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "مرحباً!",
+          "romanization": "Marhaban!",
+          "korean": "안녕하세요!"
+        },
+        {
+          "arabic": "السلام عليكم!",
+          "romanization": "As-salāmu ʿalaykum!",
+          "korean": "안녕하세요! (정중)"
+        },
+        {
+          "arabic": "أهلاً وسهلاً!",
+          "romanization": "Ahlan wa sahlan!",
+          "korean": "환영합니다!"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "أهلاً! كيف حالك؟",
+          "romanization": "Ahlan! Kayfa ḥāluk?",
+          "korean": "안녕! 어떻게 지내세요?"
+        },
+        {
+          "arabic": "وعليكم السلام! كيف الحال؟",
+          "romanization": "Wa ʿalaykum as-salām! Kayfa al-ḥāl?",
+          "korean": "안녕하세요! 어떻게 지내세요?"
+        },
+        {
+          "arabic": "مرحباً بك! كيف حالك اليوم؟",
+          "romanization": "Marhaban bik! Kayfa ḥāluk al-yawm?",
+          "korean": "어서오세요! 오늘 어떻게 지내세요?"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "بخير، الحمد لله. ما اسمك؟",
+          "romanization": "Bikhayr, al-ḥamdu lillāh. Mā ismuk?",
+          "korean": "잘 지내요, 감사합니다. 이름이 뭐예요?"
+        },
+        {
+          "arabic": "أنا بخير، شكراً. وأنت؟",
+          "romanization": "Anā bikhayr, shukran. Wa anta?",
+          "korean": "잘 지내요, 고마워요. 당신은요?"
+        },
+        {
+          "arabic": "اسمي يونغمين. ما اسمك؟",
+          "romanization": "Ismī Yūngmīn. Mā ismuk?",
+          "korean": "제 이름은 영민이에요. 이름이 뭐예요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "اسمي أحمد. تشرفنا!",
+          "romanization": "Ismī Aḥmad. Tasharrafnā!",
+          "korean": "제 이름은 아흐메드예요. 반갑습니다!"
+        },
+        {
+          "arabic": "أنا فاطمة. سعيدة بلقائك!",
+          "romanization": "Anā Fāṭima. Saʿīda biliqā'ik!",
+          "korean": "저는 파티마예요. 만나서 반가워요!"
+        },
+        {
+          "arabic": "اسمي خالد. فرصة سعيدة!",
+          "romanization": "Ismī Khālid. Furṣa saʿīda!",
+          "korean": "제 이름은 할리드예요. 만나서 기뻐요!"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "من أين أنت؟",
+          "romanization": "Min ayna anta?",
+          "korean": "어디에서 왔어요?"
+        },
+        {
+          "arabic": "هل أنت من هنا؟",
+          "romanization": "Hal anta min hunā?",
+          "korean": "여기 사람이에요?"
+        },
+        {
+          "arabic": "أنا من كوريا. وأنت؟",
+          "romanization": "Anā min Kūriyā. Wa anta?",
+          "korean": "저는 한국에서 왔어요. 당신은요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "أنا من مصر. أهلاً بك في بلدنا!",
+          "romanization": "Anā min Miṣr. Ahlan bik fī baladnā!",
+          "korean": "저는 이집트에서 왔어요. 우리나라에 온 걸 환영해요!"
+        },
+        {
+          "arabic": "أنا من الأردن. مرحباً!",
+          "romanization": "Anā min al-Urdun. Marhaban!",
+          "korean": "저는 요르단에서 왔어요. 반가워요!"
+        },
+        {
+          "arabic": "نعم، أنا من هنا. هل هذه زيارتك الأولى؟",
+          "romanization": "Naʿam, anā min hunā. Hal hādhihi ziyāratuk al-ūlā?",
+          "korean": "네, 저는 여기 사람이에요. 처음 방문이에요?"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "نعم، هذه أول مرة. سعيد بلقائك!",
+          "romanization": "Naʿam, hādhihi awwal marra. Saʿīd biliqā'ik!",
+          "korean": "네, 처음이에요. 만나서 반가워요!"
+        },
+        {
+          "arabic": "شكراً جزيلاً! إلى اللقاء!",
+          "romanization": "Shukran jazīlan! Ilā al-liqā'!",
+          "korean": "정말 고마워요! 또 만나요!"
+        },
+        {
+          "arabic": "مع السلامة! أتمنى لك يوماً سعيداً!",
+          "romanization": "Maʿa as-salāma! Atamannā lak yawman saʿīdan!",
+          "korean": "안녕히 계세요! 좋은 하루 되세요!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "مرحباً",
+      "romanization": "marhaban",
+      "korean": "안녕하세요"
+    },
+    {
+      "arabic": "اسمي",
+      "romanization": "ismī",
+      "korean": "내 이름은"
+    },
+    {
+      "arabic": "كيف حالك",
+      "romanization": "kayfa ḥāluk",
+      "korean": "어떻게 지내세요"
+    },
+    {
+      "arabic": "شكراً",
+      "romanization": "shukran",
+      "korean": "감사합니다"
+    },
+    {
+      "arabic": "مع السلامة",
+      "romanization": "maʿa as-salāma",
+      "korean": "안녕히 가세요"
+    },
+    {
+      "arabic": "تشرفنا",
+      "romanization": "tasharrafnā",
+      "korean": "만나서 반갑습니다"
+    }
+  ]
+}

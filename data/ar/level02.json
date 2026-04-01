@@ -1,0 +1,180 @@
+{
+  "level": 2,
+  "title": "숫자 & 날짜",
+  "titleAr": "الأرقام والتواريخ",
+  "description": "아랍어 숫자와 날짜 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "كم الساعة الآن؟",
+          "romanization": "Kam as-sāʿa al-ān?",
+          "korean": "지금 몇 시예요?"
+        },
+        {
+          "arabic": "ما التاريخ اليوم؟",
+          "romanization": "Mā at-tārīkh al-yawm?",
+          "korean": "오늘 날짜가 어떻게 돼요?"
+        },
+        {
+          "arabic": "في أي يوم نحن؟",
+          "romanization": "Fī ayyi yawm naḥnu?",
+          "korean": "오늘 무슨 요일이에요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "الساعة الثالثة.",
+          "romanization": "As-sāʿa ath-thālitha.",
+          "korean": "3시예요."
+        },
+        {
+          "arabic": "اليوم هو الأول من أبريل.",
+          "romanization": "Al-yawm huwa al-awwal min Abrīl.",
+          "korean": "오늘은 4월 1일이에요."
+        },
+        {
+          "arabic": "اليوم هو يوم الخميس.",
+          "romanization": "Al-yawm huwa yawm al-khamīs.",
+          "korean": "오늘은 목요일이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "كم عمرك؟",
+          "romanization": "Kam ʿumruk?",
+          "korean": "나이가 어떻게 되세요?"
+        },
+        {
+          "arabic": "متى ولدت؟",
+          "romanization": "Matā wulidta?",
+          "korean": "언제 태어나셨어요?"
+        },
+        {
+          "arabic": "في أي سنة ولدت؟",
+          "romanization": "Fī ayyi sana wulidta?",
+          "korean": "몇 년도에 태어나셨어요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "عمري خمسة وعشرون سنة.",
+          "romanization": "ʿUmrī khamsa wa ʿishrūn sana.",
+          "korean": "저는 25살이에요."
+        },
+        {
+          "arabic": "ولدت في عام ألفين وواحد.",
+          "romanization": "Wulidtu fī ʿām alfayn wa wāḥid.",
+          "korean": "2001년에 태어났어요."
+        },
+        {
+          "arabic": "ولدت في شهر مارس.",
+          "romanization": "Wulidtu fī shahr Māris.",
+          "korean": "3월에 태어났어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "كم يكلف هذا؟",
+          "romanization": "Kam yukallifu hādhā?",
+          "korean": "이거 얼마예요?"
+        },
+        {
+          "arabic": "ما هو رقم هاتفك؟",
+          "romanization": "Mā huwa raqam hātifik?",
+          "korean": "전화번호가 뭐예요?"
+        },
+        {
+          "arabic": "كم شخصاً في عائلتك؟",
+          "romanization": "Kam shakhṣan fī ʿā'ilatik?",
+          "korean": "가족이 몇 명이에요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "يكلف عشرة دنانير.",
+          "romanization": "Yukallifu ʿashara danānīr.",
+          "korean": "10디나르예요."
+        },
+        {
+          "arabic": "رقمي هو صفر سبعة تسعة...",
+          "romanization": "Raqmī huwa ṣifr sabʿa tisʿa...",
+          "korean": "제 번호는 079...예요."
+        },
+        {
+          "arabic": "نحن خمسة أشخاص.",
+          "romanization": "Naḥnu khamsat ashkhāṣ.",
+          "korean": "우리는 5명이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "شكراً! فهمت الآن.",
+          "romanization": "Shukran! Fahimtu al-ān.",
+          "korean": "고마워요! 이제 알겠어요."
+        },
+        {
+          "arabic": "هل يمكنك تكرار الرقم؟",
+          "romanization": "Hal yumkinuk takrār ar-raqam?",
+          "korean": "번호를 다시 말해줄 수 있어요?"
+        },
+        {
+          "arabic": "حسناً، سأتذكر ذلك.",
+          "romanization": "Ḥasanan, sa'atadhakkar dhālik.",
+          "korean": "좋아요, 기억할게요."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "رقم",
+      "romanization": "raqam",
+      "korean": "숫자"
+    },
+    {
+      "arabic": "تاريخ",
+      "romanization": "tārīkh",
+      "korean": "날짜"
+    },
+    {
+      "arabic": "ساعة",
+      "romanization": "sāʿa",
+      "korean": "시간"
+    },
+    {
+      "arabic": "يوم",
+      "romanization": "yawm",
+      "korean": "요일/날"
+    },
+    {
+      "arabic": "سنة",
+      "romanization": "sana",
+      "korean": "년/해"
+    },
+    {
+      "arabic": "شهر",
+      "romanization": "shahr",
+      "korean": "월/달"
+    }
+  ]
+}

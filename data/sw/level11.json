@@ -1,0 +1,180 @@
+{
+  "level": 11,
+  "title": "감정 표현",
+  "titleSw": "Hisia",
+  "description": "스와힐리어로 감정을 표현하는 방법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Leo ninafurahi sana!",
+          "pronunciation": "레오 니나푸라히 사나!",
+          "korean": "오늘 정말 기뻐요!"
+        },
+        {
+          "swahili": "Ninahisi vizuri leo.",
+          "pronunciation": "니나히시 비주리 레오.",
+          "korean": "오늘 기분이 좋아요."
+        },
+        {
+          "swahili": "Nina furaha kubwa!",
+          "pronunciation": "니나 푸라하 쿠브와!",
+          "korean": "정말 행복해요!"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Nzuri! Kwa nini unafurahi?",
+          "pronunciation": "은주리! 쿠와 니니 우나푸라히?",
+          "korean": "좋네요! 왜 기뻐요?"
+        },
+        {
+          "swahili": "Mimi pia ninafurahi kukuona!",
+          "pronunciation": "미미 피아 니나푸라히 쿠쿠오나!",
+          "korean": "저도 당신을 보니 기뻐요!"
+        },
+        {
+          "swahili": "Vizuri sana! Tabasamu lako ni zuri.",
+          "pronunciation": "비주리 사나! 타바사무 라코 니 주리.",
+          "korean": "아주 좋아요! 미소가 예뻐요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Lakini jana nilikuwa na huzuni.",
+          "pronunciation": "라키니 자나 닐리쿠와 나 후주니.",
+          "korean": "하지만 어제는 슬펐어요."
+        },
+        {
+          "swahili": "Wakati mwingine ninahisi upweke.",
+          "pronunciation": "와카티 므윙이네 니나히시 우프웨게.",
+          "korean": "가끔 외로움을 느껴요."
+        },
+        {
+          "swahili": "Nilikuwa na wasiwasi kuhusu kazi.",
+          "pronunciation": "닐리쿠와 나 와시와시 쿠후수 카지.",
+          "korean": "일에 대해 걱정이 있었어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Pole sana. Nini kilitokea?",
+          "pronunciation": "폴레 사나. 니니 킬리토게아?",
+          "korean": "정말 안됐네요. 무슨 일이 있었어요?"
+        },
+        {
+          "swahili": "Usiwe na wasiwasi. Kila kitu kitakuwa sawa.",
+          "pronunciation": "우시웨 나 와시와시. 킬라 키투 키타쿠와 사와.",
+          "korean": "걱정하지 마세요. 다 잘 될 거예요."
+        },
+        {
+          "swahili": "Ninakuelewa. Mimi pia nimepitia hivyo.",
+          "pronunciation": "니나쿠엘레와. 미미 피아 니메피티아 히뵤.",
+          "korean": "이해해요. 저도 그런 적이 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Ninaogopa kidogo.",
+          "pronunciation": "니나오고파 키도고.",
+          "korean": "좀 무서워요."
+        },
+        {
+          "swahili": "Nimechoka sana leo.",
+          "pronunciation": "니메초카 사나 레오.",
+          "korean": "오늘 정말 피곤해요."
+        },
+        {
+          "swahili": "Ninakasirika kuhusu jambo hilo.",
+          "pronunciation": "니나카시리카 쿠후수 잠보 힐로.",
+          "korean": "그 일에 대해 화가 나요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Usiogope. Niko hapa na wewe.",
+          "pronunciation": "우시오고페. 니코 하파 나 웨웨.",
+          "korean": "무서워하지 마세요. 제가 여기 있어요."
+        },
+        {
+          "swahili": "Pumzika kidogo. Utahisi vizuri.",
+          "pronunciation": "품지카 키도고. 우타히시 비주리.",
+          "korean": "좀 쉬세요. 나아질 거예요."
+        },
+        {
+          "swahili": "Tulia. Tutapata suluhisho.",
+          "pronunciation": "툴리아. 투타파타 술루히쇼.",
+          "korean": "진정하세요. 해결책을 찾을 거예요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Asante kwa kunisikiliza. Ninahisi vizuri sasa.",
+          "pronunciation": "아산테 쿠와 쿠니시킬리자. 니나히시 비주리 사사.",
+          "korean": "들어줘서 감사해요. 이제 기분이 좋아요."
+        },
+        {
+          "swahili": "Wewe ni rafiki mzuri. Nashukuru.",
+          "pronunciation": "웨웨 니 라피키 므주리. 나슈쿠루.",
+          "korean": "당신은 좋은 친구예요. 감사해요."
+        },
+        {
+          "swahili": "Nimeshukuru sana. Tuendelee kuwa marafiki!",
+          "pronunciation": "니메슈쿠루 사나. 투엔델레에 쿠와 마라피키!",
+          "korean": "정말 감사해요. 계속 친구로 지내요!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "furaha",
+      "pronunciation": "푸라하",
+      "korean": "기쁨, 행복"
+    },
+    {
+      "swahili": "huzuni",
+      "pronunciation": "후주니",
+      "korean": "슬픔"
+    },
+    {
+      "swahili": "hasira",
+      "pronunciation": "하시라",
+      "korean": "화, 분노"
+    },
+    {
+      "swahili": "hofu",
+      "pronunciation": "호푸",
+      "korean": "두려움"
+    },
+    {
+      "swahili": "upendo",
+      "pronunciation": "우펜도",
+      "korean": "사랑"
+    },
+    {
+      "swahili": "wasiwasi",
+      "pronunciation": "와시와시",
+      "korean": "걱정"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "level": 4,
+  "title": "식당에서 주문",
+  "titleAr": "الطلب في المطعم",
+  "description": "식당에서 아랍어로 음식을 주문하는 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أريد طاولة لشخصين، من فضلك.",
+          "romanization": "Urīdu ṭāwila li-shakhṣayn, min faḍlik.",
+          "korean": "2인 테이블 부탁합니다."
+        },
+        {
+          "arabic": "هل لديكم طاولة فارغة؟",
+          "romanization": "Hal ladaykum ṭāwila fārigha?",
+          "korean": "빈 테이블이 있나요?"
+        },
+        {
+          "arabic": "هل يمكنني الجلوس هنا؟",
+          "romanization": "Hal yumkinunī al-julūs hunā?",
+          "korean": "여기 앉아도 될까요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "تفضل، هذه الطاولة لك. هذه قائمة الطعام.",
+          "romanization": "Tafaḍḍal, hādhihi aṭ-ṭāwila lak. Hādhihi qā'imat aṭ-ṭaʿām.",
+          "korean": "이 테이블로 오세요. 여기 메뉴판이에요."
+        },
+        {
+          "arabic": "نعم، تفضل بالجلوس. ماذا تريد أن تشرب؟",
+          "romanization": "Naʿam, tafaḍḍal bil-julūs. Mādhā turīd an tashrab?",
+          "korean": "네, 앉으세요. 뭘 마시겠어요?"
+        },
+        {
+          "arabic": "بالطبع! هل أنت مستعد للطلب؟",
+          "romanization": "Biṭ-ṭabʿ! Hal anta mustaʿidd liṭ-ṭalab?",
+          "korean": "물론이죠! 주문할 준비가 되셨나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أريد كباباً مع أرز، من فضلك.",
+          "romanization": "Urīdu kabāban maʿa aruzz, min faḍlik.",
+          "korean": "케밥이랑 밥 주세요."
+        },
+        {
+          "arabic": "ما هو طبق اليوم؟",
+          "romanization": "Mā huwa ṭabaq al-yawm?",
+          "korean": "오늘의 요리는 뭔가요?"
+        },
+        {
+          "arabic": "هل لديكم أطباق نباتية؟",
+          "romanization": "Hal ladaykum aṭbāq nabātiyya?",
+          "korean": "채식 요리가 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "اختيار ممتاز! هل تريد شيئاً للشرب؟",
+          "romanization": "Ikhtiyār mumtāz! Hal turīd shay'an lish-shurb?",
+          "korean": "좋은 선택이에요! 음료는 뭘로 하시겠어요?"
+        },
+        {
+          "arabic": "طبق اليوم هو منسف أردني.",
+          "romanization": "Ṭabaq al-yawm huwa mansaf urdunī.",
+          "korean": "오늘의 요리는 요르단 만사프예요."
+        },
+        {
+          "arabic": "نعم، لدينا فلافل وحمص وسلطة.",
+          "romanization": "Naʿam, ladaynā falāfil wa ḥummuṣ wa salaṭa.",
+          "korean": "네, 팔라펠, 후무스, 샐러드가 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أريد عصير برتقال، من فضلك.",
+          "romanization": "Urīdu ʿaṣīr burtuqāl, min faḍlik.",
+          "korean": "오렌지주스 주세요."
+        },
+        {
+          "arabic": "ماء بارد، من فضلك.",
+          "romanization": "Mā' bārid, min faḍlik.",
+          "korean": "찬물 주세요."
+        },
+        {
+          "arabic": "شاي بالنعناع، لو سمحت.",
+          "romanization": "Shāy bin-naʿnāʿ, law samaḥt.",
+          "korean": "민트차 주세요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "حاضر! هل تريد حلوى بعد الأكل؟",
+          "romanization": "Ḥāḍir! Hal turīd ḥalwā baʿd al-akl?",
+          "korean": "알겠습니다! 식사 후 디저트 드시겠어요?"
+        },
+        {
+          "arabic": "طبعاً. هل تريد شيئاً آخر؟",
+          "romanization": "Ṭabʿan. Hal turīd shay'an ākhar?",
+          "korean": "물론이죠. 다른 거 필요하세요?"
+        },
+        {
+          "arabic": "فوراً! الطعام سيكون جاهزاً بعد عشر دقائق.",
+          "romanization": "Fawran! Aṭ-ṭaʿām sayakūn jāhizan baʿd ʿashr daqā'iq.",
+          "korean": "바로요! 음식은 10분 후에 준비됩니다."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "الحساب، من فضلك.",
+          "romanization": "Al-ḥisāb, min faḍlik.",
+          "korean": "계산서 주세요."
+        },
+        {
+          "arabic": "كان الطعام لذيذاً جداً! شكراً.",
+          "romanization": "Kāna aṭ-ṭaʿām ladhīdhan jiddan! Shukran.",
+          "korean": "음식이 정말 맛있었어요! 감사합니다."
+        },
+        {
+          "arabic": "هل يمكنني الدفع بالبطاقة؟",
+          "romanization": "Hal yumkinunī ad-dafʿ bil-biṭāqa?",
+          "korean": "카드로 계산할 수 있나요?"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "مطعم",
+      "romanization": "maṭʿam",
+      "korean": "식당"
+    },
+    {
+      "arabic": "طعام",
+      "romanization": "ṭaʿām",
+      "korean": "음식"
+    },
+    {
+      "arabic": "قائمة",
+      "romanization": "qā'ima",
+      "korean": "메뉴"
+    },
+    {
+      "arabic": "حساب",
+      "romanization": "ḥisāb",
+      "korean": "계산서"
+    },
+    {
+      "arabic": "لذيذ",
+      "romanization": "ladhīdh",
+      "korean": "맛있는"
+    },
+    {
+      "arabic": "ماء",
+      "romanization": "mā'",
+      "korean": "물"
+    }
+  ]
+}

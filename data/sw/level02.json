@@ -1,0 +1,180 @@
+{
+  "level": 2,
+  "title": "숫자 & 날짜",
+  "titleSw": "Nambari na Tarehe",
+  "description": "스와힐리어로 숫자와 날짜를 표현하는 방법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Leo ni tarehe ngapi?",
+          "pronunciation": "레오 니 타레헤 응가피?",
+          "korean": "오늘 몇 일이에요?"
+        },
+        {
+          "swahili": "Tarehe ya leo ni ipi?",
+          "pronunciation": "타레헤 야 레오 니 이피?",
+          "korean": "오늘 날짜가 뭐예요?"
+        },
+        {
+          "swahili": "Siku ya leo ni ipi?",
+          "pronunciation": "시쿠 야 레오 니 이피?",
+          "korean": "오늘 무슨 요일이에요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Leo ni tarehe moja Aprili.",
+          "pronunciation": "레오 니 타레헤 모자 아프릴리.",
+          "korean": "오늘은 4월 1일이에요."
+        },
+        {
+          "swahili": "Leo ni Jumatatu.",
+          "pronunciation": "레오 니 주마타투.",
+          "korean": "오늘은 월요일이에요."
+        },
+        {
+          "swahili": "Ni tarehe kumi na tano.",
+          "pronunciation": "니 타레헤 쿠미 나 타노.",
+          "korean": "15일이에요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Una umri wa miaka mingapi?",
+          "pronunciation": "우나 움리 와 미아카 밍가피?",
+          "korean": "몇 살이에요?"
+        },
+        {
+          "swahili": "Umri wako ni miaka mingapi?",
+          "pronunciation": "움리 와코 니 미아카 밍가피?",
+          "korean": "나이가 어떻게 되세요?"
+        },
+        {
+          "swahili": "Ulizaliwa mwaka gani?",
+          "pronunciation": "울리잘리와 므와카 가니?",
+          "korean": "몇 년도에 태어나셨어요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Nina umri wa miaka thelathini.",
+          "pronunciation": "니나 움리 와 미아카 텔라시니.",
+          "korean": "서른 살이에요."
+        },
+        {
+          "swahili": "Nina miaka ishirini na tano.",
+          "pronunciation": "니나 미아카 이시리니 나 타노.",
+          "korean": "스물다섯 살이에요."
+        },
+        {
+          "swahili": "Nilizaliwa mwaka elfu mbili.",
+          "pronunciation": "닐리잘리와 므와카 엘푸 므빌리.",
+          "korean": "2000년에 태어났어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Nambari yako ya simu ni ipi?",
+          "pronunciation": "남바리 야코 야 시무 니 이피?",
+          "korean": "전화번호가 뭐예요?"
+        },
+        {
+          "swahili": "Hii inagharimu shilingi ngapi?",
+          "pronunciation": "히이 이나가리무 실링이 응가피?",
+          "korean": "이것은 얼마예요?"
+        },
+        {
+          "swahili": "Kuna watu wangapi?",
+          "pronunciation": "쿠나 와투 왕가피?",
+          "korean": "사람이 몇 명이에요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Nambari yangu ni saba, tatu, mbili, nne.",
+          "pronunciation": "남바리 양우 니 사바, 타투, 므빌리, 은네.",
+          "korean": "제 번호는 7, 3, 2, 4예요."
+        },
+        {
+          "swahili": "Inagharimu shilingi elfu tano.",
+          "pronunciation": "이나가리무 실링이 엘푸 타노.",
+          "korean": "5천 실링이에요."
+        },
+        {
+          "swahili": "Kuna watu kumi na wawili.",
+          "pronunciation": "쿠나 와투 쿠미 나 와윌리.",
+          "korean": "12명이 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Asante! Sasa ninaelewa nambari vizuri.",
+          "pronunciation": "아산테! 사사 니나엘레와 남바리 비주리.",
+          "korean": "감사합니다! 이제 숫자를 잘 이해해요."
+        },
+        {
+          "swahili": "Nzuri, nimejifunza mengi leo.",
+          "pronunciation": "은주리, 니메지푼자 멩이 레오.",
+          "korean": "좋아요, 오늘 많이 배웠어요."
+        },
+        {
+          "swahili": "Vizuri sana! Tutaendelea kesho.",
+          "pronunciation": "비주리 사나! 투타엔델레아 게쇼.",
+          "korean": "아주 좋아요! 내일 계속하죠."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "nambari",
+      "pronunciation": "남바리",
+      "korean": "숫자, 번호"
+    },
+    {
+      "swahili": "tarehe",
+      "pronunciation": "타레헤",
+      "korean": "날짜"
+    },
+    {
+      "swahili": "siku",
+      "pronunciation": "시쿠",
+      "korean": "날, 요일"
+    },
+    {
+      "swahili": "mwaka",
+      "pronunciation": "므와카",
+      "korean": "년, 해"
+    },
+    {
+      "swahili": "umri",
+      "pronunciation": "움리",
+      "korean": "나이"
+    },
+    {
+      "swahili": "leo",
+      "pronunciation": "레오",
+      "korean": "오늘"
+    }
+  ]
+}

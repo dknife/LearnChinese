@@ -1,0 +1,180 @@
+{
+  "level": 13,
+  "title": "옷 & 외모",
+  "titleAr": "الملابس والمظهر",
+  "description": "옷과 외모에 관한 아랍어 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "ماذا سأرتدي اليوم؟",
+          "romanization": "Mādhā sa'artadī al-yawm?",
+          "korean": "오늘 뭘 입을까?"
+        },
+        {
+          "arabic": "أحتاج إلى ملابس جديدة.",
+          "romanization": "Aḥtāj ilā malābis jadīda.",
+          "korean": "새 옷이 필요해요."
+        },
+        {
+          "arabic": "هل يناسبني هذا اللون؟",
+          "romanization": "Hal yunāsibnī hādhā al-lawn?",
+          "korean": "이 색이 저한테 어울려요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "ارتدِ القميص الأزرق. يبدو جميلاً عليك.",
+          "romanization": "Irtadi al-qamīṣ al-azraq. Yabdū jamīlan ʿalayk.",
+          "korean": "파란 셔츠를 입어요. 잘 어울려요."
+        },
+        {
+          "arabic": "هل تريد الذهاب للتسوق؟",
+          "romanization": "Hal turīd adh-dhahāb lit-tasawwuq?",
+          "korean": "쇼핑하러 갈래요?"
+        },
+        {
+          "arabic": "نعم، اللون الأحمر يناسبك كثيراً!",
+          "romanization": "Naʿam, al-lawn al-aḥmar yunāsibuk kathīran!",
+          "korean": "네, 빨간색이 정말 잘 어울려요!"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أبحث عن بنطلون أسود.",
+          "romanization": "Abḥath ʿan banṭalūn aswad.",
+          "korean": "검은색 바지를 찾고 있어요."
+        },
+        {
+          "arabic": "هل لديكم فساتين صيفية؟",
+          "romanization": "Hal ladaykum fasātīn ṣayfiyya?",
+          "korean": "여름 원피스가 있나요?"
+        },
+        {
+          "arabic": "أريد حذاءً مريحاً للمشي.",
+          "romanization": "Urīdu ḥidhā'an murīḥan lil-mashy.",
+          "korean": "걷기 편한 신발을 원해요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "لدينا تشكيلة واسعة. ما مقاسك؟",
+          "romanization": "Ladaynā tashkīla wāsiʿa. Mā maqāsuk?",
+          "korean": "다양한 종류가 있어요. 사이즈가 어떻게 되세요?"
+        },
+        {
+          "arabic": "نعم، تفضلي هذه الفساتين الجديدة.",
+          "romanization": "Naʿam, tafaḍḍalī hādhihi al-fasātīn al-jadīda.",
+          "korean": "네, 이 새 원피스들을 보세요."
+        },
+        {
+          "arabic": "جرّب هذا الحذاء الرياضي.",
+          "romanization": "Jarrib hādhā al-ḥidhā' ar-riyāḍī.",
+          "korean": "이 운동화를 신어보세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "تبدو أنيقاً جداً اليوم!",
+          "romanization": "Tabdū anīqan jiddan al-yawm!",
+          "korean": "오늘 정말 멋져 보여요!"
+        },
+        {
+          "arabic": "أعجبني قميصك الجديد.",
+          "romanization": "Aʿjabanī qamīṣuk al-jadīd.",
+          "korean": "새 셔츠가 마음에 들어요."
+        },
+        {
+          "arabic": "شعرك جميل اليوم!",
+          "romanization": "Shaʿruk jamīl al-yawm!",
+          "korean": "오늘 머리가 예뻐요!"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "شكراً! اشتريته أمس.",
+          "romanization": "Shukran! Ishtaraytuhu ams.",
+          "korean": "고마워요! 어제 샀어요."
+        },
+        {
+          "arabic": "شكراً! هذا لطيف منك.",
+          "romanization": "Shukran! Hādhā laṭīf mink.",
+          "korean": "고마워요! 친절하시네요."
+        },
+        {
+          "arabic": "شكراً جزيلاً! ذهبت إلى صالون اليوم.",
+          "romanization": "Shukran jazīlan! Dhahabtu ilā ṣālūn al-yawm.",
+          "korean": "정말 고마워요! 오늘 미용실에 갔어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "المظهر الجيد يعطي ثقة بالنفس.",
+          "romanization": "Al-maẓhar al-jayyid yuʿṭī thiqa bin-nafs.",
+          "korean": "좋은 외모가 자신감을 줘요."
+        },
+        {
+          "arabic": "أنت دائماً أنيق!",
+          "romanization": "Anta dā'iman anīq!",
+          "korean": "당신은 항상 멋져요!"
+        },
+        {
+          "arabic": "يجب أن نذهب للتسوق معاً!",
+          "romanization": "Yajib an nadhhab lit-tasawwuq maʿan!",
+          "korean": "같이 쇼핑하러 가야 해요!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "ملابس",
+      "romanization": "malābis",
+      "korean": "옷"
+    },
+    {
+      "arabic": "قميص",
+      "romanization": "qamīṣ",
+      "korean": "셔츠"
+    },
+    {
+      "arabic": "بنطلون",
+      "romanization": "banṭalūn",
+      "korean": "바지"
+    },
+    {
+      "arabic": "حذاء",
+      "romanization": "ḥidhā'",
+      "korean": "신발"
+    },
+    {
+      "arabic": "أنيق",
+      "romanization": "anīq",
+      "korean": "멋진"
+    },
+    {
+      "arabic": "لون",
+      "romanization": "lawn",
+      "korean": "색상"
+    }
+  ]
+}

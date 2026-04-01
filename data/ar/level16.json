@@ -1,0 +1,180 @@
+{
+  "level": 16,
+  "title": "전화 통화",
+  "titleAr": "المكالمات الهاتفية",
+  "description": "전화 통화에 필요한 아랍어 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "ألو، مرحباً! هل أحمد موجود؟",
+          "romanization": "Alū, marhaban! Hal Aḥmad mawjūd?",
+          "korean": "여보세요! 아흐메드 있나요?"
+        },
+        {
+          "arabic": "ألو، أريد التحدث مع المدير.",
+          "romanization": "Alū, urīdu at-taḥadduth maʿa al-mudīr.",
+          "korean": "여보세요, 사장님과 통화하고 싶어요."
+        },
+        {
+          "arabic": "مرحباً، هل هذا رقم شركة النور؟",
+          "romanization": "Marhaban, hal hādhā raqam sharikat an-Nūr?",
+          "korean": "안녕하세요, 알누르 회사 번호인가요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "نعم، أنا أحمد. من معي؟",
+          "romanization": "Naʿam, anā Aḥmad. Man maʿī?",
+          "korean": "네, 저 아흐메드예요. 누구세요?"
+        },
+        {
+          "arabic": "المدير في اجتماع الآن. هل تريد ترك رسالة؟",
+          "romanization": "Al-mudīr fī ijtimāʿ al-ān. Hal turīd tark risāla?",
+          "korean": "사장님은 지금 회의 중이에요. 메시지를 남기시겠어요?"
+        },
+        {
+          "arabic": "نعم، كيف يمكنني مساعدتك؟",
+          "romanization": "Naʿam, kayfa yumkinunī musāʿadatuk?",
+          "korean": "네, 어떻게 도와드릴까요?"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أنا يونغمين. اتصلت بشأن الموعد.",
+          "romanization": "Anā Yūngmīn. Ittaṣaltu bisha'n al-mawʿid.",
+          "korean": "저는 영민이에요. 약속 건으로 전화했어요."
+        },
+        {
+          "arabic": "نعم، من فضلك أخبره أن يتصل بي.",
+          "romanization": "Naʿam, min faḍlik akhbirhu an yattaṣil bī.",
+          "korean": "네, 저에게 전화해달라고 전해주세요."
+        },
+        {
+          "arabic": "أريد حجز موعد، من فضلك.",
+          "romanization": "Urīdu ḥajz mawʿid, min faḍlik.",
+          "korean": "예약을 하고 싶어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "أهلاً يا يونغمين! نعم، الموعد يوم الخميس.",
+          "romanization": "Ahlan yā Yūngmīn! Naʿam, al-mawʿid yawm al-khamīs.",
+          "korean": "안녕 영민! 네, 약속은 목요일이에요."
+        },
+        {
+          "arabic": "حسناً، سأبلغه. ما رقمك؟",
+          "romanization": "Ḥasanan, sa'ublighuh. Mā raqamuk?",
+          "korean": "알겠어요, 전할게요. 번호가 뭐예요?"
+        },
+        {
+          "arabic": "بالتأكيد. متى تفضل؟",
+          "romanization": "Bit-ta'kīd. Matā tufaḍḍil?",
+          "korean": "물론이죠. 언제가 좋으세요?"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "لا أسمعك جيداً. هل يمكنك التحدث بصوت أعلى؟",
+          "romanization": "Lā asmaʿuk jayyidan. Hal yumkinuk at-taḥadduth biṣawt aʿlā?",
+          "korean": "잘 안 들려요. 더 크게 말해줄 수 있어요?"
+        },
+        {
+          "arabic": "الخط سيئ. سأتصل بك مرة أخرى.",
+          "romanization": "Al-khaṭṭ sayyi'. Sa'attaṣil bik marra ukhrā.",
+          "korean": "연결이 안 좋아요. 다시 전화할게요."
+        },
+        {
+          "arabic": "هل يمكنك تكرار ذلك؟",
+          "romanization": "Hal yumkinuk takrār dhālik?",
+          "korean": "다시 말해줄 수 있어요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "حسناً، سأتحدث بصوت أعلى. هل تسمعني الآن؟",
+          "romanization": "Ḥasanan, sa'ataḥaddath biṣawt aʿlā. Hal tasmaʿunī al-ān?",
+          "korean": "알겠어요, 더 크게 말할게요. 지금 들려요?"
+        },
+        {
+          "arabic": "حسناً، سأنتظر اتصالك.",
+          "romanization": "Ḥasanan, sa'antaẓir ittiṣālak.",
+          "korean": "좋아요, 전화 기다릴게요."
+        },
+        {
+          "arabic": "بالطبع. قلت: الموعد يوم الأحد الساعة الثالثة.",
+          "romanization": "Biṭ-ṭabʿ. Qultu: al-mawʿid yawm al-aḥad as-sāʿa ath-thālitha.",
+          "korean": "물론이죠. 약속은 일요일 3시라고 했어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "شكراً! أقدر مساعدتك. مع السلامة!",
+          "romanization": "Shukran! Uqaddir musāʿadatak. Maʿa as-salāma!",
+          "korean": "감사합니다! 도움에 감사드려요. 안녕히 계세요!"
+        },
+        {
+          "arabic": "تمام، فهمت. شكراً وإلى اللقاء!",
+          "romanization": "Tamām, fahimtu. Shukran wa ilā al-liqā'!",
+          "korean": "알겠어요. 감사하고 또 만나요!"
+        },
+        {
+          "arabic": "ممتاز! سأكون هناك. مع السلامة!",
+          "romanization": "Mumtāz! Sa'akūn hunāk. Maʿa as-salāma!",
+          "korean": "좋아요! 갈게요. 안녕히 계세요!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "مكالمة",
+      "romanization": "mukālama",
+      "korean": "통화"
+    },
+    {
+      "arabic": "اتصال",
+      "romanization": "ittiṣāl",
+      "korean": "전화/연결"
+    },
+    {
+      "arabic": "رسالة",
+      "romanization": "risāla",
+      "korean": "메시지"
+    },
+    {
+      "arabic": "خط",
+      "romanization": "khaṭṭ",
+      "korean": "회선"
+    },
+    {
+      "arabic": "حجز",
+      "romanization": "ḥajz",
+      "korean": "예약"
+    },
+    {
+      "arabic": "اجتماع",
+      "romanization": "ijtimāʿ",
+      "korean": "회의"
+    }
+  ]
+}

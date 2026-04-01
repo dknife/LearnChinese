@@ -1,0 +1,180 @@
+{
+  "level": 15,
+  "title": "취미 & 여가",
+  "titleAr": "الهوايات والترفيه",
+  "description": "취미와 여가 활동에 관한 아랍어 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "ما هواياتك؟",
+          "romanization": "Mā hiwāyātuk?",
+          "korean": "취미가 뭐예요?"
+        },
+        {
+          "arabic": "ماذا تفعل في وقت فراغك؟",
+          "romanization": "Mādhā tafʿal fī waqt farāghik?",
+          "korean": "여가 시간에 뭐 해요?"
+        },
+        {
+          "arabic": "هل تمارس أي رياضة؟",
+          "romanization": "Hal tumāris ayya riyāḍa?",
+          "korean": "운동을 하세요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "أحب القراءة والسفر.",
+          "romanization": "Uḥibb al-qirā'a was-safar.",
+          "korean": "독서와 여행을 좋아해요."
+        },
+        {
+          "arabic": "أشاهد الأفلام وأستمع إلى الموسيقى.",
+          "romanization": "Ushāhid al-aflām wa astamiʿ ilā al-mūsīqā.",
+          "korean": "영화를 보고 음악을 들어요."
+        },
+        {
+          "arabic": "نعم، ألعب كرة القدم كل أسبوع.",
+          "romanization": "Naʿam, alʿab kurat al-qadam kull usbūʿ.",
+          "korean": "네, 매주 축구를 해요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أنا أيضاً أحب السفر! ما أحب بلد زرته؟",
+          "romanization": "Anā ayḍan uḥibb as-safar! Mā aḥabb balad zurtahu?",
+          "korean": "저도 여행을 좋아해요! 가장 좋았던 나라는 어디예요?"
+        },
+        {
+          "arabic": "ما نوع الموسيقى التي تحبها؟",
+          "romanization": "Mā nawʿ al-mūsīqā allatī tuḥibbuhā?",
+          "korean": "어떤 종류의 음악을 좋아해요?"
+        },
+        {
+          "arabic": "هل تريد أن نلعب معاً؟",
+          "romanization": "Hal turīd an nalʿab maʿan?",
+          "korean": "같이 할래요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "زرت تركيا. كانت رائعة!",
+          "romanization": "Zurtu Turkiyā. Kānat rā'iʿa!",
+          "korean": "터키에 갔었어요. 멋졌어요!"
+        },
+        {
+          "arabic": "أحب الموسيقى العربية الكلاسيكية.",
+          "romanization": "Uḥibb al-mūsīqā al-ʿarabiyya al-klāsīkiyya.",
+          "korean": "아랍 클래식 음악을 좋아해요."
+        },
+        {
+          "arabic": "بالتأكيد! تعال يوم الجمعة.",
+          "romanization": "Bit-ta'kīd! Taʿāl yawm al-jumʿa.",
+          "korean": "물론이죠! 금요일에 오세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "هل تحب الطبخ؟",
+          "romanization": "Hal tuḥibb aṭ-ṭabkh?",
+          "korean": "요리를 좋아해요?"
+        },
+        {
+          "arabic": "أحب التصوير. ألتقط صوراً للطبيعة.",
+          "romanization": "Uḥibb at-taṣwīr. Altaqiṭ ṣuwaran liṭ-ṭabīʿa.",
+          "korean": "사진 찍기를 좋아해요. 자연 사진을 찍어요."
+        },
+        {
+          "arabic": "هل جربت ألعاب الفيديو؟",
+          "romanization": "Hal jarrabta alʿāb al-fīdyū?",
+          "korean": "비디오 게임을 해본 적 있어요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "نعم، أحب طبخ الأكلات العربية التقليدية.",
+          "romanization": "Naʿam, uḥibb ṭabkh al-akalāt al-ʿarabiyya at-taqlīdiyya.",
+          "korean": "네, 전통 아랍 요리하기를 좋아해요."
+        },
+        {
+          "arabic": "رائع! أرني بعض صورك.",
+          "romanization": "Rā'iʿ! Arinī baʿḍ ṣuwarik.",
+          "korean": "멋져요! 사진 좀 보여주세요."
+        },
+        {
+          "arabic": "نعم، أحب ألعاب الاستراتيجية.",
+          "romanization": "Naʿam, uḥibb alʿāb al-istrātījiyya.",
+          "korean": "네, 전략 게임을 좋아해요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "الهوايات تجعل الحياة أجمل!",
+          "romanization": "Al-hiwāyāt tajʿal al-ḥayāt ajmal!",
+          "korean": "취미가 인생을 더 아름답게 만들어요!"
+        },
+        {
+          "arabic": "يجب أن نجد هواية مشتركة.",
+          "romanization": "Yajib an najid hiwāya mushtaraka.",
+          "korean": "공통 취미를 찾아야 해요."
+        },
+        {
+          "arabic": "دعنا نخطط لرحلة معاً!",
+          "romanization": "Daʿnā nukhṭiṭ liriḥla maʿan!",
+          "korean": "같이 여행을 계획해요!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "هواية",
+      "romanization": "hiwāya",
+      "korean": "취미"
+    },
+    {
+      "arabic": "قراءة",
+      "romanization": "qirā'a",
+      "korean": "독서"
+    },
+    {
+      "arabic": "سفر",
+      "romanization": "safar",
+      "korean": "여행"
+    },
+    {
+      "arabic": "رياضة",
+      "romanization": "riyāḍa",
+      "korean": "운동"
+    },
+    {
+      "arabic": "موسيقى",
+      "romanization": "mūsīqā",
+      "korean": "음악"
+    },
+    {
+      "arabic": "طبخ",
+      "romanization": "ṭabkh",
+      "korean": "요리"
+    }
+  ]
+}

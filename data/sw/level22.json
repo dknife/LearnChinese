@@ -1,0 +1,180 @@
+{
+  "level": 22,
+  "title": "긴급 상황",
+  "titleSw": "Dharura",
+  "description": "스와힐리어로 긴급 상황에서 쓰는 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Msaada! Ninahitaji msaada!",
+          "pronunciation": "므사아다! 니나히타지 므사아다!",
+          "korean": "도와주세요! 도움이 필요해요!"
+        },
+        {
+          "swahili": "Tafadhali piga simu ya dharura!",
+          "pronunciation": "타파달리 피가 시무 야 다루라!",
+          "korean": "긴급 전화를 해주세요!"
+        },
+        {
+          "swahili": "Kuna ajali! Pigia ambulensi!",
+          "pronunciation": "쿠나 아잘리! 피기아 암불렌시!",
+          "korean": "사고가 났어요! 구급차를 불러주세요!"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Tulia! Nini kimetokea?",
+          "pronunciation": "툴리아! 니니 키메토게아?",
+          "korean": "진정하세요! 무슨 일이에요?"
+        },
+        {
+          "swahili": "Sawa, ninapiga simu sasa. Subiri!",
+          "pronunciation": "사와, 니나피가 시무 사사. 수비리!",
+          "korean": "좋아요, 지금 전화할게요. 기다리세요!"
+        },
+        {
+          "swahili": "Ambulensi inakuja! Kaa hapa.",
+          "pronunciation": "암불렌시 이나쿠자! 카아 하파.",
+          "korean": "구급차가 오고 있어요! 여기 있으세요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Nimeibiwa mkoba wangu!",
+          "pronunciation": "니메이비와 므코바 왕우!",
+          "korean": "가방을 도둑맞았어요!"
+        },
+        {
+          "swahili": "Nimepoteza pasipoti yangu!",
+          "pronunciation": "니메포테자 파시포티 양우!",
+          "korean": "여권을 잃어버렸어요!"
+        },
+        {
+          "swahili": "Mtu amezimia hapa!",
+          "pronunciation": "므투 아메지미아 하파!",
+          "korean": "여기 사람이 쓰러졌어요!"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Nenda kituo cha polisi mara moja!",
+          "pronunciation": "넨다 키투오 차 폴리시 마라 모자!",
+          "korean": "지금 바로 경찰서에 가세요!"
+        },
+        {
+          "swahili": "Nenda ubalozi wa nchi yako.",
+          "pronunciation": "넨다 우발로지 와 은치 야코.",
+          "korean": "당신 나라 대사관에 가세요."
+        },
+        {
+          "swahili": "Usimguse! Ninapiga simu hospitali.",
+          "pronunciation": "우심구세! 니나피가 시무 호스피탈리.",
+          "korean": "만지지 마세요! 병원에 전화할게요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Kuna moto! Ondokeni haraka!",
+          "pronunciation": "쿠나 모토! 온도게니 하라카!",
+          "korean": "불이야! 빨리 나가세요!"
+        },
+        {
+          "swahili": "Ninahisi vibaya sana. Nipeleке hospitali.",
+          "pronunciation": "니나히시 비바야 사나. 니펠레게 호스피탈리.",
+          "korean": "몸이 너무 안 좋아요. 병원에 데려가주세요."
+        },
+        {
+          "swahili": "Nimepotea. Siwezi kupata hoteli yangu.",
+          "pronunciation": "니메포테아. 시웨지 쿠파타 호텔리 양우.",
+          "korean": "길을 잃었어요. 호텔을 못 찾겠어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "swahili": "Fuata njia ya kuondoka! Haraka!",
+          "pronunciation": "푸아타 은지아 야 쿠온도카! 하라카!",
+          "korean": "비상구를 따라가세요! 빨리!"
+        },
+        {
+          "swahili": "Keti chini. Nitakupeleka hospitali sasa.",
+          "pronunciation": "게티 치니. 니타쿠펠레카 호스피탈리 사사.",
+          "korean": "앉으세요. 지금 병원에 데려다줄게요."
+        },
+        {
+          "swahili": "Usiwe na wasiwasi. Hoteli yako ina jina gani?",
+          "pronunciation": "우시웨 나 와시와시. 호텔리 야코 이나 지나 가니?",
+          "korean": "걱정 마세요. 호텔 이름이 뭐예요?"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "swahili": "Asante sana kwa msaada wako. Umeniokoa!",
+          "pronunciation": "아산테 사나 쿠와 므사아다 와코. 우메니오코아!",
+          "korean": "도움 정말 감사합니다. 살려주셨어요!"
+        },
+        {
+          "swahili": "Polisi wamefika. Asante kwa kutusaidia.",
+          "pronunciation": "폴리시 와메피카. 아산테 쿠와 쿠투사이디아.",
+          "korean": "경찰이 왔어요. 도와주셔서 감사합니다."
+        },
+        {
+          "swahili": "Nimepona. Asante kwa wote.",
+          "pronunciation": "니메포나. 아산테 쿠와 워테.",
+          "korean": "괜찮아졌어요. 모두 감사합니다."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "swahili": "dharura",
+      "pronunciation": "다루라",
+      "korean": "긴급 상황"
+    },
+    {
+      "swahili": "msaada",
+      "pronunciation": "므사아다",
+      "korean": "도움"
+    },
+    {
+      "swahili": "polisi",
+      "pronunciation": "폴리시",
+      "korean": "경찰"
+    },
+    {
+      "swahili": "moto",
+      "pronunciation": "모토",
+      "korean": "불"
+    },
+    {
+      "swahili": "ajali",
+      "pronunciation": "아잘리",
+      "korean": "사고"
+    },
+    {
+      "swahili": "hatari",
+      "pronunciation": "하타리",
+      "korean": "위험"
+    }
+  ]
+}

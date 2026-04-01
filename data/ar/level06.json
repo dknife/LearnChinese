@@ -1,0 +1,180 @@
+{
+  "level": 6,
+  "title": "쇼핑하기",
+  "titleAr": "التسوق",
+  "description": "아랍어로 쇼핑할 때 필요한 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "أريد أن أشتري هدية.",
+          "romanization": "Urīdu an ashtarī hadiyya.",
+          "korean": "선물을 사고 싶어요."
+        },
+        {
+          "arabic": "هل يمكنني رؤية هذا؟",
+          "romanization": "Hal yumkinunī ru'yat hādhā?",
+          "korean": "이것 좀 볼 수 있을까요?"
+        },
+        {
+          "arabic": "أين قسم الملابس؟",
+          "romanization": "Ayna qism al-malābis?",
+          "korean": "의류 코너가 어디에요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "أهلاً بك! ماذا تبحث عنه؟",
+          "romanization": "Ahlan bik! Mādhā tabḥath ʿanhu?",
+          "korean": "어서오세요! 뭘 찾으세요?"
+        },
+        {
+          "arabic": "بالطبع، تفضل.",
+          "romanization": "Biṭ-ṭabʿ, tafaḍḍal.",
+          "korean": "물론이죠, 여기요."
+        },
+        {
+          "arabic": "في الطابق الثاني على اليمين.",
+          "romanization": "Fī aṭ-ṭābiq ath-thānī ʿalā al-yamīn.",
+          "korean": "2층 오른쪽에 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "كم سعر هذا؟",
+          "romanization": "Kam siʿr hādhā?",
+          "korean": "이것 얼마예요?"
+        },
+        {
+          "arabic": "هل هناك تخفيض؟",
+          "romanization": "Hal hunāka takhfīḍ?",
+          "korean": "할인이 있나요?"
+        },
+        {
+          "arabic": "هذا غالٍ جداً. هل يمكنك تخفيض السعر؟",
+          "romanization": "Hādhā ghālin jiddan. Hal yumkinuk takhfīḍ as-siʿr?",
+          "korean": "너무 비싸요. 가격을 깎아줄 수 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "سعره خمسون ديناراً.",
+          "romanization": "Siʿruhu khamsūn dīnāran.",
+          "korean": "50디나르예요."
+        },
+        {
+          "arabic": "نعم، هناك تخفيض عشرين بالمئة.",
+          "romanization": "Naʿam, hunāka takhfīḍ ʿishrīn bil-mi'a.",
+          "korean": "네, 20% 할인이 있어요."
+        },
+        {
+          "arabic": "يمكنني إعطاؤك خصماً بسيطاً.",
+          "romanization": "Yumkinunī iʿṭā'uk khaṣman basīṭan.",
+          "korean": "약간 할인해드릴 수 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "هل لديكم مقاس أكبر؟",
+          "romanization": "Hal ladaykum maqās akbar?",
+          "korean": "더 큰 사이즈가 있나요?"
+        },
+        {
+          "arabic": "هل يمكنني تجربته؟",
+          "romanization": "Hal yumkinunī tajribatuh?",
+          "korean": "입어볼 수 있나요?"
+        },
+        {
+          "arabic": "هل لديكم لون آخر؟",
+          "romanization": "Hal ladaykum lawn ākhar?",
+          "korean": "다른 색상이 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "نعم، لدينا مقاس كبير ومتوسط.",
+          "romanization": "Naʿam, ladaynā maqās kabīr wa mutawassiṭ.",
+          "korean": "네, 대형과 중형이 있어요."
+        },
+        {
+          "arabic": "غرفة القياس هناك.",
+          "romanization": "Ghurfat al-qiyās hunāk.",
+          "korean": "탈의실은 저기에 있어요."
+        },
+        {
+          "arabic": "لدينا أزرق وأحمر وأسود.",
+          "romanization": "Ladaynā azraq wa aḥmar wa aswad.",
+          "korean": "파란색, 빨간색, 검은색이 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "سآخذ هذا. أين أدفع؟",
+          "romanization": "Sa'ākhudh hādhā. Ayna adfaʿ?",
+          "korean": "이걸로 할게요. 어디서 계산하나요?"
+        },
+        {
+          "arabic": "هل تقبلون بطاقات الائتمان؟",
+          "romanization": "Hal taqbalūn biṭāqāt al-i'timān?",
+          "korean": "신용카드 받으세요?"
+        },
+        {
+          "arabic": "هل يمكنني إرجاعه إذا لم يناسبني؟",
+          "romanization": "Hal yumkinunī irjāʿuhu idhā lam yunāsibnī?",
+          "korean": "안 맞으면 반품할 수 있나요?"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "سعر",
+      "romanization": "siʿr",
+      "korean": "가격"
+    },
+    {
+      "arabic": "تخفيض",
+      "romanization": "takhfīḍ",
+      "korean": "할인"
+    },
+    {
+      "arabic": "مقاس",
+      "romanization": "maqās",
+      "korean": "사이즈"
+    },
+    {
+      "arabic": "هدية",
+      "romanization": "hadiyya",
+      "korean": "선물"
+    },
+    {
+      "arabic": "غالٍ",
+      "romanization": "ghālin",
+      "korean": "비싼"
+    },
+    {
+      "arabic": "رخيص",
+      "romanization": "rakhīṣ",
+      "korean": "싼"
+    }
+  ]
+}

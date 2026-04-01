@@ -1,0 +1,180 @@
+{
+  "level": 21,
+  "title": "관광 & 사진",
+  "titleAr": "السياحة والتصوير",
+  "description": "관광하면서 사진 찍을 때 필요한 아랍어 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "ما هي أهم المعالم السياحية هنا؟",
+          "romanization": "Mā hiya ahamm al-maʿālim as-siyāḥiyya hunā?",
+          "korean": "여기서 가장 중요한 관광지가 어디에요?"
+        },
+        {
+          "arabic": "أريد زيارة الأهرامات.",
+          "romanization": "Urīdu ziyārat al-ahrāmāt.",
+          "korean": "피라미드를 방문하고 싶어요."
+        },
+        {
+          "arabic": "هل هناك جولة سياحية بالعربية؟",
+          "romanization": "Hal hunāka jawla siyāḥiyya bil-ʿarabiyya?",
+          "korean": "아랍어 관광 투어가 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "يجب أن تزور المسجد الأقصى والبحر الميت.",
+          "romanization": "Yajib an tazūr al-Masjid al-Aqṣā wal-Baḥr al-Mayyit.",
+          "korean": "알아크사 모스크와 사해를 방문해야 해요."
+        },
+        {
+          "arabic": "رائع! الأهرامات مذهلة. خذ مرشداً سياحياً.",
+          "romanization": "Rā'iʿ! Al-ahrāmāt mudhhila. Khudh murshidan siyāḥiyyan.",
+          "korean": "멋져요! 피라미드는 놀라워요. 가이드를 데려가세요."
+        },
+        {
+          "arabic": "نعم، الجولة تبدأ في الساعة التاسعة صباحاً.",
+          "romanization": "Naʿam, al-jawla tabda' fī as-sāʿa at-tāsiʿa ṣabāḥan.",
+          "korean": "네, 투어는 아침 9시에 시작해요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "هل يمكنني التقاط صور هنا؟",
+          "romanization": "Hal yumkinunī iltiqāṭ ṣuwar hunā?",
+          "korean": "여기서 사진을 찍어도 되나요?"
+        },
+        {
+          "arabic": "هل يمكنك التقاط صورة لي؟",
+          "romanization": "Hal yumkinuk iltiqāṭ ṣūra lī?",
+          "korean": "제 사진을 찍어줄 수 있나요?"
+        },
+        {
+          "arabic": "المنظر هنا خلاب!",
+          "romanization": "Al-manẓar hunā khallāb!",
+          "korean": "여기 경치가 정말 아름다워요!"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "نعم، التصوير مسموح هنا لكن بدون فلاش.",
+          "romanization": "Naʿam, at-taṣwīr masmūḥ hunā lākin bidūn flāsh.",
+          "korean": "네, 여기서 사진 촬영은 가능하지만 플래시는 안 돼요."
+        },
+        {
+          "arabic": "بالطبع! قف هنا. واحد، اثنان، ثلاثة!",
+          "romanization": "Biṭ-ṭabʿ! Qif hunā. Wāḥid, ithnān, thalātha!",
+          "korean": "물론이죠! 여기 서세요. 하나, 둘, 셋!"
+        },
+        {
+          "arabic": "نعم، هذا من أجمل الأماكن في المدينة.",
+          "romanization": "Naʿam, hādhā min ajmal al-amākin fī al-madīna.",
+          "korean": "네, 여기는 도시에서 가장 아름다운 곳 중 하나예요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "كم سعر الدخول إلى المتحف؟",
+          "romanization": "Kam siʿr ad-dukhūl ilā al-matḥaf?",
+          "korean": "박물관 입장료가 얼마예요?"
+        },
+        {
+          "arabic": "هل هناك خصم للطلاب؟",
+          "romanization": "Hal hunāka khaṣm liṭ-ṭullāb?",
+          "korean": "학생 할인이 있나요?"
+        },
+        {
+          "arabic": "أريد شراء تذكارات.",
+          "romanization": "Urīdu shirā' tadhkārāt.",
+          "korean": "기념품을 사고 싶어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "الدخول بعشرة دنانير للأجانب.",
+          "romanization": "Ad-dukhūl bi-ʿasharat danānīr lil-ajānib.",
+          "korean": "외국인 입장료는 10디나르예요."
+        },
+        {
+          "arabic": "نعم، نصف السعر للطلاب مع بطاقة الطالب.",
+          "romanization": "Naʿam, niṣf as-siʿr liṭ-ṭullāb maʿa biṭāqat aṭ-ṭālib.",
+          "korean": "네, 학생증이 있으면 반값이에요."
+        },
+        {
+          "arabic": "متجر التذكارات في المخرج.",
+          "romanization": "Matjar at-tadhkārāt fī al-makhraj.",
+          "korean": "기념품 가게는 출구에 있어요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "هذه الرحلة لا تُنسى! شكراً لك.",
+          "romanization": "Hādhihi ar-riḥla lā tunsā! Shukran lak.",
+          "korean": "잊을 수 없는 여행이에요! 감사합니다."
+        },
+        {
+          "arabic": "سأشارك هذه الصور على وسائل التواصل.",
+          "romanization": "Sa'ushārik hādhihi aṣ-ṣuwar ʿalā wasā'il at-tawāṣul.",
+          "korean": "이 사진들을 SNS에 올릴 거예요."
+        },
+        {
+          "arabic": "أتمنى أن أعود مرة أخرى!",
+          "romanization": "Atamannā an aʿūd marra ukhrā!",
+          "korean": "다시 오고 싶어요!"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "سياحة",
+      "romanization": "siyāḥa",
+      "korean": "관광"
+    },
+    {
+      "arabic": "صورة",
+      "romanization": "ṣūra",
+      "korean": "사진"
+    },
+    {
+      "arabic": "متحف",
+      "romanization": "matḥaf",
+      "korean": "박물관"
+    },
+    {
+      "arabic": "تذكار",
+      "romanization": "tadhkār",
+      "korean": "기념품"
+    },
+    {
+      "arabic": "مرشد",
+      "romanization": "murshid",
+      "korean": "가이드"
+    },
+    {
+      "arabic": "منظر",
+      "romanization": "manẓar",
+      "korean": "경치"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "level": 24,
+  "title": "문화 & 명절",
+  "titleAr": "الثقافة والأعياد",
+  "description": "아랍 문화와 명절에 관한 아랍어 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "ما هي أهم الأعياد في الثقافة العربية؟",
+          "romanization": "Mā hiya ahamm al-aʿyād fī ath-thaqāfa al-ʿarabiyya?",
+          "korean": "아랍 문화에서 가장 중요한 명절은 뭐예요?"
+        },
+        {
+          "arabic": "متى يبدأ شهر رمضان هذه السنة؟",
+          "romanization": "Matā yabda' shahr Ramaḍān hādhihi as-sana?",
+          "korean": "올해 라마단은 언제 시작해요?"
+        },
+        {
+          "arabic": "أريد أن أتعرف على الثقافة العربية.",
+          "romanization": "Urīdu an ataʿarraf ʿalā ath-thaqāfa al-ʿarabiyya.",
+          "korean": "아랍 문화에 대해 알고 싶어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "عيد الفطر وعيد الأضحى هما أهم عيدين.",
+          "romanization": "ʿĪd al-Fiṭr wa ʿĪd al-Aḍḥā humā ahamm ʿīdayn.",
+          "korean": "이드 알피트르와 이드 알아드하가 가장 중요한 두 명절이에요."
+        },
+        {
+          "arabic": "يبدأ في شهر مارس تقريباً. المسلمون يصومون شهراً كاملاً.",
+          "romanization": "Yabda' fī shahr Māris taqrīban. Al-muslimūn yaṣūmūn shahran kāmilan.",
+          "korean": "대략 3월에 시작해요. 무슬림들은 한 달간 금식해요."
+        },
+        {
+          "arabic": "رائع! الثقافة العربية غنية ومتنوعة.",
+          "romanization": "Rā'iʿ! Ath-thaqāfa al-ʿarabiyya ghaniyya wa mutanawwiʿa.",
+          "korean": "좋아요! 아랍 문화는 풍부하고 다양해요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "كيف تحتفلون بعيد الفطر؟",
+          "romanization": "Kayfa taḥtafilūn bi-ʿĪd al-Fiṭr?",
+          "korean": "이드 알피트르를 어떻게 축하해요?"
+        },
+        {
+          "arabic": "ما هي التقاليد المهمة؟",
+          "romanization": "Mā hiya at-taqālīd al-muhimma?",
+          "korean": "중요한 전통이 뭐예요?"
+        },
+        {
+          "arabic": "هل يمكنني المشاركة في الاحتفالات؟",
+          "romanization": "Hal yumkinunī al-mushāraka fī al-iḥtifalāt?",
+          "korean": "축하 행사에 참여할 수 있나요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "نزور العائلة ونتبادل الهدايا ونأكل الحلويات.",
+          "romanization": "Nazūr al-ʿā'ila wa natabādal al-hadāyā wa na'kul al-ḥalawiyyāt.",
+          "korean": "가족을 방문하고 선물을 교환하고 과자를 먹어요."
+        },
+        {
+          "arabic": "الضيافة العربية مشهورة. نقدم القهوة والتمر للضيوف.",
+          "romanization": "Aḍ-ḍiyāfa al-ʿarabiyya mashhūra. Nuqaddim al-qahwa wat-tamr liḍ-ḍuyūf.",
+          "korean": "아랍 환대 문화는 유명해요. 손님에게 커피와 대추야자를 대접해요."
+        },
+        {
+          "arabic": "بالتأكيد! الجميع مرحب بهم. تعال واستمتع!",
+          "romanization": "Bit-ta'kīd! Al-jamīʿ muraḥḥab bihim. Taʿāl wastamtiʿ!",
+          "korean": "물론이죠! 모두 환영이에요. 와서 즐기세요!"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "ما هو الطعام التقليدي في الأعياد؟",
+          "romanization": "Mā huwa aṭ-ṭaʿām at-taqlīdī fī al-aʿyād?",
+          "korean": "명절 전통 음식은 뭐예요?"
+        },
+        {
+          "arabic": "هل الخط العربي فن تقليدي؟",
+          "romanization": "Hal al-khaṭṭ al-ʿarabī fann taqlīdī?",
+          "korean": "아랍 서예가 전통 예술인가요?"
+        },
+        {
+          "arabic": "أحب الموسيقى العربية. من هو أشهر فنان؟",
+          "romanization": "Uḥibb al-mūsīqā al-ʿarabiyya. Man huwa ashhar fannān?",
+          "korean": "아랍 음악을 좋아해요. 가장 유명한 가수는 누구예요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "المنسف والكنافة والمعمول من أشهر الأطباق.",
+          "romanization": "Al-mansaf wal-kunāfa wal-maʿmūl min ashhar al-aṭbāq.",
+          "korean": "만사프, 쿠나파, 마아물이 가장 유명한 요리예요."
+        },
+        {
+          "arabic": "نعم، الخط العربي فن جميل وعريق. عمره آلاف السنين.",
+          "romanization": "Naʿam, al-khaṭṭ al-ʿarabī fann jamīl wa ʿarīq. ʿUmruhu ālāf as-sinīn.",
+          "korean": "네, 아랍 서예는 아름답고 오래된 예술이에요. 수천 년이 됐어요."
+        },
+        {
+          "arabic": "أم كلثوم وفيروز من أعظم الفنانين العرب.",
+          "romanization": "Umm Kulthūm wa Fayrūz min aʿẓam al-fannānīn al-ʿarab.",
+          "korean": "움 쿨쑴과 페이루즈가 위대한 아랍 가수예요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "الثقافة العربية رائعة! تعلمت الكثير اليوم.",
+          "romanization": "Ath-thaqāfa al-ʿarabiyya rā'iʿa! Taʿallamtu al-kathīr al-yawm.",
+          "korean": "아랍 문화는 훌륭해요! 오늘 많이 배웠어요."
+        },
+        {
+          "arabic": "عيد مبارك!",
+          "romanization": "ʿĪd mubārak!",
+          "korean": "즐거운 명절 되세요!"
+        },
+        {
+          "arabic": "أتمنى أن أزور البلاد العربية في رمضان.",
+          "romanization": "Atamannā an azūr al-bilād al-ʿarabiyya fī Ramaḍān.",
+          "korean": "라마단 기간에 아랍 나라를 방문하고 싶어요."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "ثقافة",
+      "romanization": "thaqāfa",
+      "korean": "문화"
+    },
+    {
+      "arabic": "عيد",
+      "romanization": "ʿīd",
+      "korean": "명절"
+    },
+    {
+      "arabic": "رمضان",
+      "romanization": "Ramaḍān",
+      "korean": "라마단"
+    },
+    {
+      "arabic": "تقاليد",
+      "romanization": "taqālīd",
+      "korean": "전통"
+    },
+    {
+      "arabic": "ضيافة",
+      "romanization": "ḍiyāfa",
+      "korean": "환대"
+    },
+    {
+      "arabic": "فن",
+      "romanization": "fann",
+      "korean": "예술"
+    }
+  ]
+}

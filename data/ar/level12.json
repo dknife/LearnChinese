@@ -1,0 +1,180 @@
+{
+  "level": 12,
+  "title": "약속 잡기",
+  "titleAr": "تحديد موعد",
+  "description": "아랍어로 약속을 잡는 표현을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "هل أنت فارغ يوم السبت؟",
+          "romanization": "Hal anta fārigh yawm as-sabt?",
+          "korean": "토요일에 시간 있어요?"
+        },
+        {
+          "arabic": "هل يمكننا اللقاء هذا الأسبوع؟",
+          "romanization": "Hal yumkinunā al-liqā' hādhā al-usbūʿ?",
+          "korean": "이번 주에 만날 수 있어요?"
+        },
+        {
+          "arabic": "أريد تحديد موعد معك.",
+          "romanization": "Urīdu taḥdīd mawʿid maʿak.",
+          "korean": "약속을 잡고 싶어요."
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "نعم، أنا فارغ بعد الظهر.",
+          "romanization": "Naʿam, anā fārigh baʿd aẓ-ẓuhr.",
+          "korean": "네, 오후에 시간 있어요."
+        },
+        {
+          "arabic": "آسف، أنا مشغول يوم الثلاثاء.",
+          "romanization": "Āsif, anā mashghūl yawm ath-thulāthā'.",
+          "korean": "죄송해요, 화요일은 바빠요."
+        },
+        {
+          "arabic": "بالتأكيد! متى يناسبك؟",
+          "romanization": "Bit-ta'kīd! Matā yunāsibuk?",
+          "korean": "물론이죠! 언제가 좋으세요?"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "ما رأيك في الساعة الثانية؟",
+          "romanization": "Mā ra'yuk fī as-sāʿa ath-thāniya?",
+          "korean": "2시는 어때요?"
+        },
+        {
+          "arabic": "هل الأربعاء مناسب لك؟",
+          "romanization": "Hal al-arbiʿā' munāsib lak?",
+          "korean": "수요일이 괜찮으세요?"
+        },
+        {
+          "arabic": "أفضل المساء. هل هذا ممكن؟",
+          "romanization": "Ufaḍḍil al-masā'. Hal hādhā mumkin?",
+          "korean": "저녁이 좋아요. 가능할까요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "ممتاز! الثانية مناسبة.",
+          "romanization": "Mumtāz! Ath-thāniya munāsiba.",
+          "korean": "좋아요! 2시 괜찮아요."
+        },
+        {
+          "arabic": "نعم، الأربعاء مناسب. أين نلتقي؟",
+          "romanization": "Naʿam, al-arbiʿā' munāsib. Ayna naltaqī?",
+          "korean": "네, 수요일 괜찮아요. 어디서 만날까요?"
+        },
+        {
+          "arabic": "طبعاً! نلتقي في الساعة السابعة مساءً.",
+          "romanization": "Ṭabʿan! Naltaqī fī as-sāʿa as-sābiʿa masā'an.",
+          "korean": "물론이죠! 저녁 7시에 만나요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "نلتقي في المقهى المعتاد؟",
+          "romanization": "Naltaqī fī al-maqhā al-muʿtād?",
+          "korean": "늘 가는 카페에서 만날까요?"
+        },
+        {
+          "arabic": "هل تريد الذهاب إلى مطعم جديد؟",
+          "romanization": "Hal turīd adh-dhahāb ilā maṭʿam jadīd?",
+          "korean": "새로운 식당에 갈래요?"
+        },
+        {
+          "arabic": "أقترح أن نلتقي أمام المسجد.",
+          "romanization": "Aqtariḥ an naltaqī amām al-masjid.",
+          "korean": "모스크 앞에서 만나는 게 어때요?"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        {
+          "arabic": "فكرة رائعة! أحب ذلك المقهى.",
+          "romanization": "Fikra rā'iʿa! Uḥibb dhālik al-maqhā.",
+          "korean": "좋은 생각이에요! 그 카페 좋아해요."
+        },
+        {
+          "arabic": "نعم، سمعت عن مطعم ممتاز قريب من هنا.",
+          "romanization": "Naʿam, samiʿtu ʿan maṭʿam mumtāz qarīb min hunā.",
+          "korean": "네, 근처에 좋은 식당이 있다고 들었어요."
+        },
+        {
+          "arabic": "موافق! سأكون هناك في الموعد.",
+          "romanization": "Muwāfiq! Sa'akūn hunāk fī al-mawʿid.",
+          "korean": "동의해요! 시간에 맞춰 갈게요."
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        {
+          "arabic": "اتفقنا إذن! أراك يوم السبت.",
+          "romanization": "Ittafaqnā idhan! Arāk yawm as-sabt.",
+          "korean": "그럼 약속! 토요일에 봐요."
+        },
+        {
+          "arabic": "لا تنسَ! سأرسل لك تذكيراً.",
+          "romanization": "Lā tansa! Sa'ursil lak tadhkīran.",
+          "korean": "잊지 마세요! 리마인더 보낼게요."
+        },
+        {
+          "arabic": "ممتاز! أتطلع للقائك.",
+          "romanization": "Mumtāz! Ataṭallaʿ liliqā'ik.",
+          "korean": "좋아요! 만나기를 기대해요."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "arabic": "موعد",
+      "romanization": "mawʿid",
+      "korean": "약속"
+    },
+    {
+      "arabic": "مشغول",
+      "romanization": "mashghūl",
+      "korean": "바쁜"
+    },
+    {
+      "arabic": "فارغ",
+      "romanization": "fārigh",
+      "korean": "한가한"
+    },
+    {
+      "arabic": "أسبوع",
+      "romanization": "usbūʿ",
+      "korean": "주"
+    },
+    {
+      "arabic": "مقهى",
+      "romanization": "maqhā",
+      "korean": "카페"
+    },
+    {
+      "arabic": "مناسب",
+      "romanization": "munāsib",
+      "korean": "적합한"
+    }
+  ]
+}
