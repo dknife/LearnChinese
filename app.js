@@ -296,9 +296,10 @@ function speakForeign(text, onEnd) {
   window.speechSynthesis.speak(utterance);
 }
 
-// 자동 음성 재생 설정 (항상 OFF로 시작, 레슨 내에서만 토글)
+// 자동 음성 재생 설정 (localStorage에서 복원)
 let _autoTTS = false;
-function setAutoTTS(val) { _autoTTS = val; }
+try { _autoTTS = localStorage.getItem('learnLangs_autoTTS') === 'true'; } catch {}
+function setAutoTTS(val) { _autoTTS = val; try { localStorage.setItem('learnLangs_autoTTS', val ? 'true' : 'false'); } catch {} }
 
 // 음성 목록이 비동기로 로드되므로 미리 요청
 if ('speechSynthesis' in window) {
@@ -378,8 +379,24 @@ async function renderLangSelect() {
       <div class="lang-cards">
         ${cardsHTML}
       </div>
+      <div class="lang-select-tts-toggle">
+        <label class="tts-switch">
+          <input type="checkbox" id="langSelectAutoTTS" ${_autoTTS ? 'checked' : ''}>
+          <span class="tts-slider"></span>
+        </label>
+        <span class="lang-select-tts-label" id="langSelectTTSLabel">자동 음성 ${_autoTTS ? 'ON' : 'OFF'}</span>
+      </div>
     </div>
   `;
+
+  const langTTSSwitch = document.getElementById('langSelectAutoTTS');
+  if (langTTSSwitch) {
+    langTTSSwitch.addEventListener('change', (e) => {
+      setAutoTTS(e.target.checked);
+      const label = document.getElementById('langSelectTTSLabel');
+      if (label) label.textContent = '자동 음성 ' + (_autoTTS ? 'ON' : 'OFF');
+    });
+  }
 }
 
 // ------------------------------------------------------------
