@@ -375,7 +375,7 @@ function renderProgressBar(current, total, label) {
 function createConfetti() {
   const container = document.createElement('div');
   container.className = 'confetti-container';
-  const colors = ['#f59e0b', '#10b981', '#ef4444', '#8b5cf6', '#3b82f6', '#ec4899', '#14b8a6', '#f97316'];
+  const colors = ['#FA5D29', '#222222', '#EDEDED', '#0693E3', '#7BDCB5', '#FFF083', '#BE185D', '#3B5998'];
   for (let i = 0; i < 50; i++) {
     const piece = document.createElement('div');
     piece.className = 'confetti-piece';
