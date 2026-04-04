@@ -833,7 +833,30 @@ async function handleRoute() {
   await renderLangSelect();
 }
 
-window.addEventListener('hashchange', handleRoute);
+// Page transition wrapper
+async function handleRouteWithTransition() {
+  const app = document.getElementById('app');
+  // Exit animation
+  app.classList.add('page-exit');
+  await new Promise(r => setTimeout(r, 200));
+  // Route change
+  await handleRoute();
+  // Enter animation
+  app.classList.remove('page-exit');
+  app.classList.add('page-enter');
+  // Force reflow
+  void app.offsetWidth;
+  app.classList.add('page-enter-active');
+  const onDone = () => {
+    app.classList.remove('page-enter', 'page-enter-active');
+    app.removeEventListener('transitionend', onDone);
+  };
+  app.addEventListener('transitionend', onDone, { once: true });
+  // Fallback cleanup
+  setTimeout(onDone, 500);
+}
+
+window.addEventListener('hashchange', handleRouteWithTransition);
 
 // ------------------------------------------------------------
 // TTS — Multi-language speech (Web Speech API)

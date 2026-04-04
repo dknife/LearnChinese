@@ -181,6 +181,24 @@ html { scrollbar-width: thin; scrollbar-color: rgba(34,34,34,0.15) transparent; 
   z-index: 1;
 }
 
+/* Page transition animations */
+.page-exit {
+  opacity: 0;
+  transform: translateY(12px) scale(0.98);
+  transition: opacity 0.18s ease-out, transform 0.18s ease-out;
+}
+
+.page-enter {
+  opacity: 0;
+  transform: translateY(-18px) scale(0.97);
+}
+
+.page-enter-active {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+  transition: opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1), transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
 /* ----------------------------------------------------------
    4. Buttons
    ---------------------------------------------------------- */
