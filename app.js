@@ -524,9 +524,9 @@ async function renderLangSelect() {
   }
 
   // Touch
-  container.addEventListener('touchstart', e => onDragStart(e.touches[0].clientX), { passive: true });
-  container.addEventListener('touchmove', e => onDragMove(e.touches[0].clientX), { passive: true });
-  container.addEventListener('touchend', () => onDragEnd());
+  container.addEventListener('touchstart', e => { e.preventDefault(); onDragStart(e.touches[0].clientX); }, { passive: false });
+  container.addEventListener('touchmove', e => { e.preventDefault(); onDragMove(e.touches[0].clientX); }, { passive: false });
+  container.addEventListener('touchend', e => { e.preventDefault(); onDragEnd(); });
 
   // Mouse
   container.addEventListener('mousedown', e => { onDragStart(e.clientX); e.preventDefault(); });
