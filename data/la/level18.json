@@ -1,0 +1,53 @@
+{
+  "level": 18,
+  "title": "병원 & 약국",
+  "titleLa": "Medicus et Pharmacopola",
+  "description": "라틴어로 병원과 약국에서 건강 관련 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Non bene me habeo. Medicum quaero.", "pronunciation": "논 베네 메 하베오. 메디쿰 쿠아에로.", "korean": "몸이 좋지 않아요. 의사를 찾고 있습니다." },
+      { "latin": "Aeger sum. Ubi est medicus?", "pronunciation": "아에게르 숨. 우비 에스트 메디쿠스?", "korean": "아픕니다. 의사가 어디인가요?" },
+      { "latin": "Auxilium medici mihi opus est.", "pronunciation": "아욱실리움 메디키 미히 오푸스 에스트.", "korean": "의사의 도움이 필요합니다." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Quid te dolet?", "pronunciation": "퀴드 테 돌렛?", "korean": "어디가 아프신가요?" },
+      { "latin": "Ubi dolor est?", "pronunciation": "우비 돌로르 에스트?", "korean": "통증이 어디에 있나요?" },
+      { "latin": "Dic mihi symptomata tua.", "pronunciation": "딕 미히 심프토마타 투아.", "korean": "증상을 말씀하세요." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Caput mihi dolet et febrem habeo.", "pronunciation": "카푸트 미히 돌렛 에트 페브렘 하베오.", "korean": "머리가 아프고 열이 있습니다." },
+      { "latin": "Venter meus dolet.", "pronunciation": "벤테르 메우스 돌렛.", "korean": "배가 아픕니다." },
+      { "latin": "Tussio et guttur dolet.", "pronunciation": "투시오 에트 구투르 돌렛.", "korean": "기침이 나고 목이 아픕니다." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Requiem tibi opus est. Herbas dabo.", "pronunciation": "레퀴엠 티비 오푸스 에스트. 헤르바스 다보.", "korean": "휴식이 필요합니다. 약초를 드리겠습니다." },
+      { "latin": "Medicamentum tibi praescribam.", "pronunciation": "메디카멘툼 티비 프라에스크리밤.", "korean": "약을 처방해 드리겠습니다." },
+      { "latin": "Potionem medicam bibe.", "pronunciation": "포티오넴 메디캄 비베.", "korean": "약을 드세요." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Ubi possum medicamentum emere?", "pronunciation": "우비 포숨 메디카멘툼 에메레?", "korean": "어디서 약을 살 수 있나요?" },
+      { "latin": "Estne pharmacopola prope?", "pronunciation": "에스트네 파르마코폴라 프로페?", "korean": "약국이 근처에 있나요?" },
+      { "latin": "Herbarium quaero.", "pronunciation": "헤르바리움 쿠아에로.", "korean": "약초 가게를 찾고 있습니다." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "In proximo vico pharmacopola est.", "pronunciation": "인 프록시모 비코 파르마코폴라 에스트.", "korean": "다음 거리에 약국이 있습니다." },
+      { "latin": "Iuxta templum herbas vendunt.", "pronunciation": "이욱스타 템플룸 헤르바스 벤둔트.", "korean": "신전 옆에서 약초를 팝니다." },
+      { "latin": "Ego ipse tibi dabo medicamentum.", "pronunciation": "에고 입세 티비 다보 메디카멘툼.", "korean": "제가 직접 약을 드리겠습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Gratias, medice. Melius me sentio.", "pronunciation": "그라티아스, 메디케. 멜리우스 메 센티오.", "korean": "감사합니다, 의사 선생님. 좋아지고 있습니다." },
+      { "latin": "Gratias maximas ago. Curabo me.", "pronunciation": "그라티아스 막시마스 아고. 쿠라보 메.", "korean": "대단히 감사합니다. 몸을 돌보겠습니다." },
+      { "latin": "Benigne. Valetudinem curabo.", "pronunciation": "베니게. 발레투디넴 쿠라보.", "korean": "감사합니다. 건강을 돌보겠습니다." }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "medicus", "pronunciation": "메디쿠스", "korean": "의사" },
+    { "latin": "medicamentum", "pronunciation": "메디카멘툼", "korean": "약" },
+    { "latin": "dolor", "pronunciation": "돌로르", "korean": "통증" },
+    { "latin": "febris", "pronunciation": "페브리스", "korean": "열" },
+    { "latin": "caput", "pronunciation": "카푸트", "korean": "머리" },
+    { "latin": "herba", "pronunciation": "헤르바", "korean": "약초" },
+    { "latin": "valetudo", "pronunciation": "발레투도", "korean": "건강" },
+    { "latin": "aeger", "pronunciation": "아에게르", "korean": "아픈" }
+  ]
+}

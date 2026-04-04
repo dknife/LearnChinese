@@ -1,0 +1,74 @@
+{
+  "level": 10,
+  "title": "음식 & 맛 표현",
+  "titleRu": "Еда и вкус",
+  "description": "러시아어로 음식과 맛을 표현하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Что ты любишь есть?", "pronunciation": "쉬또 띠 류비쉬 예스찌?", "korean": "너는 뭘 좋아해?" },
+        { "russian": "Какая ваша любимая еда?", "pronunciation": "까까야 바샤 류비마야 이다?", "korean": "좋아하는 음식이 뭐예요?" },
+        { "russian": "Вы любите русскую кухню?", "pronunciation": "비 류비쩨 루스꾸유 쿠흐뉴?", "korean": "러시아 요리를 좋아하세요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Я люблю борщ. Это очень вкусный суп.", "pronunciation": "야 류블류 보르쉬. 에따 오친 프꾸스니 숩.", "korean": "저는 보르시를 좋아해요. 아주 맛있는 수프예요." },
+        { "russian": "Мне нравятся пельмени и блины.", "pronunciation": "므네 느라뱌짜 삘메니 이 블리니.", "korean": "저는 펠메니와 블리니를 좋아해요." },
+        { "russian": "Я обожаю шашлык и салат оливье.", "pronunciation": "야 아바자유 샤쉴릭 이 살라뜨 알리비예.", "korean": "저는 샤슐릭과 올리비에 샐러드를 정말 좋아해요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Как тебе этот суп? Вкусно?", "pronunciation": "깍 찌볘 에딧 숩? 프꾸스나?", "korean": "이 수프 어때? 맛있어?" },
+        { "russian": "Вам нравится это блюдо?", "pronunciation": "밤 느라비짜 에따 블류다?", "korean": "이 요리 마음에 드세요?" },
+        { "russian": "Не слишком острое?", "pronunciation": "니 슬리쉬깜 오스뜨라예?", "korean": "너무 맵지 않아요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Очень вкусно! Немного солёное, но мне нравится.", "pronunciation": "오친 프꾸스나! 님노가 살료나예, 노 므네 느라비짜.", "korean": "아주 맛있어요! 좀 짭짤하지만 마음에 들어요." },
+        { "russian": "Вкусно, но слишком сладкое для меня.", "pronunciation": "프꾸스나, 노 슬리쉬깜 슬랃까예 들랴 미냐.", "korean": "맛있는데, 저한테는 너무 달아요." },
+        { "russian": "Отлично! Очень нежное и ароматное.", "pronunciation": "앗리치나! 오친 네쥐나예 이 아라맛나예.", "korean": "훌륭해요! 아주 부드럽고 향이 좋아요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Ты умеешь готовить?", "pronunciation": "띠 우메이쉬 가또비찌?", "korean": "너 요리할 줄 알아?" },
+        { "russian": "Вы часто готовите дома?", "pronunciation": "비 차스따 가또비쩨 도마?", "korean": "집에서 자주 요리하세요?" },
+        { "russian": "Какое блюдо ты готовишь лучше всего?", "pronunciation": "까꼬예 블류다 띠 가또비쉬 루치쉬 프씨보?", "korean": "어떤 요리를 제일 잘해?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Да, я хорошо готовлю. Особенно супы.", "pronunciation": "다, 야 하라쇼 가또블류. 아소빈나 수피.", "korean": "네, 요리를 잘해요. 특히 수프요." },
+        { "russian": "Немного. Я умею делать салаты и каши.", "pronunciation": "님노가. 야 우메유 델라찌 살라띠 이 까쉬.", "korean": "조금요. 샐러드와 죽은 만들 줄 알아요." },
+        { "russian": "Нет, я обычно ем в кафе или заказываю доставку.", "pronunciation": "녯, 야 아비치나 옘 프 까페 일리 자까지바유 다스딥꾸.", "korean": "아뇨, 보통 카페에서 먹거나 배달시켜요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Давай сходим в новый ресторан! Говорят, там очень вкусно.", "pronunciation": "다바이 스호딤 브 노비 리스따란! 가바랴뜨, 땀 오친 프꾸스나.", "korean": "새로 생긴 식당에 가자! 거기 아주 맛있대." },
+        { "russian": "Хочешь попробовать корейскую еду?", "pronunciation": "호치쉬 빠쁘로바바찌 까레이스꾸유 이두?", "korean": "한국 음식 먹어볼래?" },
+        { "russian": "Приходи ко мне, я приготовлю ужин.", "pronunciation": "쁘리하디 까 므네, 야 쁘리가또블류 우쥔.", "korean": "우리 집에 와, 저녁 만들어 줄게." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "russian": "вкусно", "pronunciation": "프꾸스나", "korean": "맛있는" },
+    { "russian": "солёный", "pronunciation": "살료니", "korean": "짠" },
+    { "russian": "сладкий", "pronunciation": "슬랃끼", "korean": "단" },
+    { "russian": "острый", "pronunciation": "오스뜨리", "korean": "매운" },
+    { "russian": "кислый", "pronunciation": "끼슬리", "korean": "신" },
+    { "russian": "горький", "pronunciation": "고르끼", "korean": "쓴" },
+    { "russian": "готовить", "pronunciation": "가또비찌", "korean": "요리하다" },
+    { "russian": "еда", "pronunciation": "이다", "korean": "음식" }
+  ]
+}

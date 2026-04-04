@@ -1,0 +1,53 @@
+{
+  "level": 6,
+  "title": "쇼핑하기",
+  "titleLa": "In Taberna",
+  "description": "라틴어로 상점에서 물건을 사는 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Salve! Quid vendis hodie?", "pronunciation": "살베! 퀴드 벤디스 호디에?", "korean": "안녕하세요! 오늘 무엇을 파나요?" },
+      { "latin": "Quid habes in taberna?", "pronunciation": "퀴드 하베스 인 타베르나?", "korean": "가게에 무엇이 있나요?" },
+      { "latin": "Quae merces tibi sunt?", "pronunciation": "쿠아에 메르케스 티비 순트?", "korean": "어떤 상품이 있나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Salve! Togas et tunicas habemus.", "pronunciation": "살베! 토가스 에트 투니카스 하베무스.", "korean": "안녕하세요! 토가와 튜닉이 있습니다." },
+      { "latin": "Vestes pulchras vendimus.", "pronunciation": "베스테스 풀크라스 벤디무스.", "korean": "아름다운 옷들을 팝니다." },
+      { "latin": "Multas res bonas habemus.", "pronunciation": "물타스 레스 보나스 하베무스.", "korean": "좋은 물건이 많이 있습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Quanti constat haec toga?", "pronunciation": "쿠안티 콘스탓 하에크 토가?", "korean": "이 토가는 얼마인가요?" },
+      { "latin": "Quod pretium huius togae est?", "pronunciation": "쿠오드 프레티움 후이우스 토가에 에스트?", "korean": "이 토가의 가격은 얼마인가요?" },
+      { "latin": "Quantum costa haec vestis?", "pronunciation": "쿠안툼 코스타 하에크 베스티스?", "korean": "이 옷은 얼마인가요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Decem denarii.", "pronunciation": "데켐 데나리이.", "korean": "10 데나리우스입니다." },
+      { "latin": "Pretium est decem denarii.", "pronunciation": "프레티움 에스트 데켐 데나리이.", "korean": "가격은 10 데나리우스입니다." },
+      { "latin": "Hoc decem denariis vendo.", "pronunciation": "호크 데켐 데나리이스 벤도.", "korean": "이것은 10 데나리우스에 팝니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Nimis carum est. Minuere potes?", "pronunciation": "니미스 카룸 에스트. 미누에레 포테스?", "korean": "너무 비쌉니다. 깎아줄 수 있나요?" },
+      { "latin": "Nimium est! Minus pretium, quaeso.", "pronunciation": "니미움 에스트! 미누스 프레티움, 쿠아에소.", "korean": "너무 비싸요! 더 싸게 부탁합니다." },
+      { "latin": "Potesne pretium reducere?", "pronunciation": "포테스네 프레티움 레두케레?", "korean": "가격을 낮춰줄 수 있나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Bene, octo denarii tibi dabo.", "pronunciation": "베네, 옥토 데나리이 티비 다보.", "korean": "좋아요, 8 데나리우스에 드리겠습니다." },
+      { "latin": "Pro te, octo denarii.", "pronunciation": "프로 테, 옥토 데나리이.", "korean": "당신을 위해, 8 데나리우스로요." },
+      { "latin": "Ultimum pretium: octo denarii.", "pronunciation": "울티뭄 프레티움: 옥토 데나리이.", "korean": "최종 가격: 8 데나리우스입니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Bene! Emam eam. Gratias!", "pronunciation": "베네! 에맘 에암. 그라티아스!", "korean": "좋아요! 사겠습니다. 감사합니다!" },
+      { "latin": "Placet! Hanc togam capio.", "pronunciation": "플라켓! 한크 토감 카피오.", "korean": "좋습니다! 이 토가를 가져갈게요." },
+      { "latin": "Consentio! Accipe pecuniam.", "pronunciation": "콘센티오! 아키페 페쿠니암.", "korean": "동의합니다! 돈 받으세요." }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "taberna", "pronunciation": "타베르나", "korean": "가게, 상점" },
+    { "latin": "toga", "pronunciation": "토가", "korean": "토가(로마 겉옷)" },
+    { "latin": "pretium", "pronunciation": "프레티움", "korean": "가격" },
+    { "latin": "denarius", "pronunciation": "데나리우스", "korean": "데나리우스(로마 화폐)" },
+    { "latin": "vendere", "pronunciation": "벤데레", "korean": "팔다" },
+    { "latin": "emere", "pronunciation": "에메레", "korean": "사다" },
+    { "latin": "carum", "pronunciation": "카룸", "korean": "비싼" },
+    { "latin": "pecunia", "pronunciation": "페쿠니아", "korean": "돈" }
+  ]
+}

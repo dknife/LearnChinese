@@ -1,0 +1,53 @@
+{
+  "level": 10,
+  "title": "음식 & 맛 표현",
+  "titleLa": "Cibus et Sapor",
+  "description": "라틴어로 음식과 맛을 표현하는 방법을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Quid edis libenter?", "pronunciation": "퀴드 에디스 리벤테르?", "korean": "무엇을 즐겨 먹나요?" },
+      { "latin": "Quem cibum maxime amas?", "pronunciation": "쿠엠 키붐 막시메 아마스?", "korean": "어떤 음식을 가장 좋아하나요?" },
+      { "latin": "Quid tibi placet edere?", "pronunciation": "퀴드 티비 플라켓 에데레?", "korean": "무엇을 먹고 싶으세요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Panem et caseum amo.", "pronunciation": "파넴 에트 카세움 아모.", "korean": "빵과 치즈를 좋아합니다." },
+      { "latin": "Olivas et piscem libenter edo.", "pronunciation": "올리바스 에트 피스켐 리벤테르 에도.", "korean": "올리브와 생선을 즐겨 먹습니다." },
+      { "latin": "Fructus et mel maxime amo.", "pronunciation": "프룩투스 에트 멜 막시메 아모.", "korean": "과일과 꿀을 가장 좋아합니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Qualis sapor est?", "pronunciation": "쿠알리스 사포르 에스트?", "korean": "맛이 어떤가요?" },
+      { "latin": "Estne dulce an amarum?", "pronunciation": "에스트네 둘케 안 아마룸?", "korean": "달콤한가요 쓴가요?" },
+      { "latin": "Quomodo sapit hic cibus?", "pronunciation": "쿠오모도 사핏 힉 키부스?", "korean": "이 음식의 맛은 어떤가요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Dulce et suave est.", "pronunciation": "둘케 에트 수아베 에스트.", "korean": "달콤하고 부드럽습니다." },
+      { "latin": "Sapor bonus est. Valde dulce.", "pronunciation": "사포르 보누스 에스트. 발데 둘케.", "korean": "맛이 좋습니다. 매우 달콤해요." },
+      { "latin": "Praeclare sapit!", "pronunciation": "프라에클라레 사핏!", "korean": "맛이 훌륭합니다!" }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Hic garum nimis salsum est.", "pronunciation": "힉 가룸 니미스 살숨 에스트.", "korean": "이 가룸(생선 소스)은 너무 짭니다." },
+      { "latin": "Cibus nimis conditus est.", "pronunciation": "키부스 니미스 콘디투스 에스트.", "korean": "음식이 너무 양념이 강해요." },
+      { "latin": "Paululum acris est.", "pronunciation": "파울룰룸 아크리스 에스트.", "korean": "약간 매콤합니다." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Visne aquam bibere?", "pronunciation": "비스네 아쿠암 비베레?", "korean": "물을 마시겠어요?" },
+      { "latin": "Aquam frigidam dabo tibi.", "pronunciation": "아쿠암 프리기담 다보 티비.", "korean": "차가운 물을 드리겠습니다." },
+      { "latin": "Accipe vinum. Sitim sedat.", "pronunciation": "아키페 비눔. 시팀 세닷.", "korean": "포도주를 받으세요. 갈증을 달래줍니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Gratias. Cena optima fuit!", "pronunciation": "그라티아스. 케나 옵티마 푸이트!", "korean": "감사합니다. 저녁 식사가 최고였어요!" },
+      { "latin": "Deliciae! Optime cenavi!", "pronunciation": "델리키아에! 옵티메 케나비!", "korean": "맛있어요! 아주 잘 먹었습니다!" },
+      { "latin": "Hic cibus praeclarus est!", "pronunciation": "힉 키부스 프라에클라루스 에스트!", "korean": "이 음식은 훌륭합니다!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "cibus", "pronunciation": "키부스", "korean": "음식" },
+    { "latin": "sapor", "pronunciation": "사포르", "korean": "맛" },
+    { "latin": "dulcis", "pronunciation": "둘키스", "korean": "달콤한" },
+    { "latin": "salsus", "pronunciation": "살수스", "korean": "짠" },
+    { "latin": "amarus", "pronunciation": "아마루스", "korean": "쓴" },
+    { "latin": "caseus", "pronunciation": "카세우스", "korean": "치즈" },
+    { "latin": "aqua", "pronunciation": "아쿠아", "korean": "물" },
+    { "latin": "bibere", "pronunciation": "비베레", "korean": "마시다" }
+  ]
+}

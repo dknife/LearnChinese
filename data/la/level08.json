@@ -1,0 +1,53 @@
+{
+  "level": 8,
+  "title": "시간 표현",
+  "titleLa": "Tempus",
+  "description": "라틴어로 시간을 묻고 표현하는 방법을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Quota hora est?", "pronunciation": "쿠오타 호라 에스트?", "korean": "몇 시인가요?" },
+      { "latin": "Quae hora est nunc?", "pronunciation": "쿠아에 호라 에스트 눙크?", "korean": "지금 몇 시인가요?" },
+      { "latin": "Dic mihi horam, quaeso.", "pronunciation": "딕 미히 호람, 쿠아에소.", "korean": "시간을 알려주세요, 부탁합니다." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Hora tertia est.", "pronunciation": "호라 테르티아 에스트.", "korean": "세 번째 시간입니다." },
+      { "latin": "Nunc hora tertia.", "pronunciation": "눙크 호라 테르티아.", "korean": "지금 세 시입니다." },
+      { "latin": "Tertia hora diei est.", "pronunciation": "테르티아 호라 디에이 에스트.", "korean": "하루의 세 번째 시간입니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Quando convivium incipit?", "pronunciation": "쿠안도 콘비비움 인키핏?", "korean": "연회는 언제 시작하나요?" },
+      { "latin": "Quota hora convivium est?", "pronunciation": "쿠오타 호라 콘비비움 에스트?", "korean": "연회는 몇 시인가요?" },
+      { "latin": "Quaeso, quando cena erit?", "pronunciation": "쿠아에소, 쿠안도 케나 에릿?", "korean": "부탁합니다, 저녁은 언제인가요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Hora nona incipiet.", "pronunciation": "호라 노나 인키피엣.", "korean": "아홉 번째 시간에 시작합니다." },
+      { "latin": "Cena hora nona erit.", "pronunciation": "케나 호라 노나 에릿.", "korean": "저녁은 아홉 시에 있을 것입니다." },
+      { "latin": "Post horam nonam venito.", "pronunciation": "포스트 호람 노남 베니토.", "korean": "아홉 시 이후에 오세요." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Mane an vesperi?", "pronunciation": "마네 안 베스페리?", "korean": "아침인가요 저녁인가요?" },
+      { "latin": "Ante meridiem an post?", "pronunciation": "안테 메리디엠 안 포스트?", "korean": "오전인가요 오후인가요?" },
+      { "latin": "Tempore matutino an vespertino?", "pronunciation": "템포레 마투티노 안 베스페르티노?", "korean": "아침 시간인가요 저녁 시간인가요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Vesperi, post solis occasum.", "pronunciation": "베스페리, 포스트 솔리스 옥카숨.", "korean": "저녁, 해가 진 후입니다." },
+      { "latin": "Post meridiem, hora nona.", "pronunciation": "포스트 메리디엠, 호라 노나.", "korean": "오후, 아홉 시입니다." },
+      { "latin": "Tempore vespertino.", "pronunciation": "템포레 베스페르티노.", "korean": "저녁 시간입니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Gratias. Non sero veniam.", "pronunciation": "그라티아스. 논 세로 베니암.", "korean": "감사합니다. 늦지 않게 가겠습니다." },
+      { "latin": "Intellego. Tempore veniam.", "pronunciation": "인텔레고. 템포레 베니암.", "korean": "알겠습니다. 제시간에 가겠습니다." },
+      { "latin": "Optime. Ibi ero!", "pronunciation": "옵티메. 이비 에로!", "korean": "좋습니다. 거기 있겠습니다!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "hora", "pronunciation": "호라", "korean": "시간" },
+    { "latin": "tempus", "pronunciation": "템푸스", "korean": "시간, 때" },
+    { "latin": "mane", "pronunciation": "마네", "korean": "아침" },
+    { "latin": "vesperi", "pronunciation": "베스페리", "korean": "저녁에" },
+    { "latin": "meridies", "pronunciation": "메리디에스", "korean": "정오" },
+    { "latin": "nunc", "pronunciation": "눙크", "korean": "지금" },
+    { "latin": "sero", "pronunciation": "세로", "korean": "늦게" },
+    { "latin": "quando", "pronunciation": "쿠안도", "korean": "언제" }
+  ]
+}

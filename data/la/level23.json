@@ -1,0 +1,53 @@
+{
+  "level": 23,
+  "title": "직장 & 업무",
+  "titleLa": "Labor et Negotium",
+  "description": "라틴어로 직장과 업무에 관한 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Quae est professio tua?", "pronunciation": "쿠아에 에스트 프로페시오 투아?", "korean": "직업이 무엇인가요?" },
+      { "latin": "Quid operis facis?", "pronunciation": "퀴드 오페리스 파키스?", "korean": "무슨 일을 하시나요?" },
+      { "latin": "Ubi laboras?", "pronunciation": "우비 라보라스?", "korean": "어디서 일하시나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Advocatus sum. In foro laboro.", "pronunciation": "아드보카투스 숨. 인 포로 라보로.", "korean": "변호사입니다. 법정에서 일합니다." },
+      { "latin": "Mercator sum. Merces vendo.", "pronunciation": "메르카토르 숨. 메르케스 벤도.", "korean": "상인입니다. 물건을 팝니다." },
+      { "latin": "Magister sum. In schola doceo.", "pronunciation": "마기스테르 숨. 인 스콜라 도케오.", "korean": "선생님입니다. 학교에서 가르칩니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Placetne tibi labor tuus?", "pronunciation": "플라켓네 티비 라보르 투우스?", "korean": "일이 마음에 드나요?" },
+      { "latin": "Amasne officium tuum?", "pronunciation": "아마스네 오피키움 투움?", "korean": "당신의 직무를 좋아하나요?" },
+      { "latin": "Estne labor difficilis?", "pronunciation": "에스트네 라보르 디피킬리스?", "korean": "일이 어려운가요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Ita, laborem meum valde amo.", "pronunciation": "이타, 라보렘 메움 발데 아모.", "korean": "네, 제 일을 매우 좋아합니다." },
+      { "latin": "Interdum difficilis est, sed gratus.", "pronunciation": "인테르둠 디피킬리스 에스트, 세드 그라투스.", "korean": "때때로 어렵지만, 보람 있습니다." },
+      { "latin": "Occupatus sum, sed contentus.", "pronunciation": "옥쿠파투스 숨, 세드 콘텐투스.", "korean": "바쁘지만, 만족합니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Quot horas per diem laboras?", "pronunciation": "쿠옷 호라스 페르 디엠 라보라스?", "korean": "하루에 몇 시간 일하나요?" },
+      { "latin": "Quando labor tuus incipit?", "pronunciation": "쿠안도 라보르 투우스 인키핏?", "korean": "일이 언제 시작하나요?" },
+      { "latin": "Multum laborasne?", "pronunciation": "물툼 라보라스네?", "korean": "일을 많이 하나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Octo horas per diem laboro.", "pronunciation": "옥토 호라스 페르 디엠 라보로.", "korean": "하루 8시간 일합니다." },
+      { "latin": "A mane usque ad vesperam.", "pronunciation": "아 마네 우스쿠에 아드 베스페람.", "korean": "아침부터 저녁까지요." },
+      { "latin": "Sex dies per septimanam laboro.", "pronunciation": "섹스 디에스 페르 셉티마남 라보로.", "korean": "주 6일 일합니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Laborem bonum facis. Macte virtute!", "pronunciation": "라보렘 보눔 파키스. 막테 비르투테!", "korean": "좋은 일을 하고 계시네요. 수고하세요!" },
+      { "latin": "Professionem tuam admitor!", "pronunciation": "프로페시오넴 투암 아드미로르!", "korean": "당신의 직업을 존경합니다!" },
+      { "latin": "Bene laborasti! Merces digna erit.", "pronunciation": "베네 라보라스티! 메르케스 디그나 에릿.", "korean": "잘 일하셨어요! 합당한 보상이 있을 거예요." }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "labor", "pronunciation": "라보르", "korean": "노동, 일" },
+    { "latin": "negotium", "pronunciation": "네고티움", "korean": "업무" },
+    { "latin": "professio", "pronunciation": "프로페시오", "korean": "직업" },
+    { "latin": "advocatus", "pronunciation": "아드보카투스", "korean": "변호사" },
+    { "latin": "mercator", "pronunciation": "메르카토르", "korean": "상인" },
+    { "latin": "magister", "pronunciation": "마기스테르", "korean": "선생님" },
+    { "latin": "officium", "pronunciation": "오피키움", "korean": "직무, 의무" },
+    { "latin": "merces", "pronunciation": "메르케스", "korean": "보수, 급여" }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "level": 15,
+  "title": "취미 & 여가",
+  "titleLa": "Otium et Oblectamenta",
+  "description": "라틴어로 취미와 여가 활동을 표현하는 방법을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Quid facis in otio?", "pronunciation": "퀴드 파키스 인 오티오?", "korean": "여가 시간에 무엇을 하나요?" },
+      { "latin": "Quae sunt oblectamenta tua?", "pronunciation": "쿠아에 순트 오블렉타멘타 투아?", "korean": "당신의 취미는 무엇인가요?" },
+      { "latin": "Quomodo tempus liberum agis?", "pronunciation": "쿠오모도 템푸스 리베룸 아기스?", "korean": "자유 시간을 어떻게 보내나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Libros legere amo.", "pronunciation": "리브로스 레게레 아모.", "korean": "책 읽는 것을 좋아합니다." },
+      { "latin": "In thermis natare soleo.", "pronunciation": "인 테르미스 나타레 솔레오.", "korean": "목욕탕에서 수영하곤 합니다." },
+      { "latin": "Ludos gladiatorios spectare gaudeo.", "pronunciation": "루도스 글라디아토리오스 스펙타레 가우데오.", "korean": "검투사 경기를 관람하는 것이 즐겁습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Ego quoque legere amo!", "pronunciation": "에고 쿠오쿠에 레게레 아모!", "korean": "저도 읽는 것을 좋아해요!" },
+      { "latin": "Id valde interessans est!", "pronunciation": "이드 발데 인테레산스 에스트!", "korean": "그것은 정말 재미있네요!" },
+      { "latin": "Mihi quoque placet!", "pronunciation": "미히 쿠오쿠에 플라켓!", "korean": "저도 좋아해요!" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Ludesne pila mecum?", "pronunciation": "루데스네 필라 메쿰?", "korean": "저와 공놀이 하시겠어요?" },
+      { "latin": "Visne ad thermas ire?", "pronunciation": "비스네 아드 테르마스 이레?", "korean": "목욕탕에 가시겠어요?" },
+      { "latin": "Ambularemusne in horto?", "pronunciation": "암불라레무스네 인 호르토?", "korean": "정원에서 산책할까요?" }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Libenter! Quando eamus?", "pronunciation": "리벤테르! 쿠안도 에아무스?", "korean": "기꺼이! 언제 갈까요?" },
+      { "latin": "Placet mihi! Hodie an cras?", "pronunciation": "플라켓 미히! 호디에 안 크라스?", "korean": "좋아요! 오늘인가요 내일인가요?" },
+      { "latin": "Maxime volo! Eamus nunc!", "pronunciation": "막시메 볼로! 에아무스 눙크!", "korean": "정말 원해요! 지금 갑시다!" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Post meridiem eamus.", "pronunciation": "포스트 메리디엠 에아무스.", "korean": "오후에 갑시다." },
+      { "latin": "Hora quinta conveniamus.", "pronunciation": "호라 퀸타 콘베니아무스.", "korean": "다섯 시에 만납시다." },
+      { "latin": "Statim proficiscamur!", "pronunciation": "스타팀 프로피키스카무르!", "korean": "바로 출발합시다!" }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Optime! Hoc valde iucundum erit!", "pronunciation": "옵티메! 호크 발데 이우쿤둠 에릿!", "korean": "좋아요! 이것은 정말 즐거울 거예요!" },
+      { "latin": "Praeclare! Gaudeo valde!", "pronunciation": "프라에클라레! 가우데오 발데!", "korean": "훌륭해요! 매우 기뻐요!" },
+      { "latin": "Perfecte! Laetissimus sum!", "pronunciation": "페르펙테! 라에티시무스 숨!", "korean": "완벽해요! 매우 기쁩니다!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "otium", "pronunciation": "오티움", "korean": "여가" },
+    { "latin": "legere", "pronunciation": "레게레", "korean": "읽다" },
+    { "latin": "natare", "pronunciation": "나타레", "korean": "수영하다" },
+    { "latin": "ludus", "pronunciation": "루두스", "korean": "놀이, 경기" },
+    { "latin": "spectare", "pronunciation": "스펙타레", "korean": "관람하다" },
+    { "latin": "ambulare", "pronunciation": "암불라레", "korean": "산책하다" },
+    { "latin": "hortus", "pronunciation": "호르투스", "korean": "정원" },
+    { "latin": "iucundus", "pronunciation": "이우쿤두스", "korean": "즐거운" }
+  ]
+}

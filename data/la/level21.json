@@ -1,0 +1,53 @@
+{
+  "level": 21,
+  "title": "관광 & 사진",
+  "titleLa": "Peregrinatio et Imagines",
+  "description": "라틴어로 관광하고 사진 촬영에 관한 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Quae loca visitanda sunt in hac urbe?", "pronunciation": "쿠아에 로카 비시탄다 순트 인 학 우르베?", "korean": "이 도시에서 어떤 곳을 방문해야 하나요?" },
+      { "latin": "Quid videre debeam?", "pronunciation": "퀴드 비데레 데베암?", "korean": "무엇을 봐야 하나요?" },
+      { "latin": "Ubi sunt monumenta celebria?", "pronunciation": "우비 순트 모누멘타 켈레브리아?", "korean": "유명한 기념물이 어디에 있나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Colosseum et Forum Romanum vide!", "pronunciation": "콜로세움 에트 포룸 로마눔 비데!", "korean": "콜로세움과 로마 광장을 보세요!" },
+      { "latin": "Pantheon pulcherrimum est.", "pronunciation": "판테온 풀케리뭄 에스트.", "korean": "판테온이 매우 아름답습니다." },
+      { "latin": "Thermas Caracallae commendo.", "pronunciation": "테르마스 카라칼라에 콤멘도.", "korean": "카라칼라 목욕탕을 추천합니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Possum hic imaginem pingere?", "pronunciation": "포숨 힉 이마기넴 핑게레?", "korean": "여기서 그림을 그려도 되나요?" },
+      { "latin": "Licetne hic picturam facere?", "pronunciation": "리켓네 힉 픽투람 파케레?", "korean": "여기서 그림을 그려도 될까요?" },
+      { "latin": "Velim hanc scenam depingere.", "pronunciation": "벨림 한크 스케남 데핑게레.", "korean": "이 장면을 그리고 싶습니다." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Certe! Locus pulcher est.", "pronunciation": "케르테! 로쿠스 풀케르 에스트.", "korean": "물론이죠! 아름다운 장소입니다." },
+      { "latin": "Ita, sed extra templum, quaeso.", "pronunciation": "이타, 세드 엑스트라 템플룸, 쿠아에소.", "korean": "네, 하지만 신전 밖에서 부탁합니다." },
+      { "latin": "Licet. Prospectus hinc magnificus est.", "pronunciation": "리켓. 프로스펙투스 힌크 마그니피쿠스 에스트.", "korean": "가능해요. 여기서 전망이 웅장합니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Quam magnificum aedificium!", "pronunciation": "쿠암 마그니피쿰 아에디피키움!", "korean": "정말 웅장한 건물이네요!" },
+      { "latin": "Hoc monumentum me delectat!", "pronunciation": "호크 모누멘툼 메 델렉탓!", "korean": "이 기념물이 정말 좋습니다!" },
+      { "latin": "Numquam tale quid vidi!", "pronunciation": "눔쿠암 탈레 퀴드 비디!", "korean": "이런 것은 본 적이 없어요!" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Hoc aedificium mille annos antiquum est.", "pronunciation": "호크 아에디피키움 밀레 안노스 안티쿠움 에스트.", "korean": "이 건물은 천 년이나 됐습니다." },
+      { "latin": "Ab imperatore Augusto aedificatum est.", "pronunciation": "아브 임페라토레 아우구스토 아에디피카툼 에스트.", "korean": "아우구스투스 황제가 건축했습니다." },
+      { "latin": "Historia huius loci longa est.", "pronunciation": "히스토리아 후이우스 로키 롱가 에스트.", "korean": "이 장소의 역사는 깁니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Gratias pro informatione! Mirabilis dies fuit!", "pronunciation": "그라티아스 프로 인포르마티오네! 미라빌리스 디에스 푸이트!", "korean": "정보 감사합니다! 놀라운 하루였어요!" },
+      { "latin": "Optime! Hunc locum numquam obliviscar.", "pronunciation": "옵티메! 훙크 로쿰 눔쿠암 오블리비스카르.", "korean": "훌륭해요! 이 장소를 절대 잊지 못할 거예요." },
+      { "latin": "Peregrinatio optima! Gratias!", "pronunciation": "페레그리나티오 옵티마! 그라티아스!", "korean": "최고의 관광이에요! 감사합니다!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "peregrinatio", "pronunciation": "페레그리나티오", "korean": "관광, 여행" },
+    { "latin": "imago", "pronunciation": "이마고", "korean": "이미지, 그림" },
+    { "latin": "monumentum", "pronunciation": "모누멘툼", "korean": "기념물" },
+    { "latin": "aedificium", "pronunciation": "아에디피키움", "korean": "건물" },
+    { "latin": "prospectus", "pronunciation": "프로스펙투스", "korean": "전망" },
+    { "latin": "magnificus", "pronunciation": "마그니피쿠스", "korean": "웅장한" },
+    { "latin": "antiquus", "pronunciation": "안티쿠우스", "korean": "오래된" },
+    { "latin": "historia", "pronunciation": "히스토리아", "korean": "역사" }
+  ]
+}

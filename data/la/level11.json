@@ -1,0 +1,53 @@
+{
+  "level": 11,
+  "title": "감정 표현",
+  "titleLa": "Affectus et Sensus",
+  "description": "라틴어로 감정과 느낌을 표현하는 방법을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Quomodo te habes hodie?", "pronunciation": "쿠오모도 테 하베스 호디에?", "korean": "오늘 기분이 어떠세요?" },
+      { "latin": "Quid sentis hodie?", "pronunciation": "퀴드 센티스 호디에?", "korean": "오늘 무엇을 느끼나요?" },
+      { "latin": "Esne laetus hodie?", "pronunciation": "에스네 라에투스 호디에?", "korean": "오늘 기쁜가요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Laetissimus sum! Hodie dies felix est.", "pronunciation": "라에티시무스 숨! 호디에 디에스 펠릭스 에스트.", "korean": "매우 기쁩니다! 오늘은 행복한 날이에요." },
+      { "latin": "Valde bene me habeo.", "pronunciation": "발데 베네 메 하베오.", "korean": "매우 잘 지내고 있습니다." },
+      { "latin": "Hodie felix sum.", "pronunciation": "호디에 펠릭스 숨.", "korean": "오늘 행복합니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Cur tam laetus es?", "pronunciation": "쿠르 탐 라에투스 에스?", "korean": "왜 그렇게 기쁜가요?" },
+      { "latin": "Quid accidit boni?", "pronunciation": "퀴드 악키딧 보니?", "korean": "무슨 좋은 일이 있었나요?" },
+      { "latin": "Quae causa gaudii tui est?", "pronunciation": "쿠아에 카우사 가우디이 투이 에스트?", "korean": "기쁨의 원인이 무엇인가요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Amicum veterem hodie vidi!", "pronunciation": "아미쿰 베테렘 호디에 비디!", "korean": "오늘 오래된 친구를 만났어요!" },
+      { "latin": "Bonum nuntium accepi.", "pronunciation": "보눔 눈티움 악케피.", "korean": "좋은 소식을 받았습니다." },
+      { "latin": "Victoriam in ludo reportavi!", "pronunciation": "빅토리암 인 루도 레포르타비!", "korean": "경기에서 승리했습니다!" }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Quam bonum! Valde gaudeo pro te.", "pronunciation": "쿠암 보눔! 발데 가우데오 프로 테.", "korean": "정말 좋군요! 당신을 위해 매우 기쁩니다." },
+      { "latin": "Mirabilis! Tibi gratulor!", "pronunciation": "미라빌리스! 티비 그라툴로르!", "korean": "놀랍군요! 축하합니다!" },
+      { "latin": "Optime! Feliciter!", "pronunciation": "옵티메! 펠리키테르!", "korean": "훌륭해요! 다행이에요!" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Gratias. Et tu quomodo te habes?", "pronunciation": "그라티아스. 에트 투 쿠오모도 테 하베스?", "korean": "감사합니다. 당신은 어떠세요?" },
+      { "latin": "Tibi gratias ago. Quid de te?", "pronunciation": "티비 그라티아스 아고. 퀴드 데 테?", "korean": "감사합니다. 당신은요?" },
+      { "latin": "Benignus es. Tu quoque laetus?", "pronunciation": "베니그누스 에스. 투 쿠오쿠에 라에투스?", "korean": "친절하시네요. 당신도 기쁜가요?" }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Paululum fessus sum, sed bene.", "pronunciation": "파울룰룸 페수스 숨, 세드 베네.", "korean": "약간 피곤하지만, 괜찮습니다." },
+      { "latin": "Sollicitus sum de labore.", "pronunciation": "솔리키투스 숨 데 라보레.", "korean": "일 때문에 걱정됩니다." },
+      { "latin": "Tranquillus sum. Omnia bene sunt.", "pronunciation": "트란퀼루스 숨. 옴니아 베네 순트.", "korean": "평온합니다. 모든 것이 좋습니다." }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "laetus", "pronunciation": "라에투스", "korean": "기쁜" },
+    { "latin": "tristis", "pronunciation": "트리스티스", "korean": "슬픈" },
+    { "latin": "iratus", "pronunciation": "이라투스", "korean": "화난" },
+    { "latin": "fessus", "pronunciation": "페수스", "korean": "피곤한" },
+    { "latin": "sollicitus", "pronunciation": "솔리키투스", "korean": "걱정하는" },
+    { "latin": "felix", "pronunciation": "펠릭스", "korean": "행복한" },
+    { "latin": "gaudium", "pronunciation": "가우디움", "korean": "기쁨" },
+    { "latin": "sentire", "pronunciation": "센티레", "korean": "느끼다" }
+  ]
+}

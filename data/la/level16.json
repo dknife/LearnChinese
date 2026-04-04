@@ -1,0 +1,53 @@
+{
+  "level": 16,
+  "title": "전화 통화",
+  "titleLa": "Colloquium per Nuntium",
+  "description": "라틴어로 소식 전달과 원거리 대화를 표현합니다. 고대 로마의 전령 체계를 현대 전화에 비유합니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Nuntium tibi misi. Accepistine?", "pronunciation": "눈티움 티비 미시. 악케피스티네?", "korean": "당신에게 소식을 보냈습니다. 받으셨나요?" },
+      { "latin": "Epistulam meam legistine?", "pronunciation": "에피스툴람 메암 레기스티네?", "korean": "제 편지를 읽으셨나요?" },
+      { "latin": "Tabellarius meus ad te pervenit?", "pronunciation": "타벨라리우스 메우스 아드 테 페르베닛?", "korean": "제 전령이 당신에게 도착했나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Ita, nuntium tuum accepi.", "pronunciation": "이타, 눈티움 투움 악케피.", "korean": "네, 당신의 소식을 받았습니다." },
+      { "latin": "Epistulam tuam heri legi.", "pronunciation": "에피스툴람 투암 헤리 레기.", "korean": "당신의 편지를 어제 읽었습니다." },
+      { "latin": "Sic, tabellarius tuus heri venit.", "pronunciation": "시크, 타벨라리우스 투우스 헤리 베닛.", "korean": "네, 당신의 전령이 어제 왔습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Volo tecum de negotio loqui.", "pronunciation": "볼로 테쿰 데 네고티오 로퀴.", "korean": "당신과 일에 대해 이야기하고 싶습니다." },
+      { "latin": "Res magni momenti tibi dicenda est.", "pronunciation": "레스 마그니 모멘티 티비 디켄다 에스트.", "korean": "중요한 일을 말씀드려야 합니다." },
+      { "latin": "Habeo aliquid tibi narrare.", "pronunciation": "하베오 알리퀴드 티비 나라레.", "korean": "당신에게 할 이야기가 있습니다." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Dic mihi. Aures praebeo.", "pronunciation": "딕 미히. 아우레스 프라에베오.", "korean": "말씀하세요. 귀 기울이고 있습니다." },
+      { "latin": "Audio te. Quid est?", "pronunciation": "아우디오 테. 퀴드 에스트?", "korean": "듣고 있습니다. 무엇인가요?" },
+      { "latin": "Attente ausculto. Narra.", "pronunciation": "아텐테 아우스쿨토. 나라.", "korean": "주의 깊게 듣겠습니다. 말씀하세요." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Conventus noster in alium diem mutandus est.", "pronunciation": "콘벤투스 노스테르 인 알리움 디엠 무탄두스 에스트.", "korean": "우리 모임을 다른 날로 바꿔야 합니다." },
+      { "latin": "Tempus conventus mutare debeo.", "pronunciation": "템푸스 콘벤투스 무타레 데베오.", "korean": "모임 시간을 바꿔야 합니다." },
+      { "latin": "Hodie convenire non possum.", "pronunciation": "호디에 콘베니레 논 포숨.", "korean": "오늘은 만날 수 없습니다." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Intellego. Quando vis convenire?", "pronunciation": "인텔레고. 쿠안도 비스 콘베니레?", "korean": "알겠습니다. 언제 만나고 싶으세요?" },
+      { "latin": "Nihil est. Alium diem elige.", "pronunciation": "니힐 에스트. 알리움 디엠 엘리게.", "korean": "괜찮아요. 다른 날을 선택하세요." },
+      { "latin": "Non est problema. Dic novum tempus.", "pronunciation": "논 에스트 프로블레마. 딕 노붐 템푸스.", "korean": "문제없어요. 새 시간을 알려주세요." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Postridie conveniam. Gratias pro patientia.", "pronunciation": "포스트리디에 콘베니암. 그라티아스 프로 파티엔티아.", "korean": "모레 만나겠습니다. 인내에 감사합니다." },
+      { "latin": "Die Veneris, si tibi placet.", "pronunciation": "디에 베네리스, 시 티비 플라켓.", "korean": "금요일에요, 괜찮으시면." },
+      { "latin": "Proximo die Lunae. Vale!", "pronunciation": "프록시모 디에 루나에. 발레!", "korean": "다음 월요일에요. 안녕!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "nuntius", "pronunciation": "눈티우스", "korean": "소식, 전령" },
+    { "latin": "epistula", "pronunciation": "에피스툴라", "korean": "편지" },
+    { "latin": "loqui", "pronunciation": "로퀴", "korean": "말하다" },
+    { "latin": "audire", "pronunciation": "아우디레", "korean": "듣다" },
+    { "latin": "auscultare", "pronunciation": "아우스쿨타레", "korean": "경청하다" },
+    { "latin": "mittere", "pronunciation": "밋테레", "korean": "보내다" },
+    { "latin": "accipere", "pronunciation": "악키페레", "korean": "받다" },
+    { "latin": "narrare", "pronunciation": "나라레", "korean": "이야기하다" }
+  ]
+}

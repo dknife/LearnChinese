@@ -1,0 +1,74 @@
+{
+  "level": 3,
+  "title": "가족 소개",
+  "titleRu": "Семья",
+  "description": "러시아어로 가족을 소개하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "У вас большая семья?", "pronunciation": "우 바스 발샤야 씨미야?", "korean": "가족이 많으신가요?" },
+        { "russian": "Расскажите о вашей семье.", "pronunciation": "라스까쥐쩨 아 바쉐이 씨미예.", "korean": "가족에 대해 말씀해 주세요." },
+        { "russian": "Сколько человек в вашей семье?", "pronunciation": "스꼴까 칠라벡 브 바쉐이 씨미예?", "korean": "가족이 몇 명이에요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "У меня семья из четырёх человек: мама, папа, я и сестра.", "pronunciation": "우 미냐 씨미야 이즈 치띠룍 칠라벡: 마마, 빠빠, 야 이 씨스뜨라.", "korean": "저희 가족은 4명이에요: 엄마, 아빠, 저 그리고 여동생이요." },
+        { "russian": "Нас пятеро: родители, два брата и я.", "pronunciation": "나스 삐쩨라: 라디쩰리, 드바 브라따 이 야.", "korean": "저희는 다섯 명이에요: 부모님, 형 둘 그리고 저요." },
+        { "russian": "У меня небольшая семья — только я и мама.", "pronunciation": "우 미냐 니발샤야 씨미야 — 똘까 야 이 마마.", "korean": "저희 가족은 작아요 — 저와 엄마뿐이에요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Чем занимаются ваши родители?", "pronunciation": "쳄 자니마유짜 바쉬 라디쩰리?", "korean": "부모님은 무슨 일을 하세요?" },
+        { "russian": "Ваши родители работают?", "pronunciation": "바쉬 라디쩰리 라보따유뜨?", "korean": "부모님은 일하세요?" },
+        { "russian": "Кем работает твой папа?", "pronunciation": "겜 라보따잇 뜨보이 빠빠?", "korean": "너 아빠는 무슨 일 하셔?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Мой папа — врач, а мама — учительница.", "pronunciation": "모이 빠빠 — 브라치, 아 마마 — 우치쩰니짜.", "korean": "아빠는 의사이고, 엄마는 교사예요." },
+        { "russian": "Папа работает инженером, мама — домохозяйка.", "pronunciation": "빠빠 라보따잇 인쥐네롬, 마마 — 다마하쟈이까.", "korean": "아빠는 엔지니어이고, 엄마는 주부예요." },
+        { "russian": "Оба родителя на пенсии.", "pronunciation": "오바 라디쩰랴 나 펜씨이.", "korean": "부모님 두 분 다 은퇴하셨어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "У вас есть братья или сёстры?", "pronunciation": "우 바스 예스찌 브라찌야 일리 쇼스뜨리?", "korean": "형제자매가 있으세요?" },
+        { "russian": "Ты единственный ребёнок?", "pronunciation": "띠 이딘스뜨벤니 리뵤낙?", "korean": "너 외동이야?" },
+        { "russian": "Сколько у вас братьев и сестёр?", "pronunciation": "스꼴까 우 바스 브라찌예프 이 씨스뜨료르?", "korean": "형제자매가 몇 명이에요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "У меня есть старший брат и младшая сестра.", "pronunciation": "우 미냐 예스찌 스따르쉬 브라뜨 이 믈랏샤야 씨스뜨라.", "korean": "저는 형과 여동생이 있어요." },
+        { "russian": "Я единственный ребёнок в семье.", "pronunciation": "야 이딘스뜨벤니 리뵤낙 프 씨미예.", "korean": "저는 외동이에요." },
+        { "russian": "У меня две сестры, обе старше меня.", "pronunciation": "우 미냐 드볘 씨스뜨리, 오비 스따르쉬 미냐.", "korean": "저는 언니가 두 명 있어요, 둘 다 저보다 나이가 많아요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Какая замечательная семья!", "pronunciation": "까까야 자미차쩰나야 씨미야!", "korean": "정말 좋은 가족이네요!" },
+        { "russian": "У вас дружная семья!", "pronunciation": "우 바스 드루쥐나야 씨미야!", "korean": "가족이 사이가 좋으시네요!" },
+        { "russian": "Здорово! Большая семья — это хорошо.", "pronunciation": "즈도로바! 발샤야 씨미야 — 에따 하라쇼.", "korean": "멋져요! 대가족은 좋은 거예요." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "russian": "семья", "pronunciation": "씨미야", "korean": "가족" },
+    { "russian": "мама", "pronunciation": "마마", "korean": "엄마" },
+    { "russian": "папа", "pronunciation": "빠빠", "korean": "아빠" },
+    { "russian": "брат", "pronunciation": "브라뜨", "korean": "형, 오빠, 남동생" },
+    { "russian": "сестра", "pronunciation": "씨스뜨라", "korean": "언니, 누나, 여동생" },
+    { "russian": "родители", "pronunciation": "라디쩰리", "korean": "부모님" },
+    { "russian": "ребёнок", "pronunciation": "리뵤낙", "korean": "아이" },
+    { "russian": "муж", "pronunciation": "무쉬", "korean": "남편" }
+  ]
+}

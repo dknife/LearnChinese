@@ -1,0 +1,53 @@
+{
+  "level": 2,
+  "title": "숫자 & 날짜",
+  "titleLa": "Numeri et Dies",
+  "description": "라틴어 숫자와 날짜 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Quot annos natus es?", "pronunciation": "쿠옷 안노스 나투스 에스?", "korean": "나이가 어떻게 되시나요?" },
+      { "latin": "Quam senex es?", "pronunciation": "쿠암 세넥스 에스?", "korean": "몇 살이신가요?" },
+      { "latin": "Quae est aetas tua?", "pronunciation": "쿠아에 에스트 아에타스 투아?", "korean": "당신의 나이는 얼마인가요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Triginta annos natus sum.", "pronunciation": "트리긴타 안노스 나투스 숨.", "korean": "서른 살입니다." },
+      { "latin": "Triginta annorum sum.", "pronunciation": "트리긴타 안노룸 숨.", "korean": "30세입니다." },
+      { "latin": "Annos triginta habeo.", "pronunciation": "안노스 트리긴타 하베오.", "korean": "나이가 서른입니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Quis dies hodie est?", "pronunciation": "퀴스 디에스 호디에 에스트?", "korean": "오늘은 무슨 요일인가요?" },
+      { "latin": "Quota est hodie?", "pronunciation": "쿠오타 에스트 호디에?", "korean": "오늘은 며칠인가요?" },
+      { "latin": "Quae dies est hodie?", "pronunciation": "쿠아에 디에스 에스트 호디에?", "korean": "오늘이 무슨 날인가요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Hodie est dies Lunae.", "pronunciation": "호디에 에스트 디에스 루나에.", "korean": "오늘은 월요일입니다." },
+      { "latin": "Dies Lunae est.", "pronunciation": "디에스 루나에 에스트.", "korean": "월요일입니다." },
+      { "latin": "Hodie Lunae diem habemus.", "pronunciation": "호디에 루나에 디엠 하베무스.", "korean": "오늘은 월요일을 맞이합니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Quot libros habes?", "pronunciation": "쿠옷 리브로스 하베스?", "korean": "책이 몇 권 있나요?" },
+      { "latin": "Numerum librorum dic mihi.", "pronunciation": "누메룸 리브로룸 딕 미히.", "korean": "책의 수를 알려주세요." },
+      { "latin": "Multosne libros possides?", "pronunciation": "물토스네 리브로스 포시데스?", "korean": "책을 많이 가지고 있나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Decem libros habeo.", "pronunciation": "데켐 리브로스 하베오.", "korean": "책이 열 권 있습니다." },
+      { "latin": "Libri mei decem sunt.", "pronunciation": "리브리 메이 데켐 순트.", "korean": "제 책은 열 권입니다." },
+      { "latin": "Numerus librorum meorum decem est.", "pronunciation": "누메루스 리브로룸 메오룸 데켐 에스트.", "korean": "제 책의 수는 열입니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Gratias tibi ago. Vale!", "pronunciation": "그라티아스 티비 아고. 발레!", "korean": "감사합니다. 안녕히 가세요!" },
+      { "latin": "Bene. Tibi gratias!", "pronunciation": "베네. 티비 그라티아스!", "korean": "좋아요. 감사합니다!" },
+      { "latin": "Optime! Gratias maximas!", "pronunciation": "옵티메! 그라티아스 막시마스!", "korean": "훌륭해요! 대단히 감사합니다!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "numerus", "pronunciation": "누메루스", "korean": "숫자" },
+    { "latin": "dies", "pronunciation": "디에스", "korean": "날, 요일" },
+    { "latin": "annus", "pronunciation": "안누스", "korean": "해, 나이" },
+    { "latin": "decem", "pronunciation": "데켐", "korean": "열(10)" },
+    { "latin": "triginta", "pronunciation": "트리긴타", "korean": "서른(30)" },
+    { "latin": "hodie", "pronunciation": "호디에", "korean": "오늘" },
+    { "latin": "quot", "pronunciation": "쿠옷", "korean": "얼마나 많은" },
+    { "latin": "liber", "pronunciation": "리베르", "korean": "책" }
+  ]
+}

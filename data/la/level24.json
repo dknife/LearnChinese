@@ -1,0 +1,53 @@
+{
+  "level": 24,
+  "title": "문화 & 명절",
+  "titleLa": "Cultura et Dies Festi",
+  "description": "라틴어로 로마 문화와 명절에 관한 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Qui sunt dies festi Romanorum?", "pronunciation": "퀴 순트 디에스 페스티 로마노룸?", "korean": "로마인의 명절은 무엇인가요?" },
+      { "latin": "Quae festa Romani celebrant?", "pronunciation": "쿠아에 페스타 로마니 켈레브란트?", "korean": "로마인들은 어떤 축제를 축하하나요?" },
+      { "latin": "Quando proximus dies festus est?", "pronunciation": "쿠안도 프록시무스 디에스 페스투스 에스트?", "korean": "다음 명절은 언제인가요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Saturnalia mense Decembri celebramus.", "pronunciation": "사투르날리아 멘세 데켐브리 켈레브라무스.", "korean": "12월에 사투르날리아를 축하합니다." },
+      { "latin": "Lupercalia mense Februario sunt.", "pronunciation": "루페르칼리아 멘세 페브루아리오 순트.", "korean": "2월에 루페르칼리아가 있습니다." },
+      { "latin": "Multi dies festi per annum sunt.", "pronunciation": "물티 디에스 페스티 페르 안눔 순트.", "korean": "일 년에 많은 명절이 있습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Quomodo Saturnalia celebrantur?", "pronunciation": "쿠오모도 사투르날리아 켈레브란투르?", "korean": "사투르날리아는 어떻게 축하하나요?" },
+      { "latin": "Quid in Saturnalibus facitis?", "pronunciation": "퀴드 인 사투르날리부스 파키티스?", "korean": "사투르날리아에 무엇을 하나요?" },
+      { "latin": "Quae consuetudines habetis?", "pronunciation": "쿠아에 콘수에투디네스 하베티스?", "korean": "어떤 풍습이 있나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Dona inter nos damus et convivium magnum facimus.", "pronunciation": "도나 인테르 노스 다무스 에트 콘비비움 마그눔 파키무스.", "korean": "선물을 교환하고 큰 잔치를 합니다." },
+      { "latin": "Cereos accendimus et cantamus.", "pronunciation": "케레오스 악켄디무스 에트 칸타무스.", "korean": "촛불을 켜고 노래합니다." },
+      { "latin": "Servi et domini una cenant.", "pronunciation": "세르비 에트 도미니 우나 케난트.", "korean": "노예와 주인이 함께 식사합니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Quam pulchra consuetudo!", "pronunciation": "쿠암 풀크라 콘수에투도!", "korean": "정말 아름다운 풍습이네요!" },
+      { "latin": "Cultura Romana valde me delectat.", "pronunciation": "쿨투라 로마나 발데 메 델렉탓.", "korean": "로마 문화가 정말 좋습니다." },
+      { "latin": "Velim in festis vestris participare.", "pronunciation": "벨림 인 페스티스 베스트리스 파르티키파레.", "korean": "당신들의 축제에 참여하고 싶어요." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Libenter! Omnes ad festa invitantur.", "pronunciation": "리벤테르! 옴네스 아드 페스타 인비탄투르.", "korean": "기꺼이! 모두 축제에 초대됩니다." },
+      { "latin": "Veni et nobiscum celebra!", "pronunciation": "베니 에트 노비스쿰 켈레브라!", "korean": "와서 우리와 함께 축하하세요!" },
+      { "latin": "Hospes noster eris!", "pronunciation": "호스페스 노스테르 에리스!", "korean": "당신은 우리의 손님이 될 거예요!" }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Gratias! Io Saturnalia!", "pronunciation": "그라티아스! 이오 사투르날리아!", "korean": "감사합니다! 사투르날리아 만세!" },
+      { "latin": "Felices dies festos!", "pronunciation": "펠리케스 디에스 페스토스!", "korean": "행복한 명절 보내세요!" },
+      { "latin": "Bona fortuna omnibus!", "pronunciation": "보나 포르투나 옴니부스!", "korean": "모두에게 행운을!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "cultura", "pronunciation": "쿨투라", "korean": "문화" },
+    { "latin": "dies festus", "pronunciation": "디에스 페스투스", "korean": "명절" },
+    { "latin": "Saturnalia", "pronunciation": "사투르날리아", "korean": "사투르날리아(로마 축제)" },
+    { "latin": "celebrare", "pronunciation": "켈레브라레", "korean": "축하하다" },
+    { "latin": "donum", "pronunciation": "도눔", "korean": "선물" },
+    { "latin": "convivium", "pronunciation": "콘비비움", "korean": "잔치, 연회" },
+    { "latin": "consuetudo", "pronunciation": "콘수에투도", "korean": "풍습, 관습" },
+    { "latin": "hospes", "pronunciation": "호스페스", "korean": "손님" }
+  ]
+}

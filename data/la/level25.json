@@ -1,0 +1,53 @@
+{
+  "level": 25,
+  "title": "종합 회화",
+  "titleLa": "Colloquia Generalia",
+  "description": "라틴어 종합 회화로 다양한 상황에서의 표현을 복습합니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Salve, amice! Diu te non vidi!", "pronunciation": "살베, 아미케! 디우 테 논 비디!", "korean": "안녕, 친구! 오랜만이야!" },
+      { "latin": "Ave! Quomodo te habuisti?", "pronunciation": "아베! 쿠오모도 테 하부이스티?", "korean": "안녕! 그동안 어떻게 지냈어?" },
+      { "latin": "Tandem te video! Ubi fuisti?", "pronunciation": "탄뎀 테 비데오! 우비 푸이스티?", "korean": "드디어 만났다! 어디 있었어?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Salve! In Graecia fui. Iter longum feci.", "pronunciation": "살베! 인 그라에키아 푸이. 이테르 롱굼 페키.", "korean": "안녕! 그리스에 있었어. 긴 여행을 했어." },
+      { "latin": "Ave! Per multas terras peregrinavi.", "pronunciation": "아베! 페르 물타스 테라스 페레그리나비.", "korean": "안녕! 여러 나라를 여행했어." },
+      { "latin": "In Aegyptum navigavi. Res mirabiles vidi.", "pronunciation": "인 아에깁툼 나비가비. 레스 미라빌레스 비디.", "korean": "이집트로 항해했어. 놀라운 것들을 봤어." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Narra mihi de itinere tuo!", "pronunciation": "나라 미히 데 이티네레 투오!", "korean": "여행에 대해 이야기해줘!" },
+      { "latin": "Quid ibi vidisti?", "pronunciation": "퀴드 이비 비디스티?", "korean": "거기서 무엇을 봤어?" },
+      { "latin": "Qualia loca visitavisti?", "pronunciation": "쿠알리아 로카 비시타비스티?", "korean": "어떤 장소를 방문했어?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Athenas vidi et in Acropoli fui.", "pronunciation": "아테나스 비디 에트 인 아크로폴리 푸이.", "korean": "아테네를 보고 아크로폴리스에 갔어." },
+      { "latin": "Pyramides Aegypti magnificae sunt!", "pronunciation": "피라미데스 아에깁티 마그니피카에 순트!", "korean": "이집트의 피라미드는 웅장해!" },
+      { "latin": "Homines benigni erant et cibus optimus.", "pronunciation": "호미네스 베니그니 에란트 에트 키부스 옵티무스.", "korean": "사람들은 친절했고 음식은 최고였어." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Mirabilia narras! Ego quoque peregrinari volo.", "pronunciation": "미라빌리아 나라스! 에고 쿠오쿠에 페레그리나리 볼로.", "korean": "놀라운 이야기네! 나도 여행하고 싶어." },
+      { "latin": "Invidiam tibi fateor! Quando iterum ibis?", "pronunciation": "인비디암 티비 파테오르! 쿠안도 이테룸 이비스?", "korean": "부럽다! 언제 다시 갈 거야?" },
+      { "latin": "Valde te fortunatum puto!", "pronunciation": "발데 테 포르투나툼 푸토!", "korean": "정말 운이 좋다고 생각해!" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Proximo vere iterum proficiscar. Visne mecum venire?", "pronunciation": "프록시모 베레 이테룸 프로피키스카르. 비스네 메쿰 베니레?", "korean": "다음 봄에 다시 떠날 거야. 나와 함께 갈래?" },
+      { "latin": "Mense Maio navigabo. Veni mecum!", "pronunciation": "멘세 마이오 나비가보. 베니 메쿰!", "korean": "5월에 항해할 거야. 같이 가자!" },
+      { "latin": "Eamus una! Comites optimi erimus.", "pronunciation": "에아무스 우나! 코미테스 옵티미 에리무스.", "korean": "함께 가자! 좋은 동반자가 될 거야." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Libentissime! Iter nostrum memorabile erit!", "pronunciation": "리벤티시메! 이테르 노스트룸 메모라빌레 에릿!", "korean": "기꺼이! 우리 여행은 기억에 남을 거야!" },
+      { "latin": "Maxime volo! Praeparemus nos!", "pronunciation": "막시메 볼로! 프라에파레무스 노스!", "korean": "정말 가고 싶어! 준비하자!" },
+      { "latin": "Optime! Amicitia nostra semper durabit!", "pronunciation": "옵티메! 아미키티아 노스트라 셈페르 두라빗!", "korean": "훌륭해! 우리 우정은 영원할 거야!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "amicus", "pronunciation": "아미쿠스", "korean": "친구" },
+    { "latin": "iter", "pronunciation": "이테르", "korean": "여행" },
+    { "latin": "narrare", "pronunciation": "나라레", "korean": "이야기하다" },
+    { "latin": "navigare", "pronunciation": "나비가레", "korean": "항해하다" },
+    { "latin": "memorabilis", "pronunciation": "메모라빌리스", "korean": "기억에 남는" },
+    { "latin": "amicitia", "pronunciation": "아미키티아", "korean": "우정" },
+    { "latin": "comes", "pronunciation": "코메스", "korean": "동반자" },
+    { "latin": "semper", "pronunciation": "셈페르", "korean": "항상" }
+  ]
+}

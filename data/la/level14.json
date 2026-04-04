@@ -1,0 +1,53 @@
+{
+  "level": 14,
+  "title": "날씨 & 계절",
+  "titleLa": "Caelum et Tempora Anni",
+  "description": "라틴어로 날씨와 계절을 표현하는 방법을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Quale caelum hodie est?", "pronunciation": "쿠알레 카엘룸 호디에 에스트?", "korean": "오늘 날씨가 어떤가요?" },
+      { "latin": "Quomodo caelum se habet?", "pronunciation": "쿠오모도 카엘룸 세 하벳?", "korean": "날씨가 어떤가요?" },
+      { "latin": "Estne bonum caelum hodie?", "pronunciation": "에스트네 보눔 카엘룸 호디에?", "korean": "오늘 날씨 좋은가요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Sol lucet et caelum serenum est.", "pronunciation": "솔 루켓 에트 카엘룸 세레눔 에스트.", "korean": "해가 빛나고 하늘이 맑습니다." },
+      { "latin": "Caelum clarum et calidum est.", "pronunciation": "카엘룸 클라룸 에트 칼리둠 에스트.", "korean": "하늘이 맑고 따뜻합니다." },
+      { "latin": "Pulcher dies est. Sol fulget.", "pronunciation": "풀케르 디에스 에스트. 솔 풀겟.", "korean": "아름다운 날입니다. 해가 빛나요." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Quod tempus anni maxime amas?", "pronunciation": "쿠오드 템푸스 안니 막시메 아마스?", "korean": "어떤 계절을 가장 좋아하나요?" },
+      { "latin": "Ver an aestas tibi placet?", "pronunciation": "베르 안 아에스타스 티비 플라켓?", "korean": "봄과 여름 중 어느 것을 좋아하나요?" },
+      { "latin": "Praefersne hiemem an aestatem?", "pronunciation": "프라에페르스네 히에멤 안 아에스타템?", "korean": "겨울과 여름 중 어느 것을 선호하나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Ver maxime amo. Flores pulchri sunt.", "pronunciation": "베르 막시메 아모. 플로레스 풀크리 순트.", "korean": "봄을 가장 좋아해요. 꽃이 아름답습니다." },
+      { "latin": "Aestatem praefero. Natare amo.", "pronunciation": "아에스타템 프라에페로. 나타레 아모.", "korean": "여름을 선호합니다. 수영을 좋아해요." },
+      { "latin": "Autumnum diligo. Temperies grata est.", "pronunciation": "아우툼눔 딜리고. 템페리에스 그라타 에스트.", "korean": "가을을 좋아합니다. 기온이 쾌적해요." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Cras pluviane erit?", "pronunciation": "크라스 플루비아네 에릿?", "korean": "내일 비가 올까요?" },
+      { "latin": "Putasne cras imbrem fore?", "pronunciation": "푸타스네 크라스 임브렘 포레?", "korean": "내일 비가 올 것 같나요?" },
+      { "latin": "Nubilumne cras erit?", "pronunciation": "누빌룸네 크라스 에릿?", "korean": "내일 흐릴까요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Nescio, sed nubes video.", "pronunciation": "네스키오, 세드 누베스 비데오.", "korean": "모르겠지만, 구름이 보입니다." },
+      { "latin": "Fortasse. Caelum nubilum fit.", "pronunciation": "포르타세. 카엘룸 누빌룸 핏.", "korean": "아마도요. 하늘이 흐려지고 있어요." },
+      { "latin": "Puto imbrem venturum esse.", "pronunciation": "푸토 임브렘 벤투룸 에세.", "korean": "비가 올 것 같습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Tum umbellam feram mecum.", "pronunciation": "툼 움벨람 페람 메쿰.", "korean": "그러면 우산을 가져가야겠어요." },
+      { "latin": "Melius est paenulam sumere.", "pronunciation": "멜리우스 에스트 파에눌람 수메레.", "korean": "비옷을 가져가는 게 낫겠어요." },
+      { "latin": "Domi manebo si pluit.", "pronunciation": "도미 마네보 시 플루이트.", "korean": "비가 오면 집에 있겠습니다." }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "caelum", "pronunciation": "카엘룸", "korean": "하늘, 날씨" },
+    { "latin": "sol", "pronunciation": "솔", "korean": "해" },
+    { "latin": "pluvia", "pronunciation": "플루비아", "korean": "비" },
+    { "latin": "ver", "pronunciation": "베르", "korean": "봄" },
+    { "latin": "aestas", "pronunciation": "아에스타스", "korean": "여름" },
+    { "latin": "autumnus", "pronunciation": "아우툼누스", "korean": "가을" },
+    { "latin": "hiems", "pronunciation": "히엠스", "korean": "겨울" },
+    { "latin": "nubes", "pronunciation": "누베스", "korean": "구름" }
+  ]
+}

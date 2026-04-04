@@ -1,0 +1,53 @@
+{
+  "level": 17,
+  "title": "은행 & 환전",
+  "titleLa": "Argentaria et Pecunia",
+  "description": "라틴어로 은행(환전소)에서 돈을 관리하는 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Ubi est argentaria proxima?", "pronunciation": "우비 에스트 아르겐타리아 프록시마?", "korean": "가장 가까운 환전소는 어디인가요?" },
+      { "latin": "Argentariam quaero.", "pronunciation": "아르겐타리암 쿠아에로.", "korean": "환전소를 찾고 있습니다." },
+      { "latin": "Estne argentaria prope?", "pronunciation": "에스트네 아르겐타리아 프로페?", "korean": "환전소가 근처에 있나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "In foro argentaria est.", "pronunciation": "인 포로 아르겐타리아 에스트.", "korean": "광장에 환전소가 있습니다." },
+      { "latin": "Prope basilicam argentarius sedet.", "pronunciation": "프로페 바실리캄 아르겐타리우스 세뎃.", "korean": "바실리카 근처에 환전상이 있습니다." },
+      { "latin": "Sequere me. Te ducam.", "pronunciation": "세쿠에레 메. 테 두캄.", "korean": "따라오세요. 안내하겠습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Volo aurum in denarios mutare.", "pronunciation": "볼로 아우룸 인 데나리오스 무타레.", "korean": "금을 데나리우스로 환전하고 싶습니다." },
+      { "latin": "Pecuniam Graecam in Romanam convertere volo.", "pronunciation": "페쿠니암 그라에캄 인 로마남 콘베르테레 볼로.", "korean": "그리스 화폐를 로마 화폐로 바꾸고 싶습니다." },
+      { "latin": "Potesne mihi pecuniam mutare?", "pronunciation": "포테스네 미히 페쿠니암 무타레?", "korean": "돈을 환전해줄 수 있나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Certe. Quae ratio hodie est.", "pronunciation": "케르테. 쿠아에 라티오 호디에 에스트.", "korean": "물론이죠. 오늘 환율은 이렇습니다." },
+      { "latin": "Possum. Unum aureum pro viginti quinque denariis.", "pronunciation": "포숨. 우눔 아우레움 프로 비긴티 퀸쿠에 데나리이스.", "korean": "가능합니다. 금화 하나에 25 데나리우스입니다." },
+      { "latin": "Bene. Quantum mutare vis?", "pronunciation": "베네. 쿠안툼 무타레 비스?", "korean": "좋습니다. 얼마나 바꾸시겠어요?" }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Decem aureos, quaeso.", "pronunciation": "데켐 아우레오스, 쿠아에소.", "korean": "금화 열 개 부탁합니다." },
+      { "latin": "Quinque aureos mutare volo.", "pronunciation": "퀸쿠에 아우레오스 무타레 볼로.", "korean": "금화 다섯 개를 환전하고 싶습니다." },
+      { "latin": "Centum denarios mihi da.", "pronunciation": "켄툼 데나리오스 미히 다.", "korean": "100 데나리우스를 주세요." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Ecce pecunia tua. Numera, quaeso.", "pronunciation": "에케 페쿠니아 투아. 누메라, 쿠아에소.", "korean": "여기 당신의 돈입니다. 세어보세요." },
+      { "latin": "Accipe denarios tuos.", "pronunciation": "악키페 데나리오스 투오스.", "korean": "당신의 데나리우스를 받으세요." },
+      { "latin": "Hic sunt ducenti quinquaginta denarii.", "pronunciation": "힉 순트 두켄티 퀸쿠아긴타 데나리이.", "korean": "여기 250 데나리우스가 있습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Recte est. Gratias ago tibi.", "pronunciation": "렉테 에스트. 그라티아스 아고 티비.", "korean": "맞습니다. 감사합니다." },
+      { "latin": "Bene numeravi. Gratias!", "pronunciation": "베네 누메라비. 그라티아스!", "korean": "잘 세었습니다. 감사합니다!" },
+      { "latin": "Pecuniam accepi. Vale!", "pronunciation": "페쿠니암 악케피. 발레!", "korean": "돈을 받았습니다. 안녕!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "argentaria", "pronunciation": "아르겐타리아", "korean": "환전소, 은행" },
+    { "latin": "argentarius", "pronunciation": "아르겐타리우스", "korean": "환전상, 은행가" },
+    { "latin": "pecunia", "pronunciation": "페쿠니아", "korean": "돈" },
+    { "latin": "aurum", "pronunciation": "아우룸", "korean": "금" },
+    { "latin": "denarius", "pronunciation": "데나리우스", "korean": "데나리우스(은화)" },
+    { "latin": "mutare", "pronunciation": "무타레", "korean": "바꾸다, 환전하다" },
+    { "latin": "numerare", "pronunciation": "누메라레", "korean": "세다" },
+    { "latin": "ratio", "pronunciation": "라티오", "korean": "비율, 환율" }
+  ]
+}

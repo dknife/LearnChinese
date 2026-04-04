@@ -1,0 +1,53 @@
+{
+  "level": 12,
+  "title": "약속 잡기",
+  "titleLa": "Conventum Statuere",
+  "description": "라틴어로 약속을 잡고 일정을 정하는 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Visne mecum cras convenire?", "pronunciation": "비스네 메쿰 크라스 콘베니레?", "korean": "내일 저와 만나시겠어요?" },
+      { "latin": "Possumusne cras occurrere?", "pronunciation": "포수무스네 크라스 옥쿠레레?", "korean": "내일 만날 수 있을까요?" },
+      { "latin": "Liberumne tempus cras habes?", "pronunciation": "리베룸네 템푸스 크라스 하베스?", "korean": "내일 시간이 있으신가요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Ita, liber sum cras. Quota hora?", "pronunciation": "이타, 리베르 숨 크라스. 쿠오타 호라?", "korean": "네, 내일 한가합니다. 몇 시에요?" },
+      { "latin": "Cras vacat mihi. Quando vis?", "pronunciation": "크라스 바캇 미히. 쿠안도 비스?", "korean": "내일 비어 있습니다. 언제 원하시나요?" },
+      { "latin": "Possum cras. Quam horam proponis?", "pronunciation": "포숨 크라스. 쿠암 호람 프로포니스?", "korean": "내일 가능합니다. 몇 시를 제안하시나요?" }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Hora sexta in foro, placetne?", "pronunciation": "호라 섹스타 인 포로, 플라켓네?", "korean": "여섯 시에 광장에서, 괜찮으세요?" },
+      { "latin": "Meridie apud thermas convenimus?", "pronunciation": "메리디에 아푸드 테르마스 콘베니무스?", "korean": "정오에 목욕탕 근처에서 만날까요?" },
+      { "latin": "Ante templum hora quinta?", "pronunciation": "안테 템플룸 호라 퀸타?", "korean": "신전 앞에서 다섯 시에요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Placet! Ibi ero.", "pronunciation": "플라켓! 이비 에로.", "korean": "좋습니다! 그곳에 있겠습니다." },
+      { "latin": "Optime convenit. Te exspectabo.", "pronunciation": "옵티메 콘베닛. 테 엑스펙타보.", "korean": "아주 좋습니다. 기다리겠습니다." },
+      { "latin": "Consentio. Non sero veniam.", "pronunciation": "콘센티오. 논 세로 베니암.", "korean": "동의합니다. 늦지 않겠습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Si non potes, nuntia mihi.", "pronunciation": "시 논 포테스, 눈티아 미히.", "korean": "못 오시면 알려주세요." },
+      { "latin": "Si tempus mutandum est, dic mihi.", "pronunciation": "시 템푸스 무탄둠 에스트, 딕 미히.", "korean": "시간을 바꿔야 하면 말씀하세요." },
+      { "latin": "Si impeditus eris, scribe mihi.", "pronunciation": "시 임페디투스 에리스, 스크리베 미히.", "korean": "바쁘시면 편지하세요." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Certe. Promitto me venturum.", "pronunciation": "케르테. 프로밋토 메 벤투룸.", "korean": "물론이요. 가겠다고 약속합니다." },
+      { "latin": "Fideliter veniam.", "pronunciation": "피델리테르 베니암.", "korean": "꼭 가겠습니다." },
+      { "latin": "Sine dubio. Ibi ero tempore.", "pronunciation": "시네 두비오. 이비 에로 템포레.", "korean": "의심 없이. 제시간에 그곳에 있겠습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Optime! Cras nos videbimus!", "pronunciation": "옵티메! 크라스 노스 비데비무스!", "korean": "좋아요! 내일 봐요!" },
+      { "latin": "Bene! Ad cras!", "pronunciation": "베네! 아드 크라스!", "korean": "좋아요! 내일 봅시다!" },
+      { "latin": "Gaudeo! Usque ad cras!", "pronunciation": "가우데오! 우스쿠에 아드 크라스!", "korean": "기뻐요! 내일까지!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "conventum", "pronunciation": "콘벤툼", "korean": "약속, 모임" },
+    { "latin": "convenire", "pronunciation": "콘베니레", "korean": "만나다" },
+    { "latin": "promittere", "pronunciation": "프로밋테레", "korean": "약속하다" },
+    { "latin": "liber", "pronunciation": "리베르", "korean": "자유로운, 한가한" },
+    { "latin": "vacare", "pronunciation": "바카레", "korean": "비어있다" },
+    { "latin": "exspectare", "pronunciation": "엑스펙타레", "korean": "기다리다" },
+    { "latin": "mutare", "pronunciation": "무타레", "korean": "바꾸다" },
+    { "latin": "fideliter", "pronunciation": "피델리테르", "korean": "충실히" }
+  ]
+}

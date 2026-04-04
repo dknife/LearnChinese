@@ -1,0 +1,74 @@
+{
+  "level": 9,
+  "title": "전화번호 & 주소",
+  "titleRu": "Номер телефона и адрес",
+  "description": "러시아어로 전화번호와 주소를 말하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Какой у вас номер телефона?", "pronunciation": "까꼬이 우 바스 노미르 찔리포나?", "korean": "전화번호가 어떻게 되세요?" },
+        { "russian": "Можно ваш номер?", "pronunciation": "모쥐나 바쉬 노미르?", "korean": "번호 좀 알 수 있을까요?" },
+        { "russian": "Дайте, пожалуйста, ваш контактный телефон.", "pronunciation": "다이쩨, 빠잘루이스따, 바쉬 깐딱뜨니 찔리폰.", "korean": "연락처를 알려 주세요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Мой номер: восемь-девятьсот-сто двадцать три-сорок пять-шестьдесят семь.", "pronunciation": "모이 노미르: 보셈-지뱌찌솓-스또 드바쯔찌 뜨리-소락 삐찌-쉬즈지샷 셈.", "korean": "제 번호는 8-900-123-45-67이에요." },
+        { "russian": "Запишите: плюс семь, четыреста девяносто пять, триста двадцать один.", "pronunciation": "자삐쉬쩨: 쁠류스 셈, 치띠리스따 지뱌노스따 삐찌, 뜨리스따 드바쯔찌 아딘.", "korean": "적어 주세요: +7, 495, 321이에요." },
+        { "russian": "Вот моя визитка, там есть номер.", "pronunciation": "봇 마야 비지뜨까, 땀 예스찌 노미르.", "korean": "여기 제 명함이요, 번호가 있어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "А где вы живёте?", "pronunciation": "아 그데 비 쥐뵤쩨?", "korean": "어디에 사세요?" },
+        { "russian": "Какой ваш адрес?", "pronunciation": "까꼬이 바쉬 아드리스?", "korean": "주소가 어떻게 되세요?" },
+        { "russian": "В каком районе вы живёте?", "pronunciation": "프 까꼼 라이오니 비 쥐뵤쩨?", "korean": "어느 지역에 사세요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Я живу на улице Тверской, дом десять, квартира пять.", "pronunciation": "야 쥐부 나 울리쩨 뜨비르스꼬이, 돔 데샤찌, 크바르찌라 삐찌.", "korean": "저는 트베르스카야 거리 10번지 5호에 살아요." },
+        { "russian": "Мой адрес: Москва, проспект Мира, дом двадцать.", "pronunciation": "모이 아드리스: 마스크바, 쁘라스뻭뜨 미라, 돔 드바쯔찌.", "korean": "제 주소는 모스크바 미라 대로 20번지예요." },
+        { "russian": "Я живу в центре, рядом с Кремлём.", "pronunciation": "야 쥐부 프 쩬뜨리, 랴담 스 끄리믈룜.", "korean": "저는 시내 중심에 살아요, 크렘린 근처요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Можно отправить вам письмо?", "pronunciation": "모쥐나 앗쁘라비찌 밤 삐시모?", "korean": "편지를 보내도 될까요?" },
+        { "russian": "Какой у вас электронный адрес?", "pronunciation": "까꼬이 우 바스 일릭뜨론니 아드리스?", "korean": "이메일 주소가 어떻게 되세요?" },
+        { "russian": "Вы есть в мессенджере?", "pronunciation": "비 예스찌 브 미신저리?", "korean": "메신저 하세요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Да, мой email: ivan@mail.ru", "pronunciation": "다, 모이 이메일: 이반 사바까 메일 또치까 루.", "korean": "네, 제 이메일은 ivan@mail.ru예요." },
+        { "russian": "Лучше напишите мне в Телеграм.", "pronunciation": "루치쉬 나삐쉬쩨 므네 프 찔리그람.", "korean": "텔레그램으로 연락하는 게 나을 거예요." },
+        { "russian": "Да, я в ВКонтакте. Найдёте меня по имени.", "pronunciation": "다, 야 프 브깐딱쩨. 나이됴쩨 미냐 빠 이미니.", "korean": "네, VK에 있어요. 이름으로 찾으시면 돼요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Отлично, я записал. Спасибо!", "pronunciation": "앗리치나, 야 자삐살. 스빠씨바!", "korean": "좋아요, 적었어요. 감사합니다!" },
+        { "russian": "Хорошо, я свяжусь с вами.", "pronunciation": "하라쇼, 야 스뱌쥐시 스 바미.", "korean": "좋아요, 연락드릴게요." },
+        { "russian": "Спасибо! Я обязательно напишу.", "pronunciation": "스빠씨바! 야 아뱌자쩰나 나삐슈.", "korean": "감사합니다! 꼭 연락할게요." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "russian": "телефон", "pronunciation": "찔리폰", "korean": "전화" },
+    { "russian": "номер", "pronunciation": "노미르", "korean": "번호" },
+    { "russian": "адрес", "pronunciation": "아드리스", "korean": "주소" },
+    { "russian": "улица", "pronunciation": "울리짜", "korean": "거리" },
+    { "russian": "дом", "pronunciation": "돔", "korean": "집, 건물" },
+    { "russian": "квартира", "pronunciation": "크바르찌라", "korean": "아파트, 호수" },
+    { "russian": "письмо", "pronunciation": "삐시모", "korean": "편지" },
+    { "russian": "почта", "pronunciation": "뽀치따", "korean": "우편, 메일" }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "level": 12,
+  "title": "약속 잡기",
+  "titleRu": "Назначение встречи",
+  "description": "러시아어로 약속을 잡는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Ты свободен в субботу?", "pronunciation": "띠 스바보딘 프 수보뚜?", "korean": "토요일에 시간 있어?" },
+        { "russian": "Когда мы можем встретиться?", "pronunciation": "까그다 미 모쥠 프스뜨레찌짜?", "korean": "우리 언제 만날 수 있어?" },
+        { "russian": "Давай встретимся на этой неделе.", "pronunciation": "다바이 프스뜨레찜샤 나 에따이 니델리.", "korean": "이번 주에 만나자." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Да, в субботу я свободен. Во сколько?", "pronunciation": "다, 프 수보뚜 야 스바보딘. 바 스꼴까?", "korean": "응, 토요일에 시간 있어. 몇 시에?" },
+        { "russian": "В пятницу вечером подойдёт?", "pronunciation": "프 삐야뜨니쯔 볘치람 빠다이됻?", "korean": "금요일 저녁은 어때?" },
+        { "russian": "К сожалению, на этой неделе не могу. А на следующей?", "pronunciation": "크 사잘레니유, 나 에따이 니델리 니 마구. 아 나 슬레두유쉬이?", "korean": "안타깝게도 이번 주는 안 돼. 다음 주는?" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Давай в два часа дня?", "pronunciation": "다바이 프 드바 차사 드냐?", "korean": "오후 2시는 어때?" },
+        { "russian": "Как насчёт шести вечера?", "pronunciation": "깍 나쇼뜨 쉬스찌 볘치라?", "korean": "저녁 6시는 어때요?" },
+        { "russian": "Утром или вечером тебе удобнее?", "pronunciation": "우뜨람 일리 볘치람 찌볘 우도브니예?", "korean": "아침이 편해, 아니면 저녁이 편해?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "В два — отлично! Где встречаемся?", "pronunciation": "프 드바 — 앗리치나! 그데 프스뜨리차임샤?", "korean": "2시 좋아! 어디서 만나?" },
+        { "russian": "Вечером лучше. Давай в семь.", "pronunciation": "볘치람 루치쉬. 다바이 프 셈.", "korean": "저녁이 더 좋아. 7시에 하자." },
+        { "russian": "Мне удобнее после обеда.", "pronunciation": "므네 우도브니예 뽀슬리 아베다.", "korean": "저는 점심 이후가 더 편해요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Встретимся у входа в парк?", "pronunciation": "프스뜨레찜샤 우 프호다 프 빠르크?", "korean": "공원 입구에서 만날까?" },
+        { "russian": "Давай в кафе на Арбате.", "pronunciation": "다바이 프 까페 나 아르바쩨.", "korean": "아르바트 거리 카페에서 만나자." },
+        { "russian": "Можно у метро? Так удобнее.", "pronunciation": "모쥐나 우 미뜨로? 딱 우도브니예.", "korean": "지하철역 앞에서 만날까? 그게 더 편해." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Хорошо, договорились! У метро в два.", "pronunciation": "하라쇼, 다가바릴리시! 우 미뜨로 프 드바.", "korean": "좋아, 약속! 지하철역에서 2시에." },
+        { "russian": "Отлично! Я буду ждать у кафе.", "pronunciation": "앗리치나! 야 부두 쥐다찌 우 까페.", "korean": "좋아! 카페 앞에서 기다릴게." },
+        { "russian": "Договорились! Я приду вовремя.", "pronunciation": "다가바릴리시! 야 쁘리두 보브레먀.", "korean": "약속! 제시간에 갈게." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Отлично! До встречи в субботу!", "pronunciation": "앗리치나! 다 프스뜨레치 프 수보뚜!", "korean": "좋아! 토요일에 보자!" },
+        { "russian": "Жду с нетерпением! Пока!", "pronunciation": "쥐두 스 니쩨르페니옘! 빠까!", "korean": "기대할게! 안녕!" },
+        { "russian": "Тогда до субботы. Не опаздывай!", "pronunciation": "따그다 다 수보띠. 니 아빠즈디바이!", "korean": "그럼 토요일에. 늦지 마!" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "russian": "встреча", "pronunciation": "프스뜨레차", "korean": "만남, 약속" },
+    { "russian": "свободный", "pronunciation": "스바보드니", "korean": "자유로운, 시간이 있는" },
+    { "russian": "удобный", "pronunciation": "우도브니", "korean": "편한" },
+    { "russian": "договориться", "pronunciation": "다가바리짜", "korean": "약속하다" },
+    { "russian": "опаздывать", "pronunciation": "아빠즈디바찌", "korean": "늦다" },
+    { "russian": "ждать", "pronunciation": "쥐다찌", "korean": "기다리다" },
+    { "russian": "неделя", "pronunciation": "니델랴", "korean": "주, 일주일" },
+    { "russian": "суббота", "pronunciation": "수보따", "korean": "토요일" }
+  ]
+}

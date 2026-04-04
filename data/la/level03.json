@@ -1,0 +1,53 @@
+{
+  "level": 3,
+  "title": "가족 소개",
+  "titleLa": "Familia",
+  "description": "라틴어로 가족을 소개하는 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Habesne familiam magnam?", "pronunciation": "하베스네 파밀리암 마그남?", "korean": "대가족이신가요?" },
+      { "latin": "Quam magna est familia tua?", "pronunciation": "쿠암 마그나 에스트 파밀리아 투아?", "korean": "가족이 얼마나 큰가요?" },
+      { "latin": "De familia tua narra mihi.", "pronunciation": "데 파밀리아 투아 나라 미히.", "korean": "가족에 대해 알려주세요." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Familia mea quattuor personas habet.", "pronunciation": "파밀리아 메아 쿠아투오르 페르소나스 하벳.", "korean": "우리 가족은 네 명입니다." },
+      { "latin": "Quattuor sumus in familia.", "pronunciation": "쿠아투오르 수무스 인 파밀리아.", "korean": "가족이 네 명입니다." },
+      { "latin": "Nos quattuor in domo vivimus.", "pronunciation": "노스 쿠아투오르 인 도모 비비무스.", "korean": "우리 넷이 집에서 살고 있습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Habesne fratres aut sorores?", "pronunciation": "하베스네 프라트레스 아우트 소로레스?", "korean": "형제자매가 있나요?" },
+      { "latin": "Fratresne habes?", "pronunciation": "프라트레스네 하베스?", "korean": "형제가 있나요?" },
+      { "latin": "Suntne tibi fratres vel sorores?", "pronunciation": "순트네 티비 프라트레스 벨 소로레스?", "korean": "형제나 자매가 있으신가요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Unam sororem et unum fratrem habeo.", "pronunciation": "우남 소로렘 에트 우눔 프라트렘 하베오.", "korean": "누나 한 명과 남동생 한 명이 있습니다." },
+      { "latin": "Soror una et frater unus mihi sunt.", "pronunciation": "소로르 우나 에트 프라테르 우누스 미히 순트.", "korean": "자매 한 명과 형제 한 명이 있습니다." },
+      { "latin": "Duo liberi in familia sumus.", "pronunciation": "두오 리베리 인 파밀리아 수무스.", "korean": "가족에 아이가 둘입니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Quid pater tuus facit?", "pronunciation": "퀴드 파테르 투우스 파킷?", "korean": "아버지는 무슨 일을 하시나요?" },
+      { "latin": "Quae est professio patris tui?", "pronunciation": "쿠아에 에스트 프로페시오 파트리스 투이?", "korean": "아버지의 직업은 무엇인가요?" },
+      { "latin": "Pater tuus ubi laborat?", "pronunciation": "파테르 투우스 우비 라보랏?", "korean": "아버지는 어디서 일하시나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Pater meus magister est.", "pronunciation": "파테르 메우스 마기스테르 에스트.", "korean": "아버지는 선생님이십니다." },
+      { "latin": "Pater in schola docet.", "pronunciation": "파테르 인 스콜라 도켓.", "korean": "아버지는 학교에서 가르치십니다." },
+      { "latin": "Pater meus discipulos erudit.", "pronunciation": "파테르 메우스 디스키풀로스 에루딧.", "korean": "아버지는 학생들을 가르치십니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Familia tua pulchra est!", "pronunciation": "파밀리아 투아 풀크라 에스트!", "korean": "가족이 멋지네요!" },
+      { "latin": "Quam bona familia!", "pronunciation": "쿠암 보나 파밀리아!", "korean": "정말 좋은 가족이네요!" },
+      { "latin": "Familiam tuam amo!", "pronunciation": "파밀리암 투암 아모!", "korean": "당신의 가족이 좋습니다!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "familia", "pronunciation": "파밀리아", "korean": "가족" },
+    { "latin": "pater", "pronunciation": "파테르", "korean": "아버지" },
+    { "latin": "mater", "pronunciation": "마테르", "korean": "어머니" },
+    { "latin": "frater", "pronunciation": "프라테르", "korean": "형제" },
+    { "latin": "soror", "pronunciation": "소로르", "korean": "자매" },
+    { "latin": "filius", "pronunciation": "필리우스", "korean": "아들" },
+    { "latin": "filia", "pronunciation": "필리아", "korean": "딸" },
+    { "latin": "domus", "pronunciation": "도무스", "korean": "집" }
+  ]
+}

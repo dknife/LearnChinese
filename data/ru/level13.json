@@ -1,0 +1,74 @@
+{
+  "level": 13,
+  "title": "옷 & 외모",
+  "titleRu": "Одежда и внешность",
+  "description": "러시아어로 옷과 외모를 표현하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Мне нравится твоя куртка! Где купил?", "pronunciation": "므네 느라비짜 뜨바야 꾸르뜨까! 그데 꾸삘?", "korean": "네 재킷 마음에 들어! 어디서 샀어?" },
+        { "russian": "Тебе очень идёт этот цвет.", "pronunciation": "찌볘 오친 이됻 에딧 쯔벳.", "korean": "이 색이 너한테 아주 잘 어울려." },
+        { "russian": "Какое красивое платье!", "pronunciation": "까꼬예 끄라씨바예 쁠라찌예!", "korean": "정말 예쁜 드레스네요!" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Спасибо! Я купил её в ГУМе.", "pronunciation": "스빠씨바! 야 꾸삘 이요 브 구미.", "korean": "고마워! 굼 백화점에서 샀어." },
+        { "russian": "Правда? Спасибо! Это мой любимый цвет.", "pronunciation": "쁘라프다? 스빠씨바! 에따 모이 류비미 쯔벳.", "korean": "정말? 고마워! 이게 내가 좋아하는 색이야." },
+        { "russian": "Благодарю! Я купила его на распродаже.", "pronunciation": "블라가다류! 야 꾸삘라 이보 나 라스쁘라다쥐.", "korean": "감사해요! 세일 때 샀어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Что мне надеть на вечеринку?", "pronunciation": "쉬또 므네 나데찌 나 비치린꾸?", "korean": "파티에 뭘 입고 가지?" },
+        { "russian": "Как ты думаешь, эта рубашка подходит?", "pronunciation": "깍 띠 두마이쉬, 에따 루바쉬까 빠드호딧?", "korean": "이 셔츠 괜찮은 것 같아?" },
+        { "russian": "Мне нужно что-то нарядное.", "pronunciation": "므네 누쥐나 쉬또-따 나랴드나예.", "korean": "좀 격식 있는 옷이 필요해." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Надень чёрный костюм и белую рубашку.", "pronunciation": "나덴 쵸르니 까스뜸 이 벨루유 루바쉬꾸.", "korean": "검은 정장에 흰 셔츠를 입어." },
+        { "russian": "Эта рубашка отлично подходит. Очень стильно.", "pronunciation": "에따 루바쉬까 앗리치나 빠드호딧. 오친 스찔나.", "korean": "이 셔츠 아주 잘 어울려. 세련돼." },
+        { "russian": "Попробуй это синее платье.", "pronunciation": "빠쁘로부이 에따 씨니예 쁠라찌예.", "korean": "이 파란 드레스 입어봐." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Как выглядит твой друг?", "pronunciation": "깍 비글랴딧 뜨보이 드루크?", "korean": "네 친구는 어떻게 생겼어?" },
+        { "russian": "Опиши его внешность.", "pronunciation": "아삐쉬 이보 브네쉬나스찌.", "korean": "그 사람 외모를 설명해 줘." },
+        { "russian": "Он высокий или низкий?", "pronunciation": "온 비소끼 일리 니스끼?", "korean": "키가 큰 편이야, 작은 편이야?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Он высокий, с тёмными волосами и голубыми глазами.", "pronunciation": "온 비소끼, 스 됴므니미 발라사미 이 갈루비미 글라자미.", "korean": "키가 크고, 검은 머리에 파란 눈이야." },
+        { "russian": "Она среднего роста, стройная, с длинными волосами.", "pronunciation": "아나 스레드니바 로스따, 스뜨로이나야, 즈 들린니미 발라사미.", "korean": "중간 키에, 날씬하고, 긴 머리야." },
+        { "russian": "Он носит очки и у него борода.", "pronunciation": "온 노씻 아치끼 이 우 니보 바라다.", "korean": "안경을 쓰고 수염이 있어." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Понятно! Думаю, я его узнаю.", "pronunciation": "빠냐뜨나! 두마유, 야 이보 우즈나유.", "korean": "알겠어! 알아볼 수 있을 것 같아." },
+        { "russian": "Ты всегда так стильно одеваешься!", "pronunciation": "띠 프씨그다 딱 스찔나 아지바이쉬샤!", "korean": "너 항상 세련되게 입더라!" },
+        { "russian": "Хороший вкус! Тебе всё идёт.", "pronunciation": "하로쉬 프꾸스! 찌볘 프쇼 이됻.", "korean": "센스 좋다! 뭘 입어도 잘 어울려." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "russian": "одежда", "pronunciation": "아데쥐다", "korean": "옷" },
+    { "russian": "платье", "pronunciation": "쁠라찌예", "korean": "드레스" },
+    { "russian": "рубашка", "pronunciation": "루바쉬까", "korean": "셔츠" },
+    { "russian": "куртка", "pronunciation": "꾸르뜨까", "korean": "재킷" },
+    { "russian": "высокий", "pronunciation": "비소끼", "korean": "키 큰" },
+    { "russian": "красивый", "pronunciation": "끄라씨비", "korean": "아름다운" },
+    { "russian": "волосы", "pronunciation": "볼라시", "korean": "머리카락" },
+    { "russian": "глаза", "pronunciation": "글라자", "korean": "눈" }
+  ]
+}

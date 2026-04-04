@@ -1,0 +1,53 @@
+{
+  "level": 5,
+  "title": "길 묻기 & 방향",
+  "titleLa": "Viam Quaerere",
+  "description": "라틴어로 길을 묻고 방향을 알려주는 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Ignosce, ubi est forum?", "pronunciation": "이그노스케, 우비 에스트 포룸?", "korean": "실례합니다, 광장이 어디인가요?" },
+      { "latin": "Da veniam, quomodo ad forum venio?", "pronunciation": "다 베니암, 쿠오모도 아드 포룸 베니오?", "korean": "실례합니다, 광장에 어떻게 가나요?" },
+      { "latin": "Quaeso, ubi forum inveniam?", "pronunciation": "쿠아에소, 우비 포룸 인베니암?", "korean": "부탁합니다, 광장을 어디서 찾을 수 있나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Recta via perge, deinde ad dextram verte.", "pronunciation": "렉타 비아 페르게, 데인데 아드 덱스트람 베르테.", "korean": "직진하고 그다음 오른쪽으로 도세요." },
+      { "latin": "I recta et ad dextram converte.", "pronunciation": "이 렉타 에트 아드 덱스트람 콘베르테.", "korean": "직진 후 오른쪽으로 도세요." },
+      { "latin": "Per hanc viam i, tum dextrorsum.", "pronunciation": "페르 한크 비암 이, 툼 덱스트로르숨.", "korean": "이 길을 따라가다가 오른쪽으로요." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Estne procul?", "pronunciation": "에스트네 프로쿨?", "korean": "멀리 있나요?" },
+      { "latin": "Longe abest?", "pronunciation": "롱게 아베스트?", "korean": "먼가요?" },
+      { "latin": "Quantum distat?", "pronunciation": "쿠안툼 디스탓?", "korean": "얼마나 떨어져 있나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Non procul. Quinque minuta pedibus.", "pronunciation": "논 프로쿨. 퀸쿠에 미누타 페디부스.", "korean": "멀지 않아요. 걸어서 5분입니다." },
+      { "latin": "Prope est. Brevi tempore pervenies.", "pronunciation": "프로페 에스트. 브레비 템포레 페르베니에스.", "korean": "가까워요. 곧 도착할 겁니다." },
+      { "latin": "Haud longe. Facile invenies.", "pronunciation": "하우드 롱게. 파킬레 인베니에스.", "korean": "멀지 않아요. 쉽게 찾을 수 있어요." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Post templum, rectene?", "pronunciation": "포스트 템플룸, 렉테네?", "korean": "신전 뒤에요, 맞나요?" },
+      { "latin": "Prope templum est?", "pronunciation": "프로페 템플룸 에스트?", "korean": "신전 근처인가요?" },
+      { "latin": "Iuxta templum?", "pronunciation": "이욱스타 템플룸?", "korean": "신전 옆인가요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Ita, post templum magnum.", "pronunciation": "이타, 포스트 템플룸 마그눔.", "korean": "네, 큰 신전 뒤에 있습니다." },
+      { "latin": "Recte dicis. Post templum Iovis.", "pronunciation": "렉테 디키스. 포스트 템플룸 이오비스.", "korean": "맞습니다. 주피터 신전 뒤에요." },
+      { "latin": "Sic est. Inter templum et thermas.", "pronunciation": "시크 에스트. 인테르 템플룸 에트 테르마스.", "korean": "그렇습니다. 신전과 목욕탕 사이에요." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Intellego. Gratias tibi ago!", "pronunciation": "인텔레고. 그라티아스 티비 아고!", "korean": "알겠습니다. 감사합니다!" },
+      { "latin": "Nunc scio. Gratias maximas!", "pronunciation": "눙크 스키오. 그라티아스 막시마스!", "korean": "이제 알겠어요. 대단히 감사합니다!" },
+      { "latin": "Optime! Viam inveniam. Gratias!", "pronunciation": "옵티메! 비암 인베니암. 그라티아스!", "korean": "좋아요! 길을 찾겠습니다. 감사합니다!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "via", "pronunciation": "비아", "korean": "길" },
+    { "latin": "forum", "pronunciation": "포룸", "korean": "광장" },
+    { "latin": "dextra", "pronunciation": "덱스트라", "korean": "오른쪽" },
+    { "latin": "sinistra", "pronunciation": "시니스트라", "korean": "왼쪽" },
+    { "latin": "recta", "pronunciation": "렉타", "korean": "곧장, 직진" },
+    { "latin": "prope", "pronunciation": "프로페", "korean": "가까이" },
+    { "latin": "procul", "pronunciation": "프로쿨", "korean": "멀리" },
+    { "latin": "templum", "pronunciation": "템플룸", "korean": "신전" }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "level": 11,
+  "title": "감정 표현",
+  "titleRu": "Выражение эмоций",
+  "description": "러시아어로 감정을 표현하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Как ты себя чувствуешь?", "pronunciation": "깍 띠 씨뱌 추스뜨부이쉬?", "korean": "기분이 어때?" },
+        { "russian": "Как у вас дела?", "pronunciation": "깍 우 바스 딜라?", "korean": "어떻게 지내세요?" },
+        { "russian": "Ты сегодня выглядишь грустным.", "pronunciation": "띠 씨보드냐 비글랴디쉬 그루스뜨님.", "korean": "오늘 슬퍼 보여." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Я очень рад! Сегодня прекрасный день.", "pronunciation": "야 오친 라드! 씨보드냐 쁘리끄라스니 덴.", "korean": "아주 기뻐요! 오늘 멋진 날이에요." },
+        { "russian": "Мне немного грустно. Скучаю по дому.", "pronunciation": "므네 님노가 그루스뜨나. 스꾸차유 빠 도무.", "korean": "좀 슬퍼요. 집이 그리워요." },
+        { "russian": "Я устал. Сегодня был трудный день.", "pronunciation": "야 우스딸. 씨보드냐 빌 뜨루드니 덴.", "korean": "피곤해요. 오늘 힘든 하루였어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Почему ты грустишь?", "pronunciation": "빠치무 띠 그루스찌쉬?", "korean": "왜 슬퍼해?" },
+        { "russian": "Что случилось?", "pronunciation": "쉬또 슬루칠라시?", "korean": "무슨 일이 있었어?" },
+        { "russian": "Могу я чем-то помочь?", "pronunciation": "마구 야 쳄-따 빠모치?", "korean": "내가 뭘 도와줄 수 있을까?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Ничего страшного. Просто устал.", "pronunciation": "니치보 스뜨라쉬나바. 쁘로스따 우스딸.", "korean": "별거 아니에요. 그냥 피곤해서요." },
+        { "russian": "Я переживаю из-за экзамена.", "pronunciation": "야 삐리쥐바유 이즈-자 익자미나.", "korean": "시험 때문에 걱정이에요." },
+        { "russian": "Спасибо, мне просто нужно отдохнуть.", "pronunciation": "스빠씨바, 므네 쁘로스따 누쥐나 앗다흐누찌.", "korean": "고마워요, 그냥 좀 쉬어야 해요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Я так счастлив за тебя!", "pronunciation": "야 딱 쉬스리프 자 찌뱌!", "korean": "네 일이 정말 기뻐!" },
+        { "russian": "Это замечательная новость!", "pronunciation": "에따 자미차쩰나야 노바스찌!", "korean": "정말 좋은 소식이네요!" },
+        { "russian": "Поздравляю! Ты это заслужил.", "pronunciation": "빠즈드라블랴유! 띠 에따 자슬루쥴.", "korean": "축하해! 너 자격이 있어." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Спасибо! Я тоже очень рад.", "pronunciation": "스빠씨바! 야 또쥐 오친 라드.", "korean": "고마워! 나도 정말 기뻐." },
+        { "russian": "Спасибо за поддержку!", "pronunciation": "스빠씨바 자 빠데르쉬꾸!", "korean": "응원해 줘서 고마워!" },
+        { "russian": "Мне приятно это слышать.", "pronunciation": "므네 쁘리야뜨나 에따 슬리샤찌.", "korean": "그 말 들으니 기분 좋아요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Не переживай, всё будет хорошо!", "pronunciation": "니 삐리쥐바이, 프쇼 부딧 하라쇼!", "korean": "걱정 마, 다 잘 될 거야!" },
+        { "russian": "Держись! Я всегда рядом.", "pronunciation": "디르쥐시! 야 프씨그다 랴담.", "korean": "힘내! 나 항상 곁에 있을게." },
+        { "russian": "Улыбнись! Жизнь прекрасна.", "pronunciation": "울리브니시! 쥐즈니 쁘리끄라스나.", "korean": "웃어! 인생은 아름다운 거야." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "russian": "радость", "pronunciation": "라다스찌", "korean": "기쁨" },
+    { "russian": "грусть", "pronunciation": "그루스찌", "korean": "슬픔" },
+    { "russian": "счастье", "pronunciation": "쉬샤스찌예", "korean": "행복" },
+    { "russian": "злость", "pronunciation": "즐로스찌", "korean": "화, 분노" },
+    { "russian": "страх", "pronunciation": "스뜨라흐", "korean": "두려움" },
+    { "russian": "усталость", "pronunciation": "우스딸라스찌", "korean": "피로" },
+    { "russian": "волноваться", "pronunciation": "발나바짜", "korean": "걱정하다" },
+    { "russian": "улыбаться", "pronunciation": "울리바짜", "korean": "미소 짓다" }
+  ]
+}

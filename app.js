@@ -143,6 +143,40 @@ const LANGS = {
       kr_to_foreign: '한국어 → 베트남어',
     },
   },
+  ru: {
+    code: 'ru',
+    name: 'Русский',
+    nameKr: '러시아어',
+    emoji: '🇷🇺',
+    progressKey: 'learnRussian_progress',
+    ttsLang: 'ru-RU',
+    ttsRate: 0.9,
+    foreignField: 'russian',
+    pronField: 'pronunciation',
+    titleField: 'titleRu',
+    quizLabels: {
+      vocab: '단어 시험',
+      foreign_to_kr: '러시아어 → 한국어',
+      kr_to_foreign: '한국어 → 러시아어',
+    },
+  },
+  la: {
+    code: 'la',
+    name: 'Latina',
+    nameKr: '라틴어',
+    emoji: '🏛️',
+    progressKey: 'learnLatin_progress',
+    ttsLang: 'la',
+    ttsRate: 0.85,
+    foreignField: 'latin',
+    pronField: 'pronunciation',
+    titleField: 'titleLa',
+    quizLabels: {
+      vocab: '단어 시험',
+      foreign_to_kr: '라틴어 → 한국어',
+      kr_to_foreign: '한국어 → 라틴어',
+    },
+  },
 };
 
 // ------------------------------------------------------------
@@ -387,6 +421,66 @@ const LANG_INTROS = {
       { pattern: '주어 + là + 명사', example: 'Tôi là người Hàn Quốc', meaning: '나는 한국인입니다' },
       { pattern: '주어 + 동사 + 목적어', example: 'Tôi uống cà phê', meaning: '나는 커피를 마신다' },
       { pattern: '명사 + 형용사', example: 'Thời tiết đẹp', meaning: '날씨가 좋다' }
+    ]
+  },
+  ru: {
+    countries: '러시아, 벨라루스, 카자흐스탄, 키르기스스탄',
+    countriesEmoji: '🇷🇺🇧🇾🇰🇿🇰🇬',
+    speakers: '약 2억 5천만 명 (모국어 + 제2언어 포함)',
+    features: [
+      '키릴 문자: 33개의 키릴 알파벳을 사용하며 라틴 문자와 형태가 다릅니다',
+      '격 변화: 명사·형용사·대명사가 6개의 격(주격~전치격)에 따라 어미가 변합니다',
+      '동사 상(Aspect): 완료상과 불완료상으로 동사의 완결 여부를 구별합니다',
+      '강세가 중요: 같은 철자라도 강세 위치에 따라 의미가 달라질 수 있습니다'
+    ],
+    reading: [
+      '키릴 문자는 33자로 구성: 모음 10자, 자음 21자, 부호 2자(ъ, ь)',
+      '일부 글자는 라틴 문자와 비슷하지만 소리가 다릅니다: Н=[ㄴ], Р=[ㄹ], С=[ㅅ]',
+      '경자음과 연자음: ь(연음 부호)가 붙으면 자음이 부드러워집니다',
+      '모음 약화: 강세가 없는 о는 [아]에 가깝게 발음됩니다 (молоко → 말라꼬)'
+    ],
+    basicWords: [
+      { word: 'Привет', pron: '쁘리벳', meaning: '안녕 (비격식)' },
+      { word: 'Спасибо', pron: '스빠시바', meaning: '감사합니다' },
+      { word: 'Извините', pron: '이즈비니쩨', meaning: '죄송합니다' },
+      { word: 'До свидания', pron: '다 스비다니야', meaning: '안녕히 가세요' },
+      { word: 'Да', pron: '다', meaning: '네' },
+      { word: 'Нет', pron: '녯', meaning: '아니오' }
+    ],
+    sentenceStructure: [
+      { pattern: '주어 + 명사 (be 생략)', example: 'Я кореец (Ya koreyets)', meaning: '나는 한국인입니다' },
+      { pattern: '주어 + 동사 + 목적어', example: 'Я пью кофе (Ya pyyu kofe)', meaning: '나는 커피를 마신다' },
+      { pattern: '명사 + 형용사', example: 'Погода хорошая (Pogoda khoroshaya)', meaning: '날씨가 좋다' }
+    ]
+  },
+  la: {
+    countries: '바티칸 시국 (공식 언어), 고대 로마 제국의 언어',
+    countriesEmoji: '🇻🇦🏛️',
+    speakers: '현대 모국어 화자 없음 (학술·종교·법률 분야에서 사용)',
+    features: [
+      '인도유럽어족의 고전 언어: 로마 제국의 공용어로, 프랑스어·스페인어·이탈리아어 등의 모어입니다',
+      '격 변화가 풍부: 명사·형용사가 6개의 격과 성·수에 따라 변합니다',
+      '자유로운 어순: 격 변화로 문법 관계를 나타내어 어순이 비교적 자유롭습니다',
+      '동사 활용이 복잡: 인칭·수·시제·법·태에 따라 어미가 변합니다'
+    ],
+    reading: [
+      '라틴 알파벳: 현대 영어 알파벳의 원형으로 23자를 사용합니다 (J, U, W 없음)',
+      '발음이 매우 규칙적: 모든 글자를 철자대로 읽으며 묵음이 거의 없습니다',
+      'c는 항상 [ㅋ], g는 항상 [ㄱ], v는 [우/ㅂ] 소리입니다 (고전 발음 기준)',
+      '이중모음: ae=[아이], oe=[오이], au=[아우]로 발음합니다'
+    ],
+    basicWords: [
+      { word: 'Salve', pron: '살웨', meaning: '안녕하세요' },
+      { word: 'Gratias tibi', pron: '그라티아스 티비', meaning: '감사합니다' },
+      { word: 'Ignosce', pron: '이그노스게', meaning: '용서하세요' },
+      { word: 'Vale', pron: '왈레', meaning: '안녕히 가세요' },
+      { word: 'Ita', pron: '이타', meaning: '네' },
+      { word: 'Non', pron: '논', meaning: '아니오' }
+    ],
+    sentenceStructure: [
+      { pattern: '주어 + 명사(주격)', example: 'Coreanus sum', meaning: '나는 한국인입니다' },
+      { pattern: '주어 + 목적어(대격) + 동사', example: 'Coffeum bibo', meaning: '나는 커피를 마신다' },
+      { pattern: '명사 + 형용사', example: 'Caelum bonum est', meaning: '날씨가 좋다' }
     ]
   }
 };
@@ -641,6 +735,102 @@ const LANG_ALPHABETS = {
       ]}
     ],
     tips: ['6성조는 의미를 완전히 바꾸므로 성조 연습이 가장 중요합니다', '남부와 북부 발음 차이가 크며, d, r, s, v, gi 등이 다릅니다', 'ph=[ㅍ], th=[ㅌ], kh=[ㅋ], nh=[니], ng/ngh=[ㅇ] 등 자음 조합에 주의하세요', 'ă는 a의 짧은 버전, â는 a의 중앙화된 버전입니다']
+  },
+  ru: {
+    title: '러시아어 알파벳 (Кириллица)',
+    description: '러시아어는 33개의 키릴 문자를 사용합니다. 모음 10자, 자음 21자, 부호 2자로 구성됩니다.',
+    sections: [
+      { name: '모음 (Гласные) — 10자', chars: [
+        { char: 'А а', pron: '아', note: '강세 시 [아], 비강세 시에도 [아]' },
+        { char: 'Е е', pron: '예', note: '[예], 비강세 시 [이]에 가까움' },
+        { char: 'Ё ё', pron: '요', note: '항상 강세, [요]' },
+        { char: 'И и', pron: '이', note: '[이]' },
+        { char: 'О о', pron: '오', note: '강세 시 [오], 비강세 시 [아]' },
+        { char: 'У у', pron: '우', note: '[우]' },
+        { char: 'Ы ы', pron: '으이', note: '한국어에 없는 소리, [으]와 [이] 사이' },
+        { char: 'Э э', pron: '에', note: '[에]' },
+        { char: 'Ю ю', pron: '유', note: '[유]' },
+        { char: 'Я я', pron: '야', note: '[야], 비강세 시 약화' }
+      ]},
+      { name: '자음 (Согласные) — 21자', chars: [
+        { char: 'Б б', pron: '브', note: 'b, 영어 b' },
+        { char: 'В в', pron: '브', note: 'v, 영어 v' },
+        { char: 'Г г', pron: '그', note: 'g, 항상 [ㄱ]' },
+        { char: 'Д д', pron: '드', note: 'd, 영어 d' },
+        { char: 'Ж ж', pron: '쥐', note: 'zh, 영어 vision의 s' },
+        { char: 'З з', pron: '즈', note: 'z, 영어 z' },
+        { char: 'К к', pron: '크', note: 'k, 영어 k' },
+        { char: 'Л л', pron: '을', note: 'l, 영어 l' },
+        { char: 'М м', pron: '음', note: 'm, 영어 m' },
+        { char: 'Н н', pron: '은', note: 'n, 영어 n (라틴 H와 다름!)' },
+        { char: 'П п', pron: '프', note: 'p, 영어 p' },
+        { char: 'Р р', pron: '르', note: 'r, 혀끝 진동음 (라틴 P와 다름!)' },
+        { char: 'С с', pron: '스', note: 's, 영어 s (라틴 C와 다름!)' },
+        { char: 'Т т', pron: '트', note: 't, 영어 t' },
+        { char: 'Ф ф', pron: '프', note: 'f, 영어 f' },
+        { char: 'Х х', pron: '흐', note: 'kh, 목구멍 마찰음 (라틴 X와 다름!)' },
+        { char: 'Ц ц', pron: '츠', note: 'ts, [ㅊ]에 가까움' },
+        { char: 'Ч ч', pron: '치', note: 'ch, 영어 ch' },
+        { char: 'Ш ш', pron: '쉬', note: 'sh, 영어 sh (경자음)' },
+        { char: 'Щ щ', pron: '시', note: 'shch, 부드러운 [시]' },
+        { char: 'Й й', pron: '이 끄랏꼬예', note: 'y, 짧은 [이], 반모음' }
+      ]},
+      { name: '부호 (Знаки) — 2자', chars: [
+        { char: 'Ъ ъ', pron: '경음 부호', note: '앞 자음과 뒤 모음을 분리, 소리 없음' },
+        { char: 'Ь ь', pron: '연음 부호', note: '앞 자음을 연자음(부드럽게)으로 만듦' }
+      ]}
+    ],
+    tips: [
+      '라틴 문자와 형태가 같지만 소리가 다른 글자에 주의: Н=[ㄴ], Р=[ㄹ], С=[ㅅ], В=[ㅂ/v], Х=[ㅎ]',
+      '강세 없는 О는 [아]로 발음됩니다 (모음 약화): Москва → 마스크바',
+      '유성 자음은 어말에서 무성화됩니다: город → 고라트',
+      '연음 부호(ь)가 붙으면 자음을 부드럽게 발음합니다'
+    ]
+  },
+  la: {
+    title: '라틴어 알파벳',
+    description: '라틴어는 23개의 알파벳을 사용합니다 (고전 라틴어 기준). 현대 J, U, W는 사용하지 않습니다.',
+    sections: [
+      { name: '모음 (Vocales)', chars: [
+        { char: 'A a', pron: '아', note: '장단 구별: ā(길게), ă(짧게)' },
+        { char: 'E e', pron: '에', note: '장단 구별: ē(길게), ĕ(짧게)' },
+        { char: 'I i', pron: '이', note: '모음 [이], 모음 앞에서 반모음 [j]' },
+        { char: 'O o', pron: '오', note: '장단 구별: ō(길게), ŏ(짧게)' },
+        { char: 'V v', pron: '우', note: '고전 발음에서 모음 [우], 자음 [w]' }
+      ]},
+      { name: '자음 (Consonantes)', chars: [
+        { char: 'B b', pron: '브', note: '영어 b' },
+        { char: 'C c', pron: '크', note: '항상 [ㅋ], 영어 k (고전 발음)' },
+        { char: 'D d', pron: '드', note: '영어 d' },
+        { char: 'F f', pron: '프', note: '영어 f' },
+        { char: 'G g', pron: '그', note: '항상 [ㄱ], 영어 g (고전 발음)' },
+        { char: 'H h', pron: '흐', note: '약한 [ㅎ], 거의 묵음에 가까움' },
+        { char: 'K k', pron: '크', note: '드물게 사용, Kalendae 등' },
+        { char: 'L l', pron: '을', note: '영어 l' },
+        { char: 'M m', pron: '음', note: '영어 m' },
+        { char: 'N n', pron: '은', note: '영어 n' },
+        { char: 'P p', pron: '프', note: '영어 p' },
+        { char: 'Q q', pron: '크', note: '항상 QV(qu)로 쓰이며 [ㅋ우]' },
+        { char: 'R r', pron: '르', note: '혀끝 탄설음' },
+        { char: 'S s', pron: '스', note: '항상 [ㅅ], 유성화 없음' },
+        { char: 'T t', pron: '트', note: '항상 [ㅌ], ti도 [티]' },
+        { char: 'X x', pron: '크스', note: '[ㅋㅅ] 소리' },
+        { char: 'Z z', pron: '즈', note: '그리스어 차용어에서만 사용' }
+      ]},
+      { name: '이중모음 (Diphthongi)', chars: [
+        { char: 'AE ae', pron: '아이', note: '고전: [아이], 중세: [에]' },
+        { char: 'OE oe', pron: '오이', note: '고전: [오이], 중세: [에]' },
+        { char: 'AV au', pron: '아우', note: '[아우]' },
+        { char: 'EI ei', pron: '에이', note: '[에이]' },
+        { char: 'EV eu', pron: '에우', note: '[에우]' }
+      ]}
+    ],
+    tips: [
+      '고전 라틴어에서 C는 항상 [ㅋ], G는 항상 [ㄱ]입니다 (Caesar → 카이사르)',
+      'V는 모음일 때 [우], 자음일 때 [w]입니다 (VENI → 웨니)',
+      '모든 글자를 철자대로 읽으며 묵음이 거의 없습니다',
+      '장모음과 단모음의 길이 차이가 의미와 문법에 영향을 줍니다'
+    ]
   }
 };
 
@@ -753,7 +943,7 @@ async function handleRoute() {
   let match;
 
   // Language-prefixed routes: #/zh/... or #/es/...
-  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar|th|vi)\/result\/(\d+)\??(.*)?$/);
+  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar|th|vi|ru|la)\/result\/(\d+)\??(.*)?$/);
   if (match) {
     currentLang = match[1];
     const level = parseInt(match[2]);
@@ -762,14 +952,14 @@ async function handleRoute() {
     return;
   }
 
-  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar|th|vi)\/quiz\/(\d+)$/);
+  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar|th|vi|ru|la)\/quiz\/(\d+)$/);
   if (match) {
     currentLang = match[1];
     await renderQuiz(parseInt(match[2]));
     return;
   }
 
-  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar|th|vi)\/lesson\/(\d+)$/);
+  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar|th|vi|ru|la)\/lesson\/(\d+)$/);
   if (match) {
     currentLang = match[1];
     await renderLesson(parseInt(match[2]));
@@ -777,7 +967,7 @@ async function handleRoute() {
   }
 
   // Language alphabet page: #/es/alphabet, etc.
-  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar|th|vi)\/alphabet$/);
+  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar|th|vi|ru|la)\/alphabet$/);
   if (match) {
     currentLang = match[1];
     renderAlphabet(match[1]);
@@ -785,7 +975,7 @@ async function handleRoute() {
   }
 
   // Language levels page: #/zh/levels, #/es/levels, etc.
-  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar|th|vi)\/levels$/);
+  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar|th|vi|ru|la)\/levels$/);
   if (match) {
     currentLang = match[1];
     await renderHome();
@@ -793,7 +983,7 @@ async function handleRoute() {
   }
 
   // Language intro page: #/zh, #/es, etc.
-  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar|th|vi)$/);
+  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar|th|vi|ru|la)$/);
   if (match) {
     currentLang = match[1];
     await renderLangIntro(match[1]);
@@ -801,7 +991,7 @@ async function handleRoute() {
   }
 
   // Legacy name aliases
-  const legacyMap = { '#/chinese': 'zh', '#/spanish': 'es', '#/french': 'fr', '#/japanese': 'ja', '#/swahili': 'sw', '#/arabic': 'ar', '#/thai': 'th', '#/vietnamese': 'vi' };
+  const legacyMap = { '#/chinese': 'zh', '#/spanish': 'es', '#/french': 'fr', '#/japanese': 'ja', '#/swahili': 'sw', '#/arabic': 'ar', '#/thai': 'th', '#/vietnamese': 'vi', '#/russian': 'ru', '#/latin': 'la' };
   if (legacyMap[hash]) {
     currentLang = legacyMap[hash];
     await renderLangIntro(currentLang);

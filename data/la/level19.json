@@ -1,0 +1,53 @@
+{
+  "level": 19,
+  "title": "공항 & 비행기",
+  "titleLa": "Aeroportus et Volatus",
+  "description": "라틴어로 공항과 비행 관련 표현을 배웁니다. 현대 라틴어 용어를 사용합니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Quando navis aeria mea discedit?", "pronunciation": "쿠안도 나비스 아에리아 메아 디스케딧?", "korean": "제 비행기는 언제 출발하나요?" },
+      { "latin": "Quota hora volatus meus est?", "pronunciation": "쿠오타 호라 볼라투스 메우스 에스트?", "korean": "제 비행 시간은 몇 시인가요?" },
+      { "latin": "Ubi portam meam inveniam?", "pronunciation": "우비 포르탐 메암 인베니암?", "korean": "제 게이트를 어디서 찾을 수 있나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Volatus tuus hora decima discedit.", "pronunciation": "볼라투스 투우스 호라 데키마 디스케딧.", "korean": "당신의 비행기는 10시에 출발합니다." },
+      { "latin": "Navis aeria hora decima proficiscitur.", "pronunciation": "나비스 아에리아 호라 데키마 프로피키스키투르.", "korean": "비행기는 10시에 떠납니다." },
+      { "latin": "Porta tua numero quinque est.", "pronunciation": "포르타 투아 누메로 퀸쿠에 에스트.", "korean": "당신의 게이트는 5번입니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Ubi sarcinas meas relinquam?", "pronunciation": "우비 사르키나스 메아스 렐린쿠암?", "korean": "짐을 어디에 맡기나요?" },
+      { "latin": "Hae sunt sarcinulae meae.", "pronunciation": "하에 순트 사르키눌라에 메아에.", "korean": "이것이 제 짐입니다." },
+      { "latin": "Quot sarcinas ferre possum?", "pronunciation": "쿠옷 사르키나스 페레 포숨?", "korean": "짐을 몇 개 가져갈 수 있나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Duas sarcinas ferre potes.", "pronunciation": "두아스 사르키나스 페레 포테스.", "korean": "짐 두 개를 가져갈 수 있습니다." },
+      { "latin": "Sarcinas hic depone.", "pronunciation": "사르키나스 힉 데포네.", "korean": "짐을 여기에 놓으세요." },
+      { "latin": "Sarcinae graves illic relinquendae sunt.", "pronunciation": "사르키나에 그라베스 일릭 렐린쿠엔다에 순트.", "korean": "무거운 짐은 저쪽에 맡겨야 합니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Tesseram meam hic ostendo?", "pronunciation": "테세람 메암 힉 오스텐도?", "korean": "여기서 티켓을 보여드리나요?" },
+      { "latin": "Ecce tessera volatus mei.", "pronunciation": "에케 테세라 볼라투스 메이.", "korean": "여기 제 비행 티켓입니다." },
+      { "latin": "Syngrapha mea haec est.", "pronunciation": "신그라파 메아 하에크 에스트.", "korean": "이것이 제 여행 서류입니다." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Gratias. Sedes tua numero viginti est.", "pronunciation": "그라티아스. 세데스 투아 누메로 비긴티 에스트.", "korean": "감사합니다. 좌석은 20번입니다." },
+      { "latin": "Bene. Ad portam quintam i.", "pronunciation": "베네. 아드 포르탐 퀸탐 이.", "korean": "좋습니다. 5번 게이트로 가세요." },
+      { "latin": "Optime. Bonum iter tibi opto!", "pronunciation": "옵티메. 보눔 이테르 티비 옵토!", "korean": "좋습니다. 좋은 여행 되세요!" }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Gratias! Iter iucundum erit.", "pronunciation": "그라티아스! 이테르 이우쿤둠 에릿.", "korean": "감사합니다! 즐거운 여행이 될 거예요." },
+      { "latin": "Gratias tibi ago. Vale!", "pronunciation": "그라티아스 티비 아고. 발레!", "korean": "감사합니다. 안녕히 계세요!" },
+      { "latin": "Benigne! Salvus perveniam.", "pronunciation": "베니게! 살부스 페르베니암.", "korean": "감사합니다! 안전하게 도착하겠습니다." }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "aeroportus", "pronunciation": "아에로포르투스", "korean": "공항" },
+    { "latin": "navis aeria", "pronunciation": "나비스 아에리아", "korean": "비행기" },
+    { "latin": "volatus", "pronunciation": "볼라투스", "korean": "비행" },
+    { "latin": "sarcina", "pronunciation": "사르키나", "korean": "짐" },
+    { "latin": "tessera", "pronunciation": "테세라", "korean": "티켓" },
+    { "latin": "porta", "pronunciation": "포르타", "korean": "문, 게이트" },
+    { "latin": "sedes", "pronunciation": "세데스", "korean": "좌석" },
+    { "latin": "discedere", "pronunciation": "디스케데레", "korean": "출발하다" }
+  ]
+}

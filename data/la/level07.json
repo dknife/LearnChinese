@@ -1,0 +1,53 @@
+{
+  "level": 7,
+  "title": "택시 & 대중교통",
+  "titleLa": "Raeda et Vehicula Publica",
+  "description": "라틴어로 마차(택시)와 대중교통을 이용하는 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Raedam quaero. Potesne me vehere?", "pronunciation": "라에담 쿠아에로. 포테스네 메 베헤레?", "korean": "마차를 찾고 있어요. 저를 태워줄 수 있나요?" },
+      { "latin": "Vehiculum ad forum, quaeso.", "pronunciation": "베히쿨룸 아드 포룸, 쿠아에소.", "korean": "광장까지 마차 부탁합니다." },
+      { "latin": "Raedarium quaero.", "pronunciation": "라에다리움 쿠아에로.", "korean": "마차 기사를 찾고 있습니다." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Certe! Quo vis ire?", "pronunciation": "케르테! 쿠오 비스 이레?", "korean": "물론이죠! 어디로 가고 싶으신가요?" },
+      { "latin": "Ita! Dic mihi locum.", "pronunciation": "이타! 딕 미히 로쿰.", "korean": "네! 장소를 말씀하세요." },
+      { "latin": "Placet. Quem ad locum?", "pronunciation": "플라켓. 쿠엠 아드 로쿰?", "korean": "좋습니다. 어느 장소로요?" }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Ad Colosseum, quaeso.", "pronunciation": "아드 콜로세움, 쿠아에소.", "korean": "콜로세움으로 부탁합니다." },
+      { "latin": "Fer me ad Colosseum.", "pronunciation": "페르 메 아드 콜로세움.", "korean": "콜로세움으로 데려다주세요." },
+      { "latin": "Volo ad Colosseum ire.", "pronunciation": "볼로 아드 콜로세움 이레.", "korean": "콜로세움에 가고 싶습니다." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Bene. Iter viginti minuta durabit.", "pronunciation": "베네. 이테르 비긴티 미누타 두라빗.", "korean": "좋습니다. 여행은 20분 걸립니다." },
+      { "latin": "Optime. Post viginti minuta advenimus.", "pronunciation": "옵티메. 포스트 비긴티 미누타 아드베니무스.", "korean": "좋아요. 20분 후에 도착합니다." },
+      { "latin": "Intellego. Non longe est.", "pronunciation": "인텔레고. 논 롱게 에스트.", "korean": "알겠습니다. 멀지 않아요." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Quanti constat hoc iter?", "pronunciation": "쿠안티 콘스탓 호크 이테르?", "korean": "이 여행은 얼마인가요?" },
+      { "latin": "Quantum pro itinere solvam?", "pronunciation": "쿠안툼 프로 이티네레 솔밤?", "korean": "여행 비용은 얼마인가요?" },
+      { "latin": "Quod est pretium itineris?", "pronunciation": "쿠오드 에스트 프레티움 이티네리스?", "korean": "여행의 가격은 무엇인가요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Quinque sestertii.", "pronunciation": "퀸쿠에 세스테르티이.", "korean": "5 세스테르티우스입니다." },
+      { "latin": "Pretium est quinque sestertii.", "pronunciation": "프레티움 에스트 퀸쿠에 세스테르티이.", "korean": "가격은 5 세스테르티우스입니다." },
+      { "latin": "Pro quinque sestertiis te veham.", "pronunciation": "프로 퀸쿠에 세스테르티이스 테 베함.", "korean": "5 세스테르티우스에 모셔다 드리겠습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Bene. Eamus!", "pronunciation": "베네. 에아무스!", "korean": "좋아요. 출발합시다!" },
+      { "latin": "Placet! Proficiscamur!", "pronunciation": "플라켓! 프로피키스카무르!", "korean": "좋습니다! 떠납시다!" },
+      { "latin": "Consentio. Festinemus!", "pronunciation": "콘센티오. 페스티네무스!", "korean": "동의합니다. 서둡시다!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "raeda", "pronunciation": "라에다", "korean": "마차(택시)" },
+    { "latin": "vehiculum", "pronunciation": "베히쿨룸", "korean": "탈것" },
+    { "latin": "iter", "pronunciation": "이테르", "korean": "여행, 여정" },
+    { "latin": "vehere", "pronunciation": "베헤레", "korean": "운반하다, 태우다" },
+    { "latin": "sestertius", "pronunciation": "세스테르티우스", "korean": "세스테르티우스(로마 화폐)" },
+    { "latin": "festinare", "pronunciation": "페스티나레", "korean": "서두르다" },
+    { "latin": "proficisci", "pronunciation": "프로피키스키", "korean": "출발하다" },
+    { "latin": "locus", "pronunciation": "로쿠스", "korean": "장소" }
+  ]
+}

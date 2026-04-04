@@ -1,0 +1,74 @@
+{
+  "level": 14,
+  "title": "날씨 & 계절",
+  "titleRu": "Погода и времена года",
+  "description": "러시아어로 날씨와 계절을 표현하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Какая сегодня погода?", "pronunciation": "까까야 씨보드냐 빠고다?", "korean": "오늘 날씨가 어때요?" },
+        { "russian": "Как погода на улице?", "pronunciation": "깍 빠고다 나 울리쩨?", "korean": "밖에 날씨가 어때요?" },
+        { "russian": "Сегодня тепло или холодно?", "pronunciation": "씨보드냐 찌쁠로 일리 홀라드나?", "korean": "오늘 따뜻해요 아니면 추워요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Сегодня солнечно и тепло. Двадцать пять градусов.", "pronunciation": "씨보드냐 솔니치나 이 찌쁠로. 드바쯔찌 삐찌 그라두사프.", "korean": "오늘 맑고 따뜻해요. 25도예요." },
+        { "russian": "Холодно и идёт снег. Минус десять.", "pronunciation": "홀라드나 이 이됻 스넥. 미누스 데샤찌.", "korean": "춥고 눈이 와요. 영하 10도예요." },
+        { "russian": "Пасмурно. Наверное, скоро будет дождь.", "pronunciation": "빠스무르나. 나베르나예, 스꼬라 부딧 도쉬.", "korean": "흐려요. 아마 곧 비가 올 거예요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Какое время года тебе нравится больше всего?", "pronunciation": "까꼬예 브레먀 고다 찌볘 느라비짜 볼쉬 프씨보?", "korean": "어떤 계절을 가장 좋아해?" },
+        { "russian": "Ты любишь зиму?", "pronunciation": "띠 류비쉬 지무?", "korean": "겨울 좋아해?" },
+        { "russian": "В России зима долгая?", "pronunciation": "브 라씨이 지마 돌가야?", "korean": "러시아는 겨울이 길어요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Мне больше нравится лето. Люблю тепло.", "pronunciation": "므네 볼쉬 느라비짜 레따. 류블류 찌쁠로.", "korean": "여름이 더 좋아요. 따뜻한 걸 좋아해요." },
+        { "russian": "Я люблю осень. Красивые листья.", "pronunciation": "야 류블류 오씬. 끄라씨비예 리스찌야.", "korean": "가을을 좋아해요. 예쁜 낙엽이요." },
+        { "russian": "Да, зима длинная, с ноября по март.", "pronunciation": "다, 지마 들린나야, 스 나야브랴 빠 마르뜨.", "korean": "네, 겨울이 길어요, 11월부터 3월까지." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Нужно взять зонтик?", "pronunciation": "누쥐나 브쟈찌 존찍?", "korean": "우산 가져가야 할까?" },
+        { "russian": "Мне одеться теплее?", "pronunciation": "므네 아데짜 찌쁠레예?", "korean": "더 따뜻하게 입어야 할까?" },
+        { "russian": "Какой прогноз погоды на завтра?", "pronunciation": "까꼬이 쁘라그노즈 빠고디 나 자프뜨라?", "korean": "내일 날씨 예보가 어때요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Да, возьми зонтик. Обещают дождь.", "pronunciation": "다, 바즈미 존찍. 아비쉬야유뜨 도쉬.", "korean": "응, 우산 가져가. 비 온대." },
+        { "russian": "Одевайся теплее, на улице ветер.", "pronunciation": "아지바이샤 찌쁠레예, 나 울리쩨 베찌르.", "korean": "따뜻하게 입어, 바깥에 바람 불어." },
+        { "russian": "Завтра будет солнечно и без ветра.", "pronunciation": "자프뜨라 부딧 솔니치나 이 비즈 베뜨라.", "korean": "내일은 맑고 바람이 없을 거예요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "В Корее сейчас весна. Цветёт сакура!", "pronunciation": "프 까레예 씨차스 비스나. 쯔비됻 사꾸라!", "korean": "한국은 지금 봄이에요. 벚꽃이 피고 있어요!" },
+        { "russian": "Я скучаю по корейскому лету.", "pronunciation": "야 스꾸차유 빠 까레이스까무 레뚜.", "korean": "한국 여름이 그리워요." },
+        { "russian": "Русская зима очень красивая!", "pronunciation": "루스까야 지마 오친 끄라씨바야!", "korean": "러시아 겨울은 정말 아름다워요!" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "russian": "погода", "pronunciation": "빠고다", "korean": "날씨" },
+    { "russian": "дождь", "pronunciation": "도쉬", "korean": "비" },
+    { "russian": "снег", "pronunciation": "스넥", "korean": "눈" },
+    { "russian": "ветер", "pronunciation": "베찌르", "korean": "바람" },
+    { "russian": "зима", "pronunciation": "지마", "korean": "겨울" },
+    { "russian": "весна", "pronunciation": "비스나", "korean": "봄" },
+    { "russian": "лето", "pronunciation": "레따", "korean": "여름" },
+    { "russian": "осень", "pronunciation": "오씬", "korean": "가을" }
+  ]
+}

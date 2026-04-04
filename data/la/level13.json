@@ -1,0 +1,53 @@
+{
+  "level": 13,
+  "title": "옷 & 외모",
+  "titleLa": "Vestimenta et Species",
+  "description": "라틴어로 옷과 외모를 묘사하는 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Toga tua pulchra est!", "pronunciation": "토가 투아 풀크라 에스트!", "korean": "당신의 토가가 아름다워요!" },
+      { "latin": "Quam elegans vestis!", "pronunciation": "쿠암 엘레간스 베스티스!", "korean": "정말 우아한 옷이네요!" },
+      { "latin": "Nova tunica tibi bene convenit.", "pronunciation": "노바 투니카 티비 베네 콘베닛.", "korean": "새 튜닉이 잘 어울려요." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Gratias! Eam heri emi.", "pronunciation": "그라티아스! 에암 헤리 에미.", "korean": "감사합니다! 어제 샀어요." },
+      { "latin": "Benigne dicis. Nova est.", "pronunciation": "베니게 디키스. 노바 에스트.", "korean": "친절하시네요. 새 거예요." },
+      { "latin": "Tibi gratias ago. Color purpureus est.", "pronunciation": "티비 그라티아스 아고. 콜로르 푸르푸레우스 에스트.", "korean": "감사합니다. 자주색이에요." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Color albus tibi convenit.", "pronunciation": "콜로르 알부스 티비 콘베닛.", "korean": "흰색이 잘 어울립니다." },
+      { "latin": "Purpuram amas?", "pronunciation": "푸르푸람 아마스?", "korean": "자주색을 좋아하나요?" },
+      { "latin": "Quem colorem maxime amas?", "pronunciation": "쿠엠 콜로렘 막시메 아마스?", "korean": "어떤 색을 가장 좋아하나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Rubrum colorem amo.", "pronunciation": "루브룸 콜로렘 아모.", "korean": "빨간색을 좋아합니다." },
+      { "latin": "Album et caeruleum praefero.", "pronunciation": "알붐 에트 카에룰레움 프라에페로.", "korean": "흰색과 파란색을 선호합니다." },
+      { "latin": "Purpureum maxime diligo.", "pronunciation": "푸르푸레움 막시메 딜리고.", "korean": "자주색을 가장 좋아합니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Calceos novos quoque habes?", "pronunciation": "칼케오스 노보스 쿠오쿠에 하베스?", "korean": "새 신발도 있나요?" },
+      { "latin": "Et sandalia nova sunt?", "pronunciation": "에트 산달리아 노바 순트?", "korean": "샌들도 새 거인가요?" },
+      { "latin": "Fibulam auream portas!", "pronunciation": "피불람 아우레암 포르타스!", "korean": "금 브로치를 달고 있네요!" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Ita, sandalia nova sunt.", "pronunciation": "이타, 산달리아 노바 순트.", "korean": "네, 샌들이 새 거예요." },
+      { "latin": "Haec fibula donum amici est.", "pronunciation": "하에크 피불라 도눔 아미키 에스트.", "korean": "이 브로치는 친구의 선물입니다." },
+      { "latin": "Calcei ex corio optimo facti sunt.", "pronunciation": "칼케이 엑스 코리오 옵티모 팍티 순트.", "korean": "신발은 최고급 가죽으로 만들어졌습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Optime vestitus es hodie!", "pronunciation": "옵티메 베스티투스 에스 호디에!", "korean": "오늘 정말 멋지게 차려입었네요!" },
+      { "latin": "Vere elegans appares!", "pronunciation": "베레 엘레간스 아파레스!", "korean": "정말 우아해 보여요!" },
+      { "latin": "Splendide ornatusas es!", "pronunciation": "스플렌디데 오르나투스 에스!", "korean": "화려하게 꾸미셨네요!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "toga", "pronunciation": "토가", "korean": "토가(로마식 겉옷)" },
+    { "latin": "tunica", "pronunciation": "투니카", "korean": "튜닉(속옷)" },
+    { "latin": "vestis", "pronunciation": "베스티스", "korean": "옷" },
+    { "latin": "calceus", "pronunciation": "칼케우스", "korean": "신발" },
+    { "latin": "color", "pronunciation": "콜로르", "korean": "색" },
+    { "latin": "albus", "pronunciation": "알부스", "korean": "흰" },
+    { "latin": "ruber", "pronunciation": "루베르", "korean": "빨간" },
+    { "latin": "fibula", "pronunciation": "피불라", "korean": "브로치, 핀" }
+  ]
+}

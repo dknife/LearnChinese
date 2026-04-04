@@ -1,0 +1,74 @@
+{
+  "level": 6,
+  "title": "쇼핑하기",
+  "titleRu": "Покупки",
+  "description": "러시아어로 쇼핑하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Здравствуйте! Я хочу купить подарок.", "pronunciation": "즈드라스뜨부이쩨! 야 하추 꾸삐찌 빠다락.", "korean": "안녕하세요! 선물을 사고 싶어요." },
+        { "russian": "Покажите, пожалуйста, вон ту сумку.", "pronunciation": "빠까쥐쩨, 빠잘루이스따, 본 뚜 숨꾸.", "korean": "저 가방 좀 보여주세요." },
+        { "russian": "Можно посмотреть эту вещь поближе?", "pronunciation": "모쥐나 빠스마뜨레찌 에뚜 볘쉬 빠블리쥐?", "korean": "이 물건 좀 가까이서 봐도 될까요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Конечно! Что именно вы ищете?", "pronunciation": "까네쉬나! 쉬또 이멘나 비 이쉬쩨쩨?", "korean": "물론이죠! 정확히 뭘 찾으세요?" },
+        { "russian": "Вот, пожалуйста. Это новая коллекция.", "pronunciation": "봇, 빠잘루이스따. 에따 노바야 깔렉찌야.", "korean": "여기요. 신상품이에요." },
+        { "russian": "Да, конечно. Какой цвет предпочитаете?", "pronunciation": "다, 까네쉬나. 까꼬이 쯔벳 쁘리드빠치따이쩨?", "korean": "네, 물론이죠. 어떤 색상을 선호하세요?" }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Сколько это стоит?", "pronunciation": "스꼴까 에따 스또잇?", "korean": "이거 얼마예요?" },
+        { "russian": "Можно скидку?", "pronunciation": "모쥐나 스끼드꾸?", "korean": "할인 가능한가요?" },
+        { "russian": "У вас есть что-нибудь подешевле?", "pronunciation": "우 바스 예스찌 쉬또-니부찌 빠지쉘레?", "korean": "좀 더 저렴한 것 있나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Это стоит две тысячи рублей.", "pronunciation": "에따 스또잇 드볘 띠샤치 루블레이.", "korean": "이것은 2000루블이에요." },
+        { "russian": "Сейчас скидка десять процентов.", "pronunciation": "씨차스 스끼드까 데샤찌 쁘라쩬따프.", "korean": "지금 10% 할인 중이에요." },
+        { "russian": "Есть похожая модель подешевле.", "pronunciation": "예스찌 빠호자야 마델 빠지쉘레.", "korean": "비슷한 모델 중 더 저렴한 게 있어요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Можно примерить?", "pronunciation": "모쥐나 쁘리메리찌?", "korean": "입어 봐도 될까요?" },
+        { "russian": "Где примерочная?", "pronunciation": "그데 쁘리메라치나야?", "korean": "탈의실이 어디예요?" },
+        { "russian": "У вас есть размер побольше?", "pronunciation": "우 바스 예스찌 라즈메르 빠볼쉬?", "korean": "더 큰 사이즈 있나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Примерочная направо. Пожалуйста.", "pronunciation": "쁘리메라치나야 나쁘라바. 빠잘루이스따.", "korean": "탈의실은 오른쪽에 있어요." },
+        { "russian": "Да, вот размер побольше.", "pronunciation": "다, 봇 라즈메르 빠볼쉬.", "korean": "네, 여기 더 큰 사이즈요." },
+        { "russian": "К сожалению, это последний размер.", "pronunciation": "크 사잘레니유, 에따 빠슬레드니 라즈메르.", "korean": "안타깝게도 이것이 마지막 사이즈예요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Хорошо, я беру это. Можно оплатить картой?", "pronunciation": "하라쇼, 야 비루 에따. 모쥐나 아쁠라찌찌 까르따이?", "korean": "좋아요, 이걸로 할게요. 카드로 결제할 수 있나요?" },
+        { "russian": "Мне нравится! Заверните, пожалуйста.", "pronunciation": "므네 느라비짜! 자비르니쩨, 빠잘루이스따.", "korean": "마음에 들어요! 포장해 주세요." },
+        { "russian": "Я возьму два. Упакуйте как подарок.", "pronunciation": "야 바즈무 드바. 우빠꾸이쩨 깍 빠다락.", "korean": "두 개 살게요. 선물 포장해 주세요." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "russian": "купить", "pronunciation": "꾸삐찌", "korean": "사다" },
+    { "russian": "магазин", "pronunciation": "마가진", "korean": "가게" },
+    { "russian": "цена", "pronunciation": "쩨나", "korean": "가격" },
+    { "russian": "скидка", "pronunciation": "스끼드까", "korean": "할인" },
+    { "russian": "размер", "pronunciation": "라즈메르", "korean": "사이즈" },
+    { "russian": "дорого", "pronunciation": "도라가", "korean": "비싸다" },
+    { "russian": "дёшево", "pronunciation": "됴쉬바", "korean": "싸다" },
+    { "russian": "карта", "pronunciation": "까르따", "korean": "카드" }
+  ]
+}

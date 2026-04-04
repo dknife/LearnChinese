@@ -1,0 +1,53 @@
+{
+  "level": 9,
+  "title": "전화번호 & 주소",
+  "titleLa": "Inscriptio et Locus Habitandi",
+  "description": "라틴어로 연락처와 주소를 묻고 알려주는 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Ubi habitas?", "pronunciation": "우비 하비타스?", "korean": "어디에 사시나요?" },
+      { "latin": "Quae est inscriptio tua?", "pronunciation": "쿠아에 에스트 인스크립티오 투아?", "korean": "주소가 어떻게 되나요?" },
+      { "latin": "In qua regione domus tua est?", "pronunciation": "인 쿠아 레기오네 도무스 투아 에스트?", "korean": "집이 어느 지역에 있나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "In Via Appia habito.", "pronunciation": "인 비아 아피아 하비토.", "korean": "아피아 가도에 살고 있습니다." },
+      { "latin": "Domus mea in colle Palatino est.", "pronunciation": "도무스 메아 인 콜레 팔라티노 에스트.", "korean": "제 집은 팔라티누스 언덕에 있습니다." },
+      { "latin": "Prope forum Romanum habito.", "pronunciation": "프로페 포룸 로마눔 하비토.", "korean": "로마 광장 근처에 살고 있습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Quomodo te invenire possum?", "pronunciation": "쿠오모도 테 인베니레 포숨?", "korean": "어떻게 당신을 찾을 수 있나요?" },
+      { "latin": "Quomodo te contingam?", "pronunciation": "쿠오모도 테 콘팅감?", "korean": "어떻게 연락할 수 있나요?" },
+      { "latin": "Quomodo nuntium tibi mittam?", "pronunciation": "쿠오모도 눈티움 티비 밋탐?", "korean": "어떻게 소식을 전할 수 있나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Epistulam ad domum meam mitte.", "pronunciation": "에피스툴람 아드 도뭄 메암 밋테.", "korean": "제 집으로 편지를 보내세요." },
+      { "latin": "Servum ad me mitte cum nuntio.", "pronunciation": "세르붐 아드 메 밋테 쿰 눈티오.", "korean": "소식을 가진 하인을 보내세요." },
+      { "latin": "Tabellarium mitte ad Via Appia decem.", "pronunciation": "타벨라리움 밋테 아드 비아 아피아 데켐.", "korean": "아피아 가도 10번지로 전령을 보내세요." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Hoc notabo. Gratias.", "pronunciation": "호크 노타보. 그라티아스.", "korean": "이것을 적어 두겠습니다. 감사합니다." },
+      { "latin": "Inscriptionem tuam scribam.", "pronunciation": "인스크립티오넴 투암 스크리밤.", "korean": "주소를 적어 두겠습니다." },
+      { "latin": "In tabulam meam notabo.", "pronunciation": "인 타불람 메암 노타보.", "korean": "제 서판에 기록하겠습니다." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Recte. Quaere me quandocumque vis.", "pronunciation": "렉테. 쿠아에레 메 쿠안도쿰쿠에 비스.", "korean": "좋아요. 언제든 저를 찾아오세요." },
+      { "latin": "Bene. Semper domi sum mane.", "pronunciation": "베네. 셈페르 도미 숨 마네.", "korean": "좋아요. 아침에는 항상 집에 있습니다." },
+      { "latin": "Optime. Te exspectabo.", "pronunciation": "옵티메. 테 엑스펙타보.", "korean": "좋습니다. 기다리겠습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Cras te visitabo. Vale!", "pronunciation": "크라스 테 비시타보. 발레!", "korean": "내일 방문하겠습니다. 안녕!" },
+      { "latin": "Mox veniam. Cura ut valeas!", "pronunciation": "목스 베니암. 쿠라 우트 발레아스!", "korean": "곧 가겠습니다. 건강하세요!" },
+      { "latin": "Bene. Ad te veniam brevi.", "pronunciation": "베네. 아드 테 베니암 브레비.", "korean": "좋아요. 곧 찾아뵙겠습니다." }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "inscriptio", "pronunciation": "인스크립티오", "korean": "주소" },
+    { "latin": "habitare", "pronunciation": "하비타레", "korean": "살다, 거주하다" },
+    { "latin": "epistula", "pronunciation": "에피스툴라", "korean": "편지" },
+    { "latin": "nuntius", "pronunciation": "눈티우스", "korean": "소식, 전령" },
+    { "latin": "tabellarius", "pronunciation": "타벨라리우스", "korean": "전령, 배달부" },
+    { "latin": "scribere", "pronunciation": "스크리베레", "korean": "쓰다" },
+    { "latin": "collis", "pronunciation": "콜리스", "korean": "언덕" },
+    { "latin": "cras", "pronunciation": "크라스", "korean": "내일" }
+  ]
+}

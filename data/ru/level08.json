@@ -1,0 +1,74 @@
+{
+  "level": 8,
+  "title": "시간 표현",
+  "titleRu": "Который час?",
+  "description": "러시아어로 시간을 묻고 표현하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Извините, который час?", "pronunciation": "이즈비니쩨, 까또리 차스?", "korean": "실례합니다, 지금 몇 시예요?" },
+        { "russian": "Скажите, пожалуйста, сколько сейчас времени?", "pronunciation": "스까쥐쩨, 빠잘루이스따, 스꼴까 씨차스 브레미니?", "korean": "지금 몇 시인지 알려주시겠어요?" },
+        { "russian": "Не подскажете, сколько времени?", "pronunciation": "니 빠츠까쥐쩨, 스꼴까 브레미니?", "korean": "지금 몇 시인지 아시나요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Сейчас три часа.", "pronunciation": "씨차스 뜨리 차사.", "korean": "지금 3시예요." },
+        { "russian": "Половина пятого.", "pronunciation": "빠라비나 삐따바.", "korean": "4시 반이에요." },
+        { "russian": "Без десяти два.", "pronunciation": "비즈 지씨찌 드바.", "korean": "2시 10분 전이에요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Во сколько открывается музей?", "pronunciation": "바 스꼴까 앗크리바이짜 무제이?", "korean": "박물관이 몇 시에 열어요?" },
+        { "russian": "Когда начинается спектакль?", "pronunciation": "까그다 나치나이짜 스삑딱클?", "korean": "공연이 언제 시작하나요?" },
+        { "russian": "До скольки работает магазин?", "pronunciation": "다 스꼴끼 라보따잇 마가진?", "korean": "가게는 몇 시까지 해요?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Музей открывается в десять утра.", "pronunciation": "무제이 앗크리바이짜 브 데샤찌 우뜨라.", "korean": "박물관은 오전 10시에 열어요." },
+        { "russian": "Спектакль начинается в семь вечера.", "pronunciation": "스삑딱클 나치나이짜 프 셈 볘치라.", "korean": "공연은 저녁 7시에 시작해요." },
+        { "russian": "Магазин работает до девяти вечера.", "pronunciation": "마가진 라보따잇 다 지뱌찌 볘치라.", "korean": "가게는 저녁 9시까지 해요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Мы опаздываем! Надо торопиться.", "pronunciation": "미 아빠즈디바임! 나다 따라삐짜.", "korean": "우리 늦겠어요! 서둘러야 해요." },
+        { "russian": "У нас ещё есть время?", "pronunciation": "우 나스 이쇼 예스찌 브레먀?", "korean": "아직 시간 있어요?" },
+        { "russian": "Давай поторопимся, уже поздно.", "pronunciation": "다바이 빠따라삐므샤, 우쥐 뽀즈나.", "korean": "서두르자, 이미 늦었어." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Не волнуйся, у нас ещё полчаса.", "pronunciation": "니 발누이샤, 우 나스 이쇼 뽈차사.", "korean": "걱정 마, 아직 30분 있어." },
+        { "russian": "Да, поторопимся. Осталось пятнадцать минут.", "pronunciation": "다, 빠따라삐므샤. 아스딸라시 삐뜨나쯔찌 미눗.", "korean": "응, 서두르자. 15분 남았어." },
+        { "russian": "Успеем, если выйдем прямо сейчас.", "pronunciation": "우스페임, 예슬리 비이딤 쁘랴마 씨차스.", "korean": "지금 바로 나가면 시간 맞아." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Хорошо, тогда идём! Не будем терять время.", "pronunciation": "하라쇼, 따그다 이됨! 니 부딤 찌랴찌 브레먀.", "korean": "좋아, 그럼 가자! 시간 낭비하지 말자." },
+        { "russian": "Давай встретимся через час.", "pronunciation": "다바이 프스뜨레찜샤 체리즈 차스.", "korean": "한 시간 뒤에 만나자." },
+        { "russian": "Ладно, я буду готов через десять минут.", "pronunciation": "라드나, 야 부두 가또프 체리즈 데샤찌 미눗.", "korean": "알았어, 10분 후에 준비될게." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "russian": "час", "pronunciation": "차스", "korean": "시간, 시" },
+    { "russian": "минута", "pronunciation": "미누따", "korean": "분" },
+    { "russian": "время", "pronunciation": "브레먀", "korean": "시간" },
+    { "russian": "утро", "pronunciation": "우뜨라", "korean": "아침" },
+    { "russian": "вечер", "pronunciation": "볘치르", "korean": "저녁" },
+    { "russian": "поздно", "pronunciation": "뽀즈나", "korean": "늦은" },
+    { "russian": "рано", "pronunciation": "라나", "korean": "이른" },
+    { "russian": "сейчас", "pronunciation": "씨차스", "korean": "지금" }
+  ]
+}

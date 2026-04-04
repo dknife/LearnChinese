@@ -1,0 +1,74 @@
+{
+  "level": 2,
+  "title": "숫자 & 날짜",
+  "titleRu": "Числа и даты",
+  "description": "러시아어로 숫자와 날짜를 표현하는 법을 배워봅시다.",
+  "conversations": [
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Какое сегодня число?", "pronunciation": "까꼬예 씨보드냐 치슬로?", "korean": "오늘 몇 일이에요?" },
+        { "russian": "Какой сегодня день?", "pronunciation": "까꼬이 씨보드냐 덴?", "korean": "오늘 무슨 요일이에요?" },
+        { "russian": "Скажите, пожалуйста, какое сегодня число?", "pronunciation": "스까쥐쩨, 빠잘루이스따, 까꼬예 씨보드냐 치슬로?", "korean": "오늘 날짜가 어떻게 되는지 알려주세요." }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Сегодня пятое марта.", "pronunciation": "씨보드냐 뺘따예 마르따.", "korean": "오늘은 3월 5일이에요." },
+        { "russian": "Сегодня понедельник, десятое апреля.", "pronunciation": "씨보드냐 빠니델니크, 지샤따예 아쁘렐랴.", "korean": "오늘은 월요일, 4월 10일이에요." },
+        { "russian": "Сегодня двадцать первое января.", "pronunciation": "씨보드냐 드바쯔찌 페르바예 인바랴.", "korean": "오늘은 1월 21일이에요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Сколько это стоит?", "pronunciation": "스꼴까 에따 스또잇?", "korean": "이것은 얼마예요?" },
+        { "russian": "Какая цена?", "pronunciation": "까까야 쩨나?", "korean": "가격이 얼마예요?" },
+        { "russian": "Почём это?", "pronunciation": "빠촘 에따?", "korean": "이거 얼마죠?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Это стоит пятьсот рублей.", "pronunciation": "에따 스또잇 삐찌솓 루블레이.", "korean": "이것은 500루블이에요." },
+        { "russian": "Триста пятьдесят рублей.", "pronunciation": "뜨리스따 삐찌지샷 루블레이.", "korean": "350루블이에요." },
+        { "russian": "Тысяча двести рублей.", "pronunciation": "띠샤차 드베스찌 루블레이.", "korean": "1200루블이에요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Когда у вас день рождения?", "pronunciation": "까그다 우 바스 덴 라쥐데니야?", "korean": "생일이 언제예요?" },
+        { "russian": "В каком году вы родились?", "pronunciation": "프 까꼼 가두 비 라딜리시?", "korean": "몇 년도에 태어나셨어요?" },
+        { "russian": "Когда ты родился?", "pronunciation": "까그다 띠 라딜샤?", "korean": "너는 언제 태어났어?" }
+      ]
+    },
+    {
+      "speaker": "B",
+      "variants": [
+        { "russian": "Мой день рождения пятнадцатого июня.", "pronunciation": "모이 덴 라쥐데니야 삐뜨나쯔따바 이유냐.", "korean": "제 생일은 6월 15일이에요." },
+        { "russian": "Я родился в тысяча девятьсот девяностом году.", "pronunciation": "야 라딜샤 프 띠샤차 지뱌찌솓 지뱌노스떰 가두.", "korean": "저는 1990년에 태어났어요." },
+        { "russian": "Двадцать третьего августа.", "pronunciation": "드바쯔찌 뜨레찌바 아브구스따.", "korean": "8월 23일이에요." }
+      ]
+    },
+    {
+      "speaker": "A",
+      "variants": [
+        { "russian": "Спасибо! Я запомню эту дату.", "pronunciation": "스빠씨바! 야 자뽐뉴 에뚜 다뚜.", "korean": "감사합니다! 그 날짜를 기억할게요." },
+        { "russian": "Понял, спасибо!", "pronunciation": "뽀냘, 스빠씨바!", "korean": "알겠어요, 고마워요!" },
+        { "russian": "Хорошо, я записал.", "pronunciation": "하라쇼, 야 자삐살.", "korean": "좋아요, 메모했어요." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "russian": "число", "pronunciation": "치슬로", "korean": "숫자, 날짜" },
+    { "russian": "день", "pronunciation": "덴", "korean": "일, 날" },
+    { "russian": "месяц", "pronunciation": "메샤쯔", "korean": "달, 월" },
+    { "russian": "год", "pronunciation": "고드", "korean": "년, 해" },
+    { "russian": "сколько", "pronunciation": "스꼴까", "korean": "얼마, 몇" },
+    { "russian": "рубль", "pronunciation": "루블", "korean": "루블 (러시아 화폐)" },
+    { "russian": "сегодня", "pronunciation": "씨보드냐", "korean": "오늘" },
+    { "russian": "день рождения", "pronunciation": "덴 라쥐데니야", "korean": "생일" }
+  ]
+}

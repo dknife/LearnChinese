@@ -1,0 +1,53 @@
+{
+  "level": 1,
+  "title": "인사 & 자기소개",
+  "titleLa": "Salutatio et Introductio",
+  "description": "라틴어로 인사하고 자기소개하는 기본 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Salve! Quid nomen tibi est?", "pronunciation": "살베! 퀴드 노멘 티비 에스트?", "korean": "안녕하세요! 이름이 무엇인가요?" },
+      { "latin": "Ave! Quomodo te appellaris?", "pronunciation": "아베! 쿠오모도 테 아펠라리스?", "korean": "안녕! 어떻게 불리나요?" },
+      { "latin": "Salve! Dic mihi nomen tuum.", "pronunciation": "살베! 딕 미히 노멘 투움.", "korean": "안녕하세요! 당신의 이름을 알려주세요." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Salve! Nomen mihi est Marcus.", "pronunciation": "살베! 노멘 미히 에스트 마르쿠스.", "korean": "안녕하세요! 제 이름은 마르쿠스입니다." },
+      { "latin": "Ave! Marcus appellor.", "pronunciation": "아베! 마르쿠스 아펠로르.", "korean": "안녕! 마르쿠스라고 불립니다." },
+      { "latin": "Salve! Marcus sum.", "pronunciation": "살베! 마르쿠스 숨.", "korean": "안녕하세요! 저는 마르쿠스입니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Gaudeo te cognoscere, Marce.", "pronunciation": "가우데오 테 코그노스케레, 마르케.", "korean": "만나서 반갑습니다, 마르쿠스." },
+      { "latin": "Laetus sum te videre.", "pronunciation": "라에투스 숨 테 비데레.", "korean": "당신을 만나 기쁩니다." },
+      { "latin": "Gratum est te convenire.", "pronunciation": "그라툼 에스트 테 콘베니레.", "korean": "만나뵙게 되어 반갑습니다." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Et ego gaudeo. Unde venis?", "pronunciation": "에트 에고 가우데오. 운데 베니스?", "korean": "저도 반갑습니다. 어디에서 오셨나요?" },
+      { "latin": "Gratias. Ex qua terra es?", "pronunciation": "그라티아스. 엑스 쿠아 테라 에스?", "korean": "감사합니다. 어느 나라에서 오셨나요?" },
+      { "latin": "Et mihi gratum est. Cuias es?", "pronunciation": "에트 미히 그라툼 에스트. 쿠이아스 에스?", "korean": "저도 반갑습니다. 어디 출신이신가요?" }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Ex Corea venio.", "pronunciation": "엑스 코레아 베니오.", "korean": "한국에서 왔습니다." },
+      { "latin": "Coreanus sum.", "pronunciation": "코레아누스 숨.", "korean": "저는 한국인입니다." },
+      { "latin": "Patria mea Corea est.", "pronunciation": "파트리아 메아 코레아 에스트.", "korean": "제 조국은 한국입니다." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Optime! Linguam Latinam discis?", "pronunciation": "옵티메! 링구암 라티남 디스키스?", "korean": "좋습니다! 라틴어를 배우고 있나요?" },
+      { "latin": "Praeclare! Cur Latinam studes?", "pronunciation": "프라에클라레! 쿠르 라티남 스투데스?", "korean": "훌륭해요! 왜 라틴어를 공부하나요?" },
+      { "latin": "Bene! Latinamne linguam amas?", "pronunciation": "베네! 라티남네 링구암 아마스?", "korean": "좋아요! 라틴어를 좋아하나요?" }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Ita, Latinam valde amo.", "pronunciation": "이타, 라티남 발데 아모.", "korean": "네, 라틴어를 매우 좋아합니다." },
+      { "latin": "Sic, discipulus novus sum.", "pronunciation": "시크, 디스키풀루스 노부스 숨.", "korean": "네, 저는 새 학생입니다." },
+      { "latin": "Certe! Lingua Latina pulchra est.", "pronunciation": "케르테! 링구아 라티나 풀크라 에스트.", "korean": "물론이죠! 라틴어는 아름답습니다." }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "salve", "pronunciation": "살베", "korean": "안녕하세요" },
+    { "latin": "nomen", "pronunciation": "노멘", "korean": "이름" },
+    { "latin": "gaudeo", "pronunciation": "가우데오", "korean": "기쁘다" },
+    { "latin": "cognoscere", "pronunciation": "코그노스케레", "korean": "알다, 만나다" },
+    { "latin": "unde", "pronunciation": "운데", "korean": "어디에서" },
+    { "latin": "venio", "pronunciation": "베니오", "korean": "오다" },
+    { "latin": "lingua", "pronunciation": "링구아", "korean": "언어" },
+    { "latin": "discere", "pronunciation": "디스케레", "korean": "배우다" }
+  ]
+}

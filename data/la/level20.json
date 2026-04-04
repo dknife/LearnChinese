@@ -1,0 +1,53 @@
+{
+  "level": 20,
+  "title": "호텔 체크인/아웃",
+  "titleLa": "Hospitium",
+  "description": "라틴어로 숙소(여관)에서 체크인/아웃하는 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Salve! Cubiculum reservavi.", "pronunciation": "살베! 쿠비쿨룸 레세르바비.", "korean": "안녕하세요! 방을 예약했습니다." },
+      { "latin": "Cubiculum unum noctem volo.", "pronunciation": "쿠비쿨룸 우눔 녹템 볼로.", "korean": "하룻밤 방을 원합니다." },
+      { "latin": "Habesne cubiculum vacuum?", "pronunciation": "하베스네 쿠비쿨룸 바쿠움?", "korean": "빈 방이 있나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Salve! Quod nomen tuum est?", "pronunciation": "살베! 쿠오드 노멘 투움 에스트?", "korean": "안녕하세요! 성함이 어떻게 되시나요?" },
+      { "latin": "Ita, cubiculum habemus. Quot noctes?", "pronunciation": "이타, 쿠비쿨룸 하베무스. 쿠옷 녹테스?", "korean": "네, 방이 있습니다. 몇 박이신가요?" },
+      { "latin": "Cubiculum bonum tibi dabo.", "pronunciation": "쿠비쿨룸 보눔 티비 다보.", "korean": "좋은 방을 드리겠습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Tres noctes manebo.", "pronunciation": "트레스 녹테스 마네보.", "korean": "3박 묵겠습니다." },
+      { "latin": "A die Lunae usque ad diem Iovis.", "pronunciation": "아 디에 루나에 우스쿠에 아드 디엠 이오비스.", "korean": "월요일부터 목요일까지요." },
+      { "latin": "Unam septimanam, si licet.", "pronunciation": "우남 셉티마남, 시 리켓.", "korean": "일주일이요, 가능하다면." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Bene. Pretium est quinque denarii per noctem.", "pronunciation": "베네. 프레티움 에스트 퀸쿠에 데나리이 페르 녹템.", "korean": "좋습니다. 1박에 5 데나리우스입니다." },
+      { "latin": "Cubiculum cum fenestra habemus.", "pronunciation": "쿠비쿨룸 쿰 페네스트라 하베무스.", "korean": "창문이 있는 방이 있습니다." },
+      { "latin": "Ecce clavis cubiculi tui.", "pronunciation": "에케 클라비스 쿠비쿨리 투이.", "korean": "여기 방 열쇠입니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Ientaculum inclusum est?", "pronunciation": "이엔타쿨룸 인클루숨 에스트?", "korean": "아침 식사가 포함되어 있나요?" },
+      { "latin": "Quo tempore ientaculum est?", "pronunciation": "쿠오 템포레 이엔타쿨룸 에스트?", "korean": "아침 식사는 몇 시인가요?" },
+      { "latin": "Ubi cenare possum?", "pronunciation": "우비 케나레 포숨?", "korean": "어디서 식사할 수 있나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Ientaculum mane hora secunda paratum est.", "pronunciation": "이엔타쿨룸 마네 호라 세쿤다 파라툼 에스트.", "korean": "아침 식사는 아침 두 시에 준비됩니다." },
+      { "latin": "In triclinio primo tabulato.", "pronunciation": "인 트리클리니오 프리모 타불라토.", "korean": "1층 식당에서요." },
+      { "latin": "Ientaculum inclusum est. Cena extra.", "pronunciation": "이엔타쿨룸 인클루숨 에스트. 케나 엑스트라.", "korean": "아침은 포함, 저녁은 별도입니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Optime! Cubiculum placet. Gratias!", "pronunciation": "옵티메! 쿠비쿨룸 플라켓. 그라티아스!", "korean": "좋아요! 방이 마음에 듭니다. 감사합니다!" },
+      { "latin": "Bene. Nunc requiescam.", "pronunciation": "베네. 눙크 레퀴에스캄.", "korean": "좋아요. 이제 쉬겠습니다." },
+      { "latin": "Gratum hospitium! Gratias ago!", "pronunciation": "그라툼 호스피티움! 그라티아스 아고!", "korean": "좋은 숙소네요! 감사합니다!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "hospitium", "pronunciation": "호스피티움", "korean": "숙소, 여관" },
+    { "latin": "cubiculum", "pronunciation": "쿠비쿨룸", "korean": "방" },
+    { "latin": "clavis", "pronunciation": "클라비스", "korean": "열쇠" },
+    { "latin": "nox", "pronunciation": "녹스", "korean": "밤" },
+    { "latin": "ientaculum", "pronunciation": "이엔타쿨룸", "korean": "아침 식사" },
+    { "latin": "fenestra", "pronunciation": "페네스트라", "korean": "창문" },
+    { "latin": "requiescere", "pronunciation": "레퀴에스케레", "korean": "쉬다" },
+    { "latin": "reservare", "pronunciation": "레세르바레", "korean": "예약하다" }
+  ]
+}

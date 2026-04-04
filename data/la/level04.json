@@ -1,0 +1,53 @@
+{
+  "level": 4,
+  "title": "식당에서 주문",
+  "titleLa": "In Popina",
+  "description": "라틴어로 식당에서 음식을 주문하는 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Salve! Mensam unam, quaeso.", "pronunciation": "살베! 멘삼 우남, 쿠아에소.", "korean": "안녕하세요! 한 자리 부탁합니다." },
+      { "latin": "Mensam pro uno, quaeso.", "pronunciation": "멘삼 프로 우노, 쿠아에소.", "korean": "한 명 자리 부탁합니다." },
+      { "latin": "Velim mensam, quaeso.", "pronunciation": "벨림 멘삼, 쿠아에소.", "korean": "자리를 원합니다, 부탁합니다." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Salve! Hac via, quaeso. Quid vis edere?", "pronunciation": "살베! 학 비아, 쿠아에소. 퀴드 비스 에데레?", "korean": "안녕하세요! 이쪽으로요. 무엇을 드시겠어요?" },
+      { "latin": "Sequere me. Quid tibi placet?", "pronunciation": "세쿠에레 메. 퀴드 티비 플라켓?", "korean": "따라오세요. 무엇을 드시겠어요?" },
+      { "latin": "Ecce mensa tua. Quid optas?", "pronunciation": "에케 멘사 투아. 퀴드 옵타스?", "korean": "여기 자리입니다. 무엇을 원하시나요?" }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Quid commendas hodie?", "pronunciation": "퀴드 콤멘다스 호디에?", "korean": "오늘 추천 메뉴는 무엇인가요?" },
+      { "latin": "Quid est optimum hodie?", "pronunciation": "퀴드 에스트 옵티뭄 호디에?", "korean": "오늘 가장 좋은 것은 무엇인가요?" },
+      { "latin": "Habesne cibum specialem?", "pronunciation": "하베스네 키붐 스페키알렘?", "korean": "특별한 음식이 있나요?" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Pullum assum commendo.", "pronunciation": "풀룸 아숨 콤멘도.", "korean": "구운 닭고기를 추천합니다." },
+      { "latin": "Piscem recentem habemus.", "pronunciation": "피스켐 레켄텀 하베무스.", "korean": "신선한 생선이 있습니다." },
+      { "latin": "Carnem bovinam optimam habemus.", "pronunciation": "카르넴 보비남 옵티맘 하베무스.", "korean": "최고의 소고기가 있습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Pullum assum et vinum rubrum, quaeso.", "pronunciation": "풀룸 아숨 에트 비눔 루브룸, 쿠아에소.", "korean": "구운 닭고기와 적포도주 부탁합니다." },
+      { "latin": "Da mihi pullum et panem.", "pronunciation": "다 미히 풀룸 에트 파넴.", "korean": "닭고기와 빵을 주세요." },
+      { "latin": "Velim pullum cum oleribus.", "pronunciation": "벨림 풀룸 쿰 올레리부스.", "korean": "채소와 함께 닭고기를 원합니다." }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Optime! Visne aliquid aliud?", "pronunciation": "옵티메! 비스네 알리퀴드 알리우드?", "korean": "좋습니다! 다른 것도 필요하신가요?" },
+      { "latin": "Bene! Numquid aliud vis?", "pronunciation": "베네! 눔퀴드 알리우드 비스?", "korean": "좋아요! 다른 것은 필요 없으신가요?" },
+      { "latin": "Statim feram. Aliudne cupis?", "pronunciation": "스타팀 페람. 알리우드네 쿠피스?", "korean": "곧 가져오겠습니다. 다른 것은요?" }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Nihil aliud. Gratias tibi!", "pronunciation": "니힐 알리우드. 그라티아스 티비!", "korean": "다른 건 없습니다. 감사합니다!" },
+      { "latin": "Satis est. Gratias ago!", "pronunciation": "사티스 에스트. 그라티아스 아고!", "korean": "충분합니다. 감사합니다!" },
+      { "latin": "Id solum. Gratias maximas!", "pronunciation": "이드 솔룸. 그라티아스 막시마스!", "korean": "그것만이요. 대단히 감사합니다!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "popina", "pronunciation": "포피나", "korean": "식당" },
+    { "latin": "mensa", "pronunciation": "멘사", "korean": "테이블" },
+    { "latin": "cibus", "pronunciation": "키부스", "korean": "음식" },
+    { "latin": "vinum", "pronunciation": "비눔", "korean": "포도주" },
+    { "latin": "pullus", "pronunciation": "풀루스", "korean": "닭고기" },
+    { "latin": "panis", "pronunciation": "파니스", "korean": "빵" },
+    { "latin": "quaeso", "pronunciation": "쿠아에소", "korean": "부탁합니다" },
+    { "latin": "edere", "pronunciation": "에데레", "korean": "먹다" }
+  ]
+}

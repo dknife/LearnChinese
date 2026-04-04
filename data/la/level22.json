@@ -1,0 +1,53 @@
+{
+  "level": 22,
+  "title": "긴급 상황",
+  "titleLa": "Res Urgentes",
+  "description": "라틴어로 긴급 상황에서 도움을 요청하는 표현을 배웁니다.",
+  "conversations": [
+    { "speaker": "A", "variants": [
+      { "latin": "Auxilium! Auxilium, quaeso!", "pronunciation": "아욱실리움! 아욱실리움, 쿠아에소!", "korean": "도와주세요! 도움이 필요합니다!" },
+      { "latin": "Subvenite! Periculum est!", "pronunciation": "수브베니테! 페리쿨룸 에스트!", "korean": "도와주세요! 위험합니다!" },
+      { "latin": "Succurrite mihi!", "pronunciation": "숙쿠리테 미히!", "korean": "저를 도와주세요!" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Quid accidit? Quomodo te adiuvem?", "pronunciation": "퀴드 악키딧? 쿠오모도 테 아디우벰?", "korean": "무슨 일이에요? 어떻게 도와드릴까요?" },
+      { "latin": "Tranquillus esto. Dic mihi quid factum sit.", "pronunciation": "트란퀼루스 에스토. 딕 미히 퀴드 팍툼 싯.", "korean": "진정하세요. 무슨 일인지 말씀하세요." },
+      { "latin": "Adsum! Quid tibi opus est?", "pronunciation": "아드숨! 퀴드 티비 오푸스 에스트?", "korean": "여기 있습니다! 무엇이 필요하세요?" }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Fur crumenam meam rapuit!", "pronunciation": "푸르 크루메남 메암 라푸이트!", "korean": "도둑이 제 지갑을 빼앗았어요!" },
+      { "latin": "Aliquis res meas furatus est!", "pronunciation": "알리퀴스 레스 메아스 푸라투스 에스트!", "korean": "누군가 제 물건을 훔쳤어요!" },
+      { "latin": "Ignis! Domus ardet!", "pronunciation": "이그니스! 도무스 아르뎃!", "korean": "불이야! 집이 타고 있어요!" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Vigiles vocabo statim!", "pronunciation": "비길레스 보카보 스타팀!", "korean": "경비대를 즉시 부르겠습니다!" },
+      { "latin": "Custodes accersam!", "pronunciation": "쿠스토데스 악케르삼!", "korean": "경비를 불러오겠습니다!" },
+      { "latin": "Noli timere. Auxilium mox veniet.", "pronunciation": "놀리 티메레. 아욱실리움 목스 베니엣.", "korean": "두려워 마세요. 도움이 곧 올 겁니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Viam perdidi. Ubi sum?", "pronunciation": "비암 페르디디. 우비 숨?", "korean": "길을 잃었어요. 여기가 어디인가요?" },
+      { "latin": "Amicus meus vulneratus est!", "pronunciation": "아미쿠스 메우스 불네라투스 에스트!", "korean": "제 친구가 다쳤어요!" },
+      { "latin": "Medicum cito vocate!", "pronunciation": "메디쿰 키토 보카테!", "korean": "의사를 빨리 불러주세요!" }
+    ]},
+    { "speaker": "B", "variants": [
+      { "latin": "Medicus prope est. Eum arcessam.", "pronunciation": "메디쿠스 프로페 에스트. 에움 아르케삼.", "korean": "의사가 가까이 있습니다. 불러오겠습니다." },
+      { "latin": "Mane hic. Auxilium feram.", "pronunciation": "마네 힉. 아욱실리움 페람.", "korean": "여기 계세요. 도움을 가져오겠습니다." },
+      { "latin": "Te ad locum tutum ducam.", "pronunciation": "테 아드 로쿰 투툼 두캄.", "korean": "안전한 곳으로 데려가겠습니다." }
+    ]},
+    { "speaker": "A", "variants": [
+      { "latin": "Gratias maximas! Servasti me!", "pronunciation": "그라티아스 막시마스! 세르바스티 메!", "korean": "정말 감사합니다! 저를 구해주셨어요!" },
+      { "latin": "Tibi multum debeo. Gratias!", "pronunciation": "티비 물툼 데베오. 그라티아스!", "korean": "당신에게 큰 빚을 졌습니다. 감사합니다!" },
+      { "latin": "Sine te perissem. Gratias ago!", "pronunciation": "시네 테 페리셈. 그라티아스 아고!", "korean": "당신 없이는 죽었을 거예요. 감사합니다!" }
+    ]}
+  ],
+  "vocabulary": [
+    { "latin": "auxilium", "pronunciation": "아욱실리움", "korean": "도움" },
+    { "latin": "periculum", "pronunciation": "페리쿨룸", "korean": "위험" },
+    { "latin": "fur", "pronunciation": "푸르", "korean": "도둑" },
+    { "latin": "ignis", "pronunciation": "이그니스", "korean": "불" },
+    { "latin": "vigiles", "pronunciation": "비길레스", "korean": "경비대" },
+    { "latin": "tutus", "pronunciation": "투투스", "korean": "안전한" },
+    { "latin": "vulnerare", "pronunciation": "불네라레", "korean": "다치게 하다" },
+    { "latin": "servare", "pronunciation": "세르바레", "korean": "구하다" }
+  ]
+}
