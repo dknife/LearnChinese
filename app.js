@@ -933,42 +933,38 @@ async function renderLangSelect() {
   const langCodes = Object.keys(LANGS);
   const metas = await Promise.all(langCodes.map(code => DataLoader.loadMeta(code)));
 
-  const CARD_COLORS = {
-    zh: '#1a1a1a', es: '#c0392b', fr: '#3B5998',
-    ja: '#BE185D', sw: '#047857', ar: '#0D9488',
-    th: '#7C3AED', vi: '#DC2626',
-  };
-
   const langData = langCodes.map((code, i) => {
     const lang = LANGS[code];
     const progress = Progress._getStore(code).data.completedLevels.length;
     const total = metas[i].totalLevels;
-    return { code, lang, progress, total, color: CARD_COLORS[code] || '#1a1a1a' };
+    return { code, lang, progress, total };
   });
 
-  const count = langData.length;
-
-  // Build stacked cards
-  let cardsHTML = langData.map((d, i) => `
-    <div class="stack-card" data-index="${i}" style="background:${d.color}">
-      <span class="stack-card-emoji">${d.lang.emoji}</span>
-      <span class="stack-card-name">${d.lang.name}</span>
-      <span class="stack-card-kr">${d.lang.nameKr}</span>
-      <span class="stack-card-progress">${d.progress} / ${d.total} 레벨 완료</span>
+  // Build wheel items
+  let itemsHTML = langData.map((d, i) => `
+    <div class="wheel-item" data-index="${i}" data-code="${d.code}">
+      <span class="wheel-item-emoji">${d.lang.emoji}</span>
+      <div class="wheel-item-info">
+        <span class="wheel-item-name">${d.lang.name}</span>
+        <span class="wheel-item-kr">${d.lang.nameKr}</span>
+      </div>
+      <span class="wheel-item-progress">${d.progress}/${d.total}</span>
     </div>
   `).join('');
 
   app.innerHTML = `
     <div class="lang-select-page">
       <h1 class="lang-select-title">어떤 언어를 배울까요?</h1>
-      <p class="lang-select-subtitle">좌우로 넘겨 언어를 선택하세요</p>
-      <div class="stack-container" id="stackContainer">
-        ${cardsHTML}
+      <p class="lang-select-subtitle">스크롤하여 언어를 선택하세요</p>
+      <div class="wheel-container" id="wheelContainer">
+        <div class="wheel-highlight"></div>
+        <div class="wheel-mask wheel-mask-top"></div>
+        <div class="wheel-mask wheel-mask-bottom"></div>
+        <div class="wheel-track" id="wheelTrack">
+          ${itemsHTML}
+        </div>
       </div>
-      <div class="stack-dots" id="stackDots">
-        ${langData.map((_, i) => `<span class="stack-dot${i === 0 ? ' active' : ''}"></span>`).join('')}
-      </div>
-      <a id="stackSelectBtn" class="stack-select-btn" href="#/${langData[0].code}">
+      <a id="wheelSelectBtn" class="wheel-select-btn" href="#/${langData[0].code}">
         ${langData[0].lang.nameKr} 시작하기
       </a>
       <div class="lang-select-tts-toggle">
@@ -981,104 +977,131 @@ async function renderLangSelect() {
     </div>
   `;
 
-  // --- Card stack swipe logic ---
-  const container = document.getElementById('stackContainer');
-  const cards = container.querySelectorAll('.stack-card');
-  const dots = document.getElementById('stackDots').querySelectorAll('.stack-dot');
-  const btn = document.getElementById('stackSelectBtn');
-  let current = 0;
-  let dragStartX = 0;
-  let dragDelta = 0;
+  // --- Wheel scroll logic ---
+  const container = document.getElementById('wheelContainer');
+  const track = document.getElementById('wheelTrack');
+  const btn = document.getElementById('wheelSelectBtn');
+  const ITEM_H = 72;
+  const count = langData.length;
+  let currentIndex = 0;
+  let scrollY = 0;
+  let velocity = 0;
+  let lastY = 0;
+  let lastTime = 0;
   let isDragging = false;
 
-  function layoutCards(offsetX) {
-    cards.forEach((card, i) => {
-      const diff = i - current;
-      const absDiff = Math.abs(diff);
-      if (absDiff > 2) {
-        card.style.opacity = '0';
-        card.style.pointerEvents = 'none';
-        card.style.transform = `translateX(${diff > 0 ? 300 : -300}px) scale(0.75)`;
-        card.style.zIndex = 0;
-        return;
-      }
-      let tx = diff * 60;
-      let scale = 1 - absDiff * 0.08;
-      let opacity = 1 - absDiff * 0.3;
-      let z = count - absDiff;
+  function clampIndex(idx) { return Math.max(0, Math.min(count - 1, idx)); }
 
-      // Apply live drag offset to front card
-      if (diff === 0 && offsetX !== 0) {
-        tx += offsetX;
-        const r = offsetX * 0.04;
-        card.style.transform = `translateX(${tx}px) scale(${scale}) rotate(${r}deg)`;
+  function updateWheel(animate) {
+    scrollY = -currentIndex * ITEM_H;
+    if (animate) {
+      track.style.transition = 'transform 0.3s cubic-bezier(0.23, 1, 0.32, 1)';
+    } else {
+      track.style.transition = 'none';
+    }
+    track.style.transform = `translateY(${scrollY}px)`;
+
+    track.querySelectorAll('.wheel-item').forEach((el, i) => {
+      const dist = Math.abs(i - currentIndex);
+      if (dist === 0) {
+        el.classList.add('wheel-item-active');
+        el.style.opacity = '1';
+        el.style.transform = 'scale(1)';
+      } else if (dist === 1) {
+        el.classList.remove('wheel-item-active');
+        el.style.opacity = '0.45';
+        el.style.transform = 'scale(0.88)';
       } else {
-        card.style.transform = `translateX(${tx}px) scale(${scale})`;
+        el.classList.remove('wheel-item-active');
+        el.style.opacity = '0.2';
+        el.style.transform = 'scale(0.78)';
       }
-      card.style.opacity = opacity;
-      card.style.zIndex = z;
-      card.style.pointerEvents = diff === 0 ? 'auto' : 'none';
     });
-  }
 
-  function goTo(idx) {
-    current = ((idx % count) + count) % count;
-    cards.forEach(c => c.style.transition = 'transform 0.4s cubic-bezier(.4,.0,.2,1), opacity 0.4s');
-    layoutCards(0);
-    setTimeout(() => cards.forEach(c => c.style.transition = 'none'), 420);
-
-    dots.forEach((d, i) => d.classList.toggle('active', i === current));
-    const d = langData[current];
+    const d = langData[currentIndex];
     btn.href = `#/${d.code}`;
     btn.textContent = `${d.lang.nameKr} 시작하기`;
   }
 
-  function onDragStart(x) {
+  function snapToNearest() {
+    currentIndex = clampIndex(Math.round(-scrollY / ITEM_H));
+    updateWheel(true);
+  }
+
+  // Touch — preventDefault to stop browser scroll
+  container.addEventListener('touchstart', (e) => {
+    e.preventDefault();
     isDragging = true;
-    dragStartX = x;
-    dragDelta = 0;
-    cards.forEach(c => c.style.transition = 'none');
-  }
+    lastY = e.touches[0].clientY;
+    lastTime = Date.now();
+    velocity = 0;
+    track.style.transition = 'none';
+  }, { passive: false });
 
-  function onDragMove(x) {
+  container.addEventListener('touchmove', (e) => {
+    e.preventDefault();
     if (!isDragging) return;
-    dragDelta = x - dragStartX;
-    layoutCards(dragDelta);
-  }
+    const y = e.touches[0].clientY;
+    const dy = y - lastY;
+    const now = Date.now();
+    velocity = dy / (now - lastTime || 1);
+    lastY = y;
+    lastTime = now;
+    scrollY += dy;
+    track.style.transform = `translateY(${scrollY}px)`;
+  }, { passive: false });
 
-  function onDragEnd() {
-    if (!isDragging) return;
+  container.addEventListener('touchend', (e) => {
+    e.preventDefault();
     isDragging = false;
-    if (Math.abs(dragDelta) > 50) {
-      goTo(current + (dragDelta < 0 ? 1 : -1));
-    } else {
-      goTo(current);
-    }
-    dragDelta = 0;
-  }
+    scrollY += velocity * 120;
+    snapToNearest();
+  });
 
-  // Touch
-  container.addEventListener('touchstart', e => { e.preventDefault(); onDragStart(e.touches[0].clientX); }, { passive: false });
-  container.addEventListener('touchmove', e => { e.preventDefault(); onDragMove(e.touches[0].clientX); }, { passive: false });
-  container.addEventListener('touchend', e => { e.preventDefault(); onDragEnd(); });
+  // Mouse wheel
+  container.addEventListener('wheel', (e) => {
+    e.preventDefault();
+    currentIndex = clampIndex(currentIndex + (e.deltaY > 0 ? 1 : -1));
+    updateWheel(true);
+  }, { passive: false });
 
-  // Mouse
-  container.addEventListener('mousedown', e => { onDragStart(e.clientX); e.preventDefault(); });
-  document.addEventListener('mousemove', e => onDragMove(e.clientX));
-  document.addEventListener('mouseup', () => onDragEnd());
-
-  // Click front card to navigate
-  cards.forEach(card => {
-    card.addEventListener('click', () => {
-      if (Math.abs(dragDelta) < 5) {
-        window.location.hash = `#/${langData[current].code}`;
-      }
+  // Click on item to select
+  track.querySelectorAll('.wheel-item').forEach(el => {
+    el.addEventListener('click', () => {
+      currentIndex = parseInt(el.dataset.index);
+      updateWheel(true);
     });
   });
 
-  // Initial layout
-  layoutCards(0);
-  dots[0].classList.add('active');
+  // Mouse drag
+  let mouseDown = false;
+  container.addEventListener('mousedown', (e) => {
+    mouseDown = true;
+    lastY = e.clientY;
+    lastTime = Date.now();
+    velocity = 0;
+    track.style.transition = 'none';
+    e.preventDefault();
+  });
+  document.addEventListener('mousemove', (e) => {
+    if (!mouseDown) return;
+    const dy = e.clientY - lastY;
+    const now = Date.now();
+    velocity = dy / (now - lastTime || 1);
+    lastY = e.clientY;
+    lastTime = now;
+    scrollY += dy;
+    track.style.transform = `translateY(${scrollY}px)`;
+  });
+  document.addEventListener('mouseup', () => {
+    if (!mouseDown) return;
+    mouseDown = false;
+    scrollY += velocity * 120;
+    snapToNearest();
+  });
+
+  // Initial render
+  updateWheel(false);
 
   // TTS toggle
   const langTTSSwitch = document.getElementById('langSelectAutoTTS');
