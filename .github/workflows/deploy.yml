@@ -28,8 +28,8 @@ jobs:
         run: |
           mkdir _site
           V=$(date +%s)
-          sed "s/style\.css/style.css?v=$V/;s/app\.js/app.js?v=$V/" index.html > _site/index.html
-          cp style.css app.js _site/
+          sed "s/style\.css/style.css?v=$V/;s/app\.js/app.js?v=$V/;s/grammar-data\.js/grammar-data.js?v=$V/" index.html > _site/index.html
+          cp style.css app.js grammar-data.js _site/
           cp -r data _site/data
           cp -r public/* _site/ 2>/dev/null || true
 
