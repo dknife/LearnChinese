@@ -146,6 +146,252 @@ const LANGS = {
 };
 
 // ------------------------------------------------------------
+// 0-0.5. Language Introduction Data
+// ------------------------------------------------------------
+const LANG_INTROS = {
+  zh: {
+    countries: '중국, 대만, 싱가포르, 말레이시아',
+    countriesEmoji: '🇨🇳🇹🇼🇸🇬🇲🇾',
+    speakers: '약 14억 명 (모국어 기준 세계 1위)',
+    features: [
+      '성조 언어: 4개의 성조(1성~4성)로 같은 발음도 뜻이 달라집니다',
+      '한자 기반: 간체자(중국 대륙)와 번체자(대만, 홍콩)를 사용합니다',
+      '어순: 주어-동사-목적어(SVO) 순서로 한국어와 다릅니다',
+      '문법이 비교적 단순: 시제 변화, 격 변화가 없고 어순과 조사로 의미를 전달합니다'
+    ],
+    reading: [
+      '병음(Pīnyīn): 한자의 발음을 로마자로 표기한 체계입니다',
+      'ā á ǎ à — 각각 1성(평평), 2성(올림), 3성(내렸다올림), 4성(내림)',
+      '성조를 틀리면 전혀 다른 뜻이 됩니다: mā(엄마) vs mǎ(말) vs mà(욕하다)',
+      'zh, ch, sh는 한국어에 없는 권설음으로 혀를 말아 발음합니다'
+    ],
+    basicWords: [
+      { word: '你好', pron: 'nǐ hǎo / 니하오', meaning: '안녕하세요' },
+      { word: '谢谢', pron: 'xiè xie / 시에시에', meaning: '감사합니다' },
+      { word: '对不起', pron: 'duì bu qǐ / 뚜이부치', meaning: '죄송합니다' },
+      { word: '再见', pron: 'zài jiàn / 짜이찌엔', meaning: '안녕히 가세요' },
+      { word: '是', pron: 'shì / 스', meaning: '~이다' },
+      { word: '我', pron: 'wǒ / 워', meaning: '나' }
+    ],
+    sentenceStructure: [
+      { pattern: '주어 + 是 + 명사', example: '我是韩国人 (Wǒ shì Hánguó rén)', meaning: '나는 한국인입니다' },
+      { pattern: '주어 + 동사 + 목적어', example: '我喝咖啡 (Wǒ hē kāfēi)', meaning: '나는 커피를 마신다' },
+      { pattern: '주어 + 很 + 형용사', example: '天气很好 (Tiānqì hěn hǎo)', meaning: '날씨가 좋다' }
+    ]
+  },
+  es: {
+    countries: '스페인, 멕시코, 콜롬비아, 아르헨티나, 페루, 칠레',
+    countriesEmoji: '🇪🇸🇲🇽🇨🇴🇦🇷🇵🇪🇨🇱',
+    speakers: '약 5억 9천만 명 (모국어 기준 세계 4위)',
+    features: [
+      '로마자 기반: 영어와 같은 알파벳을 사용하며 ñ(에녜)가 추가됩니다',
+      '동사 변화가 풍부: 인칭(1·2·3인칭)과 시제에 따라 동사 어미가 변합니다',
+      '명사에 성(性)이 있음: 모든 명사가 남성형 또는 여성형으로 나뉩니다',
+      '발음이 규칙적: 철자와 발음의 대응이 일정하여 읽기가 비교적 쉽습니다'
+    ],
+    reading: [
+      '모음은 a, e, i, o, u 다섯 가지이며 항상 같은 소리로 발음됩니다',
+      'j는 [ㅎ] 소리, ll은 [ㅇ/ㅈ] 소리, ñ는 [ㄴㅑ] 소리로 발음합니다',
+      'h는 묵음이며 발음하지 않습니다: hola → [올라]',
+      '강세 규칙: 모음·n·s로 끝나면 끝에서 두 번째 음절, 그 외는 마지막 음절에 강세'
+    ],
+    basicWords: [
+      { word: 'Hola', pron: '올라', meaning: '안녕하세요' },
+      { word: 'Gracias', pron: '그라시아스', meaning: '감사합니다' },
+      { word: 'Perdón', pron: '페르돈', meaning: '죄송합니다' },
+      { word: 'Adiós', pron: '아디오스', meaning: '안녕히 가세요' },
+      { word: 'Sí', pron: '시', meaning: '네' },
+      { word: 'No', pron: '노', meaning: '아니오' }
+    ],
+    sentenceStructure: [
+      { pattern: '주어 + ser + 명사/형용사', example: 'Yo soy coreano', meaning: '나는 한국인입니다' },
+      { pattern: '주어 + 동사 + 목적어', example: 'Yo bebo café', meaning: '나는 커피를 마신다' },
+      { pattern: '주어 + estar + 형용사', example: 'El clima está bien', meaning: '날씨가 좋다' }
+    ]
+  },
+  fr: {
+    countries: '프랑스, 캐나다(퀘벡), 벨기에, 스위스, 코트디부아르, 세네갈',
+    countriesEmoji: '🇫🇷🇨🇦🇧🇪🇨🇭🇨🇮🇸🇳',
+    speakers: '약 3억 2천만 명 (모국어 + 제2언어 포함)',
+    features: [
+      '로마자 기반: 영어와 같은 알파벳에 악센트 기호(é, è, ê, ë, ç 등)가 추가됩니다',
+      '동사 변화가 복잡: 인칭·시제·법에 따라 동사 어미가 세밀하게 변합니다',
+      '명사에 성(性)이 있음: 남성형(le)과 여성형(la)으로 나뉘며 관사가 달라집니다',
+      '연음(Liaison): 단어 끝 자음이 다음 단어의 모음과 연결되어 발음됩니다'
+    ],
+    reading: [
+      '끝 자음은 대부분 묵음: paris → [파리], petit → [프티]',
+      'r은 목 뒤에서 내는 소리로 한국어에 없는 발음입니다',
+      '비모음이 중요: an/en [앙], on [옹], in [앵], un [엥] 등 코를 울려 발음합니다',
+      'ou [우], au/eau [오], eu [외], oi [와] 등 모음 조합의 규칙을 익혀야 합니다'
+    ],
+    basicWords: [
+      { word: 'Bonjour', pron: '봉주르', meaning: '안녕하세요' },
+      { word: 'Merci', pron: '메르시', meaning: '감사합니다' },
+      { word: 'Pardon', pron: '파르동', meaning: '죄송합니다' },
+      { word: 'Au revoir', pron: '오 르부아르', meaning: '안녕히 가세요' },
+      { word: 'Oui', pron: '위', meaning: '네' },
+      { word: 'Non', pron: '농', meaning: '아니오' }
+    ],
+    sentenceStructure: [
+      { pattern: '주어 + être + 명사/형용사', example: 'Je suis coréen(ne)', meaning: '나는 한국인입니다' },
+      { pattern: '주어 + 동사 + 목적어', example: 'Je bois du café', meaning: '나는 커피를 마신다' },
+      { pattern: '주어 + 동사 + 형용사', example: 'Il fait beau', meaning: '날씨가 좋다' }
+    ]
+  },
+  ja: {
+    countries: '일본',
+    countriesEmoji: '🇯🇵',
+    speakers: '약 1억 2,500만 명',
+    features: [
+      '3종류 문자 체계: 히라가나(あ), 가타카나(ア), 한자(漢字)를 혼용합니다',
+      '어순이 한국어와 동일: 주어-목적어-동사(SOV) 순서로 한국어 화자에게 유리합니다',
+      '조사 사용: 은/는(は), 을/를(を), 이/가(が) 등 한국어와 유사한 조사 체계가 있습니다',
+      '경어 체계: 존경어·겸양어·정중어 등 한국어처럼 복잡한 높임말 체계가 있습니다'
+    ],
+    reading: [
+      '히라가나: 46자의 기본 문자로 일본어 고유어와 문법 요소를 표기합니다',
+      '가타카나: 외래어, 의성어, 강조 표현에 사용되며 히라가나와 1:1 대응됩니다',
+      '한자: 음독(중국식 읽기)과 훈독(일본식 읽기) 두 가지 읽는 방법이 있습니다',
+      '장음과 촉음: 장음(おう→오우)과 촉음(っ→작은 つ)의 길이 차이에 주의해야 합니다'
+    ],
+    basicWords: [
+      { word: 'こんにちは', pron: 'konnichiwa / 곤니치와', meaning: '안녕하세요' },
+      { word: 'ありがとう', pron: 'arigatō / 아리가토우', meaning: '감사합니다' },
+      { word: 'すみません', pron: 'sumimasen / 스미마셍', meaning: '죄송합니다' },
+      { word: 'さようなら', pron: 'sayōnara / 사요우나라', meaning: '안녕히 가세요' },
+      { word: 'はい', pron: 'hai / 하이', meaning: '네' },
+      { word: 'いいえ', pron: 'iie / 이이에', meaning: '아니오' }
+    ],
+    sentenceStructure: [
+      { pattern: '주어 + は + 명사 + です', example: '私は韓国人です (Watashi wa Kankokujin desu)', meaning: '나는 한국인입니다' },
+      { pattern: '주어 + は + 목적어 + を + 동사', example: '私はコーヒーを飲みます (Watashi wa kōhī o nomimasu)', meaning: '나는 커피를 마십니다' },
+      { pattern: '명사 + は + 형용사 + です', example: '天気はいいです (Tenki wa ii desu)', meaning: '날씨가 좋습니다' }
+    ]
+  },
+  sw: {
+    countries: '탄자니아, 케냐, 우간다, 콩고민주공화국, 르완다',
+    countriesEmoji: '🇹🇿🇰🇪🇺🇬🇨🇩🇷🇼',
+    speakers: '약 1억~1억 5천만 명 (모국어 + 제2언어 포함)',
+    features: [
+      '반투어족 언어: 아프리카 동부의 공용어이자 아프리카연합(AU) 공식 언어입니다',
+      '명사 클래스 체계: 명사가 18개의 클래스로 분류되며 접두사가 달라집니다',
+      '교착어적 특성: 동사에 주어·시제·목적어 등의 정보가 접사로 붙습니다',
+      '아랍어 차용어가 많음: 오랜 교역으로 아랍어에서 온 어휘가 상당수 있습니다'
+    ],
+    reading: [
+      '로마자 표기: 라틴 알파벳을 사용하여 읽기가 비교적 쉽습니다',
+      '발음이 매우 규칙적: 철자 그대로 읽으면 되며 묵음이 거의 없습니다',
+      '모음은 a[아], e[에], i[이], o[오], u[우] 다섯 가지로 일정합니다',
+      "ng'은 비음으로 [응]에 가까운 소리이며 ny는 [니]에 가까운 소리입니다"
+    ],
+    basicWords: [
+      { word: 'Habari', pron: '하바리', meaning: '안녕하세요 (소식이 어때요?)' },
+      { word: 'Asante', pron: '아산테', meaning: '감사합니다' },
+      { word: 'Pole', pron: '폴레', meaning: '죄송합니다 / 유감입니다' },
+      { word: 'Kwaheri', pron: '콰헤리', meaning: '안녕히 가세요' },
+      { word: 'Ndiyo', pron: '은디요', meaning: '네' },
+      { word: 'Hapana', pron: '하파나', meaning: '아니오' }
+    ],
+    sentenceStructure: [
+      { pattern: '주어접사 + ni + 명사', example: 'Mimi ni Mkorea', meaning: '나는 한국인입니다' },
+      { pattern: '주어접사 + 시제접사 + 동사', example: 'Ninakunywa kahawa', meaning: '나는 커피를 마신다' },
+      { pattern: '명사 + 형용사', example: 'Hali ya hewa ni nzuri', meaning: '날씨가 좋다' }
+    ]
+  },
+  ar: {
+    countries: '사우디아라비아, 이집트, 모로코, 이라크, 아랍에미리트, 요르단',
+    countriesEmoji: '🇸🇦🇪🇬🇲🇦🇮🇶🇦🇪🇯🇴',
+    speakers: '약 4억 2천만 명 (모국어 + 제2언어 포함)',
+    features: [
+      '오른쪽에서 왼쪽(RTL)으로 쓰고 읽는 독특한 표기 방향을 가집니다',
+      '아랍 문자: 28개 자음 문자로 이루어지며 글자가 위치에 따라 형태가 변합니다',
+      '어근 체계: 대부분의 단어가 3개 자음 어근에서 파생되어 어휘 확장이 체계적입니다',
+      '표준 아랍어와 방언: 공식 석상의 표준어(후스하)와 지역별 구어(암미야)가 다릅니다'
+    ],
+    reading: [
+      '아랍 문자는 28개 자음으로 구성되며 단모음은 기본적으로 표기하지 않습니다',
+      '모음 부호(하라캇): 파트하(아), 담마(우), 카스라(이) 등으로 모음을 나타냅니다',
+      '글자 연결: 각 글자는 독립형·어두형·어중형·어말형 최대 4가지 형태가 있습니다',
+      '인후음과 강조음: ع(아인), ح(하), ق(까프) 등 목 깊은 곳에서 내는 소리가 있습니다'
+    ],
+    basicWords: [
+      { word: 'مرحبا', pron: 'marhaba / 마르하바', meaning: '안녕하세요' },
+      { word: 'شكراً', pron: 'shukran / 슈크란', meaning: '감사합니다' },
+      { word: 'آسف', pron: 'āsif / 아시프', meaning: '죄송합니다' },
+      { word: 'مع السلامة', pron: "ma'a s-salāma / 마아 쌀라마", meaning: '안녕히 가세요' },
+      { word: 'نعم', pron: "na'am / 나암", meaning: '네' },
+      { word: 'لا', pron: 'lā / 라', meaning: '아니오' }
+    ],
+    sentenceStructure: [
+      { pattern: '주어 + 명사 (명사문)', example: 'أنا كوري (Anā Kūrī)', meaning: '나는 한국인입니다' },
+      { pattern: '동사 + 주어 + 목적어 (동사문)', example: 'أشرب القهوة (Ashrabu al-qahwa)', meaning: '나는 커피를 마신다' },
+      { pattern: '명사 + 형용사', example: 'الطقس جميل (Aṭ-ṭaqsu jamīl)', meaning: '날씨가 좋다' }
+    ]
+  },
+  th: {
+    countries: '태국',
+    countriesEmoji: '🇹🇭',
+    speakers: '약 6,900만 명',
+    features: [
+      '성조 언어: 5개의 성조(평성·저성·하강·고성·상승)로 의미가 구별됩니다',
+      '태국 고유 문자: 44개 자음자와 32개 모음 기호로 구성된 독자적 문자를 사용합니다',
+      '단어 사이 띄어쓰기 없음: 문장 내 단어 경계를 표시하지 않아 읽기 연습이 필요합니다',
+      '고립어적 특성: 동사 변화나 어미 변화가 없으며 어순과 보조어로 문법 관계를 표현합니다'
+    ],
+    reading: [
+      '자음은 저자음·중자음·고자음 세 그룹으로 나뉘며 성조 규칙에 영향을 줍니다',
+      '모음은 자음의 위·아래·앞·뒤 등 다양한 위치에 표기됩니다',
+      '성조 부호: ่(마이엑), ้(마이토), ๊(마이뜨리), ๋(마이짜따와) 등으로 성조를 표시합니다',
+      '장모음과 단모음의 길이 차이가 의미를 구별하므로 정확한 발음이 중요합니다'
+    ],
+    basicWords: [
+      { word: 'สวัสดี', pron: 'sawatdii / 싸왓디', meaning: '안녕하세요' },
+      { word: 'ขอบคุณ', pron: 'khɔ̀ɔp khun / 컵쿤', meaning: '감사합니다' },
+      { word: 'ขอโทษ', pron: 'khɔ̌ɔ thôot / 커톳', meaning: '죄송합니다' },
+      { word: 'ลาก่อน', pron: 'laa kɔ̀ɔn / 라꼰', meaning: '안녕히 가세요' },
+      { word: 'ใช่', pron: 'châi / 차이', meaning: '네' },
+      { word: 'ไม่', pron: 'mâi / 마이', meaning: '아니오' }
+    ],
+    sentenceStructure: [
+      { pattern: '주어 + เป็น + 명사', example: 'ฉันเป็นคนเกาหลี (Chǎn pen khon Kaolǐi)', meaning: '나는 한국인입니다' },
+      { pattern: '주어 + 동사 + 목적어', example: 'ฉันดื่มกาแฟ (Chǎn dùum kaafɛɛ)', meaning: '나는 커피를 마신다' },
+      { pattern: '명사 + 형용사', example: 'อากาศดี (Aakàat dii)', meaning: '날씨가 좋다' }
+    ]
+  },
+  vi: {
+    countries: '베트남',
+    countriesEmoji: '🇻🇳',
+    speakers: '약 8,500만 명',
+    features: [
+      '라틴 문자 기반: 알파벳에 성조 부호와 특수 문자(ơ, ư, đ 등)를 추가한 쯔꾸옥응으를 사용합니다',
+      '성조 언어: 6개의 성조로 같은 철자도 성조에 따라 완전히 다른 뜻이 됩니다',
+      '고립어적 특성: 단어의 형태 변화가 없으며 어순과 보조어로 문법 관계를 나타냅니다',
+      '한자어 차용: 한국어처럼 한자에서 유래한 한월어(漢越語)가 전체 어휘의 약 60%를 차지합니다'
+    ],
+    reading: [
+      '6개 성조: 평성(a), 현성(à), 예성(á), 물음성(ả), 넘어짐성(ã), 무거운성(ạ)',
+      '라틴 알파벳 기반이지만 d는 [z], đ는 [d] 소리로 영어와 다릅니다',
+      '모음이 풍부: a, ă, â, e, ê, i, o, ô, ơ, u, ư 등 11개의 모음 문자가 있습니다',
+      'nh[니], ng/ngh[응], tr[쯔], gi[지] 등 자음 조합의 발음 규칙을 익혀야 합니다'
+    ],
+    basicWords: [
+      { word: 'Xin chào', pron: '신 짜오', meaning: '안녕하세요' },
+      { word: 'Cảm ơn', pron: '깜 언', meaning: '감사합니다' },
+      { word: 'Xin lỗi', pron: '신 로이', meaning: '죄송합니다' },
+      { word: 'Tạm biệt', pron: '땀 비엣', meaning: '안녕히 가세요' },
+      { word: 'Vâng', pron: '방', meaning: '네' },
+      { word: 'Không', pron: '콩', meaning: '아니오' }
+    ],
+    sentenceStructure: [
+      { pattern: '주어 + là + 명사', example: 'Tôi là người Hàn Quốc', meaning: '나는 한국인입니다' },
+      { pattern: '주어 + 동사 + 목적어', example: 'Tôi uống cà phê', meaning: '나는 커피를 마신다' },
+      { pattern: '명사 + 형용사', example: 'Thời tiết đẹp', meaning: '날씨가 좋다' }
+    ]
+  }
+};
+
+// ------------------------------------------------------------
 // 0-1. Data Loader (fetch JSON from data/{lang}/)
 // ------------------------------------------------------------
 const DataLoader = {
@@ -277,45 +523,27 @@ async function handleRoute() {
     return;
   }
 
-  // Language home: #/zh or #/es (also #/chinese → #/zh, #/spanish → #/es)
-  if (hash === '#/zh' || hash === '#/chinese') {
-    currentLang = 'zh';
+  // Language levels page: #/zh/levels, #/es/levels, etc.
+  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar|th|vi)\/levels$/);
+  if (match) {
+    currentLang = match[1];
     await renderHome();
     return;
   }
-  if (hash === '#/es' || hash === '#/spanish') {
-    currentLang = 'es';
-    await renderHome();
+
+  // Language intro page: #/zh, #/es, etc.
+  match = hash.match(/^#\/(zh|es|fr|ja|sw|ar|th|vi)$/);
+  if (match) {
+    currentLang = match[1];
+    await renderLangIntro(match[1]);
     return;
   }
-  if (hash === '#/fr' || hash === '#/french') {
-    currentLang = 'fr';
-    await renderHome();
-    return;
-  }
-  if (hash === '#/ja' || hash === '#/japanese') {
-    currentLang = 'ja';
-    await renderHome();
-    return;
-  }
-  if (hash === '#/sw' || hash === '#/swahili') {
-    currentLang = 'sw';
-    await renderHome();
-    return;
-  }
-  if (hash === '#/ar' || hash === '#/arabic') {
-    currentLang = 'ar';
-    await renderHome();
-    return;
-  }
-  if (hash === '#/th' || hash === '#/thai') {
-    currentLang = 'th';
-    await renderHome();
-    return;
-  }
-  if (hash === '#/vi' || hash === '#/vietnamese') {
-    currentLang = 'vi';
-    await renderHome();
+
+  // Legacy name aliases
+  const legacyMap = { '#/chinese': 'zh', '#/spanish': 'es', '#/french': 'fr', '#/japanese': 'ja', '#/swahili': 'sw', '#/arabic': 'ar', '#/thai': 'th', '#/vietnamese': 'vi' };
+  if (legacyMap[hash]) {
+    currentLang = legacyMap[hash];
+    await renderLangIntro(currentLang);
     return;
   }
 
@@ -600,6 +828,73 @@ async function renderLangSelect() {
       if (label) label.textContent = '자동 음성 ' + (_autoTTS ? 'ON' : 'OFF');
     });
   }
+}
+
+// ------------------------------------------------------------
+// renderLangIntro() — Language introduction page
+// ------------------------------------------------------------
+async function renderLangIntro(langCode) {
+  hideLessonBg();
+  const app = document.getElementById('app');
+  const lang = LANGS[langCode];
+  const intro = LANG_INTROS[langCode];
+  if (!intro) { await renderHome(); return; }
+
+  const featuresHTML = intro.features.map(f => `<li>${f}</li>`).join('');
+  const readingHTML = intro.reading.map(r => `<li>${r}</li>`).join('');
+  const wordsHTML = intro.basicWords.map(w => `
+    <div class="intro-word-card">
+      <span class="intro-word-foreign">${w.word}</span>
+      <span class="intro-word-pron">${w.pron}</span>
+      <span class="intro-word-meaning">${w.meaning}</span>
+    </div>
+  `).join('');
+  const sentenceHTML = intro.sentenceStructure.map(s => `
+    <div class="intro-sentence-card">
+      <span class="intro-sentence-pattern">${s.pattern}</span>
+      <span class="intro-sentence-example">${s.example}</span>
+      <span class="intro-sentence-meaning">${s.meaning}</span>
+    </div>
+  `).join('');
+
+  app.innerHTML = `
+    <div class="intro-page">
+      <div class="intro-header">
+        <span class="intro-emoji">${lang.emoji}</span>
+        <h1 class="intro-title">${lang.name}</h1>
+        <p class="intro-title-kr">${lang.nameKr}</p>
+      </div>
+
+      <div class="intro-section">
+        <h2 class="intro-section-title">사용 국가</h2>
+        <p class="intro-countries">${intro.countriesEmoji}</p>
+        <p class="intro-countries-text">${intro.countries}</p>
+        <p class="intro-speakers">${intro.speakers}</p>
+      </div>
+
+      <div class="intro-section">
+        <h2 class="intro-section-title">언어의 특징</h2>
+        <ul class="intro-list">${featuresHTML}</ul>
+      </div>
+
+      <div class="intro-section">
+        <h2 class="intro-section-title">읽는 방법</h2>
+        <ul class="intro-list">${readingHTML}</ul>
+      </div>
+
+      <div class="intro-section">
+        <h2 class="intro-section-title">기초 단어</h2>
+        <div class="intro-words-grid">${wordsHTML}</div>
+      </div>
+
+      <div class="intro-section">
+        <h2 class="intro-section-title">기초 문장 구조</h2>
+        <div class="intro-sentences">${sentenceHTML}</div>
+      </div>
+
+      <a class="intro-skip-btn" href="#/${langCode}/levels">학습 시작하기</a>
+    </div>
+  `;
 }
 
 // ------------------------------------------------------------
