@@ -193,11 +193,24 @@ html { scrollbar-width: thin; scrollbar-color: rgba(34,34,34,0.15) transparent; 
 }
 
 @keyframes dropIn {
-  from {
+  0% {
     opacity: 0;
     transform: translateY(-40px);
   }
-  to {
+  50% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  65% {
+    transform: translateY(-8px);
+  }
+  80% {
+    transform: translateY(0);
+  }
+  90% {
+    transform: translateY(-3px);
+  }
+  100% {
     opacity: 1;
     transform: translateY(0);
   }
