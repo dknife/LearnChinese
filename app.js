@@ -489,6 +489,90 @@ const LANG_INTROS = {
 // 0-0.6. Language Alphabet / Phonetic Guide Data
 // ------------------------------------------------------------
 const LANG_ALPHABETS = {
+  zh: {
+    title: '중국어 병음 (Pīnyīn)',
+    description: '병음은 한자의 발음을 로마자로 표기한 체계입니다. 성모(자음) 21개 + 운모(모음) 36개 + 성조 4개로 구성됩니다.',
+    sections: [
+      { name: '성모 — 순음 (입술소리)', chars: [
+        { char: 'b', pron: '뽀', note: '[ㅂ] 무기음, 한국어 ㅂ과 유사' },
+        { char: 'p', pron: '포', note: '[ㅍ] 유기음, 한국어 ㅍ과 유사' },
+        { char: 'm', pron: '모', note: '[ㅁ] 비음' },
+        { char: 'f', pron: '포', note: '[ㅍ] 윗니+아랫입술 마찰음' }
+      ]},
+      { name: '성모 — 설첨음 (혀끝소리)', chars: [
+        { char: 'd', pron: '뜨', note: '[ㄷ] 무기음' },
+        { char: 't', pron: '트', note: '[ㅌ] 유기음' },
+        { char: 'n', pron: '느', note: '[ㄴ] 비음' },
+        { char: 'l', pron: '르', note: '[ㄹ] 설측음' }
+      ]},
+      { name: '성모 — 설근음 (혀뿌리소리)', chars: [
+        { char: 'g', pron: '꺼', note: '[ㄱ] 무기음' },
+        { char: 'k', pron: '커', note: '[ㅋ] 유기음' },
+        { char: 'h', pron: '허', note: '[ㅎ] 마찰음' }
+      ]},
+      { name: '성모 — 설면음 (혀면소리)', chars: [
+        { char: 'j', pron: '지', note: '[ㅈ] 무기음, i/ü 앞에서만' },
+        { char: 'q', pron: '치', note: '[ㅊ] 유기음, i/ü 앞에서만' },
+        { char: 'x', pron: '시', note: '[ㅅ/ㅆ] 마찰음, i/ü 앞에서만' }
+      ]},
+      { name: '성모 — 권설음 (혀말이소리)', chars: [
+        { char: 'zh', pron: '쯔', note: '[ㅈ] 혀를 말아 올려 발음, 무기음' },
+        { char: 'ch', pron: '츠', note: '[ㅊ] 혀를 말아 올려 발음, 유기음' },
+        { char: 'sh', pron: '스', note: '[ㅅ] 혀를 말아 올려 발음' },
+        { char: 'r', pron: '르', note: '혀를 말아 올린 유성 마찰음' }
+      ]},
+      { name: '성모 — 설치음 (혀+이소리)', chars: [
+        { char: 'z', pron: '쯔', note: '[ㅈ/ㅉ] 무기음' },
+        { char: 'c', pron: '츠', note: '[ㅊ] 유기음' },
+        { char: 's', pron: '쓰', note: '[ㅅ/ㅆ] 마찰음' }
+      ]},
+      { name: '단운모 (단모음)', chars: [
+        { char: 'a', pron: '아', note: '입을 크게 벌린 [아]' },
+        { char: 'o', pron: '오', note: '입을 둥글게 모은 [오]' },
+        { char: 'e', pron: '어', note: '[어]에 가까운 소리' },
+        { char: 'i', pron: '이', note: '[이], zh/ch/sh/r 뒤에서 [으]' },
+        { char: 'u', pron: '우', note: '입을 둥글게 모은 [우]' },
+        { char: 'ü', pron: '위', note: '입을 [우] 모양으로 하고 [이] 발음' }
+      ]},
+      { name: '복운모 (복합모음)', chars: [
+        { char: 'ai', pron: '아이', note: '[아이]' },
+        { char: 'ei', pron: '에이', note: '[에이]' },
+        { char: 'ao', pron: '아오', note: '[아오]' },
+        { char: 'ou', pron: '오우', note: '[오우]' },
+        { char: 'ia', pron: '이아', note: '[이아]' },
+        { char: 'ie', pron: '이에', note: '[이에]' },
+        { char: 'iu', pron: '이우', note: '[이오우]' },
+        { char: 'ua', pron: '우아', note: '[우아]' },
+        { char: 'uo', pron: '우오', note: '[우오]' },
+        { char: 'ui', pron: '우이', note: '[우에이]' },
+        { char: 'üe', pron: '위에', note: '[위에]' }
+      ]},
+      { name: '비운모 (콧소리 모음)', chars: [
+        { char: 'an', pron: '안', note: '[-안]' },
+        { char: 'en', pron: '은', note: '[-언]' },
+        { char: 'in', pron: '인', note: '[-인]' },
+        { char: 'un', pron: '운', note: '[-운]' },
+        { char: 'ün', pron: '윈', note: '[-윈]' },
+        { char: 'ang', pron: '앙', note: '[-앙] 콧소리' },
+        { char: 'eng', pron: '엉', note: '[-엉] 콧소리' },
+        { char: 'ing', pron: '잉', note: '[-잉] 콧소리' },
+        { char: 'ong', pron: '옹', note: '[-옹] 콧소리' }
+      ]},
+      { name: '성조 (四声)', chars: [
+        { char: 'ā (1성)', pron: '아—', note: '높고 평평하게 유지 (55)' },
+        { char: 'á (2성)', pron: '아↗', note: '중간에서 위로 올림 (35)' },
+        { char: 'ǎ (3성)', pron: '아↘↗', note: '내려갔다 올라옴 (214)' },
+        { char: 'à (4성)', pron: '아↘', note: '위에서 아래로 급하게 내림 (51)' },
+        { char: 'a (경성)', pron: '아', note: '짧고 가볍게 발음, 부호 없음' }
+      ]}
+    ],
+    tips: [
+      '성조가 가장 중요합니다: mā(엄마) vs má(삼) vs mǎ(말) vs mà(욕하다)',
+      'j, q, x 뒤의 ü는 u로 표기합니다: ju=jü, qu=qü, xu=xü',
+      'zh, ch, sh, r은 한국어에 없는 권설음으로 혀를 말아 발음합니다',
+      'b, d, g는 유성음이 아니라 무기음입니다 (영어와 다름)'
+    ]
+  },
   es: {
     title: '스페인어 알파벳',
     description: '스페인어는 27개의 알파벳을 사용합니다. 영어 알파벳에 ñ(에녜)이 추가됩니다.',
