@@ -1455,15 +1455,13 @@ html { scrollbar-width: thin; scrollbar-color: rgba(34,34,34,0.15) transparent; 
   animation: glowPulse 2.5s ease-in-out infinite;
 }
 
-/* -- Lesson page -- */
+/* -- Lesson page (차분하게) -- */
 .lesson-page {
-  animation: fadeIn 0.5s ease-out;
+  animation: fadeIn 0.8s ease-out;
 }
-.lesson-container {
-  animation: slideInUp 0.7s ease-out;
-}
+.lesson-container,
 .lesson-header {
-  animation: slideInLeft 0.6s ease-out 0.1s both;
+  animation: none;
 }
 
 /* -- Quiz page -- */
