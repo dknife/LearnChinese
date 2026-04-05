@@ -1884,12 +1884,14 @@ function renderAlphabet(langCode) {
   const alpha = LANG_ALPHABETS[langCode];
   if (!alpha) { window.location.hash = `#/${langCode}`; return; }
 
-  // Extract the first meaningful character for TTS
+  // Extract the TTS-friendly character from display string
   function ttsChar(charStr) {
     // Remove leading dash for Thai vowels like "-า"
     const cleaned = charStr.replace(/^-/, '').trim();
-    // Take first character/word (before space if present, e.g. "A a" → "A", "あ ア" → "あ")
-    return cleaned.split(/\s/)[0];
+    // For paired forms like "А а", use the lowercase (second) form to avoid TTS announcing "capital letter..."
+    const parts = cleaned.split(/\s+/);
+    if (parts.length >= 2) return parts[1];
+    return parts[0];
   }
 
   const sectionsHTML = alpha.sections.map(sec => `
