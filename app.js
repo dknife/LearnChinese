@@ -1736,7 +1736,7 @@ async function renderLangSelect() {
   const btn = document.getElementById('wheelSelectBtn');
   const ITEM_H = 72;
   const count = langData.length;
-  let currentIndex = 0;
+  let currentIndex = Math.floor(Math.random() * count);
   let scrollY = 0;
   let velocity = 0;
   let lastY = 0;
