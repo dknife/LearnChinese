@@ -1998,23 +1998,24 @@ async function renderVocab(jaum) {
     return `<a class="${cls}" href="#/${currentLang}/vocab/${encodeURIComponent(j)}">${j}</a>`;
   }).join('');
 
+  const topBar = `<div class="vocab-bar">
+    <a class="back-link" href="#/${currentLang}/levels">← 레벨 선택</a>
+    <div class="auto-tts-toggle">
+      <label class="tts-switch">
+        <input type="checkbox" class="vocabAutoTTS" ${_autoTTS ? 'checked' : ''}>
+        <span class="tts-slider"></span>
+      </label>
+      <span class="auto-tts-label vocabTTSLabel">자동음성 ${_autoTTS ? 'ON' : 'OFF'}</span>
+    </div>
+  </div>`;
+
   app.innerHTML = `
     <div class="vocab-page">
-      <div class="vocab-header">
-        <a class="back-link" href="#/${currentLang}/levels">← 레벨 선택</a>
-        <div class="vocab-title-row">
-          <h1 class="vocab-title">${lang.emoji} ${lang.nameKr}-어휘 [${jaum}]</h1>
-          <div class="auto-tts-toggle">
-            <label class="tts-switch">
-              <input type="checkbox" id="vocabAutoTTS" ${_autoTTS ? 'checked' : ''}>
-              <span class="tts-slider"></span>
-            </label>
-            <span class="auto-tts-label" id="vocabTTSLabel">자동음성 ${_autoTTS ? 'ON' : 'OFF'}</span>
-          </div>
-        </div>
-        <div class="vocab-jaum-nav">${navHTML}</div>
-      </div>
+      ${topBar}
+      <div class="vocab-jaum-nav">${navHTML}</div>
       <div class="vocab-grid"></div>
+      <div class="vocab-jaum-nav">${navHTML}</div>
+      ${topBar}
     </div>
   `;
 
@@ -2046,15 +2047,14 @@ async function renderVocab(jaum) {
   });
   grid.appendChild(frag);
 
-  // AutoTTS toggle
-  const vocabTTSSwitch = document.getElementById('vocabAutoTTS');
-  if (vocabTTSSwitch) {
-    vocabTTSSwitch.addEventListener('change', (e) => {
+  // AutoTTS toggles (top + bottom)
+  app.querySelectorAll('.vocabAutoTTS').forEach(sw => {
+    sw.addEventListener('change', (e) => {
       setAutoTTS(e.target.checked);
-      const label = document.getElementById('vocabTTSLabel');
-      if (label) label.textContent = '자동음성 ' + (_autoTTS ? 'ON' : 'OFF');
+      app.querySelectorAll('.vocabAutoTTS').forEach(s => s.checked = _autoTTS);
+      app.querySelectorAll('.vocabTTSLabel').forEach(l => l.textContent = '자동음성 ' + (_autoTTS ? 'ON' : 'OFF'));
     });
-  }
+  });
 }
 
 // ------------------------------------------------------------
