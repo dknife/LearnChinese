@@ -1315,6 +1315,103 @@ const Progress = {
 };
 
 // ------------------------------------------------------------
+// 1b. Trophy / Badge System
+// ------------------------------------------------------------
+const Trophies = {
+  _key: 'learnLangs_stats',
+  _data: null,
+
+  _load() {
+    if (this._data) return this._data;
+    try {
+      const s = localStorage.getItem(this._key);
+      if (s) this._data = JSON.parse(s);
+    } catch {}
+    if (!this._data) this._data = { visits: 0, langVisits: {} };
+    return this._data;
+  },
+
+  _save() {
+    try { localStorage.setItem(this._key, JSON.stringify(this._data)); } catch {}
+  },
+
+  recordVisit() {
+    const d = this._load();
+    d.visits = (d.visits || 0) + 1;
+    this._save();
+  },
+
+  recordLangVisit(langCode) {
+    const d = this._load();
+    if (!d.langVisits) d.langVisits = {};
+    d.langVisits[langCode] = (d.langVisits[langCode] || 0) + 1;
+    this._save();
+  },
+
+  getStats(metaTotals) {
+    const d = this._load();
+    const langCodes = Object.keys(LANGS);
+    const totalCompleted = langCodes.reduce((sum, code) => {
+      return sum + Progress._getStore(code).data.completedLevels.length;
+    }, 0);
+    const langsAccessed = Object.keys(d.langVisits || {}).filter(k => (d.langVisits[k] || 0) > 0).length;
+    const langsCompleted = langCodes.filter((code, i) => {
+      const completed = Progress._getStore(code).data.completedLevels.length;
+      const total = metaTotals ? metaTotals[i] : 25;
+      return completed >= total;
+    }).length;
+    const perfectScores = langCodes.reduce((sum, code) => {
+      const scores = Progress._getStore(code).data.scores;
+      return sum + Object.values(scores).filter(s => s === 10).length;
+    }, 0);
+    return {
+      visits: d.visits || 0,
+      langVisits: d.langVisits || {},
+      langsAccessed,
+      totalCompleted,
+      langsCompleted,
+      perfectScores
+    };
+  },
+
+  getBadges(metaTotals) {
+    const s = this.getStats(metaTotals);
+    const badges = [];
+
+    // 접속 관련
+    if (s.visits >= 1)  badges.push({ icon: '🌱', title: '첫 발걸음', desc: '첫 접속' });
+    if (s.visits >= 10) badges.push({ icon: '🔥', title: '꾸준한 학습자', desc: '10회 접속' });
+    if (s.visits >= 30) badges.push({ icon: '💎', title: '학습 중독', desc: '30회 접속' });
+    if (s.visits >= 100) badges.push({ icon: '👑', title: '레전드', desc: '100회 접속' });
+
+    // 언어 탐험
+    if (s.langsAccessed >= 3) badges.push({ icon: '🧭', title: '언어 탐험가', desc: '3개 언어 학습' });
+    if (s.langsAccessed >= 5) badges.push({ icon: '🌍', title: '세계 여행자', desc: '5개 언어 학습' });
+    if (s.langsAccessed >= 10) badges.push({ icon: '🌐', title: '글로벌 마스터', desc: '전 언어 학습' });
+
+    // 레벨 통과
+    if (s.totalCompleted >= 1) badges.push({ icon: '⭐', title: '첫 통과', desc: '첫 레벨 클리어' });
+    if (s.totalCompleted >= 10) badges.push({ icon: '🏅', title: '실력자', desc: '총 10레벨 통과' });
+    if (s.totalCompleted >= 50) badges.push({ icon: '🏆', title: '달인', desc: '총 50레벨 통과' });
+    if (s.totalCompleted >= 100) badges.push({ icon: '🎖️', title: '그랜드 마스터', desc: '총 100레벨 통과' });
+
+    // 만점
+    if (s.perfectScores >= 1) badges.push({ icon: '💯', title: '완벽주의자', desc: '첫 만점' });
+    if (s.perfectScores >= 10) badges.push({ icon: '🎯', title: '명사수', desc: '만점 10회' });
+
+    // 언어 정복
+    if (s.langsCompleted >= 1) badges.push({ icon: '🗻', title: '정복자', desc: '1개 언어 전 레벨 통과' });
+    if (s.langsCompleted >= 5) badges.push({ icon: '🐉', title: '전설', desc: '5개 언어 정복' });
+    if (s.langsCompleted >= 10) badges.push({ icon: '✨', title: '올 클리어', desc: '전 언어 정복' });
+
+    return badges;
+  }
+};
+
+// Record visit on app load
+Trophies.recordVisit();
+
+// ------------------------------------------------------------
 // 2. Router
 // ------------------------------------------------------------
 function navigate(path) {
@@ -1386,6 +1483,7 @@ async function handleRoute() {
   match = hash.match(/^#\/(zh|es|fr|ja|sw|ar|th|vi|ru|la)$/);
   if (match) {
     currentLang = match[1];
+    Trophies.recordLangVisit(match[1]);
     await renderLangIntro(match[1]);
     return;
   }
@@ -1565,6 +1663,25 @@ async function renderLangSelect() {
     </div>
   `).join('');
 
+  // Trophy section
+  const metaTotals = metas.map(m => m.totalLevels);
+  const badges = Trophies.getBadges(metaTotals);
+  const stats = Trophies.getStats(metaTotals);
+  const badgesHTML = badges.length > 0
+    ? badges.map(b => `<div class="trophy-badge" title="${b.desc}">
+        <span class="trophy-icon">${b.icon}</span>
+        <span class="trophy-name">${b.title}</span>
+      </div>`).join('')
+    : '<p class="trophy-empty">학습을 시작하면 배지를 획득할 수 있어요!</p>';
+
+  const statsHTML = `<div class="trophy-stats">
+    <span class="trophy-stat">${stats.visits}회 접속</span>
+    <span class="trophy-stat-sep">|</span>
+    <span class="trophy-stat">${stats.langsAccessed}개 언어</span>
+    <span class="trophy-stat-sep">|</span>
+    <span class="trophy-stat">${stats.totalCompleted}레벨 통과</span>
+  </div>`;
+
   app.innerHTML = `
     <div class="lang-select-page">
       <h1 class="lang-select-title">어떤 언어를 배울까요?</h1>
@@ -1586,6 +1703,11 @@ async function renderLangSelect() {
           <span class="tts-slider"></span>
         </label>
         <span class="lang-select-tts-label" id="langSelectTTSLabel">자동 음성 ${_autoTTS ? 'ON' : 'OFF'}</span>
+      </div>
+      <div class="trophy-section">
+        <h2 class="trophy-heading">나의 학습 배지</h2>
+        ${statsHTML}
+        <div class="trophy-grid">${badgesHTML}</div>
       </div>
     </div>
   `;
