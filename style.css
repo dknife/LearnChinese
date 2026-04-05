@@ -48,6 +48,10 @@
 
 body {
   background: var(--bg-primary);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   color: var(--text-primary);
   min-height: 100vh;
   font-family: 'Inter Tight', 'Segoe UI', system-ui, -apple-system, sans-serif;
@@ -58,6 +62,15 @@ body {
   -webkit-tap-highlight-color: transparent;
   -webkit-text-size-adjust: 100%;
   overflow-x: hidden;
+}
+
+.main-content::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: rgba(248, 248, 248, 0.82);
+  z-index: -1;
+  pointer-events: none;
 }
 
 #lesson-bg-overlay {

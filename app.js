@@ -1418,7 +1418,14 @@ function navigate(path) {
   window.location.hash = '#' + path;
 }
 
+function setRandomBg() {
+  const n = Math.floor(Math.random() * 33) + 1;
+  const img = `images/img${String(n).padStart(3, '0')}.jpg`;
+  document.body.style.backgroundImage = `url('${img}')`;
+}
+
 async function handleRoute() {
+  setRandomBg();
   const hash = window.location.hash || '#/';
   let match;
 
