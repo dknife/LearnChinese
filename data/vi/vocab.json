@@ -1,12 +1,5002 @@
 [
-  {"vietnamese": "가게", "pronunciation": "꾸아 항", "korean": "가게"},
-  {"vietnamese": "cửa hàng", "pronunciation": "꾸아 항", "korean": "가게"},
-  {"vietnamese": "gia đình", "pronunciation": "자 딘", "korean": "가정"},
-  {"vietnamese": "gần", "pronunciation": "건", "korean": "가까운"},
-  {"vietnamese": "giá", "pronunciation": "자", "korean": "가격"},
-  {"vietnamese": "mang", "pronunciation": "망", "korean": "가져가다"},
-  {"vietnamese": "giả", "pronunciation": "자", "korean": "가짜의"},
-  {"vietnamese": "mỏng", "pronunciation": "몽", "korean": "가벼운"},
-  {"vietnamese": "nhẹ", "pronunciation": "녜", "korean": "가볍다"},
-  {"vietnamese": "ngứa", "pronunciation": "응으아", "korean": "가렵다"}
+  {
+    "vietnamese": "cửa hàng",
+    "pronunciation": "꾸아 항",
+    "korean": "가게"
+  },
+  {
+    "vietnamese": "giá",
+    "pronunciation": "자",
+    "korean": "가격"
+  },
+  {
+    "vietnamese": "gần",
+    "pronunciation": "건",
+    "korean": "가까운"
+  },
+  {
+    "vietnamese": "gần đây",
+    "pronunciation": "건 더이",
+    "korean": "가까이"
+  },
+  {
+    "vietnamese": "đi",
+    "pronunciation": "디",
+    "korean": "가다"
+  },
+  {
+    "vietnamese": "đầy",
+    "pronunciation": "더이",
+    "korean": "가득한"
+  },
+  {
+    "vietnamese": "ngứa",
+    "pronunciation": "응으아",
+    "korean": "가렵다"
+  },
+  {
+    "vietnamese": "dạy",
+    "pronunciation": "자이",
+    "korean": "가르치다"
+  },
+  {
+    "vietnamese": "nhẹ",
+    "pronunciation": "녜",
+    "korean": "가볍다"
+  },
+  {
+    "vietnamese": "ca sĩ",
+    "pronunciation": "까 시",
+    "korean": "가수"
+  },
+  {
+    "vietnamese": "giữa",
+    "pronunciation": "즈어",
+    "korean": "가운데"
+  },
+  {
+    "vietnamese": "kéo",
+    "pronunciation": "깨오",
+    "korean": "가위"
+  },
+  {
+    "vietnamese": "mùa thu",
+    "pronunciation": "무아 투",
+    "korean": "가을"
+  },
+  {
+    "vietnamese": "gia đình",
+    "pronunciation": "자 딘",
+    "korean": "가정"
+  },
+  {
+    "vietnamese": "mang đi",
+    "pronunciation": "망 디",
+    "korean": "가져가다"
+  },
+  {
+    "vietnamese": "mang đến",
+    "pronunciation": "망 덴",
+    "korean": "가져오다"
+  },
+  {
+    "vietnamese": "giả",
+    "pronunciation": "자",
+    "korean": "가짜의"
+  },
+  {
+    "vietnamese": "con",
+    "pronunciation": "꼰",
+    "korean": "개"
+  },
+  {
+    "vietnamese": "cái",
+    "pronunciation": "까이",
+    "korean": "개(단위)"
+  },
+  {
+    "vietnamese": "cá nhân",
+    "pronunciation": "까 년",
+    "korean": "개인"
+  },
+  {
+    "vietnamese": "ở đó",
+    "pronunciation": "어 도",
+    "korean": "거기"
+  },
+  {
+    "vietnamese": "cự ly",
+    "pronunciation": "끄 리",
+    "korean": "거리"
+  },
+  {
+    "vietnamese": "gương",
+    "pronunciation": "그엉",
+    "korean": "거울"
+  },
+  {
+    "vietnamese": "từ chối",
+    "pronunciation": "뜨 쪼이",
+    "korean": "거절하다"
+  },
+  {
+    "vietnamese": "sức khỏe",
+    "pronunciation": "석 쾌",
+    "korean": "건강"
+  },
+  {
+    "vietnamese": "tòa nhà",
+    "pronunciation": "또아 냐",
+    "korean": "건물"
+  },
+  {
+    "vietnamese": "khô",
+    "pronunciation": "코",
+    "korean": "건조한"
+  },
+  {
+    "vietnamese": "bước",
+    "pronunciation": "브억",
+    "korean": "걷다"
+  },
+  {
+    "vietnamese": "mùa đông",
+    "pronunciation": "무아 동",
+    "korean": "겨울"
+  },
+  {
+    "vietnamese": "kết quả",
+    "pronunciation": "껫 꽈",
+    "korean": "결과"
+  },
+  {
+    "vietnamese": "quyết định",
+    "pronunciation": "뀌엣 딘",
+    "korean": "결정"
+  },
+  {
+    "vietnamese": "đám cưới",
+    "pronunciation": "담 끄어이",
+    "korean": "결혼식"
+  },
+  {
+    "vietnamese": "kết hôn",
+    "pronunciation": "껫 혼",
+    "korean": "결혼하다"
+  },
+  {
+    "vietnamese": "khiêm tốn",
+    "pronunciation": "키엠 똔",
+    "korean": "겸손한"
+  },
+  {
+    "vietnamese": "trận đấu",
+    "pronunciation": "전 더우",
+    "korean": "경기"
+  },
+  {
+    "vietnamese": "cảnh sát",
+    "pronunciation": "깐 삿",
+    "korean": "경찰"
+  },
+  {
+    "vietnamese": "phong cảnh",
+    "pronunciation": "퐁 깐",
+    "korean": "경치"
+  },
+  {
+    "vietnamese": "kinh nghiệm",
+    "pronunciation": "낀 응이엠",
+    "korean": "경험"
+  },
+  {
+    "vietnamese": "tầng",
+    "pronunciation": "떵",
+    "korean": "계단"
+  },
+  {
+    "vietnamese": "trứng",
+    "pronunciation": "쯩",
+    "korean": "계란"
+  },
+  {
+    "vietnamese": "tính toán",
+    "pronunciation": "띤 또안",
+    "korean": "계산"
+  },
+  {
+    "vietnamese": "tiếp tục",
+    "pronunciation": "띱 뚝",
+    "korean": "계속"
+  },
+  {
+    "vietnamese": "mùa",
+    "pronunciation": "무아",
+    "korean": "계절"
+  },
+  {
+    "vietnamese": "tài khoản",
+    "pronunciation": "따이 코안",
+    "korean": "계좌"
+  },
+  {
+    "vietnamese": "kế hoạch",
+    "pronunciation": "게 화익",
+    "korean": "계획"
+  },
+  {
+    "vietnamese": "thịt",
+    "pronunciation": "팃",
+    "korean": "고기"
+  },
+  {
+    "vietnamese": "thịt bò",
+    "pronunciation": "팃 버",
+    "korean": "고기(소)"
+  },
+  {
+    "vietnamese": "cổ đại",
+    "pronunciation": "꼬 다이",
+    "korean": "고대의"
+  },
+  {
+    "vietnamese": "cảm ơn",
+    "pronunciation": "깜 언",
+    "korean": "고맙다"
+  },
+  {
+    "vietnamese": "mèo",
+    "pronunciation": "매오",
+    "korean": "고양이"
+  },
+  {
+    "vietnamese": "ớt",
+    "pronunciation": "엇",
+    "korean": "고추"
+  },
+  {
+    "vietnamese": "sửa chữa",
+    "pronunciation": "스아 쯔아",
+    "korean": "고치다"
+  },
+  {
+    "vietnamese": "đau",
+    "pronunciation": "다우",
+    "korean": "고통"
+  },
+  {
+    "vietnamese": "quê hương",
+    "pronunciation": "꿰 흐엉",
+    "korean": "고향"
+  },
+  {
+    "vietnamese": "gấu",
+    "pronunciation": "거우",
+    "korean": "곰"
+  },
+  {
+    "vietnamese": "nơi",
+    "pronunciation": "너이",
+    "korean": "곳"
+  },
+  {
+    "vietnamese": "không khí",
+    "pronunciation": "콩 키",
+    "korean": "공기"
+  },
+  {
+    "vietnamese": "học tập",
+    "pronunciation": "혹 떱",
+    "korean": "공부"
+  },
+  {
+    "vietnamese": "công viên",
+    "pronunciation": "꽁 비엔",
+    "korean": "공원"
+  },
+  {
+    "vietnamese": "sân bay",
+    "pronunciation": "선 바이",
+    "korean": "공항"
+  },
+  {
+    "vietnamese": "quá khứ",
+    "pronunciation": "꽈 크",
+    "korean": "과거"
+  },
+  {
+    "vietnamese": "quả",
+    "pronunciation": "꽈",
+    "korean": "과일"
+  },
+  {
+    "vietnamese": "quan hệ",
+    "pronunciation": "꽌 헤",
+    "korean": "관계"
+  },
+  {
+    "vietnamese": "du lịch",
+    "pronunciation": "주 릭",
+    "korean": "관광"
+  },
+  {
+    "vietnamese": "quan tâm",
+    "pronunciation": "꽌 떰",
+    "korean": "관심"
+  },
+  {
+    "vietnamese": "ổn",
+    "pronunciation": "온",
+    "korean": "괜찮은"
+  },
+  {
+    "vietnamese": "sách giáo khoa",
+    "pronunciation": "사익 자오 코아",
+    "korean": "교과서"
+  },
+  {
+    "vietnamese": "giáo viên",
+    "pronunciation": "자오 비엔",
+    "korean": "교사"
+  },
+  {
+    "vietnamese": "giáo dục",
+    "pronunciation": "자오 죽",
+    "korean": "교육"
+  },
+  {
+    "vietnamese": "giao thông",
+    "pronunciation": "자오 통",
+    "korean": "교통"
+  },
+  {
+    "vietnamese": "nhà thờ",
+    "pronunciation": "냐 터",
+    "korean": "교회"
+  },
+  {
+    "vietnamese": "chín",
+    "pronunciation": "찐",
+    "korean": "구(숫자)"
+  },
+  {
+    "vietnamese": "giày",
+    "pronunciation": "자이",
+    "korean": "구두"
+  },
+  {
+    "vietnamese": "đám mây",
+    "pronunciation": "담 머이",
+    "korean": "구름"
+  },
+  {
+    "vietnamese": "cứu",
+    "pronunciation": "끄우",
+    "korean": "구하다"
+  },
+  {
+    "vietnamese": "quốc gia",
+    "pronunciation": "꾸옥 자",
+    "korean": "국가"
+  },
+  {
+    "vietnamese": "phở",
+    "pronunciation": "퍼",
+    "korean": "국수"
+  },
+  {
+    "vietnamese": "quốc tế",
+    "pronunciation": "꾸옥 떼",
+    "korean": "국제"
+  },
+  {
+    "vietnamese": "quân đội",
+    "pronunciation": "꾸언 도이",
+    "korean": "군대"
+  },
+  {
+    "vietnamese": "cung điện",
+    "pronunciation": "꿍 디엔",
+    "korean": "궁전"
+  },
+  {
+    "vietnamese": "tai",
+    "pronunciation": "따이",
+    "korean": "귀"
+  },
+  {
+    "vietnamese": "dễ thương",
+    "pronunciation": "제 트엉",
+    "korean": "귀여운"
+  },
+  {
+    "vietnamese": "quý",
+    "pronunciation": "뀌",
+    "korean": "귀중한"
+  },
+  {
+    "vietnamese": "quy tắc",
+    "pronunciation": "뀌 떡",
+    "korean": "규칙"
+  },
+  {
+    "vietnamese": "cam",
+    "pronunciation": "깜",
+    "korean": "귤"
+  },
+  {
+    "vietnamese": "vàng",
+    "pronunciation": "방",
+    "korean": "금"
+  },
+  {
+    "vietnamese": "thứ sáu",
+    "pronunciation": "트 사우",
+    "korean": "금요일"
+  },
+  {
+    "vietnamese": "cấm",
+    "pronunciation": "껌",
+    "korean": "금지"
+  },
+  {
+    "vietnamese": "nhanh",
+    "pronunciation": "냔",
+    "korean": "급한"
+  },
+  {
+    "vietnamese": "tích cực",
+    "pronunciation": "띡 끄억",
+    "korean": "긍정적인"
+  },
+  {
+    "vietnamese": "máy",
+    "pronunciation": "마이",
+    "korean": "기계"
+  },
+  {
+    "vietnamese": "chờ đợi",
+    "pronunciation": "쩌 더이",
+    "korean": "기다리다"
+  },
+  {
+    "vietnamese": "cầu nguyện",
+    "pronunciation": "꺼우 응우이엔",
+    "korean": "기도하다"
+  },
+  {
+    "vietnamese": "cơ bản",
+    "pronunciation": "꺼 반",
+    "korean": "기본"
+  },
+  {
+    "vietnamese": "vui",
+    "pronunciation": "부이",
+    "korean": "기쁜"
+  },
+  {
+    "vietnamese": "kỹ thuật",
+    "pronunciation": "끼 투엇",
+    "korean": "기술"
+  },
+  {
+    "vietnamese": "nhớ",
+    "pronunciation": "녀",
+    "korean": "기억하다"
+  },
+  {
+    "vietnamese": "ký giả",
+    "pronunciation": "끼 자",
+    "korean": "기자"
+  },
+  {
+    "vietnamese": "xe lửa",
+    "pronunciation": "세 르아",
+    "korean": "기차"
+  },
+  {
+    "vietnamese": "cơ hội",
+    "pronunciation": "꺼 호이",
+    "korean": "기회"
+  },
+  {
+    "vietnamese": "khí hậu",
+    "pronunciation": "키 허우",
+    "korean": "기후"
+  },
+  {
+    "vietnamese": "lá cờ",
+    "pronunciation": "라 꺼",
+    "korean": "깃발"
+  },
+  {
+    "vietnamese": "lông",
+    "pronunciation": "롱",
+    "korean": "깃털"
+  },
+  {
+    "vietnamese": "sâu",
+    "pronunciation": "서우",
+    "korean": "깊은"
+  },
+  {
+    "vietnamese": "sạch",
+    "pronunciation": "사익",
+    "korean": "깨끗한"
+  },
+  {
+    "vietnamese": "thức dậy",
+    "pronunciation": "특 저이",
+    "korean": "깨다"
+  },
+  {
+    "vietnamese": "vỡ",
+    "pronunciation": "버",
+    "korean": "깨지다"
+  },
+  {
+    "vietnamese": "hoa",
+    "pronunciation": "호아",
+    "korean": "꽃"
+  },
+  {
+    "vietnamese": "bình hoa",
+    "pronunciation": "빈 호아",
+    "korean": "꽃병"
+  },
+  {
+    "vietnamese": "mơ",
+    "pronunciation": "머",
+    "korean": "꿈"
+  },
+  {
+    "vietnamese": "tắt",
+    "pronunciation": "떳",
+    "korean": "끄다"
+  },
+  {
+    "vietnamese": "kéo",
+    "pronunciation": "깨오",
+    "korean": "끌다"
+  },
+  {
+    "vietnamese": "cuối cùng",
+    "pronunciation": "꾸오이 꿍",
+    "korean": "끝"
+  },
+  {
+    "vietnamese": "xong",
+    "pronunciation": "송",
+    "korean": "끝나다"
+  },
+  {
+    "vietnamese": "bữa ăn",
+    "pronunciation": "브아 안",
+    "korean": "끼니"
+  },
+  {
+    "vietnamese": "tôi",
+    "pronunciation": "또이",
+    "korean": "나"
+  },
+  {
+    "vietnamese": "ra ngoài",
+    "pronunciation": "자 응오아이",
+    "korean": "나가다"
+  },
+  {
+    "vietnamese": "chia sẻ",
+    "pronunciation": "찌아 세",
+    "korean": "나누다"
+  },
+  {
+    "vietnamese": "đất nước",
+    "pronunciation": "덧 느억",
+    "korean": "나라"
+  },
+  {
+    "vietnamese": "cây",
+    "pronunciation": "꺼이",
+    "korean": "나무"
+  },
+  {
+    "vietnamese": "gỗ",
+    "pronunciation": "고",
+    "korean": "나무(재료)"
+  },
+  {
+    "vietnamese": "con bướm",
+    "pronunciation": "꼰 브엄",
+    "korean": "나비"
+  },
+  {
+    "vietnamese": "xấu",
+    "pronunciation": "서우",
+    "korean": "나쁜"
+  },
+  {
+    "vietnamese": "tuổi",
+    "pronunciation": "뚜오이",
+    "korean": "나이"
+  },
+  {
+    "vietnamese": "sau này",
+    "pronunciation": "사우 나이",
+    "korean": "나중에"
+  },
+  {
+    "vietnamese": "xuất hiện",
+    "pronunciation": "쑤엇 히엔",
+    "korean": "나타나다"
+  },
+  {
+    "vietnamese": "ngày",
+    "pronunciation": "응아이",
+    "korean": "날"
+  },
+  {
+    "vietnamese": "thời tiết",
+    "pronunciation": "터이 띧",
+    "korean": "날씨"
+  },
+  {
+    "vietnamese": "ngày tháng",
+    "pronunciation": "응아이 탕",
+    "korean": "날짜"
+  },
+  {
+    "vietnamese": "còn lại",
+    "pronunciation": "꼰 라이",
+    "korean": "남다"
+  },
+  {
+    "vietnamese": "đàn ông",
+    "pronunciation": "단 옹",
+    "korean": "남자"
+  },
+  {
+    "vietnamese": "nam",
+    "pronunciation": "남",
+    "korean": "남쪽"
+  },
+  {
+    "vietnamese": "chồng",
+    "pronunciation": "쫑",
+    "korean": "남편"
+  },
+  {
+    "vietnamese": "tốt hơn",
+    "pronunciation": "똣 헌",
+    "korean": "낫다"
+  },
+  {
+    "vietnamese": "ban ngày",
+    "pronunciation": "반 응아이",
+    "korean": "낮"
+  },
+  {
+    "vietnamese": "thấp",
+    "pronunciation": "텁",
+    "korean": "낮은"
+  },
+  {
+    "vietnamese": "mặt",
+    "pronunciation": "멋",
+    "korean": "낯"
+  },
+  {
+    "vietnamese": "nội bộ",
+    "pronunciation": "노이 보",
+    "korean": "내부"
+  },
+  {
+    "vietnamese": "ngày mai",
+    "pronunciation": "응아이 마이",
+    "korean": "내일"
+  },
+  {
+    "vietnamese": "mùi",
+    "pronunciation": "무이",
+    "korean": "냄새"
+  },
+  {
+    "vietnamese": "tủ lạnh",
+    "pronunciation": "뚜 라잉",
+    "korean": "냉장고"
+  },
+  {
+    "vietnamese": "rộng",
+    "pronunciation": "종",
+    "korean": "넓은"
+  },
+  {
+    "vietnamese": "đặt",
+    "pronunciation": "덛",
+    "korean": "넣다"
+  },
+  {
+    "vietnamese": "vâng",
+    "pronunciation": "벙",
+    "korean": "네"
+  },
+  {
+    "vietnamese": "cà vạt",
+    "pronunciation": "까 밧",
+    "korean": "넥타이"
+  },
+  {
+    "vietnamese": "bốn",
+    "pronunciation": "본",
+    "korean": "넷"
+  },
+  {
+    "vietnamese": "năm",
+    "pronunciation": "남",
+    "korean": "년"
+  },
+  {
+    "vietnamese": "màu vàng",
+    "pronunciation": "마우 방",
+    "korean": "노란색"
+  },
+  {
+    "vietnamese": "bài hát",
+    "pronunciation": "바이 핫",
+    "korean": "노래"
+  },
+  {
+    "vietnamese": "ca hát",
+    "pronunciation": "까 핫",
+    "korean": "노래하다"
+  },
+  {
+    "vietnamese": "nỗ lực",
+    "pronunciation": "노 륵",
+    "korean": "노력"
+  },
+  {
+    "vietnamese": "sổ tay",
+    "pronunciation": "소 따이",
+    "korean": "노트"
+  },
+  {
+    "vietnamese": "chơi",
+    "pronunciation": "쩌이",
+    "korean": "놀다"
+  },
+  {
+    "vietnamese": "ngạc nhiên",
+    "pronunciation": "응악 니엔",
+    "korean": "놀라다"
+  },
+  {
+    "vietnamese": "nông dân",
+    "pronunciation": "농 전",
+    "korean": "농부"
+  },
+  {
+    "vietnamese": "nông nghiệp",
+    "pronunciation": "농 응이엡",
+    "korean": "농업"
+  },
+  {
+    "vietnamese": "cao",
+    "pronunciation": "까오",
+    "korean": "높은"
+  },
+  {
+    "vietnamese": "ai",
+    "pronunciation": "아이",
+    "korean": "누구"
+  },
+  {
+    "vietnamese": "chị gái",
+    "pronunciation": "찌 가이",
+    "korean": "누나"
+  },
+  {
+    "vietnamese": "tuyết",
+    "pronunciation": "뚜이엣",
+    "korean": "눈(날씨)"
+  },
+  {
+    "vietnamese": "mắt",
+    "pronunciation": "먿",
+    "korean": "눈(신체)"
+  },
+  {
+    "vietnamese": "nằm",
+    "pronunciation": "남",
+    "korean": "눕다"
+  },
+  {
+    "vietnamese": "tin tức",
+    "pronunciation": "띤 뜩",
+    "korean": "뉴스"
+  },
+  {
+    "vietnamese": "cảm thấy",
+    "pronunciation": "깜 터이",
+    "korean": "느끼다"
+  },
+  {
+    "vietnamese": "chậm",
+    "pronunciation": "쩜",
+    "korean": "느린"
+  },
+  {
+    "vietnamese": "tăng",
+    "pronunciation": "땅",
+    "korean": "늘다"
+  },
+  {
+    "vietnamese": "khả năng",
+    "pronunciation": "카 낭",
+    "korean": "능력"
+  },
+  {
+    "vietnamese": "muộn",
+    "pronunciation": "무온",
+    "korean": "늦은"
+  },
+  {
+    "vietnamese": "tất cả",
+    "pronunciation": "떳 까",
+    "korean": "다"
+  },
+  {
+    "vietnamese": "hết",
+    "pronunciation": "핻",
+    "korean": "다 끝난"
+  },
+  {
+    "vietnamese": "cả hai",
+    "pronunciation": "까 하이",
+    "korean": "다 둘"
+  },
+  {
+    "vietnamese": "khác",
+    "pronunciation": "칵",
+    "korean": "다른"
+  },
+  {
+    "vietnamese": "cầu",
+    "pronunciation": "꺼우",
+    "korean": "다리(구조물)"
+  },
+  {
+    "vietnamese": "chân",
+    "pronunciation": "전",
+    "korean": "다리(신체)"
+  },
+  {
+    "vietnamese": "lại",
+    "pronunciation": "라이",
+    "korean": "다시"
+  },
+  {
+    "vietnamese": "đa dạng",
+    "pronunciation": "다 장",
+    "korean": "다양한"
+  },
+  {
+    "vietnamese": "tiếp theo",
+    "pronunciation": "띱 테오",
+    "korean": "다음"
+  },
+  {
+    "vietnamese": "may mắn",
+    "pronunciation": "마이 먼",
+    "korean": "다행"
+  },
+  {
+    "vietnamese": "đóng",
+    "pronunciation": "동",
+    "korean": "닫다"
+  },
+  {
+    "vietnamese": "mặt trăng",
+    "pronunciation": "먿 짱",
+    "korean": "달"
+  },
+  {
+    "vietnamese": "đô la",
+    "pronunciation": "도 라",
+    "korean": "달러"
+  },
+  {
+    "vietnamese": "lịch",
+    "pronunciation": "릭",
+    "korean": "달력"
+  },
+  {
+    "vietnamese": "ngọt",
+    "pronunciation": "응옷",
+    "korean": "달콤한"
+  },
+  {
+    "vietnamese": "gà",
+    "pronunciation": "가",
+    "korean": "닭"
+  },
+  {
+    "vietnamese": "thịt gà",
+    "pronunciation": "팃 가",
+    "korean": "닭고기"
+  },
+  {
+    "vietnamese": "tường rào",
+    "pronunciation": "뜨엉 자오",
+    "korean": "담"
+  },
+  {
+    "vietnamese": "chăn",
+    "pronunciation": "짠",
+    "korean": "담요"
+  },
+  {
+    "vietnamese": "cà rốt",
+    "pronunciation": "까 졷",
+    "korean": "당근"
+  },
+  {
+    "vietnamese": "ngay lập tức",
+    "pronunciation": "응아이 럽 뚝",
+    "korean": "당장"
+  },
+  {
+    "vietnamese": "lớn",
+    "pronunciation": "런",
+    "korean": "대단한"
+  },
+  {
+    "vietnamese": "trả lời",
+    "pronunciation": "짜 러이",
+    "korean": "대답하다"
+  },
+  {
+    "vietnamese": "khoảng",
+    "pronunciation": "코앙",
+    "korean": "대략"
+  },
+  {
+    "vietnamese": "đại sứ quán",
+    "pronunciation": "다이 스 꽌",
+    "korean": "대사관"
+  },
+  {
+    "vietnamese": "thay thế",
+    "pronunciation": "타이 테",
+    "korean": "대신"
+  },
+  {
+    "vietnamese": "đại học",
+    "pronunciation": "다이 혹",
+    "korean": "대학"
+  },
+  {
+    "vietnamese": "thêm",
+    "pronunciation": "템",
+    "korean": "더"
+  },
+  {
+    "vietnamese": "bẩn",
+    "pronunciation": "번",
+    "korean": "더러운"
+  },
+  {
+    "vietnamese": "nóng",
+    "pronunciation": "농",
+    "korean": "더운"
+  },
+  {
+    "vietnamese": "đức",
+    "pronunciation": "득",
+    "korean": "덕"
+  },
+  {
+    "vietnamese": "ném",
+    "pronunciation": "냄",
+    "korean": "던지다"
+  },
+  {
+    "vietnamese": "ít hơn",
+    "pronunciation": "잇 헌",
+    "korean": "덜"
+  },
+  {
+    "vietnamese": "tiền",
+    "pronunciation": "띠엔",
+    "korean": "돈"
+  },
+  {
+    "vietnamese": "đá",
+    "pronunciation": "다",
+    "korean": "돌"
+  },
+  {
+    "vietnamese": "quay lại",
+    "pronunciation": "꽈이 라이",
+    "korean": "돌아가다"
+  },
+  {
+    "vietnamese": "trở về",
+    "pronunciation": "쩌 베",
+    "korean": "돌아오다"
+  },
+  {
+    "vietnamese": "giúp đỡ",
+    "pronunciation": "줍 더",
+    "korean": "돕다"
+  },
+  {
+    "vietnamese": "hàng xóm",
+    "pronunciation": "항 솜",
+    "korean": "동네"
+  },
+  {
+    "vietnamese": "động vật",
+    "pronunciation": "동 벗",
+    "korean": "동물"
+  },
+  {
+    "vietnamese": "đồng ý",
+    "pronunciation": "동 이",
+    "korean": "동의하다"
+  },
+  {
+    "vietnamese": "đồng xu",
+    "pronunciation": "동 쑤",
+    "korean": "동전"
+  },
+  {
+    "vietnamese": "hướng đông",
+    "pronunciation": "흐엉 동",
+    "korean": "동쪽"
+  },
+  {
+    "vietnamese": "lợn",
+    "pronunciation": "런",
+    "korean": "돼지"
+  },
+  {
+    "vietnamese": "trở thành",
+    "pronunciation": "쩌 타잉",
+    "korean": "되다"
+  },
+  {
+    "vietnamese": "hai",
+    "pronunciation": "하이",
+    "korean": "둘"
+  },
+  {
+    "vietnamese": "phía sau",
+    "pronunciation": "피아 사우",
+    "korean": "뒤"
+  },
+  {
+    "vietnamese": "nghe",
+    "pronunciation": "응에",
+    "korean": "듣다"
+  },
+  {
+    "vietnamese": "vào",
+    "pronunciation": "바오",
+    "korean": "들어가다"
+  },
+  {
+    "vietnamese": "cánh đồng",
+    "pronunciation": "까잉 동",
+    "korean": "들판"
+  },
+  {
+    "vietnamese": "đèn",
+    "pronunciation": "뗀",
+    "korean": "등"
+  },
+  {
+    "vietnamese": "con gái",
+    "pronunciation": "꼰 가이",
+    "korean": "딸"
+  },
+  {
+    "vietnamese": "mồ hôi",
+    "pronunciation": "모 호이",
+    "korean": "땀"
+  },
+  {
+    "vietnamese": "đất",
+    "pronunciation": "덧",
+    "korean": "땅"
+  },
+  {
+    "vietnamese": "thời gian",
+    "pronunciation": "터이 잔",
+    "korean": "때"
+  },
+  {
+    "vietnamese": "vì",
+    "pronunciation": "비",
+    "korean": "때문에"
+  },
+  {
+    "vietnamese": "lại",
+    "pronunciation": "라이",
+    "korean": "또"
+  },
+  {
+    "vietnamese": "giống nhau",
+    "pronunciation": "종 냐우",
+    "korean": "똑같은"
+  },
+  {
+    "vietnamese": "thông minh",
+    "pronunciation": "통 밍",
+    "korean": "똑똑한"
+  },
+  {
+    "vietnamese": "thẳng",
+    "pronunciation": "탕",
+    "korean": "똑바로"
+  },
+  {
+    "vietnamese": "nắp",
+    "pronunciation": "넙",
+    "korean": "뚜껑"
+  },
+  {
+    "vietnamese": "béo",
+    "pronunciation": "배오",
+    "korean": "뚱뚱한"
+  },
+  {
+    "vietnamese": "chạy",
+    "pronunciation": "짜이",
+    "korean": "뛰다"
+  },
+  {
+    "vietnamese": "nóng",
+    "pronunciation": "농",
+    "korean": "뜨거운"
+  },
+  {
+    "vietnamese": "nghĩa",
+    "pronunciation": "응이아",
+    "korean": "뜻"
+  },
+  {
+    "vietnamese": "đài",
+    "pronunciation": "다이",
+    "korean": "라디오"
+  },
+  {
+    "vietnamese": "mì",
+    "pronunciation": "미",
+    "korean": "라면"
+  },
+  {
+    "vietnamese": "bật lửa",
+    "pronunciation": "벗 르아",
+    "korean": "라이터"
+  },
+  {
+    "vietnamese": "mười nghìn",
+    "pronunciation": "므어이 응인",
+    "korean": "만"
+  },
+  {
+    "vietnamese": "gặp",
+    "pronunciation": "겁",
+    "korean": "만나다"
+  },
+  {
+    "vietnamese": "làm",
+    "pronunciation": "람",
+    "korean": "만들다"
+  },
+  {
+    "vietnamese": "sáng tạo",
+    "pronunciation": "상 따오",
+    "korean": "만들다(창조)"
+  },
+  {
+    "vietnamese": "nhiều",
+    "pronunciation": "니에우",
+    "korean": "많은"
+  },
+  {
+    "vietnamese": "lời",
+    "pronunciation": "러이",
+    "korean": "말"
+  },
+  {
+    "vietnamese": "ngựa",
+    "pronunciation": "응으아",
+    "korean": "말(동물)"
+  },
+  {
+    "vietnamese": "nói",
+    "pronunciation": "노이",
+    "korean": "말하다"
+  },
+  {
+    "vietnamese": "vị",
+    "pronunciation": "비",
+    "korean": "맛"
+  },
+  {
+    "vietnamese": "ngon",
+    "pronunciation": "응온",
+    "korean": "맛있는"
+  },
+  {
+    "vietnamese": "đúng",
+    "pronunciation": "둥",
+    "korean": "맞는"
+  },
+  {
+    "vietnamese": "đối diện",
+    "pronunciation": "도이 지엔",
+    "korean": "맞은편"
+  },
+  {
+    "vietnamese": "mỗi",
+    "pronunciation": "모이",
+    "korean": "매"
+  },
+  {
+    "vietnamese": "rất",
+    "pronunciation": "젓",
+    "korean": "매우"
+  },
+  {
+    "vietnamese": "bán",
+    "pronunciation": "반",
+    "korean": "매우(팔다)"
+  },
+  {
+    "vietnamese": "cay",
+    "pronunciation": "까이",
+    "korean": "매운"
+  },
+  {
+    "vietnamese": "bia",
+    "pronunciation": "비아",
+    "korean": "맥주"
+  },
+  {
+    "vietnamese": "đầu",
+    "pronunciation": "더우",
+    "korean": "머리"
+  },
+  {
+    "vietnamese": "tóc",
+    "pronunciation": "똑",
+    "korean": "머리카락"
+  },
+  {
+    "vietnamese": "ở lại",
+    "pronunciation": "어 라이",
+    "korean": "머무르다"
+  },
+  {
+    "vietnamese": "ăn",
+    "pronunciation": "안",
+    "korean": "먹다"
+  },
+  {
+    "vietnamese": "xa",
+    "pronunciation": "사",
+    "korean": "먼"
+  },
+  {
+    "vietnamese": "trước",
+    "pronunciation": "쯔억",
+    "korean": "먼저"
+  },
+  {
+    "vietnamese": "bụi",
+    "pronunciation": "부이",
+    "korean": "먼지"
+  },
+  {
+    "vietnamese": "dừng lại",
+    "pronunciation": "증 라이",
+    "korean": "멈추다"
+  },
+  {
+    "vietnamese": "thực đơn",
+    "pronunciation": "특 던",
+    "korean": "메뉴"
+  },
+  {
+    "vietnamese": "tin nhắn",
+    "pronunciation": "띤 년",
+    "korean": "메시지"
+  },
+  {
+    "vietnamese": "mấy",
+    "pronunciation": "머이",
+    "korean": "몇"
+  },
+  {
+    "vietnamese": "mẹ",
+    "pronunciation": "메",
+    "korean": "모(어머니)"
+  },
+  {
+    "vietnamese": "tất cả",
+    "pronunciation": "떳 까",
+    "korean": "모든"
+  },
+  {
+    "vietnamese": "tất cả mọi người",
+    "pronunciation": "떳 까 모이 응으어이",
+    "korean": "모든 사람"
+  },
+  {
+    "vietnamese": "hình dáng",
+    "pronunciation": "힌 장",
+    "korean": "모양"
+  },
+  {
+    "vietnamese": "mũ",
+    "pronunciation": "무",
+    "korean": "모자"
+  },
+  {
+    "vietnamese": "góc",
+    "pronunciation": "곡",
+    "korean": "모퉁이"
+  },
+  {
+    "vietnamese": "cổ",
+    "pronunciation": "꼬",
+    "korean": "목"
+  },
+  {
+    "vietnamese": "tiếng nói",
+    "pronunciation": "띠엥 노이",
+    "korean": "목소리"
+  },
+  {
+    "vietnamese": "thứ năm",
+    "pronunciation": "트 남",
+    "korean": "목요일"
+  },
+  {
+    "vietnamese": "tắm",
+    "pronunciation": "떰",
+    "korean": "목욕"
+  },
+  {
+    "vietnamese": "mục đích",
+    "pronunciation": "묵 딕",
+    "korean": "목적"
+  },
+  {
+    "vietnamese": "cơ thể",
+    "pronunciation": "꺼 테",
+    "korean": "몸"
+  },
+  {
+    "vietnamese": "cân nặng",
+    "pronunciation": "건 낭",
+    "korean": "몸무게"
+  },
+  {
+    "vietnamese": "xấu xí",
+    "pronunciation": "서우 씨",
+    "korean": "못생긴"
+  },
+  {
+    "vietnamese": "không thể",
+    "pronunciation": "콩 테",
+    "korean": "못하다"
+  },
+  {
+    "vietnamese": "miêu tả",
+    "pronunciation": "미에우 따",
+    "korean": "묘사"
+  },
+  {
+    "vietnamese": "nặng",
+    "pronunciation": "낭",
+    "korean": "무거운"
+  },
+  {
+    "vietnamese": "vũ khí",
+    "pronunciation": "부 키",
+    "korean": "무기"
+  },
+  {
+    "vietnamese": "sân khấu",
+    "pronunciation": "선 커우",
+    "korean": "무대"
+  },
+  {
+    "vietnamese": "miễn phí",
+    "pronunciation": "미엔 피",
+    "korean": "무료"
+  },
+  {
+    "vietnamese": "sợ hãi",
+    "pronunciation": "서 하이",
+    "korean": "무서운"
+  },
+  {
+    "vietnamese": "gì",
+    "pronunciation": "지",
+    "korean": "무엇"
+  },
+  {
+    "vietnamese": "mù",
+    "pronunciation": "무",
+    "korean": "무역"
+  },
+  {
+    "vietnamese": "cầu vồng",
+    "pronunciation": "꺼우 봉",
+    "korean": "무지개"
+  },
+  {
+    "vietnamese": "cửa",
+    "pronunciation": "꾸아",
+    "korean": "문"
+  },
+  {
+    "vietnamese": "câu hỏi",
+    "pronunciation": "꺼우 호이",
+    "korean": "문제"
+  },
+  {
+    "vietnamese": "vấn đề",
+    "pronunciation": "번 데",
+    "korean": "문제(이슈)"
+  },
+  {
+    "vietnamese": "văn hóa",
+    "pronunciation": "반 화",
+    "korean": "문화"
+  },
+  {
+    "vietnamese": "hỏi",
+    "pronunciation": "호이",
+    "korean": "묻다"
+  },
+  {
+    "vietnamese": "nước",
+    "pronunciation": "느억",
+    "korean": "물"
+  },
+  {
+    "vietnamese": "nước hoa",
+    "pronunciation": "느억 호아",
+    "korean": "물(향수)"
+  },
+  {
+    "vietnamese": "giá cả",
+    "pronunciation": "자 까",
+    "korean": "물가"
+  },
+  {
+    "vietnamese": "vật",
+    "pronunciation": "벗",
+    "korean": "물건"
+  },
+  {
+    "vietnamese": "cá",
+    "pronunciation": "까",
+    "korean": "물고기"
+  },
+  {
+    "vietnamese": "tất nhiên",
+    "pronunciation": "떳 니엔",
+    "korean": "물론"
+  },
+  {
+    "vietnamese": "cái gì",
+    "pronunciation": "까이 지",
+    "korean": "뭐"
+  },
+  {
+    "vietnamese": "Mỹ",
+    "pronunciation": "미",
+    "korean": "미국"
+  },
+  {
+    "vietnamese": "tương lai",
+    "pronunciation": "뜨엉 라이",
+    "korean": "미래"
+  },
+  {
+    "vietnamese": "nghệ thuật",
+    "pronunciation": "응에 투엇",
+    "korean": "미술"
+  },
+  {
+    "vietnamese": "xin lỗi",
+    "pronunciation": "신 로이",
+    "korean": "미안한"
+  },
+  {
+    "vietnamese": "đẹp",
+    "pronunciation": "뎁",
+    "korean": "미인"
+  },
+  {
+    "vietnamese": "dân tộc",
+    "pronunciation": "전 똑",
+    "korean": "민족"
+  },
+  {
+    "vietnamese": "tin",
+    "pronunciation": "띤",
+    "korean": "믿다"
+  },
+  {
+    "vietnamese": "tin cậy",
+    "pronunciation": "띤 꺼이",
+    "korean": "믿음직한"
+  },
+  {
+    "vietnamese": "phía dưới",
+    "pronunciation": "피아 즈어이",
+    "korean": "밑"
+  },
+  {
+    "vietnamese": "thay đổi",
+    "pronunciation": "타이 도이",
+    "korean": "바꾸다"
+  },
+  {
+    "vietnamese": "biển",
+    "pronunciation": "비엔",
+    "korean": "바다"
+  },
+  {
+    "vietnamese": "sàn",
+    "pronunciation": "산",
+    "korean": "바닥"
+  },
+  {
+    "vietnamese": "gió",
+    "pronunciation": "조",
+    "korean": "바람"
+  },
+  {
+    "vietnamese": "đúng",
+    "pronunciation": "둥",
+    "korean": "바른"
+  },
+  {
+    "vietnamese": "bận",
+    "pronunciation": "번",
+    "korean": "바쁜"
+  },
+  {
+    "vietnamese": "quần",
+    "pronunciation": "꽌",
+    "korean": "바지"
+  },
+  {
+    "vietnamese": "ngoài",
+    "pronunciation": "응오아이",
+    "korean": "밖"
+  },
+  {
+    "vietnamese": "nửa",
+    "pronunciation": "느아",
+    "korean": "반"
+  },
+  {
+    "vietnamese": "bạn",
+    "pronunciation": "반",
+    "korean": "반(친구)"
+  },
+  {
+    "vietnamese": "lớp",
+    "pronunciation": "럽",
+    "korean": "반(학급)"
+  },
+  {
+    "vietnamese": "phản đối",
+    "pronunciation": "판 도이",
+    "korean": "반대"
+  },
+  {
+    "vietnamese": "nhất định",
+    "pronunciation": "넛 딘",
+    "korean": "반드시"
+  },
+  {
+    "vietnamese": "nhận",
+    "pronunciation": "년",
+    "korean": "받다"
+  },
+  {
+    "vietnamese": "bàn chân",
+    "pronunciation": "반 전",
+    "korean": "발"
+  },
+  {
+    "vietnamese": "phát âm",
+    "pronunciation": "팟 엄",
+    "korean": "발음"
+  },
+  {
+    "vietnamese": "phát triển",
+    "pronunciation": "팟 찌엔",
+    "korean": "발전"
+  },
+  {
+    "vietnamese": "sáng",
+    "pronunciation": "상",
+    "korean": "밝은"
+  },
+  {
+    "vietnamese": "bật",
+    "pronunciation": "벗",
+    "korean": "밝은(켜다)"
+  },
+  {
+    "vietnamese": "đêm",
+    "pronunciation": "뎀",
+    "korean": "밤"
+  },
+  {
+    "vietnamese": "cơm",
+    "pronunciation": "꺼",
+    "korean": "밥"
+  },
+  {
+    "vietnamese": "phòng",
+    "pronunciation": "퐁",
+    "korean": "방"
+  },
+  {
+    "vietnamese": "phương pháp",
+    "pronunciation": "프엉 팝",
+    "korean": "방법"
+  },
+  {
+    "vietnamese": "hướng",
+    "pronunciation": "흐엉",
+    "korean": "방향"
+  },
+  {
+    "vietnamese": "một trăm",
+    "pronunciation": "못 짬",
+    "korean": "백"
+  },
+  {
+    "vietnamese": "rắn",
+    "pronunciation": "전",
+    "korean": "뱀"
+  },
+  {
+    "vietnamese": "vứt",
+    "pronunciation": "벗",
+    "korean": "버리다"
+  },
+  {
+    "vietnamese": "nấm",
+    "pronunciation": "넘",
+    "korean": "버섯"
+  },
+  {
+    "vietnamese": "xe buýt",
+    "pronunciation": "세 부잇",
+    "korean": "버스"
+  },
+  {
+    "vietnamese": "bơ",
+    "pronunciation": "버",
+    "korean": "버터"
+  },
+  {
+    "vietnamese": "số",
+    "pronunciation": "소",
+    "korean": "번호"
+  },
+  {
+    "vietnamese": "luật",
+    "pronunciation": "루엇",
+    "korean": "법"
+  },
+  {
+    "vietnamese": "bạn bè",
+    "pronunciation": "반 배",
+    "korean": "벗(친구)"
+  },
+  {
+    "vietnamese": "cởi",
+    "pronunciation": "꺼이",
+    "korean": "벗다"
+  },
+  {
+    "vietnamese": "Việt Nam",
+    "pronunciation": "비엣 남",
+    "korean": "베트남"
+  },
+  {
+    "vietnamese": "tường",
+    "pronunciation": "뜨엉",
+    "korean": "벽"
+  },
+  {
+    "vietnamese": "ngôi sao",
+    "pronunciation": "응오이 사오",
+    "korean": "별"
+  },
+  {
+    "vietnamese": "biệt",
+    "pronunciation": "비엣",
+    "korean": "별로"
+  },
+  {
+    "vietnamese": "chai",
+    "pronunciation": "짜이",
+    "korean": "병"
+  },
+  {
+    "vietnamese": "bệnh",
+    "pronunciation": "베잉",
+    "korean": "병(질병)"
+  },
+  {
+    "vietnamese": "bệnh viện",
+    "pronunciation": "베잉 비엔",
+    "korean": "병원"
+  },
+  {
+    "vietnamese": "gửi",
+    "pronunciation": "그이",
+    "korean": "보내다"
+  },
+  {
+    "vietnamese": "thấy",
+    "pronunciation": "터이",
+    "korean": "보다"
+  },
+  {
+    "vietnamese": "nhìn",
+    "pronunciation": "닌",
+    "korean": "보다(바라보다)"
+  },
+  {
+    "vietnamese": "thông thường",
+    "pronunciation": "통 트엉",
+    "korean": "보통"
+  },
+  {
+    "vietnamese": "bảo hiểm",
+    "pronunciation": "바오 히엠",
+    "korean": "보험"
+  },
+  {
+    "vietnamese": "bảo vệ",
+    "pronunciation": "바오 베",
+    "korean": "보호하다"
+  },
+  {
+    "vietnamese": "hạnh phúc",
+    "pronunciation": "하잉 푹",
+    "korean": "복"
+  },
+  {
+    "vietnamese": "phúc tạp",
+    "pronunciation": "푹 땁",
+    "korean": "복잡한"
+  },
+  {
+    "vietnamese": "mùa xuân",
+    "pronunciation": "무아 쑤언",
+    "korean": "봄"
+  },
+  {
+    "vietnamese": "phong bì",
+    "pronunciation": "퐁 비",
+    "korean": "봉투"
+  },
+  {
+    "vietnamese": "bố",
+    "pronunciation": "보",
+    "korean": "부(아버지)"
+  },
+  {
+    "vietnamese": "gọi",
+    "pronunciation": "고이",
+    "korean": "부르다"
+  },
+  {
+    "vietnamese": "vợ chồng",
+    "pronunciation": "버 쫑",
+    "korean": "부부"
+  },
+  {
+    "vietnamese": "bộ phận",
+    "pronunciation": "보 펀",
+    "korean": "부분"
+  },
+  {
+    "vietnamese": "nhà bếp",
+    "pronunciation": "냐 벱",
+    "korean": "부엌"
+  },
+  {
+    "vietnamese": "phong phú",
+    "pronunciation": "퐁 푸",
+    "korean": "부유한"
+  },
+  {
+    "vietnamese": "bắc",
+    "pronunciation": "박",
+    "korean": "북쪽"
+  },
+  {
+    "vietnamese": "phút",
+    "pronunciation": "풋",
+    "korean": "분"
+  },
+  {
+    "vietnamese": "rõ ràng",
+    "pronunciation": "조 장",
+    "korean": "분명한"
+  },
+  {
+    "vietnamese": "bầu không khí",
+    "pronunciation": "버우 콩 키",
+    "korean": "분위기"
+  },
+  {
+    "vietnamese": "lửa",
+    "pronunciation": "르아",
+    "korean": "불"
+  },
+  {
+    "vietnamese": "gọi",
+    "pronunciation": "고이",
+    "korean": "불러오다"
+  },
+  {
+    "vietnamese": "không hài lòng",
+    "pronunciation": "콩 하이 롱",
+    "korean": "불만"
+  },
+  {
+    "vietnamese": "bất tiện",
+    "pronunciation": "벗 띠엔",
+    "korean": "불편한"
+  },
+  {
+    "vietnamese": "mưa",
+    "pronunciation": "므아",
+    "korean": "비"
+  },
+  {
+    "vietnamese": "so sánh",
+    "pronunciation": "소 사잉",
+    "korean": "비교"
+  },
+  {
+    "vietnamese": "xà phòng",
+    "pronunciation": "사 퐁",
+    "korean": "비누"
+  },
+  {
+    "vietnamese": "bí mật",
+    "pronunciation": "비 멋",
+    "korean": "비밀"
+  },
+  {
+    "vietnamese": "đắt",
+    "pronunciation": "닷",
+    "korean": "비싼"
+  },
+  {
+    "vietnamese": "máy bay",
+    "pronunciation": "마이 바이",
+    "korean": "비행기"
+  },
+  {
+    "vietnamese": "trống",
+    "pronunciation": "쫑",
+    "korean": "빈"
+  },
+  {
+    "vietnamese": "mượn",
+    "pronunciation": "므언",
+    "korean": "빌리다"
+  },
+  {
+    "vietnamese": "ánh sáng",
+    "pronunciation": "아잉 상",
+    "korean": "빛"
+  },
+  {
+    "vietnamese": "nhanh",
+    "pronunciation": "냔",
+    "korean": "빠른"
+  },
+  {
+    "vietnamese": "màu đỏ",
+    "pronunciation": "마우 도",
+    "korean": "빨간색"
+  },
+  {
+    "vietnamese": "rửa",
+    "pronunciation": "즈아",
+    "korean": "빨래하다"
+  },
+  {
+    "vietnamese": "bánh mì",
+    "pronunciation": "바잉 미",
+    "korean": "빵"
+  },
+  {
+    "vietnamese": "rút",
+    "pronunciation": "줏",
+    "korean": "빼다"
+  },
+  {
+    "vietnamese": "xương",
+    "pronunciation": "쓰엉",
+    "korean": "뼈"
+  },
+  {
+    "vietnamese": "bốn",
+    "pronunciation": "본",
+    "korean": "사(숫자)"
+  },
+  {
+    "vietnamese": "sự kiện",
+    "pronunciation": "스 끼엔",
+    "korean": "사건"
+  },
+  {
+    "vietnamese": "táo",
+    "pronunciation": "따오",
+    "korean": "사과(과일)"
+  },
+  {
+    "vietnamese": "xin lỗi",
+    "pronunciation": "신 로이",
+    "korean": "사과하다"
+  },
+  {
+    "vietnamese": "mua",
+    "pronunciation": "무아",
+    "korean": "사다"
+  },
+  {
+    "vietnamese": "biến mất",
+    "pronunciation": "비엔 멋",
+    "korean": "사라지다"
+  },
+  {
+    "vietnamese": "người",
+    "pronunciation": "응으어이",
+    "korean": "사람"
+  },
+  {
+    "vietnamese": "tình yêu",
+    "pronunciation": "띤 이에우",
+    "korean": "사랑"
+  },
+  {
+    "vietnamese": "yêu",
+    "pronunciation": "이에우",
+    "korean": "사랑하다"
+  },
+  {
+    "vietnamese": "công ty",
+    "pronunciation": "꽁 띠",
+    "korean": "사무실"
+  },
+  {
+    "vietnamese": "văn phòng",
+    "pronunciation": "반 퐁",
+    "korean": "사무실(오피스)"
+  },
+  {
+    "vietnamese": "sử dụng",
+    "pronunciation": "스 중",
+    "korean": "사용하다"
+  },
+  {
+    "vietnamese": "giữa",
+    "pronunciation": "즈어",
+    "korean": "사이"
+  },
+  {
+    "vietnamese": "từ điển",
+    "pronunciation": "뜨 디엔",
+    "korean": "사전"
+  },
+  {
+    "vietnamese": "ảnh",
+    "pronunciation": "아잉",
+    "korean": "사진"
+  },
+  {
+    "vietnamese": "xã hội",
+    "pronunciation": "사 호이",
+    "korean": "사회"
+  },
+  {
+    "vietnamese": "núi",
+    "pronunciation": "누이",
+    "korean": "산"
+  },
+  {
+    "vietnamese": "sơn",
+    "pronunciation": "선",
+    "korean": "산(칠하다)"
+  },
+  {
+    "vietnamese": "sống",
+    "pronunciation": "송",
+    "korean": "살다"
+  },
+  {
+    "vietnamese": "ba",
+    "pronunciation": "바",
+    "korean": "삼(숫자)"
+  },
+  {
+    "vietnamese": "thịt heo",
+    "pronunciation": "팃 해오",
+    "korean": "삼겹살"
+  },
+  {
+    "vietnamese": "chú",
+    "pronunciation": "쭈",
+    "korean": "삼촌"
+  },
+  {
+    "vietnamese": "giải thưởng",
+    "pronunciation": "자이 트엉",
+    "korean": "상"
+  },
+  {
+    "vietnamese": "phía trên",
+    "pronunciation": "피아 쩬",
+    "korean": "상(위)"
+  },
+  {
+    "vietnamese": "tưởng tượng",
+    "pronunciation": "뜨엉 뜨엉",
+    "korean": "상상"
+  },
+  {
+    "vietnamese": "thương mại",
+    "pronunciation": "트엉 마이",
+    "korean": "상업"
+  },
+  {
+    "vietnamese": "hộp",
+    "pronunciation": "홉",
+    "korean": "상자"
+  },
+  {
+    "vietnamese": "bàn",
+    "pronunciation": "반",
+    "korean": "상자(탁자)"
+  },
+  {
+    "vietnamese": "tình huống",
+    "pronunciation": "띤 후옹",
+    "korean": "상황"
+  },
+  {
+    "vietnamese": "chim",
+    "pronunciation": "찜",
+    "korean": "새"
+  },
+  {
+    "vietnamese": "mới",
+    "pronunciation": "머이",
+    "korean": "새로운"
+  },
+  {
+    "vietnamese": "tôm",
+    "pronunciation": "똠",
+    "korean": "새우"
+  },
+  {
+    "vietnamese": "màu",
+    "pronunciation": "마우",
+    "korean": "색"
+  },
+  {
+    "vietnamese": "rau sống",
+    "pronunciation": "자우 송",
+    "korean": "샐러드"
+  },
+  {
+    "vietnamese": "suy nghĩ",
+    "pronunciation": "수이 응이",
+    "korean": "생각"
+  },
+  {
+    "vietnamese": "nước sinh tố",
+    "pronunciation": "느억 신 또",
+    "korean": "생과일주스"
+  },
+  {
+    "vietnamese": "sản xuất",
+    "pronunciation": "산 쑤엇",
+    "korean": "생산"
+  },
+  {
+    "vietnamese": "cá sống",
+    "pronunciation": "까 송",
+    "korean": "생선"
+  },
+  {
+    "vietnamese": "sinh nhật",
+    "pronunciation": "신 녓",
+    "korean": "생일"
+  },
+  {
+    "vietnamese": "cuộc sống",
+    "pronunciation": "꾸옥 송",
+    "korean": "생활"
+  },
+  {
+    "vietnamese": "sách",
+    "pronunciation": "사익",
+    "korean": "서(책)"
+  },
+  {
+    "vietnamese": "đứng",
+    "pronunciation": "등",
+    "korean": "서다"
+  },
+  {
+    "vietnamese": "vội vàng",
+    "pronunciation": "보이 방",
+    "korean": "서두르다"
+  },
+  {
+    "vietnamese": "thư viện",
+    "pronunciation": "트 비엔",
+    "korean": "서점"
+  },
+  {
+    "vietnamese": "hiệu sách",
+    "pronunciation": "히에우 사익",
+    "korean": "서점(가게)"
+  },
+  {
+    "vietnamese": "tây",
+    "pronunciation": "떠이",
+    "korean": "서쪽"
+  },
+  {
+    "vietnamese": "đá",
+    "pronunciation": "다",
+    "korean": "석(돌)"
+  },
+  {
+    "vietnamese": "đường",
+    "pronunciation": "드엉",
+    "korean": "선(줄)"
+  },
+  {
+    "vietnamese": "món quà",
+    "pronunciation": "몬 꽈",
+    "korean": "선물"
+  },
+  {
+    "vietnamese": "giáo viên",
+    "pronunciation": "자오 비엔",
+    "korean": "선생님"
+  },
+  {
+    "vietnamese": "quạt",
+    "pronunciation": "꽛",
+    "korean": "선풍기"
+  },
+  {
+    "vietnamese": "rửa bát",
+    "pronunciation": "즈아 밧",
+    "korean": "설거지"
+  },
+  {
+    "vietnamese": "giải thích",
+    "pronunciation": "자이 틱",
+    "korean": "설명하다"
+  },
+  {
+    "vietnamese": "đường",
+    "pronunciation": "드엉",
+    "korean": "설탕"
+  },
+  {
+    "vietnamese": "đảo",
+    "pronunciation": "다오",
+    "korean": "섬"
+  },
+  {
+    "vietnamese": "ba",
+    "pronunciation": "바",
+    "korean": "세"
+  },
+  {
+    "vietnamese": "thế giới",
+    "pronunciation": "테 저이",
+    "korean": "세계"
+  },
+  {
+    "vietnamese": "kỷ lục",
+    "pronunciation": "끼 룩",
+    "korean": "세계기록"
+  },
+  {
+    "vietnamese": "thuế",
+    "pronunciation": "투에",
+    "korean": "세금"
+  },
+  {
+    "vietnamese": "mạnh",
+    "pronunciation": "마잉",
+    "korean": "세다(강한)"
+  },
+  {
+    "vietnamese": "giặt",
+    "pronunciation": "잣",
+    "korean": "세탁"
+  },
+  {
+    "vietnamese": "trung tâm",
+    "pronunciation": "쭝 떰",
+    "korean": "센터"
+  },
+  {
+    "vietnamese": "ba",
+    "pronunciation": "바",
+    "korean": "셋"
+  },
+  {
+    "vietnamese": "áo sơ mi",
+    "pronunciation": "아오 서 미",
+    "korean": "셔츠"
+  },
+  {
+    "vietnamese": "bò",
+    "pronunciation": "버",
+    "korean": "소"
+  },
+  {
+    "vietnamese": "giới thiệu",
+    "pronunciation": "저이 티에우",
+    "korean": "소개"
+  },
+  {
+    "vietnamese": "muối",
+    "pronunciation": "무오이",
+    "korean": "소금"
+  },
+  {
+    "vietnamese": "âm thanh",
+    "pronunciation": "엄 타잉",
+    "korean": "소리"
+  },
+  {
+    "vietnamese": "tin tức",
+    "pronunciation": "띤 뜩",
+    "korean": "소식"
+  },
+  {
+    "vietnamese": "thuộc về",
+    "pronunciation": "투옥 베",
+    "korean": "소유"
+  },
+  {
+    "vietnamese": "bên trong",
+    "pronunciation": "벤 쫑",
+    "korean": "속"
+  },
+  {
+    "vietnamese": "tốc độ",
+    "pronunciation": "똑 도",
+    "korean": "속도"
+  },
+  {
+    "vietnamese": "tay",
+    "pronunciation": "따이",
+    "korean": "손"
+  },
+  {
+    "vietnamese": "khách",
+    "pronunciation": "카익",
+    "korean": "손님"
+  },
+  {
+    "vietnamese": "khăn tay",
+    "pronunciation": "칸 따이",
+    "korean": "손수건"
+  },
+  {
+    "vietnamese": "cháu",
+    "pronunciation": "짜우",
+    "korean": "손자"
+  },
+  {
+    "vietnamese": "móng tay",
+    "pronunciation": "몽 따이",
+    "korean": "손톱"
+  },
+  {
+    "vietnamese": "thật thà",
+    "pronunciation": "텃 타",
+    "korean": "솔직한"
+  },
+  {
+    "vietnamese": "nồi",
+    "pronunciation": "노이",
+    "korean": "솥"
+  },
+  {
+    "vietnamese": "mua sắm",
+    "pronunciation": "무아 삼",
+    "korean": "쇼핑"
+  },
+  {
+    "vietnamese": "khăn",
+    "pronunciation": "칸",
+    "korean": "수건"
+  },
+  {
+    "vietnamese": "thêu",
+    "pronunciation": "테우",
+    "korean": "수놓다"
+  },
+  {
+    "vietnamese": "thủ đô",
+    "pronunciation": "투 도",
+    "korean": "수도"
+  },
+  {
+    "vietnamese": "sửa",
+    "pronunciation": "스아",
+    "korean": "수리하다"
+  },
+  {
+    "vietnamese": "cây cối",
+    "pronunciation": "꺼이 꼬이",
+    "korean": "수목"
+  },
+  {
+    "vietnamese": "dưa hấu",
+    "pronunciation": "즈아 허우",
+    "korean": "수박"
+  },
+  {
+    "vietnamese": "bơi",
+    "pronunciation": "버이",
+    "korean": "수영"
+  },
+  {
+    "vietnamese": "bể bơi",
+    "pronunciation": "배 버이",
+    "korean": "수영장"
+  },
+  {
+    "vietnamese": "nhập khẩu",
+    "pronunciation": "녑 커우",
+    "korean": "수입"
+  },
+  {
+    "vietnamese": "xuất khẩu",
+    "pronunciation": "쑤엇 커우",
+    "korean": "수출"
+  },
+  {
+    "vietnamese": "toán",
+    "pronunciation": "또안",
+    "korean": "수학"
+  },
+  {
+    "vietnamese": "bài tập",
+    "pronunciation": "바이 떱",
+    "korean": "숙제"
+  },
+  {
+    "vietnamese": "thìa",
+    "pronunciation": "티아",
+    "korean": "숟가락"
+  },
+  {
+    "vietnamese": "giấu",
+    "pronunciation": "저우",
+    "korean": "숨기다"
+  },
+  {
+    "vietnamese": "rừng",
+    "pronunciation": "증",
+    "korean": "숲"
+  },
+  {
+    "vietnamese": "nghỉ ngơi",
+    "pronunciation": "응이 응어이",
+    "korean": "쉬다"
+  },
+  {
+    "vietnamese": "dễ",
+    "pronunciation": "제",
+    "korean": "쉬운"
+  },
+  {
+    "vietnamese": "năm mươi",
+    "pronunciation": "남 므어이",
+    "korean": "쉰"
+  },
+  {
+    "vietnamese": "siêu thị",
+    "pronunciation": "시에우 티",
+    "korean": "슈퍼마켓"
+  },
+  {
+    "vietnamese": "điện thoại thông minh",
+    "pronunciation": "디엔 토아이 통 밍",
+    "korean": "스마트폰"
+  },
+  {
+    "vietnamese": "hai mươi",
+    "pronunciation": "하이 므어이",
+    "korean": "스무"
+  },
+  {
+    "vietnamese": "tự mình",
+    "pronunciation": "뜨 밍",
+    "korean": "스스로"
+  },
+  {
+    "vietnamese": "thầy",
+    "pronunciation": "터이",
+    "korean": "스승"
+  },
+  {
+    "vietnamese": "sợ",
+    "pronunciation": "서",
+    "korean": "스트레스"
+  },
+  {
+    "vietnamese": "thể thao",
+    "pronunciation": "테 타오",
+    "korean": "스포츠"
+  },
+  {
+    "vietnamese": "buồn",
+    "pronunciation": "부온",
+    "korean": "슬픈"
+  },
+  {
+    "vietnamese": "thói quen",
+    "pronunciation": "토이 꾸엔",
+    "korean": "습관"
+  },
+  {
+    "vietnamese": "lên",
+    "pronunciation": "렌",
+    "korean": "승(오르다)"
+  },
+  {
+    "vietnamese": "thắng",
+    "pronunciation": "탕",
+    "korean": "승리"
+  },
+  {
+    "vietnamese": "thời gian",
+    "pronunciation": "터이 잔",
+    "korean": "시간"
+  },
+  {
+    "vietnamese": "đồng hồ",
+    "pronunciation": "동 호",
+    "korean": "시계"
+  },
+  {
+    "vietnamese": "thành phố",
+    "pronunciation": "타잉 포",
+    "korean": "시내"
+  },
+  {
+    "vietnamese": "bắt đầu",
+    "pronunciation": "밧 더우",
+    "korean": "시작"
+  },
+  {
+    "vietnamese": "thị trường",
+    "pronunciation": "티 쯔엉",
+    "korean": "시장"
+  },
+  {
+    "vietnamese": "thi",
+    "pronunciation": "티",
+    "korean": "시험"
+  },
+  {
+    "vietnamese": "nhà hàng",
+    "pronunciation": "냐 항",
+    "korean": "식당"
+  },
+  {
+    "vietnamese": "thực vật",
+    "pronunciation": "특 벗",
+    "korean": "식물"
+  },
+  {
+    "vietnamese": "thực phẩm",
+    "pronunciation": "특 펌",
+    "korean": "식품"
+  },
+  {
+    "vietnamese": "thần",
+    "pronunciation": "턴",
+    "korean": "신"
+  },
+  {
+    "vietnamese": "mới",
+    "pronunciation": "머이",
+    "korean": "신(새로운)"
+  },
+  {
+    "vietnamese": "tin tưởng",
+    "pronunciation": "띤 뜨엉",
+    "korean": "신뢰"
+  },
+  {
+    "vietnamese": "tờ báo",
+    "pronunciation": "떠 바오",
+    "korean": "신문"
+  },
+  {
+    "vietnamese": "giày",
+    "pronunciation": "자이",
+    "korean": "신발"
+  },
+  {
+    "vietnamese": "tín hiệu",
+    "pronunciation": "띤 히에우",
+    "korean": "신호"
+  },
+  {
+    "vietnamese": "lỗi",
+    "pronunciation": "로이",
+    "korean": "실수"
+  },
+  {
+    "vietnamese": "thực tế",
+    "pronunciation": "특 떼",
+    "korean": "실제"
+  },
+  {
+    "vietnamese": "chán",
+    "pronunciation": "짠",
+    "korean": "싫은"
+  },
+  {
+    "vietnamese": "mười",
+    "pronunciation": "므어이",
+    "korean": "십"
+  },
+  {
+    "vietnamese": "rẻ",
+    "pronunciation": "재",
+    "korean": "싼"
+  },
+  {
+    "vietnamese": "gạo",
+    "pronunciation": "가오",
+    "korean": "쌀"
+  },
+  {
+    "vietnamese": "phở bò",
+    "pronunciation": "퍼 버",
+    "korean": "쌀국수(소고기)"
+  },
+  {
+    "vietnamese": "viết",
+    "pronunciation": "비엣",
+    "korean": "쓰다"
+  },
+  {
+    "vietnamese": "dùng",
+    "pronunciation": "중",
+    "korean": "쓰다(사용)"
+  },
+  {
+    "vietnamese": "rác",
+    "pronunciation": "작",
+    "korean": "쓰레기"
+  },
+  {
+    "vietnamese": "đắng",
+    "pronunciation": "당",
+    "korean": "쓴"
+  },
+  {
+    "vietnamese": "hạt giống",
+    "pronunciation": "핫 종",
+    "korean": "씨앗"
+  },
+  {
+    "vietnamese": "em bé",
+    "pronunciation": "앰 배",
+    "korean": "아기"
+  },
+  {
+    "vietnamese": "vợ",
+    "pronunciation": "버",
+    "korean": "아내"
+  },
+  {
+    "vietnamese": "con trai",
+    "pronunciation": "꼰 짜이",
+    "korean": "아들"
+  },
+  {
+    "vietnamese": "dưới",
+    "pronunciation": "즈어이",
+    "korean": "아래"
+  },
+  {
+    "vietnamese": "đẹp",
+    "pronunciation": "뎁",
+    "korean": "아름다운"
+  },
+  {
+    "vietnamese": "có lẽ",
+    "pronunciation": "꼬 래",
+    "korean": "아마"
+  },
+  {
+    "vietnamese": "bố",
+    "pronunciation": "보",
+    "korean": "아버지"
+  },
+  {
+    "vietnamese": "kem",
+    "pronunciation": "깸",
+    "korean": "아이스크림"
+  },
+  {
+    "vietnamese": "chưa",
+    "pronunciation": "쯔아",
+    "korean": "아직"
+  },
+  {
+    "vietnamese": "sáng",
+    "pronunciation": "상",
+    "korean": "아침"
+  },
+  {
+    "vietnamese": "bữa sáng",
+    "pronunciation": "브아 상",
+    "korean": "아침밥"
+  },
+  {
+    "vietnamese": "căn hộ",
+    "pronunciation": "깐 호",
+    "korean": "아파트"
+  },
+  {
+    "vietnamese": "đau",
+    "pronunciation": "다우",
+    "korean": "아프다"
+  },
+  {
+    "vietnamese": "chín",
+    "pronunciation": "찐",
+    "korean": "아홉"
+  },
+  {
+    "vietnamese": "nhạc cụ",
+    "pronunciation": "냑 꾸",
+    "korean": "악기"
+  },
+  {
+    "vietnamese": "cá sấu",
+    "pronunciation": "까 서우",
+    "korean": "악어"
+  },
+  {
+    "vietnamese": "ác",
+    "pronunciation": "악",
+    "korean": "악한"
+  },
+  {
+    "vietnamese": "trong",
+    "pronunciation": "쫑",
+    "korean": "안"
+  },
+  {
+    "vietnamese": "không",
+    "pronunciation": "콩",
+    "korean": "안(부정)"
+  },
+  {
+    "vietnamese": "sương mù",
+    "pronunciation": "스엉 무",
+    "korean": "안개"
+  },
+  {
+    "vietnamese": "kính",
+    "pronunciation": "끤",
+    "korean": "안경"
+  },
+  {
+    "vietnamese": "xin chào",
+    "pronunciation": "신 짜오",
+    "korean": "안녕하세요"
+  },
+  {
+    "vietnamese": "tạm biệt",
+    "pronunciation": "땀 비엣",
+    "korean": "안녕히 가세요"
+  },
+  {
+    "vietnamese": "ôm",
+    "pronunciation": "옴",
+    "korean": "안다"
+  },
+  {
+    "vietnamese": "an toàn",
+    "pronunciation": "안 또안",
+    "korean": "안전"
+  },
+  {
+    "vietnamese": "ngồi",
+    "pronunciation": "응오이",
+    "korean": "앉다"
+  },
+  {
+    "vietnamese": "biết",
+    "pronunciation": "비엣",
+    "korean": "알다"
+  },
+  {
+    "vietnamese": "phía trước",
+    "pronunciation": "피아 쯔억",
+    "korean": "앞"
+  },
+  {
+    "vietnamese": "album",
+    "pronunciation": "안붐",
+    "korean": "앨범"
+  },
+  {
+    "vietnamese": "vẹt",
+    "pronunciation": "벳",
+    "korean": "앵무새"
+  },
+  {
+    "vietnamese": "thuốc",
+    "pronunciation": "투옥",
+    "korean": "약"
+  },
+  {
+    "vietnamese": "hiệu thuốc",
+    "pronunciation": "히에우 투옥",
+    "korean": "약국"
+  },
+  {
+    "vietnamese": "hứa",
+    "pronunciation": "흐아",
+    "korean": "약속"
+  },
+  {
+    "vietnamese": "yếu",
+    "pronunciation": "이에우",
+    "korean": "약한"
+  },
+  {
+    "vietnamese": "cừu",
+    "pronunciation": "끄우",
+    "korean": "양"
+  },
+  {
+    "vietnamese": "vớ",
+    "pronunciation": "버",
+    "korean": "양말"
+  },
+  {
+    "vietnamese": "cái ô",
+    "pronunciation": "까이 오",
+    "korean": "양산"
+  },
+  {
+    "vietnamese": "cả hai",
+    "pronunciation": "까 하이",
+    "korean": "양쪽"
+  },
+  {
+    "vietnamese": "hành tây",
+    "pronunciation": "하잉 떠이",
+    "korean": "양파"
+  },
+  {
+    "vietnamese": "nói chuyện",
+    "pronunciation": "노이 쭈이엔",
+    "korean": "얘기하다"
+  },
+  {
+    "vietnamese": "vai",
+    "pronunciation": "바이",
+    "korean": "어깨"
+  },
+  {
+    "vietnamese": "tối",
+    "pronunciation": "또이",
+    "korean": "어둡다"
+  },
+  {
+    "vietnamese": "đâu",
+    "pronunciation": "더우",
+    "korean": "어디"
+  },
+  {
+    "vietnamese": "thế nào",
+    "pronunciation": "테 나오",
+    "korean": "어떻게"
+  },
+  {
+    "vietnamese": "khó",
+    "pronunciation": "코",
+    "korean": "어려운"
+  },
+  {
+    "vietnamese": "trẻ con",
+    "pronunciation": "째 꼰",
+    "korean": "어린이"
+  },
+  {
+    "vietnamese": "mẹ",
+    "pronunciation": "메",
+    "korean": "어머니"
+  },
+  {
+    "vietnamese": "chị",
+    "pronunciation": "찌",
+    "korean": "언니"
+  },
+  {
+    "vietnamese": "đồi",
+    "pronunciation": "도이",
+    "korean": "언덕"
+  },
+  {
+    "vietnamese": "ngôn ngữ",
+    "pronunciation": "응온 응으",
+    "korean": "언어"
+  },
+  {
+    "vietnamese": "khi nào",
+    "pronunciation": "키 나오",
+    "korean": "언제"
+  },
+  {
+    "vietnamese": "khuôn mặt",
+    "pronunciation": "쿠온 먿",
+    "korean": "얼굴"
+  },
+  {
+    "vietnamese": "mặt",
+    "pronunciation": "먿",
+    "korean": "얼굴(면)"
+  },
+  {
+    "vietnamese": "bao nhiêu",
+    "pronunciation": "바오 니에우",
+    "korean": "얼마"
+  },
+  {
+    "vietnamese": "nước đá",
+    "pronunciation": "느억 다",
+    "korean": "얼음"
+  },
+  {
+    "vietnamese": "nghề nghiệp",
+    "pronunciation": "응에 응이엡",
+    "korean": "업무"
+  },
+  {
+    "vietnamese": "không có",
+    "pronunciation": "콩 꼬",
+    "korean": "없다"
+  },
+  {
+    "vietnamese": "điều hòa",
+    "pronunciation": "디에우 호아",
+    "korean": "에어컨"
+  },
+  {
+    "vietnamese": "thang máy",
+    "pronunciation": "탕 마이",
+    "korean": "엘리베이터"
+  },
+  {
+    "vietnamese": "hộ chiếu",
+    "pronunciation": "호 찌에우",
+    "korean": "여권"
+  },
+  {
+    "vietnamese": "đây",
+    "pronunciation": "더이",
+    "korean": "여기"
+  },
+  {
+    "vietnamese": "tám",
+    "pronunciation": "땀",
+    "korean": "여덟"
+  },
+  {
+    "vietnamese": "nhiều",
+    "pronunciation": "니에우",
+    "korean": "여러"
+  },
+  {
+    "vietnamese": "mùa hè",
+    "pronunciation": "무아 해",
+    "korean": "여름"
+  },
+  {
+    "vietnamese": "nữ hoàng",
+    "pronunciation": "느 호앙",
+    "korean": "여왕"
+  },
+  {
+    "vietnamese": "nữ",
+    "pronunciation": "느",
+    "korean": "여자"
+  },
+  {
+    "vietnamese": "du lịch",
+    "pronunciation": "주 릭",
+    "korean": "여행"
+  },
+  {
+    "vietnamese": "ga",
+    "pronunciation": "가",
+    "korean": "역"
+  },
+  {
+    "vietnamese": "lịch sử",
+    "pronunciation": "릭 스",
+    "korean": "역사"
+  },
+  {
+    "vietnamese": "kịch",
+    "pronunciation": "낏",
+    "korean": "연극"
+  },
+  {
+    "vietnamese": "khói",
+    "pronunciation": "코이",
+    "korean": "연기"
+  },
+  {
+    "vietnamese": "diễn viên",
+    "pronunciation": "지엔 비엔",
+    "korean": "연기자"
+  },
+  {
+    "vietnamese": "liên lạc",
+    "pronunciation": "리엔 락",
+    "korean": "연락"
+  },
+  {
+    "vietnamese": "luyện tập",
+    "pronunciation": "루이엔 떱",
+    "korean": "연습"
+  },
+  {
+    "vietnamese": "tình yêu",
+    "pronunciation": "띤 이에우",
+    "korean": "연인"
+  },
+  {
+    "vietnamese": "bút chì",
+    "pronunciation": "붓 찌",
+    "korean": "연필"
+  },
+  {
+    "vietnamese": "sốt",
+    "pronunciation": "솟",
+    "korean": "열"
+  },
+  {
+    "vietnamese": "mười",
+    "pronunciation": "므어이",
+    "korean": "열(숫자)"
+  },
+  {
+    "vietnamese": "mở",
+    "pronunciation": "머",
+    "korean": "열다"
+  },
+  {
+    "vietnamese": "chìa khóa",
+    "pronunciation": "찌아 코아",
+    "korean": "열쇠"
+  },
+  {
+    "vietnamese": "dê",
+    "pronunciation": "재",
+    "korean": "염소"
+  },
+  {
+    "vietnamese": "bưu thiếp",
+    "pronunciation": "브우 티엡",
+    "korean": "엽서"
+  },
+  {
+    "vietnamese": "không",
+    "pronunciation": "콩",
+    "korean": "영"
+  },
+  {
+    "vietnamese": "Anh",
+    "pronunciation": "아잉",
+    "korean": "영국"
+  },
+  {
+    "vietnamese": "biên nhận",
+    "pronunciation": "비엔 년",
+    "korean": "영수증"
+  },
+  {
+    "vietnamese": "tiếng Anh",
+    "pronunciation": "띠엥 아잉",
+    "korean": "영어"
+  },
+  {
+    "vietnamese": "ảnh hưởng",
+    "pronunciation": "아잉 흐엉",
+    "korean": "영향"
+  },
+  {
+    "vietnamese": "phim",
+    "pronunciation": "핌",
+    "korean": "영화"
+  },
+  {
+    "vietnamese": "bên cạnh",
+    "pronunciation": "벤 까잉",
+    "korean": "옆"
+  },
+  {
+    "vietnamese": "ví dụ",
+    "pronunciation": "비 주",
+    "korean": "예"
+  },
+  {
+    "vietnamese": "nghệ sĩ",
+    "pronunciation": "응에 시",
+    "korean": "예술가"
+  },
+  {
+    "vietnamese": "đặt chỗ",
+    "pronunciation": "닷 쪼",
+    "korean": "예약"
+  },
+  {
+    "vietnamese": "lịch sự",
+    "pronunciation": "릭 스",
+    "korean": "예의"
+  },
+  {
+    "vietnamese": "ngày xưa",
+    "pronunciation": "응아이 쓰아",
+    "korean": "옛"
+  },
+  {
+    "vietnamese": "xưa",
+    "pronunciation": "쓰아",
+    "korean": "옛날"
+  },
+  {
+    "vietnamese": "năm",
+    "pronunciation": "남",
+    "korean": "오(숫자)"
+  },
+  {
+    "vietnamese": "hôm nay",
+    "pronunciation": "홈 나이",
+    "korean": "오늘"
+  },
+  {
+    "vietnamese": "đến",
+    "pronunciation": "덴",
+    "korean": "오다"
+  },
+  {
+    "vietnamese": "lâu",
+    "pronunciation": "러우",
+    "korean": "오래"
+  },
+  {
+    "vietnamese": "cam",
+    "pronunciation": "깜",
+    "korean": "오렌지"
+  },
+  {
+    "vietnamese": "lên",
+    "pronunciation": "렌",
+    "korean": "오르다"
+  },
+  {
+    "vietnamese": "bên phải",
+    "pronunciation": "벤 파이",
+    "korean": "오른쪽"
+  },
+  {
+    "vietnamese": "ô nhiễm",
+    "pronunciation": "오 니엠",
+    "korean": "오염"
+  },
+  {
+    "vietnamese": "buổi sáng",
+    "pronunciation": "부오이 상",
+    "korean": "오전"
+  },
+  {
+    "vietnamese": "hiểu lầm",
+    "pronunciation": "히에우 럼",
+    "korean": "오해"
+  },
+  {
+    "vietnamese": "buổi chiều",
+    "pronunciation": "부오이 찌에우",
+    "korean": "오후"
+  },
+  {
+    "vietnamese": "ngô",
+    "pronunciation": "응오",
+    "korean": "옥수수"
+  },
+  {
+    "vietnamese": "dịch",
+    "pronunciation": "직",
+    "korean": "옮기다"
+  },
+  {
+    "vietnamese": "quần áo",
+    "pronunciation": "꽌 아오",
+    "korean": "옷"
+  },
+  {
+    "vietnamese": "tủ quần áo",
+    "pronunciation": "뚜 꽌 아오",
+    "korean": "옷장"
+  },
+  {
+    "vietnamese": "hoàn toàn",
+    "pronunciation": "호안 또안",
+    "korean": "완전히"
+  },
+  {
+    "vietnamese": "vua",
+    "pronunciation": "부아",
+    "korean": "왕"
+  },
+  {
+    "vietnamese": "tại sao",
+    "pronunciation": "따이 사오",
+    "korean": "왜"
+  },
+  {
+    "vietnamese": "bên trái",
+    "pronunciation": "벤 짜이",
+    "korean": "왼쪽"
+  },
+  {
+    "vietnamese": "món ăn",
+    "pronunciation": "몬 안",
+    "korean": "요리"
+  },
+  {
+    "vietnamese": "nấu ăn",
+    "pronunciation": "너우 안",
+    "korean": "요리하다"
+  },
+  {
+    "vietnamese": "ngày",
+    "pronunciation": "응아이",
+    "korean": "요일"
+  },
+  {
+    "vietnamese": "yêu cầu",
+    "pronunciation": "이에우 꺼우",
+    "korean": "요청"
+  },
+  {
+    "vietnamese": "tắm",
+    "pronunciation": "떰",
+    "korean": "욕실"
+  },
+  {
+    "vietnamese": "mong muốn",
+    "pronunciation": "몽 무온",
+    "korean": "욕심"
+  },
+  {
+    "vietnamese": "dũng cảm",
+    "pronunciation": "중 깜",
+    "korean": "용기"
+  },
+  {
+    "vietnamese": "chúng tôi",
+    "pronunciation": "쭝 또이",
+    "korean": "우리"
+  },
+  {
+    "vietnamese": "ô",
+    "pronunciation": "오",
+    "korean": "우산"
+  },
+  {
+    "vietnamese": "sữa",
+    "pronunciation": "스아",
+    "korean": "우유"
+  },
+  {
+    "vietnamese": "tình bạn",
+    "pronunciation": "띤 반",
+    "korean": "우정"
+  },
+  {
+    "vietnamese": "vũ trụ",
+    "pronunciation": "부 쭈",
+    "korean": "우주"
+  },
+  {
+    "vietnamese": "bưu điện",
+    "pronunciation": "브우 디엔",
+    "korean": "우체국"
+  },
+  {
+    "vietnamese": "vận may",
+    "pronunciation": "번 마이",
+    "korean": "운"
+  },
+  {
+    "vietnamese": "vận động",
+    "pronunciation": "번 동",
+    "korean": "운동"
+  },
+  {
+    "vietnamese": "lái xe",
+    "pronunciation": "라이 세",
+    "korean": "운전"
+  },
+  {
+    "vietnamese": "khóc",
+    "pronunciation": "콕",
+    "korean": "울다"
+  },
+  {
+    "vietnamese": "cười",
+    "pronunciation": "끄어이",
+    "korean": "웃다"
+  },
+  {
+    "vietnamese": "tháng",
+    "pronunciation": "탕",
+    "korean": "월"
+  },
+  {
+    "vietnamese": "tiền lương",
+    "pronunciation": "띠엔 르엉",
+    "korean": "월급"
+  },
+  {
+    "vietnamese": "thứ hai",
+    "pronunciation": "트 하이",
+    "korean": "월요일"
+  },
+  {
+    "vietnamese": "trên",
+    "pronunciation": "쩬",
+    "korean": "위"
+  },
+  {
+    "vietnamese": "dạ dày",
+    "pronunciation": "자 저이",
+    "korean": "위장"
+  },
+  {
+    "vietnamese": "vị trí",
+    "pronunciation": "비 찌",
+    "korean": "위치"
+  },
+  {
+    "vietnamese": "nguy hiểm",
+    "pronunciation": "응우이 히엠",
+    "korean": "위험"
+  },
+  {
+    "vietnamese": "sáu",
+    "pronunciation": "사우",
+    "korean": "육"
+  },
+  {
+    "vietnamese": "bạc",
+    "pronunciation": "박",
+    "korean": "은"
+  },
+  {
+    "vietnamese": "ẩn",
+    "pronunciation": "언",
+    "korean": "은밀한"
+  },
+  {
+    "vietnamese": "ngân hàng",
+    "pronunciation": "응언 항",
+    "korean": "은행"
+  },
+  {
+    "vietnamese": "đồ uống",
+    "pronunciation": "도 우옹",
+    "korean": "음료"
+  },
+  {
+    "vietnamese": "thức ăn",
+    "pronunciation": "특 안",
+    "korean": "음식"
+  },
+  {
+    "vietnamese": "nhạc",
+    "pronunciation": "냑",
+    "korean": "음악"
+  },
+  {
+    "vietnamese": "ý kiến",
+    "pronunciation": "이 끼엔",
+    "korean": "의견"
+  },
+  {
+    "vietnamese": "ý nghĩa",
+    "pronunciation": "이 응이아",
+    "korean": "의미"
+  },
+  {
+    "vietnamese": "quần áo",
+    "pronunciation": "꽌 아오",
+    "korean": "의복"
+  },
+  {
+    "vietnamese": "bác sĩ",
+    "pronunciation": "박 시",
+    "korean": "의사"
+  },
+  {
+    "vietnamese": "ghế",
+    "pronunciation": "게",
+    "korean": "의자"
+  },
+  {
+    "vietnamese": "hai",
+    "pronunciation": "하이",
+    "korean": "이(숫자)"
+  },
+  {
+    "vietnamese": "điều này",
+    "pronunciation": "디에우 나이",
+    "korean": "이것"
+  },
+  {
+    "vietnamese": "chuyển",
+    "pronunciation": "쭈이엔",
+    "korean": "이동하다"
+  },
+  {
+    "vietnamese": "sớm",
+    "pronunciation": "섬",
+    "korean": "이른"
+  },
+  {
+    "vietnamese": "tên",
+    "pronunciation": "뗀",
+    "korean": "이름"
+  },
+  {
+    "vietnamese": "trán",
+    "pronunciation": "짠",
+    "korean": "이마"
+  },
+  {
+    "vietnamese": "đã",
+    "pronunciation": "다",
+    "korean": "이미"
+  },
+  {
+    "vietnamese": "câu chuyện",
+    "pronunciation": "꺼우 쭈이엔",
+    "korean": "이야기"
+  },
+  {
+    "vietnamese": "hàng xóm",
+    "pronunciation": "항 솜",
+    "korean": "이웃"
+  },
+  {
+    "vietnamese": "vì",
+    "pronunciation": "비",
+    "korean": "이유"
+  },
+  {
+    "vietnamese": "lý do",
+    "pronunciation": "리 조",
+    "korean": "이유(사유)"
+  },
+  {
+    "vietnamese": "lợi ích",
+    "pronunciation": "러이 익",
+    "korean": "이익"
+  },
+  {
+    "vietnamese": "hiểu",
+    "pronunciation": "히에우",
+    "korean": "이해하다"
+  },
+  {
+    "vietnamese": "con người",
+    "pronunciation": "꼰 응으어이",
+    "korean": "인간"
+  },
+  {
+    "vietnamese": "nhân khẩu",
+    "pronunciation": "년 커우",
+    "korean": "인구"
+  },
+  {
+    "vietnamese": "nổi tiếng",
+    "pronunciation": "노이 띠엥",
+    "korean": "인기"
+  },
+  {
+    "vietnamese": "ấn tượng",
+    "pronunciation": "언 뜨엉",
+    "korean": "인상"
+  },
+  {
+    "vietnamese": "nhân sinh",
+    "pronunciation": "년 신",
+    "korean": "인생"
+  },
+  {
+    "vietnamese": "internet",
+    "pronunciation": "인터넷",
+    "korean": "인터넷"
+  },
+  {
+    "vietnamese": "con búp bê",
+    "pronunciation": "꼰 붑 배",
+    "korean": "인형"
+  },
+  {
+    "vietnamese": "việc",
+    "pronunciation": "비엑",
+    "korean": "일"
+  },
+  {
+    "vietnamese": "một",
+    "pronunciation": "못",
+    "korean": "일(숫자)"
+  },
+  {
+    "vietnamese": "bảy",
+    "pronunciation": "바이",
+    "korean": "일곱"
+  },
+  {
+    "vietnamese": "nhật ký",
+    "pronunciation": "녓 끼",
+    "korean": "일기"
+  },
+  {
+    "vietnamese": "Nhật Bản",
+    "pronunciation": "녓 반",
+    "korean": "일본"
+  },
+  {
+    "vietnamese": "hàng ngày",
+    "pronunciation": "항 응아이",
+    "korean": "일상"
+  },
+  {
+    "vietnamese": "chủ nhật",
+    "pronunciation": "쭈 녓",
+    "korean": "일요일"
+  },
+  {
+    "vietnamese": "sớm",
+    "pronunciation": "섬",
+    "korean": "일찍"
+  },
+  {
+    "vietnamese": "làm việc",
+    "pronunciation": "람 비엑",
+    "korean": "일하다"
+  },
+  {
+    "vietnamese": "đọc",
+    "pronunciation": "독",
+    "korean": "읽다"
+  },
+  {
+    "vietnamese": "miệng",
+    "pronunciation": "미엥",
+    "korean": "입"
+  },
+  {
+    "vietnamese": "mặc",
+    "pronunciation": "먹",
+    "korean": "입다"
+  },
+  {
+    "vietnamese": "nhập viện",
+    "pronunciation": "녑 비엔",
+    "korean": "입원"
+  },
+  {
+    "vietnamese": "vào cửa",
+    "pronunciation": "바오 꾸아",
+    "korean": "입장"
+  },
+  {
+    "vietnamese": "có",
+    "pronunciation": "꼬",
+    "korean": "있다"
+  },
+  {
+    "vietnamese": "quên",
+    "pronunciation": "꾸엔",
+    "korean": "잊다"
+  },
+  {
+    "vietnamese": "lá",
+    "pronunciation": "라",
+    "korean": "잎"
+  },
+  {
+    "vietnamese": "thước",
+    "pronunciation": "트억",
+    "korean": "자"
+  },
+  {
+    "vietnamese": "mình",
+    "pronunciation": "밍",
+    "korean": "자기"
+  },
+  {
+    "vietnamese": "ngủ",
+    "pronunciation": "응우",
+    "korean": "자다"
+  },
+  {
+    "vietnamese": "tự tin",
+    "pronunciation": "뜨 띤",
+    "korean": "자신감"
+  },
+  {
+    "vietnamese": "tự nhiên",
+    "pronunciation": "뜨 니엔",
+    "korean": "자연"
+  },
+  {
+    "vietnamese": "tự do",
+    "pronunciation": "뜨 조",
+    "korean": "자유"
+  },
+  {
+    "vietnamese": "xe đạp",
+    "pronunciation": "세 답",
+    "korean": "자전거"
+  },
+  {
+    "vietnamese": "thường xuyên",
+    "pronunciation": "트엉 쑤이엔",
+    "korean": "자주"
+  },
+  {
+    "vietnamese": "năm ngoái",
+    "pronunciation": "남 응오아이",
+    "korean": "작년"
+  },
+  {
+    "vietnamese": "nhỏ",
+    "pronunciation": "뇨",
+    "korean": "작은"
+  },
+  {
+    "vietnamese": "tác phẩm",
+    "pronunciation": "딱 펌",
+    "korean": "작품"
+  },
+  {
+    "vietnamese": "cốc",
+    "pronunciation": "꼭",
+    "korean": "잔"
+  },
+  {
+    "vietnamese": "cỏ",
+    "pronunciation": "꼬",
+    "korean": "잔디"
+  },
+  {
+    "vietnamese": "tốt",
+    "pronunciation": "똣",
+    "korean": "잘"
+  },
+  {
+    "vietnamese": "sai lầm",
+    "pronunciation": "사이 럼",
+    "korean": "잘못"
+  },
+  {
+    "vietnamese": "giỏi",
+    "pronunciation": "조이",
+    "korean": "잘하다"
+  },
+  {
+    "vietnamese": "khóa",
+    "pronunciation": "코아",
+    "korean": "잠금"
+  },
+  {
+    "vietnamese": "giây",
+    "pronunciation": "저이",
+    "korean": "잠깐"
+  },
+  {
+    "vietnamese": "bắt",
+    "pronunciation": "밧",
+    "korean": "잡다"
+  },
+  {
+    "vietnamese": "tạp chí",
+    "pronunciation": "땁 찌",
+    "korean": "잡지"
+  },
+  {
+    "vietnamese": "chợ",
+    "pronunciation": "쩌",
+    "korean": "장(시장)"
+  },
+  {
+    "vietnamese": "kho",
+    "pronunciation": "코",
+    "korean": "장(창고)"
+  },
+  {
+    "vietnamese": "tương lai",
+    "pronunciation": "뜨엉 라이",
+    "korean": "장래"
+  },
+  {
+    "vietnamese": "đám tang",
+    "pronunciation": "담 땅",
+    "korean": "장례"
+  },
+  {
+    "vietnamese": "hoa hồng",
+    "pronunciation": "호아 홍",
+    "korean": "장미"
+  },
+  {
+    "vietnamese": "nơi",
+    "pronunciation": "너이",
+    "korean": "장소"
+  },
+  {
+    "vietnamese": "lợi thế",
+    "pronunciation": "러이 테",
+    "korean": "장점"
+  },
+  {
+    "vietnamese": "đó",
+    "pronunciation": "도",
+    "korean": "저것"
+  },
+  {
+    "vietnamese": "kia",
+    "pronunciation": "끼아",
+    "korean": "저기"
+  },
+  {
+    "vietnamese": "tối",
+    "pronunciation": "또이",
+    "korean": "저녁"
+  },
+  {
+    "vietnamese": "tác giả",
+    "pronunciation": "딱 자",
+    "korean": "저자"
+  },
+  {
+    "vietnamese": "tiết kiệm",
+    "pronunciation": "띧 끼엠",
+    "korean": "저축"
+  },
+  {
+    "vietnamese": "chống lại",
+    "pronunciation": "쫑 라이",
+    "korean": "저항"
+  },
+  {
+    "vietnamese": "trước",
+    "pronunciation": "쯔억",
+    "korean": "전"
+  },
+  {
+    "vietnamese": "điện",
+    "pronunciation": "디엔",
+    "korean": "전기"
+  },
+  {
+    "vietnamese": "chiến tranh",
+    "pronunciation": "찌엔 짜잉",
+    "korean": "전쟁"
+  },
+  {
+    "vietnamese": "truyền thống",
+    "pronunciation": "쭈이엔 통",
+    "korean": "전통"
+  },
+  {
+    "vietnamese": "hoàn toàn",
+    "pronunciation": "호안 또안",
+    "korean": "전혀"
+  },
+  {
+    "vietnamese": "điện thoại",
+    "pronunciation": "디엔 토아이",
+    "korean": "전화"
+  },
+  {
+    "vietnamese": "trẻ",
+    "pronunciation": "째",
+    "korean": "젊은"
+  },
+  {
+    "vietnamese": "điểm",
+    "pronunciation": "디엠",
+    "korean": "점"
+  },
+  {
+    "vietnamese": "bữa trưa",
+    "pronunciation": "브아 쯔아",
+    "korean": "점심"
+  },
+  {
+    "vietnamese": "gấp",
+    "pronunciation": "겁",
+    "korean": "접다"
+  },
+  {
+    "vietnamese": "đĩa",
+    "pronunciation": "디아",
+    "korean": "접시"
+  },
+  {
+    "vietnamese": "tiếp xúc",
+    "pronunciation": "띱 숙",
+    "korean": "접촉"
+  },
+  {
+    "vietnamese": "đũa",
+    "pronunciation": "두아",
+    "korean": "젓가락"
+  },
+  {
+    "vietnamese": "tình cảm",
+    "pronunciation": "띤 깜",
+    "korean": "정"
+  },
+  {
+    "vietnamese": "trạm",
+    "pronunciation": "짬",
+    "korean": "정류장"
+  },
+  {
+    "vietnamese": "thông tin",
+    "pronunciation": "통 띤",
+    "korean": "정보"
+  },
+  {
+    "vietnamese": "chính phủ",
+    "pronunciation": "찐 푸",
+    "korean": "정부"
+  },
+  {
+    "vietnamese": "bình thường",
+    "pronunciation": "빈 트엉",
+    "korean": "정상"
+  },
+  {
+    "vietnamese": "vườn",
+    "pronunciation": "브언",
+    "korean": "정원"
+  },
+  {
+    "vietnamese": "chính trị",
+    "pronunciation": "찐 찌",
+    "korean": "정치"
+  },
+  {
+    "vietnamese": "chính xác",
+    "pronunciation": "찐 삭",
+    "korean": "정확한"
+  },
+  {
+    "vietnamese": "thứ tự",
+    "pronunciation": "트 뜨",
+    "korean": "제도"
+  },
+  {
+    "vietnamese": "đúng giờ",
+    "pronunciation": "둥 저",
+    "korean": "제시간"
+  },
+  {
+    "vietnamese": "đề nghị",
+    "pronunciation": "데 응이",
+    "korean": "제안"
+  },
+  {
+    "vietnamese": "sản phẩm",
+    "pronunciation": "산 펌",
+    "korean": "제품"
+  },
+  {
+    "vietnamese": "hạn chế",
+    "pronunciation": "한 체",
+    "korean": "제한"
+  },
+  {
+    "vietnamese": "nhóm",
+    "pronunciation": "놈",
+    "korean": "조"
+  },
+  {
+    "vietnamese": "điều kiện",
+    "pronunciation": "디에우 끼엔",
+    "korean": "조건"
+  },
+  {
+    "vietnamese": "tổ tiên",
+    "pronunciation": "또 띠엔",
+    "korean": "조상"
+  },
+  {
+    "vietnamese": "cẩn thận",
+    "pronunciation": "건 턴",
+    "korean": "조심"
+  },
+  {
+    "vietnamese": "yên tĩnh",
+    "pronunciation": "이엔 띤",
+    "korean": "조용한"
+  },
+  {
+    "vietnamese": "tôn trọng",
+    "pronunciation": "똔 쫑",
+    "korean": "존경"
+  },
+  {
+    "vietnamese": "tốt nghiệp",
+    "pronunciation": "똣 응이엡",
+    "korean": "졸업"
+  },
+  {
+    "vietnamese": "chuông",
+    "pronunciation": "쭈옹",
+    "korean": "종"
+  },
+  {
+    "vietnamese": "tôn giáo",
+    "pronunciation": "똔 자오",
+    "korean": "종교"
+  },
+  {
+    "vietnamese": "loại",
+    "pronunciation": "로아이",
+    "korean": "종류"
+  },
+  {
+    "vietnamese": "thích",
+    "pronunciation": "틱",
+    "korean": "좋아하다"
+  },
+  {
+    "vietnamese": "tốt",
+    "pronunciation": "똣",
+    "korean": "좋은"
+  },
+  {
+    "vietnamese": "bên trái",
+    "pronunciation": "벤 짜이",
+    "korean": "좌측"
+  },
+  {
+    "vietnamese": "tuần",
+    "pronunciation": "뚜언",
+    "korean": "주"
+  },
+  {
+    "vietnamese": "cho",
+    "pronunciation": "쪼",
+    "korean": "주다"
+  },
+  {
+    "vietnamese": "cuối tuần",
+    "pronunciation": "꾸오이 뚜언",
+    "korean": "주말"
+  },
+  {
+    "vietnamese": "xung quanh",
+    "pronunciation": "숭 꽈잉",
+    "korean": "주변"
+  },
+  {
+    "vietnamese": "địa chỉ",
+    "pronunciation": "디아 찌",
+    "korean": "주소"
+  },
+  {
+    "vietnamese": "nước trái cây",
+    "pronunciation": "느억 짜이 꺼이",
+    "korean": "주스"
+  },
+  {
+    "vietnamese": "chú ý",
+    "pronunciation": "쭈 이",
+    "korean": "주의"
+  },
+  {
+    "vietnamese": "chủ nhân",
+    "pronunciation": "쭈 년",
+    "korean": "주인"
+  },
+  {
+    "vietnamese": "bãi đỗ xe",
+    "pronunciation": "바이 도 세",
+    "korean": "주차장"
+  },
+  {
+    "vietnamese": "cháo",
+    "pronunciation": "짜오",
+    "korean": "죽"
+  },
+  {
+    "vietnamese": "chết",
+    "pronunciation": "쳇",
+    "korean": "죽다"
+  },
+  {
+    "vietnamese": "chuẩn bị",
+    "pronunciation": "쭈언 비",
+    "korean": "준비"
+  },
+  {
+    "vietnamese": "giảm",
+    "pronunciation": "잠",
+    "korean": "줄이다"
+  },
+  {
+    "vietnamese": "nhặt",
+    "pronunciation": "녓",
+    "korean": "줍다"
+  },
+  {
+    "vietnamese": "giữa",
+    "pronunciation": "즈어",
+    "korean": "중간"
+  },
+  {
+    "vietnamese": "Trung Quốc",
+    "pronunciation": "쭝 꾸옥",
+    "korean": "중국"
+  },
+  {
+    "vietnamese": "trung tâm",
+    "pronunciation": "쭝 떰",
+    "korean": "중심"
+  },
+  {
+    "vietnamese": "quan trọng",
+    "pronunciation": "꽌 쫑",
+    "korean": "중요한"
+  },
+  {
+    "vietnamese": "chuột",
+    "pronunciation": "쭈옷",
+    "korean": "쥐"
+  },
+  {
+    "vietnamese": "vui vẻ",
+    "pronunciation": "부이 배",
+    "korean": "즐거운"
+  },
+  {
+    "vietnamese": "tăng",
+    "pronunciation": "땅",
+    "korean": "증가"
+  },
+  {
+    "vietnamese": "bằng chứng",
+    "pronunciation": "방 쯩",
+    "korean": "증거"
+  },
+  {
+    "vietnamese": "triệu chứng",
+    "pronunciation": "찌에우 쯩",
+    "korean": "증상"
+  },
+  {
+    "vietnamese": "chỉ",
+    "pronunciation": "찌",
+    "korean": "지(가리키다)"
+  },
+  {
+    "vietnamese": "ví",
+    "pronunciation": "비",
+    "korean": "지갑"
+  },
+  {
+    "vietnamese": "giấy",
+    "pronunciation": "저이",
+    "korean": "지갑(종이)"
+  },
+  {
+    "vietnamese": "trái đất",
+    "pronunciation": "짜이 덧",
+    "korean": "지구"
+  },
+  {
+    "vietnamese": "bây giờ",
+    "pronunciation": "버이 저",
+    "korean": "지금"
+  },
+  {
+    "vietnamese": "quá khứ",
+    "pronunciation": "꽈 크",
+    "korean": "지나다"
+  },
+  {
+    "vietnamese": "bản đồ",
+    "pronunciation": "반 도",
+    "korean": "지도"
+  },
+  {
+    "vietnamese": "mái",
+    "pronunciation": "마이",
+    "korean": "지붕"
+  },
+  {
+    "vietnamese": "trí thức",
+    "pronunciation": "찌 특",
+    "korean": "지식"
+  },
+  {
+    "vietnamese": "khu vực",
+    "pronunciation": "쿠 븍",
+    "korean": "지역"
+  },
+  {
+    "vietnamese": "mệt",
+    "pronunciation": "멧",
+    "korean": "지친"
+  },
+  {
+    "vietnamese": "giữ",
+    "pronunciation": "즈",
+    "korean": "지키다"
+  },
+  {
+    "vietnamese": "tàu điện ngầm",
+    "pronunciation": "따우 디엔 응엄",
+    "korean": "지하철"
+  },
+  {
+    "vietnamese": "thật",
+    "pronunciation": "텃",
+    "korean": "진짜"
+  },
+  {
+    "vietnamese": "chất lượng",
+    "pronunciation": "젗 르엉",
+    "korean": "질"
+  },
+  {
+    "vietnamese": "câu hỏi",
+    "pronunciation": "꺼우 호이",
+    "korean": "질문"
+  },
+  {
+    "vietnamese": "bệnh",
+    "pronunciation": "베잉",
+    "korean": "질병"
+  },
+  {
+    "vietnamese": "ghen",
+    "pronunciation": "겐",
+    "korean": "질투"
+  },
+  {
+    "vietnamese": "hành lý",
+    "pronunciation": "하잉 리",
+    "korean": "짐"
+  },
+  {
+    "vietnamese": "nhà",
+    "pronunciation": "냐",
+    "korean": "집"
+  },
+  {
+    "vietnamese": "tập trung",
+    "pronunciation": "떱 쭝",
+    "korean": "집중"
+  },
+  {
+    "vietnamese": "mặn",
+    "pronunciation": "먼",
+    "korean": "짠"
+  },
+  {
+    "vietnamese": "ngắn",
+    "pronunciation": "응언",
+    "korean": "짧은"
+  },
+  {
+    "vietnamese": "bên",
+    "pronunciation": "벤",
+    "korean": "쪽"
+  },
+  {
+    "vietnamese": "xe hơi",
+    "pronunciation": "세 허이",
+    "korean": "차"
+  },
+  {
+    "vietnamese": "đầy",
+    "pronunciation": "더이",
+    "korean": "차 있는"
+  },
+  {
+    "vietnamese": "trà",
+    "pronunciation": "짜",
+    "korean": "차(음료)"
+  },
+  {
+    "vietnamese": "lạnh",
+    "pronunciation": "라잉",
+    "korean": "차가운"
+  },
+  {
+    "vietnamese": "khác biệt",
+    "pronunciation": "칵 비엣",
+    "korean": "차이"
+  },
+  {
+    "vietnamese": "tìm",
+    "pronunciation": "띰",
+    "korean": "찾다"
+  },
+  {
+    "vietnamese": "rau",
+    "pronunciation": "자우",
+    "korean": "채소"
+  },
+  {
+    "vietnamese": "sách",
+    "pronunciation": "사익",
+    "korean": "책"
+  },
+  {
+    "vietnamese": "bàn",
+    "pronunciation": "반",
+    "korean": "책상"
+  },
+  {
+    "vietnamese": "trách nhiệm",
+    "pronunciation": "짝 니엠",
+    "korean": "책임"
+  },
+  {
+    "vietnamese": "kệ sách",
+    "pronunciation": "게 사익",
+    "korean": "책장"
+  },
+  {
+    "vietnamese": "đầu tiên",
+    "pronunciation": "더우 띠엔",
+    "korean": "처음"
+  },
+  {
+    "vietnamese": "lần đầu",
+    "pronunciation": "런 더우",
+    "korean": "처음(첫)"
+  },
+  {
+    "vietnamese": "hàng ngàn",
+    "pronunciation": "항 응안",
+    "korean": "천"
+  },
+  {
+    "vietnamese": "trần nhà",
+    "pronunciation": "쩬 냐",
+    "korean": "천장"
+  },
+  {
+    "vietnamese": "từ từ",
+    "pronunciation": "뜨 뜨",
+    "korean": "천천히"
+  },
+  {
+    "vietnamese": "sắt",
+    "pronunciation": "삿",
+    "korean": "철"
+  },
+  {
+    "vietnamese": "quần jean",
+    "pronunciation": "꽌 진",
+    "korean": "청바지"
+  },
+  {
+    "vietnamese": "vệ sinh",
+    "pronunciation": "베 신",
+    "korean": "청소"
+  },
+  {
+    "vietnamese": "tuổi trẻ",
+    "pronunciation": "뚜오이 째",
+    "korean": "청소년"
+  },
+  {
+    "vietnamese": "nến",
+    "pronunciation": "넨",
+    "korean": "초"
+  },
+  {
+    "vietnamese": "mời",
+    "pronunciation": "머이",
+    "korean": "초대"
+  },
+  {
+    "vietnamese": "xanh lá cây",
+    "pronunciation": "사잉 라 꺼이",
+    "korean": "초록색"
+  },
+  {
+    "vietnamese": "sô cô la",
+    "pronunciation": "소 꼬 라",
+    "korean": "초콜릿"
+  },
+  {
+    "vietnamese": "tổng",
+    "pronunciation": "똥",
+    "korean": "총"
+  },
+  {
+    "vietnamese": "lạnh",
+    "pronunciation": "라잉",
+    "korean": "추운"
+  },
+  {
+    "vietnamese": "bóng đá",
+    "pronunciation": "봉 다",
+    "korean": "축구"
+  },
+  {
+    "vietnamese": "lễ hội",
+    "pronunciation": "래 호이",
+    "korean": "축제"
+  },
+  {
+    "vietnamese": "chúc mừng",
+    "pronunciation": "쭉 므응",
+    "korean": "축하"
+  },
+  {
+    "vietnamese": "xuất phát",
+    "pronunciation": "쑤엇 팟",
+    "korean": "출발"
+  },
+  {
+    "vietnamese": "nhảy",
+    "pronunciation": "냐이",
+    "korean": "춤"
+  },
+  {
+    "vietnamese": "đủ",
+    "pronunciation": "두",
+    "korean": "충분한"
+  },
+  {
+    "vietnamese": "trung thành",
+    "pronunciation": "쭝 타잉",
+    "korean": "충성"
+  },
+  {
+    "vietnamese": "sở thích",
+    "pronunciation": "서 틱",
+    "korean": "취미"
+  },
+  {
+    "vietnamese": "tầng",
+    "pronunciation": "떵",
+    "korean": "층"
+  },
+  {
+    "vietnamese": "bạn",
+    "pronunciation": "반",
+    "korean": "친구"
+  },
+  {
+    "vietnamese": "thân thiện",
+    "pronunciation": "턴 티엔",
+    "korean": "친절한"
+  },
+  {
+    "vietnamese": "họ hàng",
+    "pronunciation": "호 항",
+    "korean": "친척"
+  },
+  {
+    "vietnamese": "bảy",
+    "pronunciation": "바이",
+    "korean": "칠"
+  },
+  {
+    "vietnamese": "bảng",
+    "pronunciation": "방",
+    "korean": "칠판"
+  },
+  {
+    "vietnamese": "giường",
+    "pronunciation": "즈엉",
+    "korean": "침대"
+  },
+  {
+    "vietnamese": "phòng ngủ",
+    "pronunciation": "퐁 응우",
+    "korean": "침실"
+  },
+  {
+    "vietnamese": "bàn chải đánh răng",
+    "pronunciation": "반 짜이 다잉 장",
+    "korean": "칫솔"
+  },
+  {
+    "vietnamese": "khen",
+    "pronunciation": "켄",
+    "korean": "칭찬"
+  },
+  {
+    "vietnamese": "thẻ",
+    "pronunciation": "테",
+    "korean": "카드"
+  },
+  {
+    "vietnamese": "máy ảnh",
+    "pronunciation": "마이 아잉",
+    "korean": "카메라"
+  },
+  {
+    "vietnamese": "dao",
+    "pronunciation": "자오",
+    "korean": "칼"
+  },
+  {
+    "vietnamese": "rèm",
+    "pronunciation": "젬",
+    "korean": "커튼"
+  },
+  {
+    "vietnamese": "cặp đôi",
+    "pronunciation": "껍 도이",
+    "korean": "커플"
+  },
+  {
+    "vietnamese": "cà phê",
+    "pronunciation": "까 페",
+    "korean": "커피"
+  },
+  {
+    "vietnamese": "máy tính",
+    "pronunciation": "마이 띤",
+    "korean": "컴퓨터"
+  },
+  {
+    "vietnamese": "mũi",
+    "pronunciation": "무이",
+    "korean": "코"
+  },
+  {
+    "vietnamese": "cái",
+    "pronunciation": "까이",
+    "korean": "코(크기)"
+  },
+  {
+    "vietnamese": "ngáy",
+    "pronunciation": "응아이",
+    "korean": "코골다"
+  },
+  {
+    "vietnamese": "con voi",
+    "pronunciation": "꼰 보이",
+    "korean": "코끼리"
+  },
+  {
+    "vietnamese": "áo khoác",
+    "pronunciation": "아오 코악",
+    "korean": "코트"
+  },
+  {
+    "vietnamese": "đậu",
+    "pronunciation": "더우",
+    "korean": "콩"
+  },
+  {
+    "vietnamese": "to",
+    "pronunciation": "또",
+    "korean": "큰"
+  },
+  {
+    "vietnamese": "chiều cao",
+    "pronunciation": "찌에우 까오",
+    "korean": "키"
+  },
+  {
+    "vietnamese": "bàn phím",
+    "pronunciation": "반 핌",
+    "korean": "키보드"
+  },
+  {
+    "vietnamese": "tai nghe",
+    "pronunciation": "따이 응에",
+    "korean": "탈(귀)"
+  },
+  {
+    "vietnamese": "tham lam",
+    "pronunciation": "탐 람",
+    "korean": "탐욕"
+  },
+  {
+    "vietnamese": "thám hiểm",
+    "pronunciation": "탐 히엠",
+    "korean": "탐험"
+  },
+  {
+    "vietnamese": "tháp",
+    "pronunciation": "탑",
+    "korean": "탑"
+  },
+  {
+    "vietnamese": "thái độ",
+    "pronunciation": "타이 도",
+    "korean": "태도"
+  },
+  {
+    "vietnamese": "mặt trời",
+    "pronunciation": "먿 쩌이",
+    "korean": "태양"
+  },
+  {
+    "vietnamese": "sinh ra",
+    "pronunciation": "신 자",
+    "korean": "태어나다"
+  },
+  {
+    "vietnamese": "bão",
+    "pronunciation": "바오",
+    "korean": "태풍"
+  },
+  {
+    "vietnamese": "xe tắc xi",
+    "pronunciation": "세 떡 씨",
+    "korean": "택시"
+  },
+  {
+    "vietnamese": "ti vi",
+    "pronunciation": "띠 비",
+    "korean": "텔레비전"
+  },
+  {
+    "vietnamese": "thỏ",
+    "pronunciation": "토",
+    "korean": "토끼"
+  },
+  {
+    "vietnamese": "cà chua",
+    "pronunciation": "까 쭈아",
+    "korean": "토마토"
+  },
+  {
+    "vietnamese": "đất",
+    "pronunciation": "덧",
+    "korean": "토양"
+  },
+  {
+    "vietnamese": "thứ bảy",
+    "pronunciation": "트 바이",
+    "korean": "토요일"
+  },
+  {
+    "vietnamese": "đặc biệt",
+    "pronunciation": "닥 비엣",
+    "korean": "특별한"
+  },
+  {
+    "vietnamese": "đặc biệt",
+    "pronunciation": "닥 비엣",
+    "korean": "특히"
+  },
+  {
+    "vietnamese": "mạnh",
+    "pronunciation": "마잉",
+    "korean": "튼튼한"
+  },
+  {
+    "vietnamese": "sai",
+    "pronunciation": "사이",
+    "korean": "틀린"
+  },
+  {
+    "vietnamese": "nhóm",
+    "pronunciation": "놈",
+    "korean": "팀"
+  },
+  {
+    "vietnamese": "sóng",
+    "pronunciation": "송",
+    "korean": "파도"
+  },
+  {
+    "vietnamese": "xanh da trời",
+    "pronunciation": "사잉 자 쩌이",
+    "korean": "파란색"
+  },
+  {
+    "vietnamese": "cánh tay",
+    "pronunciation": "까잉 따이",
+    "korean": "팔"
+  },
+  {
+    "vietnamese": "bát",
+    "pronunciation": "밧",
+    "korean": "팔(그릇)"
+  },
+  {
+    "vietnamese": "tám",
+    "pronunciation": "땀",
+    "korean": "팔(숫자)"
+  },
+  {
+    "vietnamese": "bán",
+    "pronunciation": "반",
+    "korean": "팔다"
+  },
+  {
+    "vietnamese": "phổ biến",
+    "pronunciation": "포 비엔",
+    "korean": "퍼지다"
+  },
+  {
+    "vietnamese": "bút",
+    "pronunciation": "붓",
+    "korean": "펜"
+  },
+  {
+    "vietnamese": "mở",
+    "pronunciation": "머",
+    "korean": "펴다"
+  },
+  {
+    "vietnamese": "thoải mái",
+    "pronunciation": "토아이 마이",
+    "korean": "편안한"
+  },
+  {
+    "vietnamese": "cửa hàng tiện lợi",
+    "pronunciation": "꾸아 항 띠엔 러이",
+    "korean": "편의점"
+  },
+  {
+    "vietnamese": "thư",
+    "pronunciation": "트",
+    "korean": "편지"
+  },
+  {
+    "vietnamese": "bình quân",
+    "pronunciation": "빈 꽌",
+    "korean": "평균"
+  },
+  {
+    "vietnamese": "bình thường",
+    "pronunciation": "빈 트엉",
+    "korean": "평범한"
+  },
+  {
+    "vietnamese": "hòa bình",
+    "pronunciation": "호아 빈",
+    "korean": "평화"
+  },
+  {
+    "vietnamese": "nho",
+    "pronunciation": "뇨",
+    "korean": "포도"
+  },
+  {
+    "vietnamese": "rượu vang",
+    "pronunciation": "즈어우 방",
+    "korean": "포도주"
+  },
+  {
+    "vietnamese": "gói",
+    "pronunciation": "고이",
+    "korean": "포장"
+  },
+  {
+    "vietnamese": "bạo lực",
+    "pronunciation": "바오 륵",
+    "korean": "폭력"
+  },
+  {
+    "vietnamese": "vé",
+    "pronunciation": "베",
+    "korean": "표"
+  },
+  {
+    "vietnamese": "bề mặt",
+    "pronunciation": "배 먿",
+    "korean": "표면"
+  },
+  {
+    "vietnamese": "dấu hiệu",
+    "pronunciation": "저우 히에우",
+    "korean": "표시"
+  },
+  {
+    "vietnamese": "biểu hiện",
+    "pronunciation": "비에우 히엔",
+    "korean": "표현"
+  },
+  {
+    "vietnamese": "cỏ",
+    "pronunciation": "꼬",
+    "korean": "풀"
+  },
+  {
+    "vietnamese": "phẩm chất",
+    "pronunciation": "펌 젗",
+    "korean": "품질"
+  },
+  {
+    "vietnamese": "Pháp",
+    "pronunciation": "팝",
+    "korean": "프랑스"
+  },
+  {
+    "vietnamese": "chương trình",
+    "pronunciation": "쯔엉 찐",
+    "korean": "프로그램"
+  },
+  {
+    "vietnamese": "máu",
+    "pronunciation": "마우",
+    "korean": "피"
+  },
+  {
+    "vietnamese": "mệt mỏi",
+    "pronunciation": "멧 모이",
+    "korean": "피곤한"
+  },
+  {
+    "vietnamese": "da",
+    "pronunciation": "자",
+    "korean": "피부"
+  },
+  {
+    "vietnamese": "piano",
+    "pronunciation": "피아노",
+    "korean": "피아노"
+  },
+  {
+    "vietnamese": "tránh",
+    "pronunciation": "짜잉",
+    "korean": "피하다"
+  },
+  {
+    "vietnamese": "cần thiết",
+    "pronunciation": "건 티엣",
+    "korean": "필요한"
+  },
+  {
+    "vietnamese": "phía dưới",
+    "pronunciation": "피아 즈어이",
+    "korean": "하(아래)"
+  },
+  {
+    "vietnamese": "một",
+    "pronunciation": "못",
+    "korean": "하나"
+  },
+  {
+    "vietnamese": "Hà Nội",
+    "pronunciation": "하 노이",
+    "korean": "하노이"
+  },
+  {
+    "vietnamese": "trời",
+    "pronunciation": "쩌이",
+    "korean": "하늘"
+  },
+  {
+    "vietnamese": "làm",
+    "pronunciation": "람",
+    "korean": "하다"
+  },
+  {
+    "vietnamese": "nhưng",
+    "pronunciation": "능",
+    "korean": "하지만"
+  },
+  {
+    "vietnamese": "trường học",
+    "pronunciation": "쯔엉 혹",
+    "korean": "학교"
+  },
+  {
+    "vietnamese": "sinh viên",
+    "pronunciation": "신 비엔",
+    "korean": "학생"
+  },
+  {
+    "vietnamese": "học sinh",
+    "pronunciation": "혹 신",
+    "korean": "학생(초중고)"
+  },
+  {
+    "vietnamese": "Hàn Quốc",
+    "pronunciation": "한 꾸옥",
+    "korean": "한국"
+  },
+  {
+    "vietnamese": "tiếng Hàn",
+    "pronunciation": "띠엥 한",
+    "korean": "한국어"
+  },
+  {
+    "vietnamese": "bà",
+    "pronunciation": "바",
+    "korean": "할머니"
+  },
+  {
+    "vietnamese": "ông",
+    "pronunciation": "옹",
+    "korean": "할아버지"
+  },
+  {
+    "vietnamese": "mặt trời",
+    "pronunciation": "먿 쩌이",
+    "korean": "해"
+  },
+  {
+    "vietnamese": "giải quyết",
+    "pronunciation": "자이 꾸이엣",
+    "korean": "해결"
+  },
+  {
+    "vietnamese": "biển",
+    "pronunciation": "비엔",
+    "korean": "해변"
+  },
+  {
+    "vietnamese": "hải sản",
+    "pronunciation": "하이 산",
+    "korean": "해산물"
+  },
+  {
+    "vietnamese": "ngoại quốc",
+    "pronunciation": "응오아이 꾸옥",
+    "korean": "해외"
+  },
+  {
+    "vietnamese": "hành vi",
+    "pronunciation": "하잉 비",
+    "korean": "행동"
+  },
+  {
+    "vietnamese": "hạnh phúc",
+    "pronunciation": "하잉 푹",
+    "korean": "행복"
+  },
+  {
+    "vietnamese": "sự kiện",
+    "pronunciation": "스 끼엔",
+    "korean": "행사"
+  },
+  {
+    "vietnamese": "hướng",
+    "pronunciation": "흐엉",
+    "korean": "향(방향)"
+  },
+  {
+    "vietnamese": "nước hoa",
+    "pronunciation": "느억 호아",
+    "korean": "향수"
+  },
+  {
+    "vietnamese": "cho phép",
+    "pronunciation": "쪼 펩",
+    "korean": "허락"
+  },
+  {
+    "vietnamese": "lưỡi",
+    "pronunciation": "르어이",
+    "korean": "혀"
+  },
+  {
+    "vietnamese": "tiền mặt",
+    "pronunciation": "띠엔 먿",
+    "korean": "현금"
+  },
+  {
+    "vietnamese": "thực tế",
+    "pronunciation": "특 떼",
+    "korean": "현실"
+  },
+  {
+    "vietnamese": "hiện tại",
+    "pronunciation": "히엔 따이",
+    "korean": "현재"
+  },
+  {
+    "vietnamese": "hợp tác",
+    "pronunciation": "헙 딱",
+    "korean": "협력"
+  },
+  {
+    "vietnamese": "anh",
+    "pronunciation": "아잉",
+    "korean": "형"
+  },
+  {
+    "vietnamese": "hình thức",
+    "pronunciation": "힌 특",
+    "korean": "형태"
+  },
+  {
+    "vietnamese": "tò mò",
+    "pronunciation": "또 모",
+    "korean": "호기심"
+  },
+  {
+    "vietnamese": "hổ",
+    "pronunciation": "호",
+    "korean": "호랑이"
+  },
+  {
+    "vietnamese": "hồ",
+    "pronunciation": "호",
+    "korean": "호수"
+  },
+  {
+    "vietnamese": "khách sạn",
+    "pronunciation": "카익 산",
+    "korean": "호텔"
+  },
+  {
+    "vietnamese": "lẫn lộn",
+    "pronunciation": "런 론",
+    "korean": "혼란"
+  },
+  {
+    "vietnamese": "một mình",
+    "pronunciation": "못 밍",
+    "korean": "혼자"
+  },
+  {
+    "vietnamese": "trà hồng",
+    "pronunciation": "짜 홍",
+    "korean": "홍차"
+  },
+  {
+    "vietnamese": "tức giận",
+    "pronunciation": "뚝 전",
+    "korean": "화나다"
+  },
+  {
+    "vietnamese": "nhà vệ sinh",
+    "pronunciation": "냐 베 신",
+    "korean": "화장실"
+  },
+  {
+    "vietnamese": "mỹ phẩm",
+    "pronunciation": "미 펌",
+    "korean": "화장품"
+  },
+  {
+    "vietnamese": "hóa học",
+    "pronunciation": "화 혹",
+    "korean": "화학"
+  },
+  {
+    "vietnamese": "chắc chắn",
+    "pronunciation": "짝 짠",
+    "korean": "확실한"
+  },
+  {
+    "vietnamese": "kiểm tra",
+    "pronunciation": "끼엠 짜",
+    "korean": "확인"
+  },
+  {
+    "vietnamese": "môi trường",
+    "pronunciation": "모이 쯔엉",
+    "korean": "환경"
+  },
+  {
+    "vietnamese": "vui mừng",
+    "pronunciation": "부이 므응",
+    "korean": "환영"
+  },
+  {
+    "vietnamese": "bệnh nhân",
+    "pronunciation": "베잉 년",
+    "korean": "환자"
+  },
+  {
+    "vietnamese": "đổi tiền",
+    "pronunciation": "도이 띠엔",
+    "korean": "환전"
+  },
+  {
+    "vietnamese": "hoạt động",
+    "pronunciation": "화뜨 동",
+    "korean": "활동"
+  },
+  {
+    "vietnamese": "hoàng đế",
+    "pronunciation": "호앙 데",
+    "korean": "황제"
+  },
+  {
+    "vietnamese": "công ty",
+    "pronunciation": "꽁 띠",
+    "korean": "회사"
+  },
+  {
+    "vietnamese": "cuộc họp",
+    "pronunciation": "꾸옥 홉",
+    "korean": "회의"
+  },
+  {
+    "vietnamese": "hội thoại",
+    "pronunciation": "호이 토아이",
+    "korean": "회화"
+  },
+  {
+    "vietnamese": "ngang",
+    "pronunciation": "응앙",
+    "korean": "횡"
+  },
+  {
+    "vietnamese": "hiệu quả",
+    "pronunciation": "히에우 꽈",
+    "korean": "효과"
+  },
+  {
+    "vietnamese": "điện thoại di động",
+    "pronunciation": "디엔 토아이 지 동",
+    "korean": "휴대폰"
+  }
 ]
