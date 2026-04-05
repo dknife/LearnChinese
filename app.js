@@ -1963,21 +1963,21 @@ async function renderVocab() {
   // Sort by Korean (가나다순)
   allVocab.sort((a, b) => a.korean.localeCompare(b.korean, 'ko'));
 
-  let cardsHTML = '';
-  allVocab.forEach((v, idx) => {
-    cardsHTML += `
-      <div class="vocab-card" data-idx="${idx}">
-        <div class="vocab-card-inner">
-          <div class="vocab-card-front">
-            <span class="vocab-korean">${v.korean}</span>
-          </div>
-          <div class="vocab-card-back" data-foreign="${v.foreign.replace(/"/g, '&quot;')}">
-            <span class="vocab-foreign">${v.foreign}</span>
-          </div>
+  const BATCH = 100;
+  let rendered = 0;
+
+  function makeCardHTML(v, idx) {
+    return `<div class="vocab-card" data-idx="${idx}">
+      <div class="vocab-card-inner">
+        <div class="vocab-card-front">
+          <span class="vocab-korean">${v.korean}</span>
+        </div>
+        <div class="vocab-card-back" data-foreign="${v.foreign.replace(/"/g, '&quot;')}">
+          <span class="vocab-foreign">${v.foreign}</span>
         </div>
       </div>
-    `;
-  });
+    </div>`;
+  }
 
   app.innerHTML = `
     <div class="vocab-page">
@@ -1995,11 +1995,54 @@ async function renderVocab() {
         </div>
         <p class="vocab-count">총 ${allVocab.length}개</p>
       </div>
-      <div class="vocab-grid">
-        ${cardsHTML}
-      </div>
+      <div class="vocab-grid"></div>
     </div>
   `;
+
+  const grid = app.querySelector('.vocab-grid');
+
+  function bindCard(card) {
+    card.addEventListener('click', () => {
+      const wasFlipped = card.classList.contains('flipped');
+      card.classList.toggle('flipped');
+      if (!wasFlipped && _autoTTS) {
+        const backEl = card.querySelector('.vocab-card-back');
+        const text = backEl ? backEl.getAttribute('data-foreign') : '';
+        if (text) speakForeign(text);
+      }
+    });
+  }
+
+  function renderBatch() {
+    const end = Math.min(rendered + BATCH, allVocab.length);
+    const frag = document.createDocumentFragment();
+    for (let i = rendered; i < end; i++) {
+      const tmp = document.createElement('div');
+      tmp.innerHTML = makeCardHTML(allVocab[i], i);
+      const card = tmp.firstElementChild;
+      bindCard(card);
+      frag.appendChild(card);
+    }
+    grid.appendChild(frag);
+    rendered = end;
+  }
+
+  // Initial batch
+  renderBatch();
+
+  // Load more on scroll
+  const observer = new IntersectionObserver((entries) => {
+    if (entries[0].isIntersecting && rendered < allVocab.length) {
+      renderBatch();
+      if (rendered >= allVocab.length) observer.disconnect();
+    }
+  }, { rootMargin: '200px' });
+
+  // Sentinel element
+  const sentinel = document.createElement('div');
+  sentinel.className = 'vocab-sentinel';
+  grid.after(sentinel);
+  observer.observe(sentinel);
 
   // AutoTTS toggle
   const vocabTTSSwitch = document.getElementById('vocabAutoTTS');
@@ -2010,20 +2053,6 @@ async function renderVocab() {
       if (label) label.textContent = '자동음성 ' + (_autoTTS ? 'ON' : 'OFF');
     });
   }
-
-  // Card flip on click + autoTTS
-  app.querySelectorAll('.vocab-card').forEach(card => {
-    card.addEventListener('click', (e) => {
-      const wasFlipped = card.classList.contains('flipped');
-      card.classList.toggle('flipped');
-      // Play TTS when flipping to back side
-      if (!wasFlipped && _autoTTS) {
-        const backEl = card.querySelector('.vocab-card-back');
-        const text = backEl ? backEl.getAttribute('data-foreign') : '';
-        if (text) speakForeign(text);
-      }
-    });
-  });
 }
 
 // ------------------------------------------------------------
