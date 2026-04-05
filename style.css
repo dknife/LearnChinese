@@ -1627,58 +1627,97 @@ html { scrollbar-width: thin; scrollbar-color: rgba(34,34,34,0.15) transparent; 
   font-size: 1rem;
   font-weight: 700;
   color: var(--text-primary);
-  margin: 0 0 0.5rem;
+  margin: 0 0 0.4rem;
   text-align: center;
 }
 .trophy-stats {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   gap: 0.4rem;
-  font-size: 0.78rem;
+  font-size: 0.75rem;
   color: var(--text-secondary, #888);
   margin-bottom: 0.75rem;
 }
 .trophy-stat-sep {
   opacity: 0.35;
 }
-.trophy-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.5rem;
+/* Category group */
+.trophy-group {
+  margin-bottom: 0.6rem;
 }
-.trophy-badge {
+.trophy-group:last-child {
+  margin-bottom: 0;
+}
+.trophy-group-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.3rem;
+}
+.trophy-group-name {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+/* Stacked earned icons */
+.trophy-stack {
+  display: flex;
+  align-items: center;
+}
+.trophy-stack-icon {
+  font-size: 1.3rem;
+  line-height: 1;
+  margin-right: -6px;
+  position: relative;
+  filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.15));
+}
+.trophy-stack-icon:last-child {
+  margin-right: 0;
+}
+.trophy-stack-empty {
+  font-size: 1rem;
+  color: var(--text-secondary);
+  opacity: 0.3;
+}
+/* Individual badge rows */
+.trophy-group-list {
   display: flex;
   flex-direction: column;
+  gap: 0.2rem;
+  padding-left: 0.25rem;
+}
+.trophy-row {
+  display: flex;
   align-items: center;
-  width: 64px;
-  padding: 0.4rem 0.2rem;
-  border-radius: 10px;
-  background: var(--card-bg, #f8f8f8);
-  border: 1px solid var(--border, #e0e0e0);
-  transition: transform 0.15s;
-}
-.trophy-badge:hover {
-  transform: scale(1.08);
-}
-.trophy-icon {
-  font-size: 1.5rem;
-  line-height: 1;
-}
-.trophy-name {
-  font-size: 0.6rem;
-  font-weight: 600;
-  color: var(--text-primary);
-  margin-top: 0.2rem;
-  text-align: center;
-  line-height: 1.2;
-}
-.trophy-empty {
+  gap: 0.4rem;
+  padding: 0.25rem 0.4rem;
+  border-radius: 6px;
   font-size: 0.8rem;
+}
+.trophy-row.earned {
+  background: rgba(74, 144, 217, 0.08);
+}
+.trophy-row.locked {
+  opacity: 0.35;
+}
+.trophy-row-icon {
+  font-size: 1rem;
+  line-height: 1;
+  flex-shrink: 0;
+}
+.trophy-row-title {
+  font-weight: 700;
+  color: var(--text-primary);
+  white-space: nowrap;
+}
+.trophy-row-desc {
   color: var(--text-secondary);
-  text-align: center;
-  margin: 0;
-  padding: 0.5rem 0;
+  font-size: 0.72rem;
+  margin-left: auto;
+  white-space: nowrap;
 }
 
 /* ---- Language Intro Page ---- */

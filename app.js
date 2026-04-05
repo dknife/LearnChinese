@@ -1374,37 +1374,37 @@ const Trophies = {
     };
   },
 
-  getBadges(metaTotals) {
+  // Returns all badge definitions grouped by category, with earned status
+  getAllBadges(metaTotals) {
     const s = this.getStats(metaTotals);
-    const badges = [];
-
-    // 접속 관련
-    if (s.visits >= 1)  badges.push({ icon: '🌱', title: '첫 발걸음', desc: '첫 접속' });
-    if (s.visits >= 10) badges.push({ icon: '🔥', title: '꾸준한 학습자', desc: '10회 접속' });
-    if (s.visits >= 30) badges.push({ icon: '💎', title: '학습 중독', desc: '30회 접속' });
-    if (s.visits >= 100) badges.push({ icon: '👑', title: '레전드', desc: '100회 접속' });
-
-    // 언어 탐험
-    if (s.langsAccessed >= 3) badges.push({ icon: '🧭', title: '언어 탐험가', desc: '3개 언어 학습' });
-    if (s.langsAccessed >= 5) badges.push({ icon: '🌍', title: '세계 여행자', desc: '5개 언어 학습' });
-    if (s.langsAccessed >= 10) badges.push({ icon: '🌐', title: '글로벌 마스터', desc: '전 언어 학습' });
-
-    // 레벨 통과
-    if (s.totalCompleted >= 1) badges.push({ icon: '⭐', title: '첫 통과', desc: '첫 레벨 클리어' });
-    if (s.totalCompleted >= 10) badges.push({ icon: '🏅', title: '실력자', desc: '총 10레벨 통과' });
-    if (s.totalCompleted >= 50) badges.push({ icon: '🏆', title: '달인', desc: '총 50레벨 통과' });
-    if (s.totalCompleted >= 100) badges.push({ icon: '🎖️', title: '그랜드 마스터', desc: '총 100레벨 통과' });
-
-    // 만점
-    if (s.perfectScores >= 1) badges.push({ icon: '💯', title: '완벽주의자', desc: '첫 만점' });
-    if (s.perfectScores >= 10) badges.push({ icon: '🎯', title: '명사수', desc: '만점 10회' });
-
-    // 언어 정복
-    if (s.langsCompleted >= 1) badges.push({ icon: '🗻', title: '정복자', desc: '1개 언어 전 레벨 통과' });
-    if (s.langsCompleted >= 5) badges.push({ icon: '🐉', title: '전설', desc: '5개 언어 정복' });
-    if (s.langsCompleted >= 10) badges.push({ icon: '✨', title: '올 클리어', desc: '전 언어 정복' });
-
-    return badges;
+    return [
+      { category: '접속', badges: [
+        { icon: '🌱', title: '첫 발걸음', desc: '첫 접속', earned: s.visits >= 1 },
+        { icon: '🔥', title: '꾸준한 학습자', desc: '10회 접속', earned: s.visits >= 10 },
+        { icon: '💎', title: '학습 중독', desc: '30회 접속', earned: s.visits >= 30 },
+        { icon: '👑', title: '레전드', desc: '100회 접속', earned: s.visits >= 100 },
+      ]},
+      { category: '탐험', badges: [
+        { icon: '🧭', title: '언어 탐험가', desc: '3개 언어 학습', earned: s.langsAccessed >= 3 },
+        { icon: '🌍', title: '세계 여행자', desc: '5개 언어 학습', earned: s.langsAccessed >= 5 },
+        { icon: '🌐', title: '글로벌 마스터', desc: '전 언어 학습', earned: s.langsAccessed >= 10 },
+      ]},
+      { category: '통과', badges: [
+        { icon: '⭐', title: '첫 통과', desc: '첫 레벨 클리어', earned: s.totalCompleted >= 1 },
+        { icon: '🏅', title: '실력자', desc: '총 10레벨 통과', earned: s.totalCompleted >= 10 },
+        { icon: '🏆', title: '달인', desc: '총 50레벨 통과', earned: s.totalCompleted >= 50 },
+        { icon: '🎖️', title: '그랜드 마스터', desc: '총 100레벨 통과', earned: s.totalCompleted >= 100 },
+      ]},
+      { category: '만점', badges: [
+        { icon: '💯', title: '완벽주의자', desc: '첫 만점', earned: s.perfectScores >= 1 },
+        { icon: '🎯', title: '명사수', desc: '만점 10회', earned: s.perfectScores >= 10 },
+      ]},
+      { category: '정복', badges: [
+        { icon: '🗻', title: '정복자', desc: '1개 언어 전 레벨 통과', earned: s.langsCompleted >= 1 },
+        { icon: '🐉', title: '전설', desc: '5개 언어 정복', earned: s.langsCompleted >= 5 },
+        { icon: '✨', title: '올 클리어', desc: '전 언어 정복', earned: s.langsCompleted >= 10 },
+      ]},
+    ];
   }
 };
 
@@ -1665,22 +1665,41 @@ async function renderLangSelect() {
 
   // Trophy section
   const metaTotals = metas.map(m => m.totalLevels);
-  const badges = Trophies.getBadges(metaTotals);
+  const badgeGroups = Trophies.getAllBadges(metaTotals);
   const stats = Trophies.getStats(metaTotals);
-  const badgesHTML = badges.length > 0
-    ? badges.map(b => `<div class="trophy-badge" title="${b.desc}">
-        <span class="trophy-icon">${b.icon}</span>
-        <span class="trophy-name">${b.title}</span>
-      </div>`).join('')
-    : '<p class="trophy-empty">학습을 시작하면 배지를 획득할 수 있어요!</p>';
+  const earnedTotal = badgeGroups.reduce((s, g) => s + g.badges.filter(b => b.earned).length, 0);
+  const totalBadges = badgeGroups.reduce((s, g) => s + g.badges.length, 0);
 
   const statsHTML = `<div class="trophy-stats">
+    <span class="trophy-stat">${earnedTotal}/${totalBadges} 배지</span>
+    <span class="trophy-stat-sep">|</span>
     <span class="trophy-stat">${stats.visits}회 접속</span>
     <span class="trophy-stat-sep">|</span>
     <span class="trophy-stat">${stats.langsAccessed}개 언어</span>
     <span class="trophy-stat-sep">|</span>
     <span class="trophy-stat">${stats.totalCompleted}레벨 통과</span>
   </div>`;
+
+  const badgesHTML = badgeGroups.map(g => {
+    const earned = g.badges.filter(b => b.earned);
+    const stackHTML = earned.length > 0
+      ? earned.map((b, i) => `<span class="trophy-stack-icon" style="z-index:${earned.length - i}">${b.icon}</span>`).join('')
+      : '<span class="trophy-stack-empty">—</span>';
+    const listHTML = g.badges.map(b =>
+      `<div class="trophy-row ${b.earned ? 'earned' : 'locked'}">
+        <span class="trophy-row-icon">${b.icon}</span>
+        <span class="trophy-row-title">${b.title}</span>
+        <span class="trophy-row-desc">${b.desc}</span>
+      </div>`
+    ).join('');
+    return `<div class="trophy-group">
+      <div class="trophy-group-header">
+        <div class="trophy-stack">${stackHTML}</div>
+        <span class="trophy-group-name">${g.category}</span>
+      </div>
+      <div class="trophy-group-list">${listHTML}</div>
+    </div>`;
+  }).join('');
 
   app.innerHTML = `
     <div class="lang-select-page">
@@ -1707,7 +1726,7 @@ async function renderLangSelect() {
       <div class="trophy-section">
         <h2 class="trophy-heading">나의 학습 배지</h2>
         ${statsHTML}
-        <div class="trophy-grid">${badgesHTML}</div>
+        ${badgesHTML}
       </div>
     </div>
   `;
