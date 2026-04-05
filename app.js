@@ -1999,7 +1999,7 @@ async function renderVocab(jaum) {
   }).join('');
 
   const topBar = `<div class="vocab-bar">
-    <a class="back-link" href="#/${currentLang}/levels">← 레벨 선택</a>
+    <a class="vocab-back-btn" href="#/${currentLang}/levels">학습 페이지로</a>
     <div class="auto-tts-toggle">
       <label class="tts-switch">
         <input type="checkbox" class="vocabAutoTTS" ${_autoTTS ? 'checked' : ''}>

@@ -1849,6 +1849,24 @@ html { scrollbar-width: thin; scrollbar-color: rgba(34,34,34,0.15) transparent; 
   justify-content: space-between;
   padding: 0.5rem 0;
 }
+.vocab-back-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.4rem 1rem;
+  border-radius: 8px;
+  background: var(--card-bg, #fff);
+  border: 1.5px solid var(--border, #e0e0e0);
+  color: var(--text-primary);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.15s, border-color 0.15s;
+}
+.vocab-back-btn:hover {
+  border-color: var(--accent, #4a90d9);
+  background: var(--accent, #4a90d9);
+  color: #fff;
+}
 .vocab-jaum-nav {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
