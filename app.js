@@ -1418,14 +1418,12 @@ function navigate(path) {
   window.location.hash = '#' + path;
 }
 
-function setRandomBg() {
-  const n = Math.floor(Math.random() * 33) + 1;
-  const img = `images/img${String(n).padStart(3, '0')}.jpg`;
-  document.body.style.backgroundImage = `url('${img}')`;
+function randomPhotoHTML() {
+  const n = Math.floor(Math.random() * 31) + 1;
+  return `<div class="page-photo"><img src="images/img${String(n).padStart(3, '0')}.jpg" alt=""></div>`;
 }
 
 async function handleRoute() {
-  setRandomBg();
   const hash = window.location.hash || '#/';
   let match;
 
@@ -1915,6 +1913,7 @@ function renderAlphabet(langCode) {
     <div class="alpha-page">
       <a class="alpha-back" href="#/${langCode}">← 돌아가기</a>
       <h1 class="alpha-title">${alpha.title}</h1>
+      ${randomPhotoHTML()}
       <p class="alpha-desc">${alpha.description}</p>
       ${sectionsHTML}
       <div class="alpha-tips">
@@ -1969,6 +1968,7 @@ function renderGrammar(langCode, level) {
     <div class="grammar-page">
       <a class="alpha-back" href="#/${langCode}/levels">← 레벨 선택으로</a>
       <h1 class="grammar-title">${lang.emoji} ${topic ? topic.icon : ''} ${data.title}</h1>
+      ${randomPhotoHTML()}
       <p class="grammar-subtitle">${lang.nameKr} 문법 ${level}단계</p>
       ${sectionsHTML}
       <a class="alpha-back-bottom" href="#/${langCode}/levels">← 레벨 선택으로 돌아가기</a>
@@ -2021,7 +2021,7 @@ async function renderLangIntro(langCode) {
         <h1 class="intro-title">${lang.name}</h1>
         <p class="intro-title-kr">${lang.nameKr}</p>
       </div>
-
+      ${randomPhotoHTML()}
       <div class="intro-section">
         <h2 class="intro-section-title">사용 국가</h2>
         <p class="intro-countries">${intro.countriesEmoji}</p>
@@ -2162,6 +2162,7 @@ async function renderVocab(jaum) {
   app.innerHTML = `
     <div class="vocab-page">
       ${topBar}
+      ${randomPhotoHTML()}
       <div class="vocab-jaum-nav">${navHTML}</div>
       <div class="vocab-grid"></div>
       <div class="vocab-jaum-nav">${navHTML}</div>
@@ -2266,6 +2267,7 @@ async function renderHome() {
           <h1 class="home-title">${lang.emoji} ${lang.name} — ${lang.nameKr} 레벨 선택</h1>
           <a class="vocab-back-btn" href="#/${currentLang}">언어 소개</a>
         </div>
+        ${randomPhotoHTML()}
         <div class="home-progress">
           ${renderProgressBar(completedCount, TOTAL, `${completedCount} / ${TOTAL} 레벨 완료`)}
         </div>
@@ -2428,7 +2430,7 @@ async function renderLesson(level) {
       <div class="lesson-page">
         <div class="lesson-container">
           <a href="#/${currentLang}/levels" class="vocab-back-btn">학습 페이지로</a>
-
+          ${randomPhotoHTML()}
           <div class="lesson-header card-game">
             <div class="lesson-header-top">
               <span class="lesson-level-badge">${level}</span>
@@ -2671,6 +2673,7 @@ async function renderQuiz(level) {
 
     app.innerHTML = `
       <div class="quiz-page">
+        ${randomPhotoHTML()}
         <div class="quiz-header">
           <span class="quiz-level-info">레벨 ${level} — ${titles[level] || ''}</span>
           <span class="quiz-counter">${currentQuestion + 1} / ${totalQuestions}</span>
@@ -2768,6 +2771,7 @@ async function renderResult(level, searchParams) {
 
   app.innerHTML = `
     <div class="result-page">
+      ${randomPhotoHTML()}
       <div class="result-card-wrapper">
         <div class="result-card ${passed ? 'result-card-pass' : 'result-card-fail'}">
           <div class="result-top-bar ${passed ? 'result-top-bar-pass' : 'result-top-bar-fail'}"></div>
