@@ -1,0 +1,5002 @@
+[
+  {
+    "latin": "pretium",
+    "pronunciation": "프레티움",
+    "korean": "가격"
+  },
+  {
+    "latin": "familia",
+    "pronunciation": "파밀리아",
+    "korean": "가계"
+  },
+  {
+    "latin": "paupertas",
+    "pronunciation": "파우페르타스",
+    "korean": "가난"
+  },
+  {
+    "latin": "pauper",
+    "pronunciation": "파우페르",
+    "korean": "가난한"
+  },
+  {
+    "latin": "possibilis",
+    "pronunciation": "포시빌리스",
+    "korean": "가능한"
+  },
+  {
+    "latin": "docere",
+    "pronunciation": "도케레",
+    "korean": "가르치다"
+  },
+  {
+    "latin": "levis",
+    "pronunciation": "레비스",
+    "korean": "가벼운"
+  },
+  {
+    "latin": "autumnus",
+    "pronunciation": "아우툼누스",
+    "korean": "가을"
+  },
+  {
+    "latin": "domus",
+    "pronunciation": "도무스",
+    "korean": "가정"
+  },
+  {
+    "latin": "domesticus",
+    "pronunciation": "도메스티쿠스",
+    "korean": "가정의"
+  },
+  {
+    "latin": "afferre",
+    "pronunciation": "아페르레",
+    "korean": "가져오다"
+  },
+  {
+    "latin": "merx",
+    "pronunciation": "메르크스",
+    "korean": "가치"
+  },
+  {
+    "latin": "brevitas",
+    "pronunciation": "브레비타스",
+    "korean": "간결"
+  },
+  {
+    "latin": "calamus",
+    "pronunciation": "칼라무스",
+    "korean": "갈대"
+  },
+  {
+    "latin": "cupere",
+    "pronunciation": "쿠페레",
+    "korean": "갈망하다"
+  },
+  {
+    "latin": "sensus",
+    "pronunciation": "센수스",
+    "korean": "감각"
+  },
+  {
+    "latin": "sentire",
+    "pronunciation": "센티레",
+    "korean": "감각하다"
+  },
+  {
+    "latin": "dulcedo",
+    "pronunciation": "둘케도",
+    "korean": "감미"
+  },
+  {
+    "latin": "gratia",
+    "pronunciation": "그라티아",
+    "korean": "감사"
+  },
+  {
+    "latin": "prehendere",
+    "pronunciation": "프레헨데레",
+    "korean": "감싸다"
+  },
+  {
+    "latin": "carcer",
+    "pronunciation": "카르케르",
+    "korean": "감옥"
+  },
+  {
+    "latin": "affectus",
+    "pronunciation": "아펙투스",
+    "korean": "감정"
+  },
+  {
+    "latin": "occultare",
+    "pronunciation": "오쿨타레",
+    "korean": "감추다"
+  },
+  {
+    "latin": "admirari",
+    "pronunciation": "아드미라리",
+    "korean": "감탄하다"
+  },
+  {
+    "latin": "flumen",
+    "pronunciation": "플루멘",
+    "korean": "강"
+  },
+  {
+    "latin": "cogere",
+    "pronunciation": "코게레",
+    "korean": "강제하다"
+  },
+  {
+    "latin": "robustus",
+    "pronunciation": "로부스투스",
+    "korean": "강한"
+  },
+  {
+    "latin": "canis",
+    "pronunciation": "카니스",
+    "korean": "개"
+  },
+  {
+    "latin": "conceptus",
+    "pronunciation": "콘셉투스",
+    "korean": "개념"
+  },
+  {
+    "latin": "apertio",
+    "pronunciation": "아페르티오",
+    "korean": "개방"
+  },
+  {
+    "latin": "singulus",
+    "pronunciation": "싱굴루스",
+    "korean": "개별의"
+  },
+  {
+    "latin": "reformatio",
+    "pronunciation": "레포르마티오",
+    "korean": "개혁"
+  },
+  {
+    "latin": "domicilium",
+    "pronunciation": "도미킬리움",
+    "korean": "거주지"
+  },
+  {
+    "latin": "habitare",
+    "pronunciation": "하비타레",
+    "korean": "거주하다"
+  },
+  {
+    "latin": "sanitas",
+    "pronunciation": "사니타스",
+    "korean": "건강"
+  },
+  {
+    "latin": "sanus",
+    "pronunciation": "사누스",
+    "korean": "건강한"
+  },
+  {
+    "latin": "structura",
+    "pronunciation": "스트룩투라",
+    "korean": "건물"
+  },
+  {
+    "latin": "construere",
+    "pronunciation": "콘스트루에레",
+    "korean": "건설하다"
+  },
+  {
+    "latin": "architectura",
+    "pronunciation": "아르키텍투라",
+    "korean": "건축"
+  },
+  {
+    "latin": "aedificium",
+    "pronunciation": "아에디피키움",
+    "korean": "건축물"
+  },
+  {
+    "latin": "ambulare",
+    "pronunciation": "암불라레",
+    "korean": "걷다"
+  },
+  {
+    "latin": "examinare",
+    "pronunciation": "엑사미나레",
+    "korean": "검사하다"
+  },
+  {
+    "latin": "gladiator",
+    "pronunciation": "글라디아토르",
+    "korean": "검투사"
+  },
+  {
+    "latin": "res",
+    "pronunciation": "레스",
+    "korean": "것"
+  },
+  {
+    "latin": "ludus",
+    "pronunciation": "루두스",
+    "korean": "게임"
+  },
+  {
+    "latin": "hiems",
+    "pronunciation": "히엠스",
+    "korean": "겨울"
+  },
+  {
+    "latin": "hibernum",
+    "pronunciation": "히베르눔",
+    "korean": "겨울철"
+  },
+  {
+    "latin": "hortari",
+    "pronunciation": "호르타리",
+    "korean": "격려하다"
+  },
+  {
+    "latin": "firmus",
+    "pronunciation": "피르무스",
+    "korean": "견고한"
+  },
+  {
+    "latin": "durare",
+    "pronunciation": "두라레",
+    "korean": "견디다"
+  },
+  {
+    "latin": "decernere",
+    "pronunciation": "데케르네레",
+    "korean": "결정하다"
+  },
+  {
+    "latin": "jungere",
+    "pronunciation": "융게레",
+    "korean": "결합하다"
+  },
+  {
+    "latin": "humilis",
+    "pronunciation": "후밀리스",
+    "korean": "겸손한"
+  },
+  {
+    "latin": "limes",
+    "pronunciation": "리메스",
+    "korean": "경계"
+  },
+  {
+    "latin": "monere",
+    "pronunciation": "모네레",
+    "korean": "경고하다"
+  },
+  {
+    "latin": "stadium",
+    "pronunciation": "스타디움",
+    "korean": "경기장"
+  },
+  {
+    "latin": "colere",
+    "pronunciation": "콜레레",
+    "korean": "경작하다"
+  },
+  {
+    "latin": "certamen",
+    "pronunciation": "체르타멘",
+    "korean": "경쟁"
+  },
+  {
+    "latin": "oeconomia",
+    "pronunciation": "오에코노미아",
+    "korean": "경제"
+  },
+  {
+    "latin": "experientia",
+    "pronunciation": "엑스페리엔티아",
+    "korean": "경험"
+  },
+  {
+    "latin": "experimentum",
+    "pronunciation": "엑스페리멘툼",
+    "korean": "경험하다"
+  },
+  {
+    "latin": "scalae",
+    "pronunciation": "스칼라에",
+    "korean": "계단"
+  },
+  {
+    "latin": "ovum",
+    "pronunciation": "오붐",
+    "korean": "계란"
+  },
+  {
+    "latin": "computatio",
+    "pronunciation": "콤푸타티오",
+    "korean": "계산"
+  },
+  {
+    "latin": "computare",
+    "pronunciation": "콤푸타레",
+    "korean": "계산하다"
+  },
+  {
+    "latin": "continuare",
+    "pronunciation": "콘티누아레",
+    "korean": "계속하다"
+  },
+  {
+    "latin": "contractus",
+    "pronunciation": "콘트락투스",
+    "korean": "계약"
+  },
+  {
+    "latin": "consilium",
+    "pronunciation": "콘실리움",
+    "korean": "계획"
+  },
+  {
+    "latin": "altus",
+    "pronunciation": "알투스",
+    "korean": "고귀한"
+  },
+  {
+    "latin": "caro",
+    "pronunciation": "카로",
+    "korean": "고기"
+  },
+  {
+    "latin": "antiquus",
+    "pronunciation": "안티쿠스",
+    "korean": "고대의"
+  },
+  {
+    "latin": "solitudo",
+    "pronunciation": "솔리투도",
+    "korean": "고독"
+  },
+  {
+    "latin": "felis",
+    "pronunciation": "펠리스",
+    "korean": "고양이"
+  },
+  {
+    "latin": "dolor",
+    "pronunciation": "돌로르",
+    "korean": "고통"
+  },
+  {
+    "latin": "patria",
+    "pronunciation": "파트리아",
+    "korean": "고향"
+  },
+  {
+    "latin": "granum",
+    "pronunciation": "그라눔",
+    "korean": "곡물"
+  },
+  {
+    "latin": "frumentum",
+    "pronunciation": "프루멘툼",
+    "korean": "곡식"
+  },
+  {
+    "latin": "insectum",
+    "pronunciation": "인섹툼",
+    "korean": "곤충"
+  },
+  {
+    "latin": "locus",
+    "pronunciation": "로쿠스",
+    "korean": "곳"
+  },
+  {
+    "latin": "pila",
+    "pronunciation": "필라",
+    "korean": "공"
+  },
+  {
+    "latin": "spatium",
+    "pronunciation": "스파티움",
+    "korean": "공간"
+  },
+  {
+    "latin": "aer",
+    "pronunciation": "아에르",
+    "korean": "공기"
+  },
+  {
+    "latin": "communis",
+    "pronunciation": "콤무니스",
+    "korean": "공동의"
+  },
+  {
+    "latin": "officium",
+    "pronunciation": "오피키움",
+    "korean": "공무"
+  },
+  {
+    "latin": "artificium",
+    "pronunciation": "아르티피키움",
+    "korean": "공예"
+  },
+  {
+    "latin": "fabrica",
+    "pronunciation": "파브리카",
+    "korean": "공장"
+  },
+  {
+    "latin": "iustitia",
+    "pronunciation": "유스티티아",
+    "korean": "공정"
+  },
+  {
+    "latin": "codicillus",
+    "pronunciation": "코디킬루스",
+    "korean": "공책"
+  },
+  {
+    "latin": "aequitas",
+    "pronunciation": "아에퀴타스",
+    "korean": "공평"
+  },
+  {
+    "latin": "terror",
+    "pronunciation": "테르로르",
+    "korean": "공포"
+  },
+  {
+    "latin": "respublica",
+    "pronunciation": "레스푸블리카",
+    "korean": "공화국"
+  },
+  {
+    "latin": "disciplina",
+    "pronunciation": "디스키플리나",
+    "korean": "과목"
+  },
+  {
+    "latin": "fructus",
+    "pronunciation": "프룩투스",
+    "korean": "과일"
+  },
+  {
+    "latin": "scientia",
+    "pronunciation": "스키엔티아",
+    "korean": "과학"
+  },
+  {
+    "latin": "relatio",
+    "pronunciation": "렐라티오",
+    "korean": "관계"
+  },
+  {
+    "latin": "consuetudo",
+    "pronunciation": "콘수에투도",
+    "korean": "관습"
+  },
+  {
+    "latin": "interesse",
+    "pronunciation": "인테레세",
+    "korean": "관심"
+  },
+  {
+    "latin": "clementia",
+    "pronunciation": "클레멘티아",
+    "korean": "관용"
+  },
+  {
+    "latin": "spectare",
+    "pronunciation": "스펙타레",
+    "korean": "관찰하다"
+  },
+  {
+    "latin": "lux",
+    "pronunciation": "룩스",
+    "korean": "광"
+  },
+  {
+    "latin": "curriculum",
+    "pronunciation": "쿠리쿨룸",
+    "korean": "교과"
+  },
+  {
+    "latin": "magister",
+    "pronunciation": "마기스테르",
+    "korean": "교사"
+  },
+  {
+    "latin": "commercium",
+    "pronunciation": "콤메르키움",
+    "korean": "교역"
+  },
+  {
+    "latin": "educatio",
+    "pronunciation": "에두카티오",
+    "korean": "교육"
+  },
+  {
+    "latin": "ecclesia",
+    "pronunciation": "에클레시아",
+    "korean": "교회"
+  },
+  {
+    "latin": "erudire",
+    "pronunciation": "에루디레",
+    "korean": "교훈하다"
+  },
+  {
+    "latin": "novem",
+    "pronunciation": "노벰",
+    "korean": "구"
+  },
+  {
+    "latin": "calceus",
+    "pronunciation": "칼케우스",
+    "korean": "구두"
+  },
+  {
+    "latin": "nubilum",
+    "pronunciation": "누빌룸",
+    "korean": "구름"
+  },
+  {
+    "latin": "distinguere",
+    "pronunciation": "디스팅게레",
+    "korean": "구별하다"
+  },
+  {
+    "latin": "globus",
+    "pronunciation": "글로부스",
+    "korean": "구체"
+  },
+  {
+    "latin": "exercitus",
+    "pronunciation": "엑세르키투스",
+    "korean": "군대"
+  },
+  {
+    "latin": "potestas",
+    "pronunciation": "포테스타스",
+    "korean": "권력"
+  },
+  {
+    "latin": "ius",
+    "pronunciation": "유스",
+    "korean": "권리"
+  },
+  {
+    "latin": "auctoritas",
+    "pronunciation": "아욱토리타스",
+    "korean": "권위"
+  },
+  {
+    "latin": "auris",
+    "pronunciation": "아우리스",
+    "korean": "귀"
+  },
+  {
+    "latin": "regula",
+    "pronunciation": "레굴라",
+    "korean": "규칙"
+  },
+  {
+    "latin": "aurum",
+    "pronunciation": "아우룸",
+    "korean": "금"
+  },
+  {
+    "latin": "metallum",
+    "pronunciation": "메탈룸",
+    "korean": "금속"
+  },
+  {
+    "latin": "veneris dies",
+    "pronunciation": "베네리스 디에스",
+    "korean": "금요일"
+  },
+  {
+    "latin": "pecunia",
+    "pronunciation": "페쿠니아",
+    "korean": "금전"
+  },
+  {
+    "latin": "cito",
+    "pronunciation": "키토",
+    "korean": "급히"
+  },
+  {
+    "latin": "positivus",
+    "pronunciation": "포시티부스",
+    "korean": "긍정적인"
+  },
+  {
+    "latin": "machina",
+    "pronunciation": "마키나",
+    "korean": "기계"
+  },
+  {
+    "latin": "anniversarius",
+    "pronunciation": "안니베르사리우스",
+    "korean": "기념일"
+  },
+  {
+    "latin": "commemorare",
+    "pronunciation": "콤메모라레",
+    "korean": "기념하다"
+  },
+  {
+    "latin": "exspectare",
+    "pronunciation": "엑스스펙타레",
+    "korean": "기대하다"
+  },
+  {
+    "latin": "columna",
+    "pronunciation": "콜룸나",
+    "korean": "기둥"
+  },
+  {
+    "latin": "acta",
+    "pronunciation": "악타",
+    "korean": "기록"
+  },
+  {
+    "latin": "scribere",
+    "pronunciation": "스크리베레",
+    "korean": "기록하다"
+  },
+  {
+    "latin": "alere",
+    "pronunciation": "알레레",
+    "korean": "기르다"
+  },
+  {
+    "latin": "basis",
+    "pronunciation": "바시스",
+    "korean": "기반"
+  },
+  {
+    "latin": "laetari",
+    "pronunciation": "라에타리",
+    "korean": "기뻐하다"
+  },
+  {
+    "latin": "gaudium",
+    "pronunciation": "가우디움",
+    "korean": "기쁨"
+  },
+  {
+    "latin": "technologia",
+    "pronunciation": "테크놀로기아",
+    "korean": "기술"
+  },
+  {
+    "latin": "fames",
+    "pronunciation": "파메스",
+    "korean": "기아"
+  },
+  {
+    "latin": "memoria",
+    "pronunciation": "메모리아",
+    "korean": "기억"
+  },
+  {
+    "latin": "memorare",
+    "pronunciation": "메모라레",
+    "korean": "기억하다"
+  },
+  {
+    "latin": "ars",
+    "pronunciation": "아르스",
+    "korean": "기예"
+  },
+  {
+    "latin": "temperatura",
+    "pronunciation": "템페라투라",
+    "korean": "기온"
+  },
+  {
+    "latin": "fundamentum",
+    "pronunciation": "푼다멘툼",
+    "korean": "기초"
+  },
+  {
+    "latin": "occasio",
+    "pronunciation": "오카시오",
+    "korean": "기회"
+  },
+  {
+    "latin": "longus",
+    "pronunciation": "롱구스",
+    "korean": "긴"
+  },
+  {
+    "latin": "via",
+    "pronunciation": "비아",
+    "korean": "길"
+  },
+  {
+    "latin": "longitudo",
+    "pronunciation": "롱기투도",
+    "korean": "길이"
+  },
+  {
+    "latin": "profundus",
+    "pronunciation": "프로푼두스",
+    "korean": "깊은"
+  },
+  {
+    "latin": "mundus",
+    "pronunciation": "문두스",
+    "korean": "깨끗한"
+  },
+  {
+    "latin": "flos",
+    "pronunciation": "플로스",
+    "korean": "꽃"
+  },
+  {
+    "latin": "adornare",
+    "pronunciation": "아도르나레",
+    "korean": "꾸미다"
+  },
+  {
+    "latin": "mel",
+    "pronunciation": "멜",
+    "korean": "꿀"
+  },
+  {
+    "latin": "somnium",
+    "pronunciation": "솜니움",
+    "korean": "꿈"
+  },
+  {
+    "latin": "somniare",
+    "pronunciation": "솜니아레",
+    "korean": "꿈꾸다"
+  },
+  {
+    "latin": "finis",
+    "pronunciation": "피니스",
+    "korean": "끝"
+  },
+  {
+    "latin": "finire",
+    "pronunciation": "피니레",
+    "korean": "끝내다"
+  },
+  {
+    "latin": "ego",
+    "pronunciation": "에고",
+    "korean": "나"
+  },
+  {
+    "latin": "exire",
+    "pronunciation": "엑시레",
+    "korean": "나가다"
+  },
+  {
+    "latin": "dividere",
+    "pronunciation": "디비데레",
+    "korean": "나누다"
+  },
+  {
+    "latin": "natio",
+    "pronunciation": "나티오",
+    "korean": "나라"
+  },
+  {
+    "latin": "arbor",
+    "pronunciation": "아르보르",
+    "korean": "나무"
+  },
+  {
+    "latin": "lignum",
+    "pronunciation": "리그눔",
+    "korean": "나무(재료)"
+  },
+  {
+    "latin": "aetas",
+    "pronunciation": "아에타스",
+    "korean": "나이"
+  },
+  {
+    "latin": "postea",
+    "pronunciation": "포스테아",
+    "korean": "나중에"
+  },
+  {
+    "latin": "apparere",
+    "pronunciation": "아파레레",
+    "korean": "나타나다"
+  },
+  {
+    "latin": "dies",
+    "pronunciation": "디에스",
+    "korean": "날"
+  },
+  {
+    "latin": "volare",
+    "pronunciation": "볼라레",
+    "korean": "날다"
+  },
+  {
+    "latin": "tempestas",
+    "pronunciation": "템페스타스",
+    "korean": "날씨"
+  },
+  {
+    "latin": "vir",
+    "pronunciation": "비르",
+    "korean": "남자"
+  },
+  {
+    "latin": "meridies",
+    "pronunciation": "메리디에스",
+    "korean": "남쪽"
+  },
+  {
+    "latin": "alienus",
+    "pronunciation": "알리에누스",
+    "korean": "낯선"
+  },
+  {
+    "latin": "descendere",
+    "pronunciation": "데스켄데레",
+    "korean": "내려가다"
+  },
+  {
+    "latin": "deponere",
+    "pronunciation": "데포네레",
+    "korean": "내려놓다"
+  },
+  {
+    "latin": "intus",
+    "pronunciation": "인투스",
+    "korean": "내부에"
+  },
+  {
+    "latin": "cras",
+    "pronunciation": "크라스",
+    "korean": "내일"
+  },
+  {
+    "latin": "odor",
+    "pronunciation": "오도르",
+    "korean": "냄새"
+  },
+  {
+    "latin": "tu",
+    "pronunciation": "투",
+    "korean": "너"
+  },
+  {
+    "latin": "nimis",
+    "pronunciation": "니미스",
+    "korean": "너무"
+  },
+  {
+    "latin": "latitudo",
+    "pronunciation": "라티투도",
+    "korean": "너비"
+  },
+  {
+    "latin": "latus",
+    "pronunciation": "라투스",
+    "korean": "넓은"
+  },
+  {
+    "latin": "ita",
+    "pronunciation": "이타",
+    "korean": "네"
+  },
+  {
+    "latin": "quattuor",
+    "pronunciation": "콰투오르",
+    "korean": "넷"
+  },
+  {
+    "latin": "annus",
+    "pronunciation": "안누스",
+    "korean": "년"
+  },
+  {
+    "latin": "labor",
+    "pronunciation": "라보르",
+    "korean": "노동"
+  },
+  {
+    "latin": "flavus",
+    "pronunciation": "플라부스",
+    "korean": "노란"
+  },
+  {
+    "latin": "cantus",
+    "pronunciation": "칸투스",
+    "korean": "노래"
+  },
+  {
+    "latin": "cantare",
+    "pronunciation": "칸타레",
+    "korean": "노래하다"
+  },
+  {
+    "latin": "contendere",
+    "pronunciation": "콘텐데레",
+    "korean": "노력하다"
+  },
+  {
+    "latin": "senex",
+    "pronunciation": "세넥스",
+    "korean": "노인"
+  },
+  {
+    "latin": "argumentum",
+    "pronunciation": "아르구멘툼",
+    "korean": "논증"
+  },
+  {
+    "latin": "ludere",
+    "pronunciation": "루데레",
+    "korean": "놀다"
+  },
+  {
+    "latin": "agricultura",
+    "pronunciation": "아그리쿨투라",
+    "korean": "농업"
+  },
+  {
+    "latin": "ager",
+    "pronunciation": "아게르",
+    "korean": "농장"
+  },
+  {
+    "latin": "altitudo",
+    "pronunciation": "알티투도",
+    "korean": "높이"
+  },
+  {
+    "latin": "nix",
+    "pronunciation": "닉스",
+    "korean": "눈(날씨)"
+  },
+  {
+    "latin": "oculus",
+    "pronunciation": "오쿨루스",
+    "korean": "눈(신체)"
+  },
+  {
+    "latin": "caecus",
+    "pronunciation": "카에쿠스",
+    "korean": "눈먼"
+  },
+  {
+    "latin": "lacrima",
+    "pronunciation": "라크리마",
+    "korean": "눈물"
+  },
+  {
+    "latin": "nuntium",
+    "pronunciation": "눈티움",
+    "korean": "뉴스"
+  },
+  {
+    "latin": "sententia",
+    "pronunciation": "센텐티아",
+    "korean": "느낌"
+  },
+  {
+    "latin": "tardus",
+    "pronunciation": "타르두스",
+    "korean": "느린"
+  },
+  {
+    "latin": "lupus",
+    "pronunciation": "루푸스",
+    "korean": "늑대"
+  },
+  {
+    "latin": "facultas",
+    "pronunciation": "파쿨타스",
+    "korean": "능력"
+  },
+  {
+    "latin": "diversus",
+    "pronunciation": "디베르수스",
+    "korean": "다른"
+  },
+  {
+    "latin": "multus",
+    "pronunciation": "물투스",
+    "korean": "다수의"
+  },
+  {
+    "latin": "proximus",
+    "pronunciation": "프록시무스",
+    "korean": "다음의"
+  },
+  {
+    "latin": "durus",
+    "pronunciation": "두루스",
+    "korean": "단단한"
+  },
+  {
+    "latin": "exercere",
+    "pronunciation": "엑세르케레",
+    "korean": "단련하다"
+  },
+  {
+    "latin": "claudere",
+    "pronunciation": "클라우데레",
+    "korean": "닫다"
+  },
+  {
+    "latin": "luna",
+    "pronunciation": "루나",
+    "korean": "달"
+  },
+  {
+    "latin": "mensis",
+    "pronunciation": "멘시스",
+    "korean": "달(월)"
+  },
+  {
+    "latin": "calendarium",
+    "pronunciation": "칼렌다리움",
+    "korean": "달력"
+  },
+  {
+    "latin": "currere",
+    "pronunciation": "쿠르레레",
+    "korean": "달리다"
+  },
+  {
+    "latin": "dulcis",
+    "pronunciation": "둘키스",
+    "korean": "달콤한"
+  },
+  {
+    "latin": "gallina",
+    "pronunciation": "갈리나",
+    "korean": "닭"
+  },
+  {
+    "latin": "responsum",
+    "pronunciation": "레스폰숨",
+    "korean": "답"
+  },
+  {
+    "latin": "respondre",
+    "pronunciation": "레스폰데레",
+    "korean": "답하다"
+  },
+  {
+    "latin": "asinus",
+    "pronunciation": "아시누스",
+    "korean": "당나귀"
+  },
+  {
+    "latin": "ancora",
+    "pronunciation": "안코라",
+    "korean": "닻"
+  },
+  {
+    "latin": "magnus",
+    "pronunciation": "마그누스",
+    "korean": "대단한"
+  },
+  {
+    "latin": "audacia",
+    "pronunciation": "아우다키아",
+    "korean": "대담"
+  },
+  {
+    "latin": "audax",
+    "pronunciation": "아우닥스",
+    "korean": "대담한"
+  },
+  {
+    "latin": "continens",
+    "pronunciation": "콘티넨스",
+    "korean": "대륙"
+  },
+  {
+    "latin": "universitas",
+    "pronunciation": "우니베르시타스",
+    "korean": "대학"
+  },
+  {
+    "latin": "acervus",
+    "pronunciation": "아케르부스",
+    "korean": "더미"
+  },
+  {
+    "latin": "calidus",
+    "pronunciation": "칼리두스",
+    "korean": "더운"
+  },
+  {
+    "latin": "addere",
+    "pronunciation": "아데레",
+    "korean": "더하다"
+  },
+  {
+    "latin": "virtus",
+    "pronunciation": "비르투스",
+    "korean": "덕"
+  },
+  {
+    "latin": "iactare",
+    "pronunciation": "이악타레",
+    "korean": "던지다"
+  },
+  {
+    "latin": "minus",
+    "pronunciation": "미누스",
+    "korean": "덜"
+  },
+  {
+    "latin": "instrumentum",
+    "pronunciation": "인스트루멘툼",
+    "korean": "도구"
+  },
+  {
+    "latin": "moralis",
+    "pronunciation": "모랄리스",
+    "korean": "도덕적인"
+  },
+  {
+    "latin": "fugere",
+    "pronunciation": "푸게레",
+    "korean": "도망치다"
+  },
+  {
+    "latin": "bibliotheca",
+    "pronunciation": "비블리오테카",
+    "korean": "도서관"
+  },
+  {
+    "latin": "urbs",
+    "pronunciation": "우르브스",
+    "korean": "도시"
+  },
+  {
+    "latin": "auxilium",
+    "pronunciation": "아욱실리움",
+    "korean": "도움"
+  },
+  {
+    "latin": "adventus",
+    "pronunciation": "아드벤투스",
+    "korean": "도착"
+  },
+  {
+    "latin": "pervenire",
+    "pronunciation": "페르베니레",
+    "korean": "도착하다"
+  },
+  {
+    "latin": "aquila",
+    "pronunciation": "아퀼라",
+    "korean": "독수리"
+  },
+  {
+    "latin": "lapis",
+    "pronunciation": "라피스",
+    "korean": "돌"
+  },
+  {
+    "latin": "curare",
+    "pronunciation": "쿠라레",
+    "korean": "돌보다"
+  },
+  {
+    "latin": "redire",
+    "pronunciation": "레디레",
+    "korean": "돌아오다"
+  },
+  {
+    "latin": "adiuvare",
+    "pronunciation": "아디우바레",
+    "korean": "돕다"
+  },
+  {
+    "latin": "socius",
+    "pronunciation": "소키우스",
+    "korean": "동료"
+  },
+  {
+    "latin": "animal",
+    "pronunciation": "아니말",
+    "korean": "동물"
+  },
+  {
+    "latin": "comes",
+    "pronunciation": "코메스",
+    "korean": "동반자"
+  },
+  {
+    "latin": "movere",
+    "pronunciation": "모베레",
+    "korean": "동작하다"
+  },
+  {
+    "latin": "oriens",
+    "pronunciation": "오리엔스",
+    "korean": "동쪽"
+  },
+  {
+    "latin": "cerebrum",
+    "pronunciation": "케레브룸",
+    "korean": "두뇌"
+  },
+  {
+    "latin": "timor",
+    "pronunciation": "티모르",
+    "korean": "두려움"
+  },
+  {
+    "latin": "cingere",
+    "pronunciation": "킨게레",
+    "korean": "두르다"
+  },
+  {
+    "latin": "agger",
+    "pronunciation": "아게르",
+    "korean": "둑"
+  },
+  {
+    "latin": "duae",
+    "pronunciation": "두아에",
+    "korean": "둘"
+  },
+  {
+    "latin": "ambire",
+    "pronunciation": "암비레",
+    "korean": "둘러싸다"
+  },
+  {
+    "latin": "post",
+    "pronunciation": "포스트",
+    "korean": "뒤에"
+  },
+  {
+    "latin": "audire",
+    "pronunciation": "아우디레",
+    "korean": "듣다"
+  },
+  {
+    "latin": "intrare",
+    "pronunciation": "인트라레",
+    "korean": "들어가다"
+  },
+  {
+    "latin": "campus",
+    "pronunciation": "캄푸스",
+    "korean": "들판"
+  },
+  {
+    "latin": "tergum",
+    "pronunciation": "테르굼",
+    "korean": "등"
+  },
+  {
+    "latin": "lanterna",
+    "pronunciation": "란테르나",
+    "korean": "등불"
+  },
+  {
+    "latin": "carpere",
+    "pronunciation": "카르페레",
+    "korean": "따다"
+  },
+  {
+    "latin": "fovere",
+    "pronunciation": "포베레",
+    "korean": "따뜻하게 하다"
+  },
+  {
+    "latin": "filia",
+    "pronunciation": "필리아",
+    "korean": "딸"
+  },
+  {
+    "latin": "sudor",
+    "pronunciation": "수도르",
+    "korean": "땀"
+  },
+  {
+    "latin": "terra",
+    "pronunciation": "테르라",
+    "korean": "땅"
+  },
+  {
+    "latin": "cadere",
+    "pronunciation": "카데레",
+    "korean": "떨어지다"
+  },
+  {
+    "latin": "alius",
+    "pronunciation": "알리우스",
+    "korean": "또 다른"
+  },
+  {
+    "latin": "significatio",
+    "pronunciation": "시그니피카티오",
+    "korean": "뜻"
+  },
+  {
+    "latin": "ratio",
+    "pronunciation": "라티오",
+    "korean": "라틴어"
+  },
+  {
+    "latin": "lucerna",
+    "pronunciation": "루체르나",
+    "korean": "램프"
+  },
+  {
+    "latin": "denique",
+    "pronunciation": "데니퀘",
+    "korean": "마침내"
+  },
+  {
+    "latin": "equus",
+    "pronunciation": "에쿠우스",
+    "korean": "말(동물)"
+  },
+  {
+    "latin": "gustus",
+    "pronunciation": "구스투스",
+    "korean": "맛"
+  },
+  {
+    "latin": "gustare",
+    "pronunciation": "구스타레",
+    "korean": "맛보다"
+  },
+  {
+    "latin": "exilium",
+    "pronunciation": "엑실리움",
+    "korean": "망명"
+  },
+  {
+    "latin": "accipiter",
+    "pronunciation": "악키피테르",
+    "korean": "매"
+  },
+  {
+    "latin": "cotidie",
+    "pronunciation": "코티디에",
+    "korean": "매일"
+  },
+  {
+    "latin": "cerevisia",
+    "pronunciation": "케레비시아",
+    "korean": "맥주"
+  },
+  {
+    "latin": "caput",
+    "pronunciation": "카푸트",
+    "korean": "머리"
+  },
+  {
+    "latin": "capillus",
+    "pronunciation": "카필루스",
+    "korean": "머리카락"
+  },
+  {
+    "latin": "manere",
+    "pronunciation": "마네레",
+    "korean": "머무르다"
+  },
+  {
+    "latin": "edere",
+    "pronunciation": "에데레",
+    "korean": "먹다"
+  },
+  {
+    "latin": "cibus",
+    "pronunciation": "키부스",
+    "korean": "먹을것"
+  },
+  {
+    "latin": "longinquus",
+    "pronunciation": "롱긴쿠우스",
+    "korean": "먼"
+  },
+  {
+    "latin": "prius",
+    "pronunciation": "프리우스",
+    "korean": "먼저"
+  },
+  {
+    "latin": "primus",
+    "pronunciation": "프리무스",
+    "korean": "먼저의"
+  },
+  {
+    "latin": "pulvis",
+    "pronunciation": "풀비스",
+    "korean": "먼지"
+  },
+  {
+    "latin": "longe",
+    "pronunciation": "롱게",
+    "korean": "멀리"
+  },
+  {
+    "latin": "sistere",
+    "pronunciation": "시스테레",
+    "korean": "멈추다"
+  },
+  {
+    "latin": "nuntius",
+    "pronunciation": "눈티우스",
+    "korean": "메시지"
+  },
+  {
+    "latin": "coturnix",
+    "pronunciation": "코투르닉스",
+    "korean": "메추라기"
+  },
+  {
+    "latin": "clarus",
+    "pronunciation": "클라루스",
+    "korean": "명백한"
+  },
+  {
+    "latin": "omnis",
+    "pronunciation": "옴니스",
+    "korean": "모든"
+  },
+  {
+    "latin": "arena",
+    "pronunciation": "아레나",
+    "korean": "모래"
+  },
+  {
+    "latin": "imitari",
+    "pronunciation": "이미타리",
+    "korean": "모방하다"
+  },
+  {
+    "latin": "exemplar",
+    "pronunciation": "엑셈플라르",
+    "korean": "모범"
+  },
+  {
+    "latin": "angulus",
+    "pronunciation": "안굴루스",
+    "korean": "모서리"
+  },
+  {
+    "latin": "forma",
+    "pronunciation": "포르마",
+    "korean": "모양"
+  },
+  {
+    "latin": "colligere",
+    "pronunciation": "콜리게레",
+    "korean": "모으다"
+  },
+  {
+    "latin": "convenire",
+    "pronunciation": "콘베니레",
+    "korean": "모이다"
+  },
+  {
+    "latin": "mater",
+    "pronunciation": "마테르",
+    "korean": "모친"
+  },
+  {
+    "latin": "index",
+    "pronunciation": "인덱스",
+    "korean": "목록"
+  },
+  {
+    "latin": "dies iovis",
+    "pronunciation": "디에스 이오비스",
+    "korean": "목요일"
+  },
+  {
+    "latin": "compellere",
+    "pronunciation": "콤펠레레",
+    "korean": "몰다"
+  },
+  {
+    "latin": "corpus",
+    "pronunciation": "코르푸스",
+    "korean": "몸"
+  },
+  {
+    "latin": "describere",
+    "pronunciation": "데스크리베레",
+    "korean": "묘사하다"
+  },
+  {
+    "latin": "gravis",
+    "pronunciation": "그라비스",
+    "korean": "무거운"
+  },
+  {
+    "latin": "pondus",
+    "pronunciation": "폰두스",
+    "korean": "무게"
+  },
+  {
+    "latin": "innocens",
+    "pronunciation": "인노켄스",
+    "korean": "무고한"
+  },
+  {
+    "latin": "arma",
+    "pronunciation": "아르마",
+    "korean": "무기"
+  },
+  {
+    "latin": "quid",
+    "pronunciation": "퀴드",
+    "korean": "무엇"
+  },
+  {
+    "latin": "armare",
+    "pronunciation": "아르마레",
+    "korean": "무장하다"
+  },
+  {
+    "latin": "porta",
+    "pronunciation": "포르타",
+    "korean": "문"
+  },
+  {
+    "latin": "littera",
+    "pronunciation": "리테라",
+    "korean": "문자"
+  },
+  {
+    "latin": "problema",
+    "pronunciation": "프로블레마",
+    "korean": "문제"
+  },
+  {
+    "latin": "litterae",
+    "pronunciation": "리테라에",
+    "korean": "문학"
+  },
+  {
+    "latin": "cultura",
+    "pronunciation": "쿨투라",
+    "korean": "문화"
+  },
+  {
+    "latin": "rogare",
+    "pronunciation": "로가레",
+    "korean": "묻다"
+  },
+  {
+    "latin": "aqua",
+    "pronunciation": "아쿠아",
+    "korean": "물"
+  },
+  {
+    "latin": "materia",
+    "pronunciation": "마테리아",
+    "korean": "물질"
+  },
+  {
+    "latin": "futurum",
+    "pronunciation": "푸투룸",
+    "korean": "미래"
+  },
+  {
+    "latin": "ignotus",
+    "pronunciation": "이그노투스",
+    "korean": "미지의"
+  },
+  {
+    "latin": "democratia",
+    "pronunciation": "데모크라티아",
+    "korean": "민주주의"
+  },
+  {
+    "latin": "populus",
+    "pronunciation": "포풀루스",
+    "korean": "민중"
+  },
+  {
+    "latin": "credere",
+    "pronunciation": "크레데레",
+    "korean": "믿다"
+  },
+  {
+    "latin": "fides",
+    "pronunciation": "피데스",
+    "korean": "믿음"
+  },
+  {
+    "latin": "sub",
+    "pronunciation": "숩",
+    "korean": "밑에"
+  },
+  {
+    "latin": "extra",
+    "pronunciation": "엑스트라",
+    "korean": "바깥에"
+  },
+  {
+    "latin": "convertere",
+    "pronunciation": "콘베르테레",
+    "korean": "바꾸다"
+  },
+  {
+    "latin": "mare",
+    "pronunciation": "마레",
+    "korean": "바다"
+  },
+  {
+    "latin": "solum",
+    "pronunciation": "솔룸",
+    "korean": "바닥"
+  },
+  {
+    "latin": "ventus",
+    "pronunciation": "벤투스",
+    "korean": "바람"
+  },
+  {
+    "latin": "recte",
+    "pronunciation": "렉테",
+    "korean": "바르게"
+  },
+  {
+    "latin": "occupatus",
+    "pronunciation": "오쿠파투스",
+    "korean": "바쁜"
+  },
+  {
+    "latin": "rota",
+    "pronunciation": "로타",
+    "korean": "바퀴"
+  },
+  {
+    "latin": "museum",
+    "pronunciation": "무세움",
+    "korean": "박물관"
+  },
+  {
+    "latin": "dimidium",
+    "pronunciation": "디미디움",
+    "korean": "반"
+  },
+  {
+    "latin": "anulus",
+    "pronunciation": "아눌루스",
+    "korean": "반지"
+  },
+  {
+    "latin": "recipere",
+    "pronunciation": "레키페레",
+    "korean": "받다"
+  },
+  {
+    "latin": "pes",
+    "pronunciation": "페스",
+    "korean": "발"
+  },
+  {
+    "latin": "conspicere",
+    "pronunciation": "콘스피케레",
+    "korean": "발견하다"
+  },
+  {
+    "latin": "inventio",
+    "pronunciation": "인벤티오",
+    "korean": "발명"
+  },
+  {
+    "latin": "invenire",
+    "pronunciation": "인베니레",
+    "korean": "발명하다"
+  },
+  {
+    "latin": "progressus",
+    "pronunciation": "프로그레수스",
+    "korean": "발전"
+  },
+  {
+    "latin": "lucem ferre",
+    "pronunciation": "루켐 페르레",
+    "korean": "밝히다"
+  },
+  {
+    "latin": "nox",
+    "pronunciation": "녹스",
+    "korean": "밤"
+  },
+  {
+    "latin": "funis",
+    "pronunciation": "푸니스",
+    "korean": "밧줄"
+  },
+  {
+    "latin": "camera",
+    "pronunciation": "카메라",
+    "korean": "방"
+  },
+  {
+    "latin": "visitare",
+    "pronunciation": "비시타레",
+    "korean": "방문하다"
+  },
+  {
+    "latin": "modus",
+    "pronunciation": "모두스",
+    "korean": "방법"
+  },
+  {
+    "latin": "defensio",
+    "pronunciation": "데펜시오",
+    "korean": "방어"
+  },
+  {
+    "latin": "defendere",
+    "pronunciation": "데펜데레",
+    "korean": "방어하다"
+  },
+  {
+    "latin": "emittere",
+    "pronunciation": "에미테레",
+    "korean": "방출하다"
+  },
+  {
+    "latin": "directio",
+    "pronunciation": "디렉티오",
+    "korean": "방향"
+  },
+  {
+    "latin": "venter",
+    "pronunciation": "벤테르",
+    "korean": "배"
+  },
+  {
+    "latin": "navis",
+    "pronunciation": "나비스",
+    "korean": "배(선박)"
+  },
+  {
+    "latin": "actor",
+    "pronunciation": "악토르",
+    "korean": "배우"
+  },
+  {
+    "latin": "discere",
+    "pronunciation": "디스케레",
+    "korean": "배우다"
+  },
+  {
+    "latin": "centum",
+    "pronunciation": "켄툼",
+    "korean": "백"
+  },
+  {
+    "latin": "serpens",
+    "pronunciation": "세르펜스",
+    "korean": "뱀"
+  },
+  {
+    "latin": "butyrum",
+    "pronunciation": "부티룸",
+    "korean": "버터"
+  },
+  {
+    "latin": "fulmen",
+    "pronunciation": "풀멘",
+    "korean": "번개"
+  },
+  {
+    "latin": "apis",
+    "pronunciation": "아피스",
+    "korean": "벌"
+  },
+  {
+    "latin": "lex",
+    "pronunciation": "렉스",
+    "korean": "법"
+  },
+  {
+    "latin": "iudicium",
+    "pronunciation": "유디키움",
+    "korean": "법정"
+  },
+  {
+    "latin": "murus",
+    "pronunciation": "무루스",
+    "korean": "벽"
+  },
+  {
+    "latin": "advocatus",
+    "pronunciation": "아드보카투스",
+    "korean": "변호사"
+  },
+  {
+    "latin": "mutatio",
+    "pronunciation": "무타티오",
+    "korean": "변화"
+  },
+  {
+    "latin": "mutare",
+    "pronunciation": "무타레",
+    "korean": "변화하다"
+  },
+  {
+    "latin": "stella",
+    "pronunciation": "스텔라",
+    "korean": "별"
+  },
+  {
+    "latin": "morbus",
+    "pronunciation": "모르부스",
+    "korean": "병"
+  },
+  {
+    "latin": "miles",
+    "pronunciation": "밀레스",
+    "korean": "병사"
+  },
+  {
+    "latin": "nosocomium",
+    "pronunciation": "노소코미움",
+    "korean": "병원"
+  },
+  {
+    "latin": "mittere",
+    "pronunciation": "미테레",
+    "korean": "보내다"
+  },
+  {
+    "latin": "videre",
+    "pronunciation": "비데레",
+    "korean": "보다"
+  },
+  {
+    "latin": "thesaurus",
+    "pronunciation": "테사우루스",
+    "korean": "보물"
+  },
+  {
+    "latin": "gemma",
+    "pronunciation": "겜마",
+    "korean": "보석"
+  },
+  {
+    "latin": "lapis pretiosus",
+    "pronunciation": "라피스 프레티오수스",
+    "korean": "보석(원석)"
+  },
+  {
+    "latin": "securitas",
+    "pronunciation": "세쿠리타스",
+    "korean": "보안"
+  },
+  {
+    "latin": "conservare",
+    "pronunciation": "콘세르바레",
+    "korean": "보존하다"
+  },
+  {
+    "latin": "protegere",
+    "pronunciation": "프로테게레",
+    "korean": "보호하다"
+  },
+  {
+    "latin": "ver",
+    "pronunciation": "베르",
+    "korean": "봄"
+  },
+  {
+    "latin": "ministerium",
+    "pronunciation": "미니스테리움",
+    "korean": "봉사"
+  },
+  {
+    "latin": "imponere",
+    "pronunciation": "임포네레",
+    "korean": "부과하다"
+  },
+  {
+    "latin": "appellare",
+    "pronunciation": "아펠라레",
+    "korean": "부르다"
+  },
+  {
+    "latin": "parens",
+    "pronunciation": "파렌스",
+    "korean": "부모"
+  },
+  {
+    "latin": "pars",
+    "pronunciation": "파르스",
+    "korean": "부분"
+  },
+  {
+    "latin": "fragilis",
+    "pronunciation": "프라길리스",
+    "korean": "부서지기 쉬운"
+  },
+  {
+    "latin": "destruere",
+    "pronunciation": "데스트루에레",
+    "korean": "부수다"
+  },
+  {
+    "latin": "coquina",
+    "pronunciation": "코퀴나",
+    "korean": "부엌"
+  },
+  {
+    "latin": "dives",
+    "pronunciation": "디베스",
+    "korean": "부유한"
+  },
+  {
+    "latin": "divitiae",
+    "pronunciation": "디비티아에",
+    "korean": "부유함"
+  },
+  {
+    "latin": "pater",
+    "pronunciation": "파테르",
+    "korean": "부친"
+  },
+  {
+    "latin": "septentrio",
+    "pronunciation": "셉텐트리오",
+    "korean": "북쪽"
+  },
+  {
+    "latin": "ira",
+    "pronunciation": "이라",
+    "korean": "분노"
+  },
+  {
+    "latin": "distribuere",
+    "pronunciation": "디스트리부에레",
+    "korean": "분배하다"
+  },
+  {
+    "latin": "ignis",
+    "pronunciation": "이그니스",
+    "korean": "불"
+  },
+  {
+    "latin": "impossibilis",
+    "pronunciation": "임포시빌리스",
+    "korean": "불가능한"
+  },
+  {
+    "latin": "flamma",
+    "pronunciation": "플라마",
+    "korean": "불꽃"
+  },
+  {
+    "latin": "iniustitia",
+    "pronunciation": "이니우스티티아",
+    "korean": "불의"
+  },
+  {
+    "latin": "discordia",
+    "pronunciation": "디스코르디아",
+    "korean": "불화"
+  },
+  {
+    "latin": "pluvia",
+    "pronunciation": "플루비아",
+    "korean": "비"
+  },
+  {
+    "latin": "comparare",
+    "pronunciation": "콤파라레",
+    "korean": "비교하다"
+  },
+  {
+    "latin": "sapo",
+    "pronunciation": "사포",
+    "korean": "비누"
+  },
+  {
+    "latin": "secretum",
+    "pronunciation": "세크레툼",
+    "korean": "비밀"
+  },
+  {
+    "latin": "similis",
+    "pronunciation": "시밀리스",
+    "korean": "비슷한"
+  },
+  {
+    "latin": "pretiosus",
+    "pronunciation": "프레티오수스",
+    "korean": "비싼"
+  },
+  {
+    "latin": "vacuus",
+    "pronunciation": "바쿠우스",
+    "korean": "빈"
+  },
+  {
+    "latin": "debitum",
+    "pronunciation": "데비툼",
+    "korean": "빚"
+  },
+  {
+    "latin": "lumen",
+    "pronunciation": "루멘",
+    "korean": "빛"
+  },
+  {
+    "latin": "celer",
+    "pronunciation": "켈레르",
+    "korean": "빠른"
+  },
+  {
+    "latin": "rubeus",
+    "pronunciation": "루베우스",
+    "korean": "빨간"
+  },
+  {
+    "latin": "panis",
+    "pronunciation": "파니스",
+    "korean": "빵"
+  },
+  {
+    "latin": "formosus",
+    "pronunciation": "포르모수스",
+    "korean": "빼어난"
+  },
+  {
+    "latin": "os",
+    "pronunciation": "오스",
+    "korean": "뼈"
+  },
+  {
+    "latin": "eventum",
+    "pronunciation": "에벤툼",
+    "korean": "사건"
+  },
+  {
+    "latin": "cogitatio",
+    "pronunciation": "코기타티오",
+    "korean": "사고"
+  },
+  {
+    "latin": "cogitare",
+    "pronunciation": "코기타레",
+    "korean": "사고하다"
+  },
+  {
+    "latin": "excusatio",
+    "pronunciation": "엑스쿠사티오",
+    "korean": "사과"
+  },
+  {
+    "latin": "malum",
+    "pronunciation": "말룸",
+    "korean": "사과(과일)"
+  },
+  {
+    "latin": "homo",
+    "pronunciation": "호모",
+    "korean": "사람"
+  },
+  {
+    "latin": "amor",
+    "pronunciation": "아모르",
+    "korean": "사랑"
+  },
+  {
+    "latin": "amare",
+    "pronunciation": "아마레",
+    "korean": "사랑하다"
+  },
+  {
+    "latin": "desertum",
+    "pronunciation": "데세르툼",
+    "korean": "사막"
+  },
+  {
+    "latin": "mors",
+    "pronunciation": "모르스",
+    "korean": "사망"
+  },
+  {
+    "latin": "judicialis",
+    "pronunciation": "유디키알리스",
+    "korean": "사법의"
+  },
+  {
+    "latin": "catena",
+    "pronunciation": "카테나",
+    "korean": "사슬"
+  },
+  {
+    "latin": "negotium",
+    "pronunciation": "네고티움",
+    "korean": "사업"
+  },
+  {
+    "latin": "usus",
+    "pronunciation": "우수스",
+    "korean": "사용"
+  },
+  {
+    "latin": "uti",
+    "pronunciation": "우티",
+    "korean": "사용하다"
+  },
+  {
+    "latin": "leo",
+    "pronunciation": "레오",
+    "korean": "사자"
+  },
+  {
+    "latin": "societas",
+    "pronunciation": "소키에타스",
+    "korean": "사회"
+  },
+  {
+    "latin": "mons",
+    "pronunciation": "몬스",
+    "korean": "산"
+  },
+  {
+    "latin": "industria",
+    "pronunciation": "인두스트리아",
+    "korean": "산업"
+  },
+  {
+    "latin": "lepus",
+    "pronunciation": "레푸스",
+    "korean": "산토끼"
+  },
+  {
+    "latin": "vivere",
+    "pronunciation": "비베레",
+    "korean": "살다"
+  },
+  {
+    "latin": "vita",
+    "pronunciation": "비타",
+    "korean": "삶"
+  },
+  {
+    "latin": "tres",
+    "pronunciation": "트레스",
+    "korean": "삼"
+  },
+  {
+    "latin": "avunculus",
+    "pronunciation": "아분쿨루스",
+    "korean": "삼촌"
+  },
+  {
+    "latin": "praemium",
+    "pronunciation": "프라에미움",
+    "korean": "상"
+  },
+  {
+    "latin": "imaginatio",
+    "pronunciation": "이마기나티오",
+    "korean": "상상"
+  },
+  {
+    "latin": "negotiatio",
+    "pronunciation": "네고티아티오",
+    "korean": "상업"
+  },
+  {
+    "latin": "mercator",
+    "pronunciation": "메르카토르",
+    "korean": "상인"
+  },
+  {
+    "latin": "taberna",
+    "pronunciation": "타베르나",
+    "korean": "상점"
+  },
+  {
+    "latin": "status",
+    "pronunciation": "스타투스",
+    "korean": "상태"
+  },
+  {
+    "latin": "avis",
+    "pronunciation": "아비스",
+    "korean": "새"
+  },
+  {
+    "latin": "novus",
+    "pronunciation": "노부스",
+    "korean": "새로운"
+  },
+  {
+    "latin": "census",
+    "pronunciation": "켄수스",
+    "korean": "새로운 삶"
+  },
+  {
+    "latin": "aurora",
+    "pronunciation": "아우로라",
+    "korean": "새벽"
+  },
+  {
+    "latin": "color",
+    "pronunciation": "콜로르",
+    "korean": "색"
+  },
+  {
+    "latin": "fons",
+    "pronunciation": "폰스",
+    "korean": "샘"
+  },
+  {
+    "latin": "productio",
+    "pronunciation": "프로둑티오",
+    "korean": "생산"
+  },
+  {
+    "latin": "natalis",
+    "pronunciation": "나탈리스",
+    "korean": "생일"
+  },
+  {
+    "latin": "exordium",
+    "pronunciation": "엑소르디움",
+    "korean": "서론"
+  },
+  {
+    "latin": "gelu",
+    "pronunciation": "겔루",
+    "korean": "서리"
+  },
+  {
+    "latin": "occidens",
+    "pronunciation": "옥키덴스",
+    "korean": "서양"
+  },
+  {
+    "latin": "ordo",
+    "pronunciation": "오르도",
+    "korean": "서열"
+  },
+  {
+    "latin": "liber",
+    "pronunciation": "리베르",
+    "korean": "서쪽"
+  },
+  {
+    "latin": "saxum",
+    "pronunciation": "삭숨",
+    "korean": "석"
+  },
+  {
+    "latin": "linea",
+    "pronunciation": "리네아",
+    "korean": "선"
+  },
+  {
+    "latin": "electio",
+    "pronunciation": "엘렉티오",
+    "korean": "선거"
+  },
+  {
+    "latin": "donum",
+    "pronunciation": "도눔",
+    "korean": "선물"
+  },
+  {
+    "latin": "dicare",
+    "pronunciation": "디카레",
+    "korean": "선언하다"
+  },
+  {
+    "latin": "magister navis",
+    "pronunciation": "마기스테르 나비스",
+    "korean": "선장"
+  },
+  {
+    "latin": "bonus",
+    "pronunciation": "보누스",
+    "korean": "선한"
+  },
+  {
+    "latin": "anteponere",
+    "pronunciation": "안테포네레",
+    "korean": "선호하다"
+  },
+  {
+    "latin": "fundare",
+    "pronunciation": "푼다레",
+    "korean": "설립하다"
+  },
+  {
+    "latin": "explanatio",
+    "pronunciation": "엑스플라나티오",
+    "korean": "설명"
+  },
+  {
+    "latin": "explanare",
+    "pronunciation": "엑스플라나레",
+    "korean": "설명하다"
+  },
+  {
+    "latin": "insula",
+    "pronunciation": "인술라",
+    "korean": "섬"
+  },
+  {
+    "latin": "crescentia",
+    "pronunciation": "크레스켄티아",
+    "korean": "성장"
+  },
+  {
+    "latin": "adipisci",
+    "pronunciation": "아디피스키",
+    "korean": "성취하다"
+  },
+  {
+    "latin": "mappa mundi",
+    "pronunciation": "마파 문디",
+    "korean": "세계 지도"
+  },
+  {
+    "latin": "tributum",
+    "pronunciation": "트리부툼",
+    "korean": "세금"
+  },
+  {
+    "latin": "saeculum",
+    "pronunciation": "사에쿨룸",
+    "korean": "세기"
+  },
+  {
+    "latin": "potentia",
+    "pronunciation": "포텐티아",
+    "korean": "세력"
+  },
+  {
+    "latin": "aedificare",
+    "pronunciation": "아에디피카레",
+    "korean": "세우다"
+  },
+  {
+    "latin": "erigere",
+    "pronunciation": "에리게레",
+    "korean": "세우다(건물)"
+  },
+  {
+    "latin": "vacca",
+    "pronunciation": "바카",
+    "korean": "소"
+  },
+  {
+    "latin": "sal",
+    "pronunciation": "살",
+    "korean": "소금"
+  },
+  {
+    "latin": "puella",
+    "pronunciation": "푸엘라",
+    "korean": "소녀"
+  },
+  {
+    "latin": "puer",
+    "pronunciation": "푸에르",
+    "korean": "소년"
+  },
+  {
+    "latin": "sonus",
+    "pronunciation": "소누스",
+    "korean": "소리"
+  },
+  {
+    "latin": "consumere",
+    "pronunciation": "콘수메레",
+    "korean": "소비하다"
+  },
+  {
+    "latin": "desiderium",
+    "pronunciation": "데시데리움",
+    "korean": "소원"
+  },
+  {
+    "latin": "possidere",
+    "pronunciation": "포시데레",
+    "korean": "소유하다"
+  },
+  {
+    "latin": "diligere",
+    "pronunciation": "딜리게레",
+    "korean": "소중히 여기다"
+  },
+  {
+    "latin": "velocitas",
+    "pronunciation": "벨로키타스",
+    "korean": "속도"
+  },
+  {
+    "latin": "velox",
+    "pronunciation": "벨록스",
+    "korean": "속도가 빠른"
+  },
+  {
+    "latin": "fallere",
+    "pronunciation": "팔레레",
+    "korean": "속이다"
+  },
+  {
+    "latin": "manus",
+    "pronunciation": "마누스",
+    "korean": "손"
+  },
+  {
+    "latin": "digitus",
+    "pronunciation": "디기투스",
+    "korean": "손가락"
+  },
+  {
+    "latin": "damnum",
+    "pronunciation": "담눔",
+    "korean": "손해"
+  },
+  {
+    "latin": "numerus",
+    "pronunciation": "누메루스",
+    "korean": "수"
+  },
+  {
+    "latin": "carrus",
+    "pronunciation": "카루스",
+    "korean": "수레"
+  },
+  {
+    "latin": "exercitatio",
+    "pronunciation": "엑세르키타티오",
+    "korean": "수련"
+  },
+  {
+    "latin": "canalis",
+    "pronunciation": "카날리스",
+    "korean": "수로"
+  },
+  {
+    "latin": "dormitio",
+    "pronunciation": "도르미티오",
+    "korean": "수면"
+  },
+  {
+    "latin": "barba",
+    "pronunciation": "바르바",
+    "korean": "수염"
+  },
+  {
+    "latin": "dies mercurii",
+    "pronunciation": "디에스 메르쿠리이",
+    "korean": "수요일"
+  },
+  {
+    "latin": "importare",
+    "pronunciation": "임포르타레",
+    "korean": "수입하다"
+  },
+  {
+    "latin": "corrigere",
+    "pronunciation": "코리게레",
+    "korean": "수정하다"
+  },
+  {
+    "latin": "aquatilis",
+    "pronunciation": "아쿠아틸리스",
+    "korean": "수중의"
+  },
+  {
+    "latin": "collectio",
+    "pronunciation": "콜렉티오",
+    "korean": "수집"
+  },
+  {
+    "latin": "exportare",
+    "pronunciation": "엑스포르타레",
+    "korean": "수출하다"
+  },
+  {
+    "latin": "mathematica",
+    "pronunciation": "마테마티카",
+    "korean": "수학"
+  },
+  {
+    "latin": "gerere",
+    "pronunciation": "게레레",
+    "korean": "수행하다"
+  },
+  {
+    "latin": "custos",
+    "pronunciation": "쿠스토스",
+    "korean": "수호자"
+  },
+  {
+    "latin": "deliberare",
+    "pronunciation": "델리베라레",
+    "korean": "숙고하다"
+  },
+  {
+    "latin": "silva",
+    "pronunciation": "실바",
+    "korean": "숲"
+  },
+  {
+    "latin": "requiescere",
+    "pronunciation": "레퀴에스케레",
+    "korean": "쉬다"
+  },
+  {
+    "latin": "facilis",
+    "pronunciation": "파킬리스",
+    "korean": "쉬운"
+  },
+  {
+    "latin": "quinquaginta",
+    "pronunciation": "퀸쿠아긴타",
+    "korean": "쉰"
+  },
+  {
+    "latin": "ludus athleticus",
+    "pronunciation": "루두스 아틀레티쿠스",
+    "korean": "스포츠"
+  },
+  {
+    "latin": "aegritudo",
+    "pronunciation": "아에그리투도",
+    "korean": "슬픔"
+  },
+  {
+    "latin": "tempus",
+    "pronunciation": "템푸스",
+    "korean": "시"
+  },
+  {
+    "latin": "carmen",
+    "pronunciation": "카르멘",
+    "korean": "시가"
+  },
+  {
+    "latin": "hora",
+    "pronunciation": "호라",
+    "korean": "시간"
+  },
+  {
+    "latin": "caementum",
+    "pronunciation": "카에멘툼",
+    "korean": "시멘트"
+  },
+  {
+    "latin": "civis",
+    "pronunciation": "키비스",
+    "korean": "시민"
+  },
+  {
+    "latin": "civitas",
+    "pronunciation": "키비타스",
+    "korean": "시민권"
+  },
+  {
+    "latin": "jus civile",
+    "pronunciation": "유스 키빌레",
+    "korean": "시민법"
+  },
+  {
+    "latin": "initium",
+    "pronunciation": "이니티움",
+    "korean": "시작"
+  },
+  {
+    "latin": "coepisse",
+    "pronunciation": "코에피세",
+    "korean": "시작된"
+  },
+  {
+    "latin": "incipere",
+    "pronunciation": "인키페레",
+    "korean": "시작하다"
+  },
+  {
+    "latin": "forum",
+    "pronunciation": "포룸",
+    "korean": "시장"
+  },
+  {
+    "latin": "emporium",
+    "pronunciation": "엠포리움",
+    "korean": "시장터"
+  },
+  {
+    "latin": "acidus",
+    "pronunciation": "아키두스",
+    "korean": "시큼한"
+  },
+  {
+    "latin": "examen",
+    "pronunciation": "엑사멘",
+    "korean": "시험"
+  },
+  {
+    "latin": "planta",
+    "pronunciation": "플란타",
+    "korean": "식물"
+  },
+  {
+    "latin": "cena",
+    "pronunciation": "케나",
+    "korean": "식사"
+  },
+  {
+    "latin": "cenare",
+    "pronunciation": "케나레",
+    "korean": "식사하다"
+  },
+  {
+    "latin": "appetitus",
+    "pronunciation": "아페티투스",
+    "korean": "식욕"
+  },
+  {
+    "latin": "mensa",
+    "pronunciation": "멘사",
+    "korean": "식탁"
+  },
+  {
+    "latin": "deus",
+    "pronunciation": "데우스",
+    "korean": "신"
+  },
+  {
+    "latin": "fiducia",
+    "pronunciation": "피두키아",
+    "korean": "신뢰"
+  },
+  {
+    "latin": "fidere",
+    "pronunciation": "피데레",
+    "korean": "신뢰하다"
+  },
+  {
+    "latin": "acta diurna",
+    "pronunciation": "악타 디우르나",
+    "korean": "신문"
+  },
+  {
+    "latin": "diarium",
+    "pronunciation": "디아리움",
+    "korean": "신문(일간)"
+  },
+  {
+    "latin": "calceamentum",
+    "pronunciation": "칼케아멘툼",
+    "korean": "신발"
+  },
+  {
+    "latin": "celeritas",
+    "pronunciation": "켈레리타스",
+    "korean": "신속"
+  },
+  {
+    "latin": "filum",
+    "pronunciation": "필룸",
+    "korean": "실"
+  },
+  {
+    "latin": "realitas",
+    "pronunciation": "레알리타스",
+    "korean": "실제"
+  },
+  {
+    "latin": "verus",
+    "pronunciation": "베루스",
+    "korean": "실제의"
+  },
+  {
+    "latin": "odisse",
+    "pronunciation": "오디세",
+    "korean": "싫어하다"
+  },
+  {
+    "latin": "cor",
+    "pronunciation": "코르",
+    "korean": "심장"
+  },
+  {
+    "latin": "decem",
+    "pronunciation": "데켐",
+    "korean": "십"
+  },
+  {
+    "latin": "volo",
+    "pronunciation": "볼로",
+    "korean": "싶다"
+  },
+  {
+    "latin": "pugnare",
+    "pronunciation": "푸그나레",
+    "korean": "싸우다"
+  },
+  {
+    "latin": "certatio",
+    "pronunciation": "케르타티오",
+    "korean": "싸움"
+  },
+  {
+    "latin": "vilis",
+    "pronunciation": "빌리스",
+    "korean": "싼"
+  },
+  {
+    "latin": "amarus",
+    "pronunciation": "아마루스",
+    "korean": "쓰라린"
+  },
+  {
+    "latin": "acerbus",
+    "pronunciation": "아케르부스",
+    "korean": "쓴"
+  },
+  {
+    "latin": "lavare",
+    "pronunciation": "라바레",
+    "korean": "씻다"
+  },
+  {
+    "latin": "infans",
+    "pronunciation": "인판스",
+    "korean": "아기"
+  },
+  {
+    "latin": "uxor",
+    "pronunciation": "욱소르",
+    "korean": "아내"
+  },
+  {
+    "latin": "non",
+    "pronunciation": "논",
+    "korean": "아니"
+  },
+  {
+    "latin": "filius",
+    "pronunciation": "필리우스",
+    "korean": "아들"
+  },
+  {
+    "latin": "infra",
+    "pronunciation": "인프라",
+    "korean": "아래에"
+  },
+  {
+    "latin": "pulcher",
+    "pronunciation": "풀케르",
+    "korean": "아름다운"
+  },
+  {
+    "latin": "fortasse",
+    "pronunciation": "포르타세",
+    "korean": "아마도"
+  },
+  {
+    "latin": "nihil",
+    "pronunciation": "니힐",
+    "korean": "아무것도 아닌"
+  },
+  {
+    "latin": "nondum",
+    "pronunciation": "논둠",
+    "korean": "아직"
+  },
+  {
+    "latin": "mane",
+    "pronunciation": "마네",
+    "korean": "아침"
+  },
+  {
+    "latin": "dolere",
+    "pronunciation": "돌레레",
+    "korean": "아프다"
+  },
+  {
+    "latin": "aegrotus",
+    "pronunciation": "아에그로투스",
+    "korean": "아픈"
+  },
+  {
+    "latin": "musica",
+    "pronunciation": "무시카",
+    "korean": "악기"
+  },
+  {
+    "latin": "malus",
+    "pronunciation": "말루스",
+    "korean": "악한"
+  },
+  {
+    "latin": "salve",
+    "pronunciation": "살베",
+    "korean": "안녕"
+  },
+  {
+    "latin": "tutus",
+    "pronunciation": "투투스",
+    "korean": "안전한"
+  },
+  {
+    "latin": "sedere",
+    "pronunciation": "세데레",
+    "korean": "앉다"
+  },
+  {
+    "latin": "cognoscere",
+    "pronunciation": "코그노스케레",
+    "korean": "알다"
+  },
+  {
+    "latin": "ante",
+    "pronunciation": "안테",
+    "korean": "앞에"
+  },
+  {
+    "latin": "medicamentum",
+    "pronunciation": "메디카멘툼",
+    "korean": "약"
+  },
+  {
+    "latin": "promissio",
+    "pronunciation": "프로미시오",
+    "korean": "약속"
+  },
+  {
+    "latin": "medicina",
+    "pronunciation": "메디키나",
+    "korean": "약학"
+  },
+  {
+    "latin": "debilis",
+    "pronunciation": "데빌리스",
+    "korean": "약한"
+  },
+  {
+    "latin": "ovis",
+    "pronunciation": "오비스",
+    "korean": "양"
+  },
+  {
+    "latin": "cedere",
+    "pronunciation": "케데레",
+    "korean": "양보하다"
+  },
+  {
+    "latin": "obscurus",
+    "pronunciation": "옵스쿠루스",
+    "korean": "어두운"
+  },
+  {
+    "latin": "ubi",
+    "pronunciation": "우비",
+    "korean": "어디에"
+  },
+  {
+    "latin": "difficilis",
+    "pronunciation": "디피킬리스",
+    "korean": "어려운"
+  },
+  {
+    "latin": "piscis",
+    "pronunciation": "피스키스",
+    "korean": "어류"
+  },
+  {
+    "latin": "infantia",
+    "pronunciation": "인판티아",
+    "korean": "어린 시절"
+  },
+  {
+    "latin": "agnus",
+    "pronunciation": "아그누스",
+    "korean": "어린 양"
+  },
+  {
+    "latin": "heri",
+    "pronunciation": "헤리",
+    "korean": "어제"
+  },
+  {
+    "latin": "verbum",
+    "pronunciation": "베르붐",
+    "korean": "어휘"
+  },
+  {
+    "latin": "collis",
+    "pronunciation": "콜리스",
+    "korean": "언덕"
+  },
+  {
+    "latin": "lingua",
+    "pronunciation": "링구아",
+    "korean": "언어"
+  },
+  {
+    "latin": "quando",
+    "pronunciation": "콴도",
+    "korean": "언제"
+  },
+  {
+    "latin": "semper",
+    "pronunciation": "셈페르",
+    "korean": "언제나"
+  },
+  {
+    "latin": "acquirere",
+    "pronunciation": "아크퀴레레",
+    "korean": "얻다"
+  },
+  {
+    "latin": "facies",
+    "pronunciation": "파키에스",
+    "korean": "얼굴"
+  },
+  {
+    "latin": "quantum",
+    "pronunciation": "콴툼",
+    "korean": "얼마나"
+  },
+  {
+    "latin": "glacies",
+    "pronunciation": "글라키에스",
+    "korean": "얼음"
+  },
+  {
+    "latin": "energeia",
+    "pronunciation": "에네르게이아",
+    "korean": "에너지"
+  },
+  {
+    "latin": "aestas",
+    "pronunciation": "아에스타스",
+    "korean": "여름"
+  },
+  {
+    "latin": "itinerarium",
+    "pronunciation": "이티네라리움",
+    "korean": "여행기"
+  },
+  {
+    "latin": "statio",
+    "pronunciation": "스타티오",
+    "korean": "역"
+  },
+  {
+    "latin": "historia",
+    "pronunciation": "히스토리아",
+    "korean": "역사"
+  },
+  {
+    "latin": "coniungere",
+    "pronunciation": "코니운게레",
+    "korean": "연결하다"
+  },
+  {
+    "latin": "fumus",
+    "pronunciation": "푸무스",
+    "korean": "연기"
+  },
+  {
+    "latin": "oratio",
+    "pronunciation": "오라티오",
+    "korean": "연설"
+  },
+  {
+    "latin": "calor",
+    "pronunciation": "칼로르",
+    "korean": "열"
+  },
+  {
+    "latin": "aperire",
+    "pronunciation": "아페리레",
+    "korean": "열다"
+  },
+  {
+    "latin": "apertus",
+    "pronunciation": "아페르투스",
+    "korean": "열린"
+  },
+  {
+    "latin": "clavis",
+    "pronunciation": "클라비스",
+    "korean": "열쇠"
+  },
+  {
+    "latin": "fervor",
+    "pronunciation": "페르보르",
+    "korean": "열정"
+  },
+  {
+    "latin": "capra",
+    "pronunciation": "카프라",
+    "korean": "염소"
+  },
+  {
+    "latin": "gloria",
+    "pronunciation": "글로리아",
+    "korean": "영광"
+  },
+  {
+    "latin": "regio",
+    "pronunciation": "레기오",
+    "korean": "영역"
+  },
+  {
+    "latin": "heros",
+    "pronunciation": "헤로스",
+    "korean": "영웅"
+  },
+  {
+    "latin": "aeternitas",
+    "pronunciation": "아에테르니타스",
+    "korean": "영원"
+  },
+  {
+    "latin": "aeternus",
+    "pronunciation": "아에테르누스",
+    "korean": "영원한"
+  },
+  {
+    "latin": "influentia",
+    "pronunciation": "인플루엔티아",
+    "korean": "영향"
+  },
+  {
+    "latin": "anima",
+    "pronunciation": "아니마",
+    "korean": "영혼"
+  },
+  {
+    "latin": "exemplum",
+    "pronunciation": "엑셈플룸",
+    "korean": "예"
+  },
+  {
+    "latin": "prophetia",
+    "pronunciation": "프로페티아",
+    "korean": "예언"
+  },
+  {
+    "latin": "comitas",
+    "pronunciation": "코미타스",
+    "korean": "예의"
+  },
+  {
+    "latin": "olim",
+    "pronunciation": "올림",
+    "korean": "옛날에"
+  },
+  {
+    "latin": "quinque",
+    "pronunciation": "퀸퀘",
+    "korean": "오"
+  },
+  {
+    "latin": "hodie",
+    "pronunciation": "호디에",
+    "korean": "오늘"
+  },
+  {
+    "latin": "diu",
+    "pronunciation": "디우",
+    "korean": "오래"
+  },
+  {
+    "latin": "error",
+    "pronunciation": "에르로르",
+    "korean": "오류"
+  },
+  {
+    "latin": "ascendere",
+    "pronunciation": "아스켄데레",
+    "korean": "오르다"
+  },
+  {
+    "latin": "dextera",
+    "pronunciation": "덱스테라",
+    "korean": "오른손"
+  },
+  {
+    "latin": "dexter",
+    "pronunciation": "덱스테르",
+    "korean": "오른쪽의"
+  },
+  {
+    "latin": "frater",
+    "pronunciation": "프라테르",
+    "korean": "오빠"
+  },
+  {
+    "latin": "post meridiem",
+    "pronunciation": "포스트 메리디엠",
+    "korean": "오후"
+  },
+  {
+    "latin": "vestis",
+    "pronunciation": "베스티스",
+    "korean": "옷"
+  },
+  {
+    "latin": "vestimentum",
+    "pronunciation": "베스티멘툼",
+    "korean": "옷감"
+  },
+  {
+    "latin": "rex",
+    "pronunciation": "렉스",
+    "korean": "왕"
+  },
+  {
+    "latin": "corona",
+    "pronunciation": "코로나",
+    "korean": "왕관"
+  },
+  {
+    "latin": "regina",
+    "pronunciation": "레기나",
+    "korean": "왕비"
+  },
+  {
+    "latin": "cur",
+    "pronunciation": "쿠르",
+    "korean": "왜"
+  },
+  {
+    "latin": "externus",
+    "pronunciation": "엑스테르누스",
+    "korean": "외국의"
+  },
+  {
+    "latin": "exclamare",
+    "pronunciation": "엑스클라마레",
+    "korean": "외치다"
+  },
+  {
+    "latin": "sinister",
+    "pronunciation": "시니스테르",
+    "korean": "왼쪽의"
+  },
+  {
+    "latin": "coquere",
+    "pronunciation": "코퀘레",
+    "korean": "요리하다"
+  },
+  {
+    "latin": "postulatio",
+    "pronunciation": "포스툴라티오",
+    "korean": "요청"
+  },
+  {
+    "latin": "postulare",
+    "pronunciation": "포스툴라레",
+    "korean": "요청하다"
+  },
+  {
+    "latin": "cupiditas",
+    "pronunciation": "쿠피디타스",
+    "korean": "욕망"
+  },
+  {
+    "latin": "balneum",
+    "pronunciation": "발네움",
+    "korean": "욕실"
+  },
+  {
+    "latin": "draconem",
+    "pronunciation": "드라코넴",
+    "korean": "용"
+  },
+  {
+    "latin": "fortis",
+    "pronunciation": "포르티스",
+    "korean": "용감한"
+  },
+  {
+    "latin": "nos",
+    "pronunciation": "노스",
+    "korean": "우리"
+  },
+  {
+    "latin": "umbrella",
+    "pronunciation": "움브렐라",
+    "korean": "우산"
+  },
+  {
+    "latin": "superior",
+    "pronunciation": "수페리오르",
+    "korean": "우수한"
+  },
+  {
+    "latin": "casus",
+    "pronunciation": "카수스",
+    "korean": "우연"
+  },
+  {
+    "latin": "lac",
+    "pronunciation": "락",
+    "korean": "우유"
+  },
+  {
+    "latin": "amicitia",
+    "pronunciation": "아미키티아",
+    "korean": "우정"
+  },
+  {
+    "latin": "universum",
+    "pronunciation": "우니베르숨",
+    "korean": "우주"
+  },
+  {
+    "latin": "motus",
+    "pronunciation": "모투스",
+    "korean": "운동"
+  },
+  {
+    "latin": "fatum",
+    "pronunciation": "파툼",
+    "korean": "운명"
+  },
+  {
+    "latin": "clamare",
+    "pronunciation": "클라마레",
+    "korean": "울다"
+  },
+  {
+    "latin": "ridere",
+    "pronunciation": "리데레",
+    "korean": "웃다"
+  },
+  {
+    "latin": "risus",
+    "pronunciation": "리수스",
+    "korean": "웃음"
+  },
+  {
+    "latin": "circulus",
+    "pronunciation": "키르쿨루스",
+    "korean": "원"
+  },
+  {
+    "latin": "princeps",
+    "pronunciation": "프린켑스",
+    "korean": "원리"
+  },
+  {
+    "latin": "inimicus",
+    "pronunciation": "이니미쿠스",
+    "korean": "원수"
+  },
+  {
+    "latin": "causa",
+    "pronunciation": "카우사",
+    "korean": "원인"
+  },
+  {
+    "latin": "expeditio",
+    "pronunciation": "엑스페디티오",
+    "korean": "원정"
+  },
+  {
+    "latin": "principium",
+    "pronunciation": "프린키피움",
+    "korean": "원칙"
+  },
+  {
+    "latin": "velle",
+    "pronunciation": "벨레",
+    "korean": "원하다"
+  },
+  {
+    "latin": "dies lunae",
+    "pronunciation": "디에스 루나에",
+    "korean": "월요일"
+  },
+  {
+    "latin": "magnitudo",
+    "pronunciation": "마그니투도",
+    "korean": "위대함"
+  },
+  {
+    "latin": "supra",
+    "pronunciation": "수프라",
+    "korean": "위에"
+  },
+  {
+    "latin": "periculum",
+    "pronunciation": "페리쿨룸",
+    "korean": "위험"
+  },
+  {
+    "latin": "periculosus",
+    "pronunciation": "페리쿨로수스",
+    "korean": "위험한"
+  },
+  {
+    "latin": "Europa",
+    "pronunciation": "에우로파",
+    "korean": "유럽"
+  },
+  {
+    "latin": "vitrum",
+    "pronunciation": "비트룸",
+    "korean": "유리"
+  },
+  {
+    "latin": "fenestra",
+    "pronunciation": "페네스트라",
+    "korean": "유리창"
+  },
+  {
+    "latin": "fama",
+    "pronunciation": "파마",
+    "korean": "유명"
+  },
+  {
+    "latin": "famosus",
+    "pronunciation": "파모수스",
+    "korean": "유명한"
+  },
+  {
+    "latin": "hereditas",
+    "pronunciation": "헤레디타스",
+    "korean": "유산"
+  },
+  {
+    "latin": "utilis",
+    "pronunciation": "우틸리스",
+    "korean": "유용한"
+  },
+  {
+    "latin": "effectivus",
+    "pronunciation": "에펙티부스",
+    "korean": "유효한"
+  },
+  {
+    "latin": "sex",
+    "pronunciation": "섹스",
+    "korean": "육"
+  },
+  {
+    "latin": "argentum",
+    "pronunciation": "아르겐툼",
+    "korean": "은"
+  },
+  {
+    "latin": "argentarius",
+    "pronunciation": "아르겐타리우스",
+    "korean": "은행가"
+  },
+  {
+    "latin": "beneficium",
+    "pronunciation": "베네피키움",
+    "korean": "은혜"
+  },
+  {
+    "latin": "potus",
+    "pronunciation": "포투스",
+    "korean": "음료"
+  },
+  {
+    "latin": "bibere",
+    "pronunciation": "비베레",
+    "korean": "음료를 마시다"
+  },
+  {
+    "latin": "opinio",
+    "pronunciation": "오피니오",
+    "korean": "의견"
+  },
+  {
+    "latin": "debere",
+    "pronunciation": "데베레",
+    "korean": "의무가 있다"
+  },
+  {
+    "latin": "significare",
+    "pronunciation": "시그니피카레",
+    "korean": "의미하다"
+  },
+  {
+    "latin": "medicus",
+    "pronunciation": "메디쿠스",
+    "korean": "의사"
+  },
+  {
+    "latin": "dubium",
+    "pronunciation": "두비움",
+    "korean": "의심"
+  },
+  {
+    "latin": "dubitare",
+    "pronunciation": "두비타레",
+    "korean": "의심하다"
+  },
+  {
+    "latin": "sella",
+    "pronunciation": "셀라",
+    "korean": "의자"
+  },
+  {
+    "latin": "duo",
+    "pronunciation": "두오",
+    "korean": "이"
+  },
+  {
+    "latin": "hic",
+    "pronunciation": "힉",
+    "korean": "이것"
+  },
+  {
+    "latin": "vincere",
+    "pronunciation": "빈케레",
+    "korean": "이기다"
+  },
+  {
+    "latin": "conducere",
+    "pronunciation": "콘두케레",
+    "korean": "이끌다"
+  },
+  {
+    "latin": "nomen",
+    "pronunciation": "노멘",
+    "korean": "이름"
+  },
+  {
+    "latin": "iam",
+    "pronunciation": "이암",
+    "korean": "이미"
+  },
+  {
+    "latin": "imago",
+    "pronunciation": "이마고",
+    "korean": "이미지"
+  },
+  {
+    "latin": "dens",
+    "pronunciation": "덴스",
+    "korean": "이빨"
+  },
+  {
+    "latin": "fabula",
+    "pronunciation": "파불라",
+    "korean": "이야기"
+  },
+  {
+    "latin": "narrare",
+    "pronunciation": "나르라레",
+    "korean": "이야기하다"
+  },
+  {
+    "latin": "vicinus",
+    "pronunciation": "비키누스",
+    "korean": "이웃"
+  },
+  {
+    "latin": "proficuum",
+    "pronunciation": "프로피쿠움",
+    "korean": "이익"
+  },
+  {
+    "latin": "transmigratio",
+    "pronunciation": "트란스미그라티오",
+    "korean": "이주"
+  },
+  {
+    "latin": "intelligere",
+    "pronunciation": "인텔리게레",
+    "korean": "이해하다"
+  },
+  {
+    "latin": "humanitas",
+    "pronunciation": "후마니타스",
+    "korean": "인간성"
+  },
+  {
+    "latin": "patientia",
+    "pronunciation": "파티엔티아",
+    "korean": "인내"
+  },
+  {
+    "latin": "ducere",
+    "pronunciation": "두케레",
+    "korean": "인도하다"
+  },
+  {
+    "latin": "salutatio",
+    "pronunciation": "살루타티오",
+    "korean": "인사"
+  },
+  {
+    "latin": "vita humana",
+    "pronunciation": "비타 후마나",
+    "korean": "인생"
+  },
+  {
+    "latin": "unus",
+    "pronunciation": "우누스",
+    "korean": "일"
+  },
+  {
+    "latin": "opus",
+    "pronunciation": "오푸스",
+    "korean": "일(작업)"
+  },
+  {
+    "latin": "cotidianus",
+    "pronunciation": "코티디아누스",
+    "korean": "일상의"
+  },
+  {
+    "latin": "solis dies",
+    "pronunciation": "솔리스 디에스",
+    "korean": "일요일"
+  },
+  {
+    "latin": "congruere",
+    "pronunciation": "콘그루에레",
+    "korean": "일치하다"
+  },
+  {
+    "latin": "operari",
+    "pronunciation": "오페라리",
+    "korean": "일하다"
+  },
+  {
+    "latin": "laborare",
+    "pronunciation": "라보라레",
+    "korean": "일하다(노동)"
+  },
+  {
+    "latin": "legere",
+    "pronunciation": "레게레",
+    "korean": "읽다"
+  },
+  {
+    "latin": "amittere",
+    "pronunciation": "아미테레",
+    "korean": "잃다"
+  },
+  {
+    "latin": "induere",
+    "pronunciation": "인두에레",
+    "korean": "입다"
+  },
+  {
+    "latin": "labium",
+    "pronunciation": "라비움",
+    "korean": "입술"
+  },
+  {
+    "latin": "habere",
+    "pronunciation": "하베레",
+    "korean": "있다"
+  },
+  {
+    "latin": "oblivisci",
+    "pronunciation": "오블리비스키",
+    "korean": "잊다"
+  },
+  {
+    "latin": "folium",
+    "pronunciation": "폴리움",
+    "korean": "잎"
+  },
+  {
+    "latin": "ipse",
+    "pronunciation": "입세",
+    "korean": "자기 자신"
+  },
+  {
+    "latin": "confidentia",
+    "pronunciation": "콘피덴티아",
+    "korean": "자신감"
+  },
+  {
+    "latin": "natura",
+    "pronunciation": "나투라",
+    "korean": "자연"
+  },
+  {
+    "latin": "libertas",
+    "pronunciation": "리베르타스",
+    "korean": "자유"
+  },
+  {
+    "latin": "conscribere",
+    "pronunciation": "콘스크리베레",
+    "korean": "작성하다"
+  },
+  {
+    "latin": "parvus",
+    "pronunciation": "파르부스",
+    "korean": "작은"
+  },
+  {
+    "latin": "poculum",
+    "pronunciation": "포쿨룸",
+    "korean": "잔"
+  },
+  {
+    "latin": "herba",
+    "pronunciation": "헤르바",
+    "korean": "잔디"
+  },
+  {
+    "latin": "crudelis",
+    "pronunciation": "크루델리스",
+    "korean": "잔인한"
+  },
+  {
+    "latin": "bene",
+    "pronunciation": "베네",
+    "korean": "잘"
+  },
+  {
+    "latin": "culpa",
+    "pronunciation": "쿨파",
+    "korean": "잘못"
+  },
+  {
+    "latin": "somnus",
+    "pronunciation": "솜누스",
+    "korean": "잠"
+  },
+  {
+    "latin": "momentum",
+    "pronunciation": "모멘툼",
+    "korean": "잠깐"
+  },
+  {
+    "latin": "dormire",
+    "pronunciation": "도르미레",
+    "korean": "잠자다"
+  },
+  {
+    "latin": "capere",
+    "pronunciation": "카페레",
+    "korean": "잡다"
+  },
+  {
+    "latin": "scaena",
+    "pronunciation": "스카에나",
+    "korean": "장면"
+  },
+  {
+    "latin": "ornamentum",
+    "pronunciation": "오르나멘툼",
+    "korean": "장식"
+  },
+  {
+    "latin": "cinis",
+    "pronunciation": "키니스",
+    "korean": "재"
+  },
+  {
+    "latin": "calamitas",
+    "pronunciation": "칼라미타스",
+    "korean": "재난"
+  },
+  {
+    "latin": "talentum",
+    "pronunciation": "탈렌툼",
+    "korean": "재능"
+  },
+  {
+    "latin": "fortuna",
+    "pronunciation": "포르투나",
+    "korean": "재산"
+  },
+  {
+    "latin": "ille",
+    "pronunciation": "일레",
+    "korean": "저것"
+  },
+  {
+    "latin": "vesper",
+    "pronunciation": "베스페르",
+    "korean": "저녁"
+  },
+  {
+    "latin": "scriptor",
+    "pronunciation": "스크립토르",
+    "korean": "저자"
+  },
+  {
+    "latin": "resistentia",
+    "pronunciation": "레시스텐티아",
+    "korean": "저항"
+  },
+  {
+    "latin": "adversarius",
+    "pronunciation": "아드베르사리우스",
+    "korean": "적"
+  },
+  {
+    "latin": "electricitas",
+    "pronunciation": "엘렉트리키타스",
+    "korean": "전기"
+  },
+  {
+    "latin": "acies",
+    "pronunciation": "아키에스",
+    "korean": "전선"
+  },
+  {
+    "latin": "exponere",
+    "pronunciation": "엑스포네레",
+    "korean": "전시하다"
+  },
+  {
+    "latin": "bellum",
+    "pronunciation": "벨룸",
+    "korean": "전쟁"
+  },
+  {
+    "latin": "casus belli",
+    "pronunciation": "카수스 벨리",
+    "korean": "전쟁 원인"
+  },
+  {
+    "latin": "currus",
+    "pronunciation": "쿠루스",
+    "korean": "전차"
+  },
+  {
+    "latin": "totus",
+    "pronunciation": "토투스",
+    "korean": "전체의"
+  },
+  {
+    "latin": "traditio",
+    "pronunciation": "트라디티오",
+    "korean": "전통"
+  },
+  {
+    "latin": "templum",
+    "pronunciation": "템플룸",
+    "korean": "절"
+  },
+  {
+    "latin": "dimidius",
+    "pronunciation": "디미디우스",
+    "korean": "절반의"
+  },
+  {
+    "latin": "processus",
+    "pronunciation": "프로케수스",
+    "korean": "절차"
+  },
+  {
+    "latin": "iuvenis",
+    "pronunciation": "유베니스",
+    "korean": "젊은"
+  },
+  {
+    "latin": "juventus",
+    "pronunciation": "유벤투스",
+    "korean": "젊음"
+  },
+  {
+    "latin": "punctum",
+    "pronunciation": "풍크툼",
+    "korean": "점"
+  },
+  {
+    "latin": "prandium",
+    "pronunciation": "프란디움",
+    "korean": "점심"
+  },
+  {
+    "latin": "contactus",
+    "pronunciation": "콘탁투스",
+    "korean": "접촉"
+  },
+  {
+    "latin": "informatio",
+    "pronunciation": "인포르마티오",
+    "korean": "정보"
+  },
+  {
+    "latin": "gubernium",
+    "pronunciation": "구베르니움",
+    "korean": "정부"
+  },
+  {
+    "latin": "apex",
+    "pronunciation": "아펙스",
+    "korean": "정상"
+  },
+  {
+    "latin": "spiritus",
+    "pronunciation": "스피리투스",
+    "korean": "정신"
+  },
+  {
+    "latin": "hortus",
+    "pronunciation": "호르투스",
+    "korean": "정원"
+  },
+  {
+    "latin": "iustus",
+    "pronunciation": "유스투스",
+    "korean": "정의로운"
+  },
+  {
+    "latin": "honestas",
+    "pronunciation": "호네스타스",
+    "korean": "정직"
+  },
+  {
+    "latin": "politica",
+    "pronunciation": "폴리티카",
+    "korean": "정치"
+  },
+  {
+    "latin": "exactus",
+    "pronunciation": "엑삭투스",
+    "korean": "정확한"
+  },
+  {
+    "latin": "imperium",
+    "pronunciation": "임페리움",
+    "korean": "제국"
+  },
+  {
+    "latin": "fabricare",
+    "pronunciation": "파브리카레",
+    "korean": "제작하다"
+  },
+  {
+    "latin": "constituere",
+    "pronunciation": "콘스티투에레",
+    "korean": "제정하다"
+  },
+  {
+    "latin": "condicio",
+    "pronunciation": "콘디키오",
+    "korean": "조건"
+  },
+  {
+    "latin": "avus",
+    "pronunciation": "아부스",
+    "korean": "조부"
+  },
+  {
+    "latin": "investigatio",
+    "pronunciation": "인베스티가티오",
+    "korean": "조사"
+  },
+  {
+    "latin": "caute",
+    "pronunciation": "카우테",
+    "korean": "조심스럽게"
+  },
+  {
+    "latin": "cavere",
+    "pronunciation": "카베레",
+    "korean": "조심하다"
+  },
+  {
+    "latin": "organum",
+    "pronunciation": "오르가눔",
+    "korean": "조직"
+  },
+  {
+    "latin": "honor",
+    "pronunciation": "호노르",
+    "korean": "존경"
+  },
+  {
+    "latin": "dignitas",
+    "pronunciation": "디그니타스",
+    "korean": "존엄"
+  },
+  {
+    "latin": "existentia",
+    "pronunciation": "엑시스텐티아",
+    "korean": "존재"
+  },
+  {
+    "latin": "existere",
+    "pronunciation": "엑시스테레",
+    "korean": "존재하다"
+  },
+  {
+    "latin": "esse",
+    "pronunciation": "에세",
+    "korean": "존재하다(동사)"
+  },
+  {
+    "latin": "alumnus",
+    "pronunciation": "알룸누스",
+    "korean": "졸업생"
+  },
+  {
+    "latin": "angustus",
+    "pronunciation": "안구스투스",
+    "korean": "좁은"
+  },
+  {
+    "latin": "servus",
+    "pronunciation": "세르부스",
+    "korean": "종"
+  },
+  {
+    "latin": "religio",
+    "pronunciation": "렐리기오",
+    "korean": "종교"
+  },
+  {
+    "latin": "genus",
+    "pronunciation": "게누스",
+    "korean": "종류"
+  },
+  {
+    "latin": "charta",
+    "pronunciation": "카르타",
+    "korean": "종이"
+  },
+  {
+    "latin": "gens",
+    "pronunciation": "겐스",
+    "korean": "종족"
+  },
+  {
+    "latin": "crimen",
+    "pronunciation": "크리멘",
+    "korean": "죄"
+  },
+  {
+    "latin": "hebdomas",
+    "pronunciation": "헵도마스",
+    "korean": "주"
+  },
+  {
+    "latin": "dare",
+    "pronunciation": "다레",
+    "korean": "주다"
+  },
+  {
+    "latin": "praecipuus",
+    "pronunciation": "프라에키푸우스",
+    "korean": "주요한"
+  },
+  {
+    "latin": "circum",
+    "pronunciation": "키르쿰",
+    "korean": "주위에"
+  },
+  {
+    "latin": "attentio",
+    "pronunciation": "아텐티오",
+    "korean": "주의"
+  },
+  {
+    "latin": "dominus",
+    "pronunciation": "도미누스",
+    "korean": "주인"
+  },
+  {
+    "latin": "mori",
+    "pronunciation": "모리",
+    "korean": "죽다"
+  },
+  {
+    "latin": "praeparatio",
+    "pronunciation": "프라에파라티오",
+    "korean": "준비"
+  },
+  {
+    "latin": "praeparare",
+    "pronunciation": "프라에파라레",
+    "korean": "준비하다"
+  },
+  {
+    "latin": "medium",
+    "pronunciation": "메디움",
+    "korean": "중간"
+  },
+  {
+    "latin": "cessare",
+    "pronunciation": "체사레",
+    "korean": "중단하다"
+  },
+  {
+    "latin": "laetitia",
+    "pronunciation": "라에티티아",
+    "korean": "즐거움"
+  },
+  {
+    "latin": "gaudere",
+    "pronunciation": "가우데레",
+    "korean": "즐기다"
+  },
+  {
+    "latin": "augmentum",
+    "pronunciation": "아우그멘툼",
+    "korean": "증가"
+  },
+  {
+    "latin": "crescere",
+    "pronunciation": "크레스케레",
+    "korean": "증가하다"
+  },
+  {
+    "latin": "evidentia",
+    "pronunciation": "에비덴티아",
+    "korean": "증거"
+  },
+  {
+    "latin": "augere",
+    "pronunciation": "아우게레",
+    "korean": "증대하다"
+  },
+  {
+    "latin": "demonstrare",
+    "pronunciation": "데몬스트라레",
+    "korean": "증명하다"
+  },
+  {
+    "latin": "nunc",
+    "pronunciation": "눈크",
+    "korean": "지금"
+  },
+  {
+    "latin": "mappa",
+    "pronunciation": "마파",
+    "korean": "지도"
+  },
+  {
+    "latin": "tabula",
+    "pronunciation": "타불라",
+    "korean": "지도(표)"
+  },
+  {
+    "latin": "dux",
+    "pronunciation": "둑스",
+    "korean": "지도자"
+  },
+  {
+    "latin": "dirigere",
+    "pronunciation": "디리게레",
+    "korean": "지시하다"
+  },
+  {
+    "latin": "cognitio",
+    "pronunciation": "코그니티오",
+    "korean": "지식"
+  },
+  {
+    "latin": "positio",
+    "pronunciation": "포시티오",
+    "korean": "지위"
+  },
+  {
+    "latin": "indicare",
+    "pronunciation": "인디카레",
+    "korean": "지적하다"
+  },
+  {
+    "latin": "designare",
+    "pronunciation": "데시그나레",
+    "korean": "지정하다"
+  },
+  {
+    "latin": "sustinere",
+    "pronunciation": "수스티네레",
+    "korean": "지지하다"
+  },
+  {
+    "latin": "baculum",
+    "pronunciation": "바쿨룸",
+    "korean": "지팡이"
+  },
+  {
+    "latin": "sapientia",
+    "pronunciation": "사피엔티아",
+    "korean": "지혜"
+  },
+  {
+    "latin": "professio",
+    "pronunciation": "프로페시오",
+    "korean": "직업"
+  },
+  {
+    "latin": "directus",
+    "pronunciation": "디렉투스",
+    "korean": "직접의"
+  },
+  {
+    "latin": "progressio",
+    "pronunciation": "프로그레시오",
+    "korean": "진보"
+  },
+  {
+    "latin": "veritas",
+    "pronunciation": "베리타스",
+    "korean": "진실"
+  },
+  {
+    "latin": "quaestio",
+    "pronunciation": "쿠아에스티오",
+    "korean": "질문"
+  },
+  {
+    "latin": "interrogare",
+    "pronunciation": "인테르로가레",
+    "korean": "질문하다"
+  },
+  {
+    "latin": "valetudo",
+    "pronunciation": "발레투도",
+    "korean": "질병"
+  },
+  {
+    "latin": "invidia",
+    "pronunciation": "인비디아",
+    "korean": "질투"
+  },
+  {
+    "latin": "onus",
+    "pronunciation": "오누스",
+    "korean": "짐"
+  },
+  {
+    "latin": "bestia",
+    "pronunciation": "베스티아",
+    "korean": "짐승"
+  },
+  {
+    "latin": "consul",
+    "pronunciation": "콘술",
+    "korean": "집정관"
+  },
+  {
+    "latin": "brevis",
+    "pronunciation": "브레비스",
+    "korean": "짧은"
+  },
+  {
+    "latin": "algidus",
+    "pronunciation": "알기두스",
+    "korean": "차가운"
+  },
+  {
+    "latin": "creatio",
+    "pronunciation": "크레아티오",
+    "korean": "창조"
+  },
+  {
+    "latin": "creare",
+    "pronunciation": "크레아레",
+    "korean": "창조하다"
+  },
+  {
+    "latin": "implere",
+    "pronunciation": "임플레레",
+    "korean": "채우다"
+  },
+  {
+    "latin": "flagellum",
+    "pronunciation": "플라겔룸",
+    "korean": "채찍"
+  },
+  {
+    "latin": "responsabilitas",
+    "pronunciation": "레스폰사빌리타스",
+    "korean": "책임"
+  },
+  {
+    "latin": "ferrum",
+    "pronunciation": "페르룸",
+    "korean": "철"
+  },
+  {
+    "latin": "philosophia",
+    "pronunciation": "필로소피아",
+    "korean": "철학"
+  },
+  {
+    "latin": "adolescens",
+    "pronunciation": "아돌레스켄스",
+    "korean": "청년"
+  },
+  {
+    "latin": "caeruleus",
+    "pronunciation": "카에룰레우스",
+    "korean": "청색의"
+  },
+  {
+    "latin": "iuventus",
+    "pronunciation": "유벤투스",
+    "korean": "청소년"
+  },
+  {
+    "latin": "adulescentia",
+    "pronunciation": "아둘레스켄티아",
+    "korean": "청춘"
+  },
+  {
+    "latin": "systema",
+    "pronunciation": "시스테마",
+    "korean": "체계"
+  },
+  {
+    "latin": "invitatio",
+    "pronunciation": "인비타티오",
+    "korean": "초대"
+  },
+  {
+    "latin": "invitare",
+    "pronunciation": "인비타레",
+    "korean": "초대하다"
+  },
+  {
+    "latin": "viridis",
+    "pronunciation": "비리디스",
+    "korean": "초록색의"
+  },
+  {
+    "latin": "candela",
+    "pronunciation": "칸델라",
+    "korean": "촛불"
+  },
+  {
+    "latin": "optimus",
+    "pronunciation": "옵티무스",
+    "korean": "최고의"
+  },
+  {
+    "latin": "recens",
+    "pronunciation": "레켄스",
+    "korean": "최근의"
+  },
+  {
+    "latin": "maximum",
+    "pronunciation": "막시뭄",
+    "korean": "최대"
+  },
+  {
+    "latin": "minimum",
+    "pronunciation": "미니뭄",
+    "korean": "최소"
+  },
+  {
+    "latin": "frigidus",
+    "pronunciation": "프리기두스",
+    "korean": "추운"
+  },
+  {
+    "latin": "beatus",
+    "pronunciation": "베아투스",
+    "korean": "축복받은"
+  },
+  {
+    "latin": "festum",
+    "pronunciation": "페스툼",
+    "korean": "축제"
+  },
+  {
+    "latin": "gratulari",
+    "pronunciation": "그라툴라리",
+    "korean": "축하하다"
+  },
+  {
+    "latin": "adesse",
+    "pronunciation": "아데세",
+    "korean": "출석하다"
+  },
+  {
+    "latin": "ianua",
+    "pronunciation": "이아누아",
+    "korean": "출입문"
+  },
+  {
+    "latin": "admonere",
+    "pronunciation": "아드모네레",
+    "korean": "충고하다"
+  },
+  {
+    "latin": "sufficiens",
+    "pronunciation": "수피키엔스",
+    "korean": "충분한"
+  },
+  {
+    "latin": "fidelis",
+    "pronunciation": "피델리스",
+    "korean": "충성스러운"
+  },
+  {
+    "latin": "edictum",
+    "pronunciation": "에딕툼",
+    "korean": "칙령"
+  },
+  {
+    "latin": "amicus",
+    "pronunciation": "아미쿠스",
+    "korean": "친구"
+  },
+  {
+    "latin": "benivolentia",
+    "pronunciation": "베니볼렌티아",
+    "korean": "친절"
+  },
+  {
+    "latin": "benignus",
+    "pronunciation": "베니그누스",
+    "korean": "친절한"
+  },
+  {
+    "latin": "propinquus",
+    "pronunciation": "프로핀쿠우스",
+    "korean": "친족"
+  },
+  {
+    "latin": "septem",
+    "pronunciation": "셉템",
+    "korean": "칠"
+  },
+  {
+    "latin": "lectus",
+    "pronunciation": "렉투스",
+    "korean": "침대"
+  },
+  {
+    "latin": "silentium",
+    "pronunciation": "실렌티움",
+    "korean": "침묵"
+  },
+  {
+    "latin": "cubiculum",
+    "pronunciation": "쿠비쿨룸",
+    "korean": "침실"
+  },
+  {
+    "latin": "laus",
+    "pronunciation": "라우스",
+    "korean": "칭찬"
+  },
+  {
+    "latin": "laudare",
+    "pronunciation": "라우다레",
+    "korean": "칭찬하다"
+  },
+  {
+    "latin": "gladius",
+    "pronunciation": "글라디우스",
+    "korean": "칼"
+  },
+  {
+    "latin": "nasus",
+    "pronunciation": "나수스",
+    "korean": "코"
+  },
+  {
+    "latin": "elephantus",
+    "pronunciation": "엘레판투스",
+    "korean": "코끼리"
+  },
+  {
+    "latin": "amplitudo",
+    "pronunciation": "암플리투도",
+    "korean": "크기"
+  },
+  {
+    "latin": "grandis",
+    "pronunciation": "그란디스",
+    "korean": "큰"
+  },
+  {
+    "latin": "claviger",
+    "pronunciation": "클라비게르",
+    "korean": "키"
+  },
+  {
+    "latin": "ardere",
+    "pronunciation": "아르데레",
+    "korean": "타다"
+  },
+  {
+    "latin": "eminentia",
+    "pronunciation": "에미넨티아",
+    "korean": "탁월"
+  },
+  {
+    "latin": "nativitas",
+    "pronunciation": "나티비타스",
+    "korean": "탄생"
+  },
+  {
+    "latin": "exploratio",
+    "pronunciation": "엑스플로라티오",
+    "korean": "탐험"
+  },
+  {
+    "latin": "sol",
+    "pronunciation": "솔",
+    "korean": "태양"
+  },
+  {
+    "latin": "cuniculus",
+    "pronunciation": "쿠니쿨루스",
+    "korean": "토끼"
+  },
+  {
+    "latin": "disputare",
+    "pronunciation": "디스푸타레",
+    "korean": "토론하다"
+  },
+  {
+    "latin": "humus",
+    "pronunciation": "후무스",
+    "korean": "토양"
+  },
+  {
+    "latin": "saturni dies",
+    "pronunciation": "사투르니 디에스",
+    "korean": "토요일"
+  },
+  {
+    "latin": "communicatio",
+    "pronunciation": "콤무니카티오",
+    "korean": "통신"
+  },
+  {
+    "latin": "dominatio",
+    "pronunciation": "도미나티오",
+    "korean": "통치"
+  },
+  {
+    "latin": "gubernare",
+    "pronunciation": "구베르나레",
+    "korean": "통치하다"
+  },
+  {
+    "latin": "specialis",
+    "pronunciation": "스페키알리스",
+    "korean": "특별한"
+  },
+  {
+    "latin": "proprietas",
+    "pronunciation": "프로프리에타스",
+    "korean": "특성"
+  },
+  {
+    "latin": "robur",
+    "pronunciation": "로부르",
+    "korean": "튼튼함"
+  },
+  {
+    "latin": "commissio",
+    "pronunciation": "콤미시오",
+    "korean": "팀"
+  },
+  {
+    "latin": "delere",
+    "pronunciation": "델레레",
+    "korean": "파괴하다"
+  },
+  {
+    "latin": "fluctus",
+    "pronunciation": "플룩투스",
+    "korean": "파도"
+  },
+  {
+    "latin": "iudicare",
+    "pronunciation": "유디카레",
+    "korean": "판단하다"
+  },
+  {
+    "latin": "octo",
+    "pronunciation": "옥토",
+    "korean": "팔"
+  },
+  {
+    "latin": "brachium",
+    "pronunciation": "브라키움",
+    "korean": "팔(신체)"
+  },
+  {
+    "latin": "cubitus",
+    "pronunciation": "쿠비투스",
+    "korean": "팔꿈치"
+  },
+  {
+    "latin": "vendere",
+    "pronunciation": "벤데레",
+    "korean": "팔다"
+  },
+  {
+    "latin": "stilus",
+    "pronunciation": "스틸루스",
+    "korean": "펜"
+  },
+  {
+    "latin": "commode",
+    "pronunciation": "콤모데",
+    "korean": "편리하게"
+  },
+  {
+    "latin": "epistula",
+    "pronunciation": "에피스툴라",
+    "korean": "편지"
+  },
+  {
+    "latin": "aestimatio",
+    "pronunciation": "아에스티마티오",
+    "korean": "평가"
+  },
+  {
+    "latin": "aequalis",
+    "pronunciation": "아에콸리스",
+    "korean": "평등한"
+  },
+  {
+    "latin": "planus",
+    "pronunciation": "플라누스",
+    "korean": "평평한"
+  },
+  {
+    "latin": "pax",
+    "pronunciation": "팍스",
+    "korean": "평화"
+  },
+  {
+    "latin": "captivus",
+    "pronunciation": "캅티부스",
+    "korean": "포로"
+  },
+  {
+    "latin": "includere",
+    "pronunciation": "인클루데레",
+    "korean": "포함하다"
+  },
+  {
+    "latin": "violentia",
+    "pronunciation": "비올렌티아",
+    "korean": "폭력"
+  },
+  {
+    "latin": "signum",
+    "pronunciation": "시그눔",
+    "korean": "표시"
+  },
+  {
+    "latin": "expressio",
+    "pronunciation": "엑스프레시오",
+    "korean": "표현"
+  },
+  {
+    "latin": "exprimere",
+    "pronunciation": "엑스프리메레",
+    "korean": "표현하다"
+  },
+  {
+    "latin": "decorus",
+    "pronunciation": "데코루스",
+    "korean": "품위 있는"
+  },
+  {
+    "latin": "copia",
+    "pronunciation": "코피아",
+    "korean": "풍부"
+  },
+  {
+    "latin": "cruor",
+    "pronunciation": "크루오르",
+    "korean": "피"
+  },
+  {
+    "latin": "asylum",
+    "pronunciation": "아실룸",
+    "korean": "피난처"
+  },
+  {
+    "latin": "necessitas",
+    "pronunciation": "네게시타스",
+    "korean": "필요"
+  },
+  {
+    "latin": "necessarius",
+    "pronunciation": "네케사리우스",
+    "korean": "필요한"
+  },
+  {
+    "latin": "caelum",
+    "pronunciation": "카엘룸",
+    "korean": "하늘"
+  },
+  {
+    "latin": "facere",
+    "pronunciation": "파케레",
+    "korean": "하다"
+  },
+  {
+    "latin": "tamen",
+    "pronunciation": "타멘",
+    "korean": "하지만"
+  },
+  {
+    "latin": "fluvius",
+    "pronunciation": "플루비우스",
+    "korean": "하천"
+  },
+  {
+    "latin": "schola",
+    "pronunciation": "스콜라",
+    "korean": "학교"
+  },
+  {
+    "latin": "studium",
+    "pronunciation": "스투디움",
+    "korean": "학문"
+  },
+  {
+    "latin": "discipulus",
+    "pronunciation": "디스키풀루스",
+    "korean": "학생"
+  },
+  {
+    "latin": "doctrina",
+    "pronunciation": "독트리나",
+    "korean": "학설"
+  },
+  {
+    "latin": "studere",
+    "pronunciation": "스투데레",
+    "korean": "학습하다"
+  },
+  {
+    "latin": "manipulus",
+    "pronunciation": "마니풀루스",
+    "korean": "한 줌"
+  },
+  {
+    "latin": "avia",
+    "pronunciation": "아비아",
+    "korean": "할머니"
+  },
+  {
+    "latin": "simul",
+    "pronunciation": "시물",
+    "korean": "함께"
+  },
+  {
+    "latin": "classis",
+    "pronunciation": "클라시스",
+    "korean": "함대"
+  },
+  {
+    "latin": "chorus",
+    "pronunciation": "코루스",
+    "korean": "합창"
+  },
+  {
+    "latin": "portus",
+    "pronunciation": "포르투스",
+    "korean": "항만"
+  },
+  {
+    "latin": "navigatio",
+    "pronunciation": "나비가티오",
+    "korean": "항해"
+  },
+  {
+    "latin": "navigare",
+    "pronunciation": "나비가레",
+    "korean": "항해하다"
+  },
+  {
+    "latin": "solutio",
+    "pronunciation": "솔루티오",
+    "korean": "해결"
+  },
+  {
+    "latin": "solvere",
+    "pronunciation": "솔베레",
+    "korean": "해결하다"
+  },
+  {
+    "latin": "aequor",
+    "pronunciation": "아에쿠오르",
+    "korean": "해면"
+  },
+  {
+    "latin": "liberatio",
+    "pronunciation": "리베라티오",
+    "korean": "해방"
+  },
+  {
+    "latin": "liberare",
+    "pronunciation": "리베라레",
+    "korean": "해방하다"
+  },
+  {
+    "latin": "actio",
+    "pronunciation": "악티오",
+    "korean": "행동"
+  },
+  {
+    "latin": "agere",
+    "pronunciation": "아게레",
+    "korean": "행동하다"
+  },
+  {
+    "latin": "iter",
+    "pronunciation": "이테르",
+    "korean": "행로"
+  },
+  {
+    "latin": "felicitas",
+    "pronunciation": "펠리키타스",
+    "korean": "행복"
+  },
+  {
+    "latin": "felix",
+    "pronunciation": "펠릭스",
+    "korean": "행복한"
+  },
+  {
+    "latin": "eventus",
+    "pronunciation": "에벤투스",
+    "korean": "행사"
+  },
+  {
+    "latin": "facinus",
+    "pronunciation": "파키누스",
+    "korean": "행위"
+  },
+  {
+    "latin": "permissio",
+    "pronunciation": "페르미시오",
+    "korean": "허가"
+  },
+  {
+    "latin": "dedicare",
+    "pronunciation": "데디카레",
+    "korean": "헌정하다"
+  },
+  {
+    "latin": "revolutio",
+    "pronunciation": "레볼루티오",
+    "korean": "혁명"
+  },
+  {
+    "latin": "atrium",
+    "pronunciation": "아트리움",
+    "korean": "현관"
+  },
+  {
+    "latin": "sapiens",
+    "pronunciation": "사피엔스",
+    "korean": "현명한"
+  },
+  {
+    "latin": "praesens",
+    "pronunciation": "프라에센스",
+    "korean": "현재의"
+  },
+  {
+    "latin": "sanguis",
+    "pronunciation": "상귀스",
+    "korean": "혈액"
+  },
+  {
+    "latin": "cooperatio",
+    "pronunciation": "코오페라티오",
+    "korean": "협력"
+  },
+  {
+    "latin": "poena",
+    "pronunciation": "포에나",
+    "korean": "형벌"
+  },
+  {
+    "latin": "figurare",
+    "pronunciation": "피구라레",
+    "korean": "형성하다"
+  },
+  {
+    "latin": "lacus",
+    "pronunciation": "라쿠스",
+    "korean": "호수"
+  },
+  {
+    "latin": "favor",
+    "pronunciation": "파보르",
+    "korean": "호의"
+  },
+  {
+    "latin": "confusio",
+    "pronunciation": "콘푸시오",
+    "korean": "혼란"
+  },
+  {
+    "latin": "matrimonium",
+    "pronunciation": "마트리모니움",
+    "korean": "혼인"
+  },
+  {
+    "latin": "solus",
+    "pronunciation": "솔루스",
+    "korean": "홀로의"
+  },
+  {
+    "latin": "dies martis",
+    "pronunciation": "디에스 마르티스",
+    "korean": "화요일"
+  },
+  {
+    "latin": "incendium",
+    "pronunciation": "인켄디움",
+    "korean": "화재"
+  },
+  {
+    "latin": "concordia",
+    "pronunciation": "콘코르디아",
+    "korean": "화합"
+  },
+  {
+    "latin": "certus",
+    "pronunciation": "체르투스",
+    "korean": "확실한"
+  },
+  {
+    "latin": "certe",
+    "pronunciation": "체르테",
+    "korean": "확실히"
+  },
+  {
+    "latin": "confirmatio",
+    "pronunciation": "콘피르마티오",
+    "korean": "확인"
+  },
+  {
+    "latin": "confirmare",
+    "pronunciation": "콘피르마레",
+    "korean": "확인하다"
+  },
+  {
+    "latin": "expandere",
+    "pronunciation": "엑스판데레",
+    "korean": "확장하다"
+  },
+  {
+    "latin": "ambitus",
+    "pronunciation": "암비투스",
+    "korean": "환경"
+  },
+  {
+    "latin": "hospitium",
+    "pronunciation": "호스피티움",
+    "korean": "환대"
+  },
+  {
+    "latin": "patiens",
+    "pronunciation": "파티엔스",
+    "korean": "환자"
+  },
+  {
+    "latin": "jubilare",
+    "pronunciation": "유빌라레",
+    "korean": "환호하다"
+  },
+  {
+    "latin": "activitas",
+    "pronunciation": "악티비타스",
+    "korean": "활동"
+  },
+  {
+    "latin": "aurantiacus",
+    "pronunciation": "아우란티아쿠스",
+    "korean": "황색의"
+  },
+  {
+    "latin": "imperator",
+    "pronunciation": "임페라토르",
+    "korean": "황제"
+  },
+  {
+    "latin": "concilium",
+    "pronunciation": "콘킬리움",
+    "korean": "회의"
+  },
+  {
+    "latin": "effectus",
+    "pronunciation": "에펙투스",
+    "korean": "효과"
+  },
+  {
+    "latin": "efficax",
+    "pronunciation": "에피칵스",
+    "korean": "효과적인"
+  },
+  {
+    "latin": "piper",
+    "pronunciation": "피페르",
+    "korean": "후추"
+  },
+  {
+    "latin": "exercitium",
+    "pronunciation": "엑세르키티움",
+    "korean": "훈련"
+  },
+  {
+    "latin": "excellens",
+    "pronunciation": "엑셀렌스",
+    "korean": "훌륭한"
+  },
+  {
+    "latin": "furari",
+    "pronunciation": "푸라리",
+    "korean": "훔치다"
+  },
+  {
+    "latin": "fluere",
+    "pronunciation": "플루에레",
+    "korean": "흐르다"
+  },
+  {
+    "latin": "niger",
+    "pronunciation": "니게르",
+    "korean": "흑색의"
+  },
+  {
+    "latin": "rarus",
+    "pronunciation": "라루스",
+    "korean": "희귀한"
+  },
+  {
+    "latin": "spes",
+    "pronunciation": "스페스",
+    "korean": "희망"
+  },
+  {
+    "latin": "sperare",
+    "pronunciation": "스페라레",
+    "korean": "희망하다"
+  },
+  {
+    "latin": "sacrificium",
+    "pronunciation": "사크리피키움",
+    "korean": "희생"
+  },
+  {
+    "latin": "laetus",
+    "pronunciation": "라에투스",
+    "korean": "희열의"
+  },
+  {
+    "latin": "albus",
+    "pronunciation": "알부스",
+    "korean": "흰"
+  },
+  {
+    "latin": "vis",
+    "pronunciation": "비스",
+    "korean": "힘"
+  }
+]

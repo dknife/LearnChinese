@@ -1,0 +1,5002 @@
+[
+  {
+    "spanish": "tienda",
+    "pronunciation": "띠엔다",
+    "korean": "가게"
+  },
+  {
+    "spanish": "acogedor",
+    "pronunciation": "아코헤도르",
+    "korean": "가게가 아늑한"
+  },
+  {
+    "spanish": "precio",
+    "pronunciation": "쁘레시오",
+    "korean": "가격"
+  },
+  {
+    "spanish": "mueble",
+    "pronunciation": "무에블레",
+    "korean": "가구"
+  },
+  {
+    "spanish": "cerca",
+    "pronunciation": "세르까",
+    "korean": "가까운"
+  },
+  {
+    "spanish": "posible",
+    "pronunciation": "뽀시블레",
+    "korean": "가능한"
+  },
+  {
+    "spanish": "ir",
+    "pronunciation": "이르",
+    "korean": "가다"
+  },
+  {
+    "spanish": "lleno",
+    "pronunciation": "예노",
+    "korean": "가득 찬"
+  },
+  {
+    "spanish": "enseñar",
+    "pronunciation": "엔세냐르",
+    "korean": "가르치다"
+  },
+  {
+    "spanish": "máscara",
+    "pronunciation": "마스까라",
+    "korean": "가면"
+  },
+  {
+    "spanish": "bolsa",
+    "pronunciation": "볼사",
+    "korean": "가방"
+  },
+  {
+    "spanish": "ligero",
+    "pronunciation": "리헤로",
+    "korean": "가벼운"
+  },
+  {
+    "spanish": "cantante",
+    "pronunciation": "깐딴떼",
+    "korean": "가수"
+  },
+  {
+    "spanish": "gas",
+    "pronunciation": "가스",
+    "korean": "가스"
+  },
+  {
+    "spanish": "pecho",
+    "pronunciation": "뻬초",
+    "korean": "가슴"
+  },
+  {
+    "spanish": "tijeras",
+    "pronunciation": "띠헤라스",
+    "korean": "가위"
+  },
+  {
+    "spanish": "otoño",
+    "pronunciation": "오또뇨",
+    "korean": "가을"
+  },
+  {
+    "spanish": "llevar",
+    "pronunciation": "예바르",
+    "korean": "가져가다"
+  },
+  {
+    "spanish": "traer",
+    "pronunciation": "뜨라에르",
+    "korean": "가져오다"
+  },
+  {
+    "spanish": "familia",
+    "pronunciation": "파밀리아",
+    "korean": "가족"
+  },
+  {
+    "spanish": "ganado",
+    "pronunciation": "가나도",
+    "korean": "가축"
+  },
+  {
+    "spanish": "enfermera",
+    "pronunciation": "엔페르메라",
+    "korean": "간호사"
+  },
+  {
+    "spanish": "marrón",
+    "pronunciation": "마론",
+    "korean": "갈색"
+  },
+  {
+    "spanish": "resfriado",
+    "pronunciation": "레스프리아도",
+    "korean": "감기"
+  },
+  {
+    "spanish": "gracias",
+    "pronunciation": "그라시아스",
+    "korean": "감사합니다"
+  },
+  {
+    "spanish": "patata",
+    "pronunciation": "빠따따",
+    "korean": "감자"
+  },
+  {
+    "spanish": "emoción",
+    "pronunciation": "에모시온",
+    "korean": "감정"
+  },
+  {
+    "spanish": "río",
+    "pronunciation": "리오",
+    "korean": "강"
+  },
+  {
+    "spanish": "fuerte",
+    "pronunciation": "푸에르떼",
+    "korean": "강한"
+  },
+  {
+    "spanish": "perro",
+    "pronunciation": "뻬로",
+    "korean": "개"
+  },
+  {
+    "spanish": "rana",
+    "pronunciation": "라나",
+    "korean": "개구리"
+  },
+  {
+    "spanish": "hormiga",
+    "pronunciation": "오르미가",
+    "korean": "개미"
+  },
+  {
+    "spanish": "mejora",
+    "pronunciation": "메호라",
+    "korean": "개선"
+  },
+  {
+    "spanish": "personalidad",
+    "pronunciation": "뻬르소날리다드",
+    "korean": "개성"
+  },
+  {
+    "spanish": "individuo",
+    "pronunciation": "인디비두오",
+    "korean": "개인"
+  },
+  {
+    "spanish": "galería",
+    "pronunciation": "갈레리아",
+    "korean": "갤러리"
+  },
+  {
+    "spanish": "araña",
+    "pronunciation": "아라냐",
+    "korean": "거미"
+  },
+  {
+    "spanish": "tortuga",
+    "pronunciation": "또르뚜가",
+    "korean": "거북이"
+  },
+  {
+    "spanish": "cambio",
+    "pronunciation": "깜비오",
+    "korean": "거스름돈"
+  },
+  {
+    "spanish": "espejo",
+    "pronunciation": "에스뻬호",
+    "korean": "거울"
+  },
+  {
+    "spanish": "salud",
+    "pronunciation": "살루드",
+    "korean": "건강"
+  },
+  {
+    "spanish": "sano",
+    "pronunciation": "사노",
+    "korean": "건강한"
+  },
+  {
+    "spanish": "edificio",
+    "pronunciation": "에디피시오",
+    "korean": "건물"
+  },
+  {
+    "spanish": "construcción",
+    "pronunciation": "꼰스뜨룩시온",
+    "korean": "건설"
+  },
+  {
+    "spanish": "seco",
+    "pronunciation": "세꼬",
+    "korean": "건조한"
+  },
+  {
+    "spanish": "caminar",
+    "pronunciation": "까미나르",
+    "korean": "걷다"
+  },
+  {
+    "spanish": "colgar",
+    "pronunciation": "꼴가르",
+    "korean": "걸다"
+  },
+  {
+    "spanish": "cosa",
+    "pronunciation": "꼬사",
+    "korean": "것"
+  },
+  {
+    "spanish": "cangrejo",
+    "pronunciation": "깡그레호",
+    "korean": "게"
+  },
+  {
+    "spanish": "perezoso",
+    "pronunciation": "뻬레소소",
+    "korean": "게으른"
+  },
+  {
+    "spanish": "juego",
+    "pronunciation": "후에고",
+    "korean": "게임"
+  },
+  {
+    "spanish": "invierno",
+    "pronunciation": "인비에르노",
+    "korean": "겨울"
+  },
+  {
+    "spanish": "resultado",
+    "pronunciation": "레술따도",
+    "korean": "결과"
+  },
+  {
+    "spanish": "decisión",
+    "pronunciation": "데시시온",
+    "korean": "결정"
+  },
+  {
+    "spanish": "matrimonio",
+    "pronunciation": "마뜨리모니오",
+    "korean": "결혼"
+  },
+  {
+    "spanish": "boda",
+    "pronunciation": "보다",
+    "korean": "결혼식"
+  },
+  {
+    "spanish": "estadio",
+    "pronunciation": "에스따디오",
+    "korean": "경기장"
+  },
+  {
+    "spanish": "competencia",
+    "pronunciation": "꼼뻬뗀시아",
+    "korean": "경쟁"
+  },
+  {
+    "spanish": "economía",
+    "pronunciation": "에꼬노미아",
+    "korean": "경제"
+  },
+  {
+    "spanish": "policía",
+    "pronunciation": "뽈리시아",
+    "korean": "경찰"
+  },
+  {
+    "spanish": "paisaje",
+    "pronunciation": "빠이사헤",
+    "korean": "경치"
+  },
+  {
+    "spanish": "experiencia",
+    "pronunciation": "엑스뻬리엔시아",
+    "korean": "경험"
+  },
+  {
+    "spanish": "escalera",
+    "pronunciation": "에스깔레라",
+    "korean": "계단"
+  },
+  {
+    "spanish": "contrato",
+    "pronunciation": "꼰뜨라또",
+    "korean": "계약"
+  },
+  {
+    "spanish": "temporada",
+    "pronunciation": "뗌뽀라다",
+    "korean": "계절"
+  },
+  {
+    "spanish": "cuenta",
+    "pronunciation": "꾸엔따",
+    "korean": "계좌"
+  },
+  {
+    "spanish": "plan",
+    "pronunciation": "쁠란",
+    "korean": "계획"
+  },
+  {
+    "spanish": "cliente",
+    "pronunciation": "끌리엔떼",
+    "korean": "고객"
+  },
+  {
+    "spanish": "carne de res",
+    "pronunciation": "까르네 데 레스",
+    "korean": "고기(소)"
+  },
+  {
+    "spanish": "antiguo",
+    "pronunciation": "안띠구오",
+    "korean": "고대의"
+  },
+  {
+    "spanish": "solo",
+    "pronunciation": "솔로",
+    "korean": "고독한"
+  },
+  {
+    "spanish": "ballena",
+    "pronunciation": "바예나",
+    "korean": "고래"
+  },
+  {
+    "spanish": "elegir",
+    "pronunciation": "엘레히르",
+    "korean": "고르다"
+  },
+  {
+    "spanish": "agradecer",
+    "pronunciation": "아그라데세르",
+    "korean": "고마워하다"
+  },
+  {
+    "spanish": "gato",
+    "pronunciation": "가또",
+    "korean": "고양이"
+  },
+  {
+    "spanish": "chile",
+    "pronunciation": "칠레",
+    "korean": "고추"
+  },
+  {
+    "spanish": "arreglar",
+    "pronunciation": "아레글라르",
+    "korean": "고치다"
+  },
+  {
+    "spanish": "dolor",
+    "pronunciation": "돌로르",
+    "korean": "고통"
+  },
+  {
+    "spanish": "insecto",
+    "pronunciation": "인섹또",
+    "korean": "곤충"
+  },
+  {
+    "spanish": "pronto",
+    "pronunciation": "쁘론또",
+    "korean": "곧"
+  },
+  {
+    "spanish": "golf",
+    "pronunciation": "골프",
+    "korean": "골프"
+  },
+  {
+    "spanish": "oso",
+    "pronunciation": "오소",
+    "korean": "곰"
+  },
+  {
+    "spanish": "lugar",
+    "pronunciation": "루가르",
+    "korean": "곳"
+  },
+  {
+    "spanish": "pelota",
+    "pronunciation": "뻴로따",
+    "korean": "공"
+  },
+  {
+    "spanish": "espacio",
+    "pronunciation": "에스빠시오",
+    "korean": "공간"
+  },
+  {
+    "spanish": "aire",
+    "pronunciation": "아이레",
+    "korean": "공기"
+  },
+  {
+    "spanish": "estudio",
+    "pronunciation": "에스뚜디오",
+    "korean": "공부"
+  },
+  {
+    "spanish": "parque",
+    "pronunciation": "빠르께",
+    "korean": "공원"
+  },
+  {
+    "spanish": "compartir",
+    "pronunciation": "꼼빠르띠르",
+    "korean": "공유하다"
+  },
+  {
+    "spanish": "fábrica",
+    "pronunciation": "파브리까",
+    "korean": "공장"
+  },
+  {
+    "spanish": "cuaderno",
+    "pronunciation": "꾸아데르노",
+    "korean": "공책"
+  },
+  {
+    "spanish": "aeropuerto",
+    "pronunciation": "아에로뿌에르또",
+    "korean": "공항"
+  },
+  {
+    "spanish": "pasado",
+    "pronunciation": "빠사도",
+    "korean": "과거"
+  },
+  {
+    "spanish": "asignatura",
+    "pronunciation": "아시그나뚜라",
+    "korean": "과목"
+  },
+  {
+    "spanish": "fruta",
+    "pronunciation": "프루따",
+    "korean": "과일"
+  },
+  {
+    "spanish": "ciencia",
+    "pronunciation": "시엔시아",
+    "korean": "과학"
+  },
+  {
+    "spanish": "científico",
+    "pronunciation": "시엔띠피꼬",
+    "korean": "과학자"
+  },
+  {
+    "spanish": "relación",
+    "pronunciation": "렐라시온",
+    "korean": "관계"
+  },
+  {
+    "spanish": "turismo",
+    "pronunciation": "뚜리스모",
+    "korean": "관광"
+  },
+  {
+    "spanish": "generoso",
+    "pronunciation": "헤네로소",
+    "korean": "관대한"
+  },
+  {
+    "spanish": "interés",
+    "pronunciation": "인떼레스",
+    "korean": "관심"
+  },
+  {
+    "spanish": "bien",
+    "pronunciation": "비엔",
+    "korean": "괜찮은"
+  },
+  {
+    "spanish": "profesor",
+    "pronunciation": "쁘로페소르",
+    "korean": "교수"
+  },
+  {
+    "spanish": "educación",
+    "pronunciation": "에두까시온",
+    "korean": "교육"
+  },
+  {
+    "spanish": "cruce",
+    "pronunciation": "크루세",
+    "korean": "교차로"
+  },
+  {
+    "spanish": "tráfico",
+    "pronunciation": "뜨라피꼬",
+    "korean": "교통"
+  },
+  {
+    "spanish": "iglesia",
+    "pronunciation": "이글레시아",
+    "korean": "교회"
+  },
+  {
+    "spanish": "nueve",
+    "pronunciation": "누에베",
+    "korean": "구(숫자)"
+  },
+  {
+    "spanish": "ambulancia",
+    "pronunciation": "암불란시아",
+    "korean": "구급차"
+  },
+  {
+    "spanish": "zapato",
+    "pronunciation": "사빠또",
+    "korean": "구두"
+  },
+  {
+    "spanish": "nube",
+    "pronunciation": "누베",
+    "korean": "구름"
+  },
+  {
+    "spanish": "sopa",
+    "pronunciation": "소빠",
+    "korean": "국"
+  },
+  {
+    "spanish": "nación",
+    "pronunciation": "나시온",
+    "korean": "국가"
+  },
+  {
+    "spanish": "internacional",
+    "pronunciation": "인떼르나시오날",
+    "korean": "국제적인"
+  },
+  {
+    "spanish": "ejército",
+    "pronunciation": "에헤르시또",
+    "korean": "군대"
+  },
+  {
+    "spanish": "ostra",
+    "pronunciation": "오스뜨라",
+    "korean": "굴"
+  },
+  {
+    "spanish": "grueso",
+    "pronunciation": "그루에소",
+    "korean": "굵은"
+  },
+  {
+    "spanish": "hambre",
+    "pronunciation": "암브레",
+    "korean": "굶주림"
+  },
+  {
+    "spanish": "boxeo",
+    "pronunciation": "복세오",
+    "korean": "권투"
+  },
+  {
+    "spanish": "oreja",
+    "pronunciation": "오레하",
+    "korean": "귀"
+  },
+  {
+    "spanish": "lindo",
+    "pronunciation": "린도",
+    "korean": "귀여운"
+  },
+  {
+    "spanish": "regla",
+    "pronunciation": "레글라",
+    "korean": "규칙"
+  },
+  {
+    "spanish": "naranja",
+    "pronunciation": "나란하",
+    "korean": "귤"
+  },
+  {
+    "spanish": "entonces",
+    "pronunciation": "엔똔세스",
+    "korean": "그때"
+  },
+  {
+    "spanish": "plato",
+    "pronunciation": "쁠라또",
+    "korean": "그릇"
+  },
+  {
+    "spanish": "nostalgia",
+    "pronunciation": "노스딸히아",
+    "korean": "그리움"
+  },
+  {
+    "spanish": "extrañar",
+    "pronunciation": "엑스뜨라냐르",
+    "korean": "그리워하다"
+  },
+  {
+    "spanish": "dibujo",
+    "pronunciation": "디부호",
+    "korean": "그림"
+  },
+  {
+    "spanish": "sombra",
+    "pronunciation": "솜브라",
+    "korean": "그림자"
+  },
+  {
+    "spanish": "anteayer",
+    "pronunciation": "안떼아예르",
+    "korean": "그저께"
+  },
+  {
+    "spanish": "teatro",
+    "pronunciation": "떼아뜨로",
+    "korean": "극장"
+  },
+  {
+    "spanish": "músculo",
+    "pronunciation": "무스꿀로",
+    "korean": "근육"
+  },
+  {
+    "spanish": "cercano",
+    "pronunciation": "세르까노",
+    "korean": "근처의"
+  },
+  {
+    "spanish": "oro",
+    "pronunciation": "오로",
+    "korean": "금"
+  },
+  {
+    "spanish": "dorado",
+    "pronunciation": "도라도",
+    "korean": "금색"
+  },
+  {
+    "spanish": "metal",
+    "pronunciation": "메딸",
+    "korean": "금속"
+  },
+  {
+    "spanish": "viernes",
+    "pronunciation": "비에르네스",
+    "korean": "금요일"
+  },
+  {
+    "spanish": "rápido",
+    "pronunciation": "라삐도",
+    "korean": "급한"
+  },
+  {
+    "spanish": "positivo",
+    "pronunciation": "뽀시띠보",
+    "korean": "긍정적인"
+  },
+  {
+    "spanish": "esperar",
+    "pronunciation": "에스뻬라르",
+    "korean": "기다리다"
+  },
+  {
+    "spanish": "aceite",
+    "pronunciation": "아세이떼",
+    "korean": "기름"
+  },
+  {
+    "spanish": "jirafa",
+    "pronunciation": "히라파",
+    "korean": "기린"
+  },
+  {
+    "spanish": "recordar",
+    "pronunciation": "레꼬르다르",
+    "korean": "기억하다"
+  },
+  {
+    "spanish": "periodista",
+    "pronunciation": "뻬리오디스따",
+    "korean": "기자"
+  },
+  {
+    "spanish": "tren",
+    "pronunciation": "뜨렌",
+    "korean": "기차"
+  },
+  {
+    "spanish": "tos",
+    "pronunciation": "또스",
+    "korean": "기침"
+  },
+  {
+    "spanish": "largo",
+    "pronunciation": "라르고",
+    "korean": "긴"
+  },
+  {
+    "spanish": "nervioso",
+    "pronunciation": "네르비오소",
+    "korean": "긴장한"
+  },
+  {
+    "spanish": "calle",
+    "pronunciation": "까예",
+    "korean": "길"
+  },
+  {
+    "spanish": "profundo",
+    "pronunciation": "쁘로푼도",
+    "korean": "깊은"
+  },
+  {
+    "spanish": "limpio",
+    "pronunciation": "림삐오",
+    "korean": "깨끗한"
+  },
+  {
+    "spanish": "romper",
+    "pronunciation": "롬뻬르",
+    "korean": "깨뜨리다"
+  },
+  {
+    "spanish": "despertar",
+    "pronunciation": "데스뻬르따르",
+    "korean": "깨우다"
+  },
+  {
+    "spanish": "enchufar",
+    "pronunciation": "엔추파르",
+    "korean": "꽂다"
+  },
+  {
+    "spanish": "flor",
+    "pronunciation": "플로르",
+    "korean": "꽃"
+  },
+  {
+    "spanish": "sueño",
+    "pronunciation": "수에뇨",
+    "korean": "꿈"
+  },
+  {
+    "spanish": "yo",
+    "pronunciation": "요",
+    "korean": "나"
+  },
+  {
+    "spanish": "país",
+    "pronunciation": "빠이스",
+    "korean": "나라"
+  },
+  {
+    "spanish": "árbol",
+    "pronunciation": "아르볼",
+    "korean": "나무"
+  },
+  {
+    "spanish": "rama",
+    "pronunciation": "라마",
+    "korean": "나뭇가지"
+  },
+  {
+    "spanish": "mariposa",
+    "pronunciation": "마리뽀사",
+    "korean": "나비"
+  },
+  {
+    "spanish": "malo",
+    "pronunciation": "말로",
+    "korean": "나쁜"
+  },
+  {
+    "spanish": "edad",
+    "pronunciation": "에다드",
+    "korean": "나이"
+  },
+  {
+    "spanish": "aparecer",
+    "pronunciation": "아빠레세르",
+    "korean": "나타나다"
+  },
+  {
+    "spanish": "pescar",
+    "pronunciation": "뻬스까르",
+    "korean": "낚시하다"
+  },
+  {
+    "spanish": "día",
+    "pronunciation": "디아",
+    "korean": "날"
+  },
+  {
+    "spanish": "volar",
+    "pronunciation": "볼라르",
+    "korean": "날다"
+  },
+  {
+    "spanish": "clima",
+    "pronunciation": "끌리마",
+    "korean": "날씨"
+  },
+  {
+    "spanish": "fecha",
+    "pronunciation": "페차",
+    "korean": "날짜"
+  },
+  {
+    "spanish": "hombre",
+    "pronunciation": "옴브레",
+    "korean": "남자"
+  },
+  {
+    "spanish": "hermano",
+    "pronunciation": "에르마노",
+    "korean": "남자 형제"
+  },
+  {
+    "spanish": "sur",
+    "pronunciation": "수르",
+    "korean": "남쪽"
+  },
+  {
+    "spanish": "esposo",
+    "pronunciation": "에스뽀소",
+    "korean": "남편"
+  },
+  {
+    "spanish": "bajo",
+    "pronunciation": "바호",
+    "korean": "낮은"
+  },
+  {
+    "spanish": "siesta",
+    "pronunciation": "시에스따",
+    "korean": "낮잠"
+  },
+  {
+    "spanish": "interior",
+    "pronunciation": "인떼리오르",
+    "korean": "내부"
+  },
+  {
+    "spanish": "mañana",
+    "pronunciation": "마냐나",
+    "korean": "내일"
+  },
+  {
+    "spanish": "olor",
+    "pronunciation": "올로르",
+    "korean": "냄새"
+  },
+  {
+    "spanish": "oler",
+    "pronunciation": "올레르",
+    "korean": "냄새 맡다"
+  },
+  {
+    "spanish": "refrigerador",
+    "pronunciation": "레프리헤라도르",
+    "korean": "냉장고"
+  },
+  {
+    "spanish": "tú",
+    "pronunciation": "뚜",
+    "korean": "너"
+  },
+  {
+    "spanish": "ancho",
+    "pronunciation": "안초",
+    "korean": "넓은"
+  },
+  {
+    "spanish": "sí",
+    "pronunciation": "시",
+    "korean": "네"
+  },
+  {
+    "spanish": "red",
+    "pronunciation": "레드",
+    "korean": "네트워크"
+  },
+  {
+    "spanish": "corbata",
+    "pronunciation": "꼬르바따",
+    "korean": "넥타이"
+  },
+  {
+    "spanish": "cuatro",
+    "pronunciation": "꾸아뜨로",
+    "korean": "넷"
+  },
+  {
+    "spanish": "año",
+    "pronunciation": "아뇨",
+    "korean": "년"
+  },
+  {
+    "spanish": "amarillo",
+    "pronunciation": "아마리요",
+    "korean": "노란색"
+  },
+  {
+    "spanish": "canción",
+    "pronunciation": "깐시온",
+    "korean": "노래"
+  },
+  {
+    "spanish": "cantar",
+    "pronunciation": "깐따르",
+    "korean": "노래하다"
+  },
+  {
+    "spanish": "esfuerzo",
+    "pronunciation": "에스푸에르소",
+    "korean": "노력"
+  },
+  {
+    "spanish": "anciano",
+    "pronunciation": "안시아노",
+    "korean": "노인"
+  },
+  {
+    "spanish": "jugar",
+    "pronunciation": "후가르",
+    "korean": "놀다"
+  },
+  {
+    "spanish": "sorpresa",
+    "pronunciation": "소르쁘레사",
+    "korean": "놀라움"
+  },
+  {
+    "spanish": "sorprendido",
+    "pronunciation": "소르쁘렌디도",
+    "korean": "놀란"
+  },
+  {
+    "spanish": "parque de diversiones",
+    "pronunciation": "빠르게 데 디베르시오네스",
+    "korean": "놀이공원"
+  },
+  {
+    "spanish": "baloncesto",
+    "pronunciation": "발론세스또",
+    "korean": "농구"
+  },
+  {
+    "spanish": "agricultor",
+    "pronunciation": "아그리꿀또르",
+    "korean": "농부"
+  },
+  {
+    "spanish": "agricultura",
+    "pronunciation": "아그리꿀뚜라",
+    "korean": "농업"
+  },
+  {
+    "spanish": "alto",
+    "pronunciation": "알또",
+    "korean": "높은"
+  },
+  {
+    "spanish": "poner",
+    "pronunciation": "뽀네르",
+    "korean": "놓다"
+  },
+  {
+    "spanish": "nieve",
+    "pronunciation": "니에베",
+    "korean": "눈(날씨)"
+  },
+  {
+    "spanish": "ojo",
+    "pronunciation": "오호",
+    "korean": "눈(신체)"
+  },
+  {
+    "spanish": "lágrima",
+    "pronunciation": "라그리마",
+    "korean": "눈물"
+  },
+  {
+    "spanish": "nevada",
+    "pronunciation": "네바다",
+    "korean": "눈보라"
+  },
+  {
+    "spanish": "ceja",
+    "pronunciation": "세하",
+    "korean": "눈썹"
+  },
+  {
+    "spanish": "noticia",
+    "pronunciation": "노띠시아",
+    "korean": "뉴스"
+  },
+  {
+    "spanish": "sentir",
+    "pronunciation": "센띠르",
+    "korean": "느끼다"
+  },
+  {
+    "spanish": "lento",
+    "pronunciation": "렌또",
+    "korean": "느린"
+  },
+  {
+    "spanish": "habilidad",
+    "pronunciation": "아빌리다드",
+    "korean": "능력"
+  },
+  {
+    "spanish": "tarde",
+    "pronunciation": "따르데",
+    "korean": "늦은"
+  },
+  {
+    "spanish": "puente",
+    "pronunciation": "뿌엔떼",
+    "korean": "다리(구조물)"
+  },
+  {
+    "spanish": "pierna",
+    "pronunciation": "삐에르나",
+    "korean": "다리(신체)"
+  },
+  {
+    "spanish": "descargar",
+    "pronunciation": "데스까르가르",
+    "korean": "다운로드하다"
+  },
+  {
+    "spanish": "cerrar",
+    "pronunciation": "세라르",
+    "korean": "닫다"
+  },
+  {
+    "spanish": "luna",
+    "pronunciation": "루나",
+    "korean": "달"
+  },
+  {
+    "spanish": "huevo",
+    "pronunciation": "우에보",
+    "korean": "달걀"
+  },
+  {
+    "spanish": "calendario",
+    "pronunciation": "깔렌다리오",
+    "korean": "달력"
+  },
+  {
+    "spanish": "correr",
+    "pronunciation": "꼬레르",
+    "korean": "달리다"
+  },
+  {
+    "spanish": "dulce",
+    "pronunciation": "둘세",
+    "korean": "달콤한"
+  },
+  {
+    "spanish": "gallina",
+    "pronunciation": "가이나",
+    "korean": "닭"
+  },
+  {
+    "spanish": "manta",
+    "pronunciation": "만따",
+    "korean": "담요"
+  },
+  {
+    "spanish": "zanahoria",
+    "pronunciation": "사나오리아",
+    "korean": "당근"
+  },
+  {
+    "spanish": "tirar",
+    "pronunciation": "띠라르",
+    "korean": "당기다"
+  },
+  {
+    "spanish": "respuesta",
+    "pronunciation": "레스뿌에스따",
+    "korean": "대답"
+  },
+  {
+    "spanish": "contestar",
+    "pronunciation": "꼰떼스따르",
+    "korean": "대답하다"
+  },
+  {
+    "spanish": "calvo",
+    "pronunciation": "깔보",
+    "korean": "대머리"
+  },
+  {
+    "spanish": "embajada",
+    "pronunciation": "엠바하다",
+    "korean": "대사관"
+  },
+  {
+    "spanish": "representante",
+    "pronunciation": "레쁘레센딴떼",
+    "korean": "대표"
+  },
+  {
+    "spanish": "universidad",
+    "pronunciation": "우니베르시다드",
+    "korean": "대학교"
+  },
+  {
+    "spanish": "más",
+    "pronunciation": "마스",
+    "korean": "더"
+  },
+  {
+    "spanish": "sucio",
+    "pronunciation": "수시오",
+    "korean": "더러운"
+  },
+  {
+    "spanish": "caliente",
+    "pronunciation": "깔리엔떼",
+    "korean": "더운"
+  },
+  {
+    "spanish": "lanzar",
+    "pronunciation": "란사르",
+    "korean": "던지다"
+  },
+  {
+    "spanish": "menos",
+    "pronunciation": "메노스",
+    "korean": "덜"
+  },
+  {
+    "spanish": "calentar",
+    "pronunciation": "깔렌따르",
+    "korean": "데우다"
+  },
+  {
+    "spanish": "dato",
+    "pronunciation": "다또",
+    "korean": "데이터"
+  },
+  {
+    "spanish": "ladrón",
+    "pronunciation": "라드론",
+    "korean": "도둑"
+  },
+  {
+    "spanish": "biblioteca",
+    "pronunciation": "비블리오떼까",
+    "korean": "도서관"
+  },
+  {
+    "spanish": "ciudad",
+    "pronunciation": "시우다드",
+    "korean": "도시"
+  },
+  {
+    "spanish": "desafío",
+    "pronunciation": "데사피오",
+    "korean": "도전"
+  },
+  {
+    "spanish": "llegar",
+    "pronunciation": "예가르",
+    "korean": "도착하다"
+  },
+  {
+    "spanish": "águila",
+    "pronunciation": "아길라",
+    "korean": "독수리"
+  },
+  {
+    "spanish": "dinero",
+    "pronunciation": "디네로",
+    "korean": "돈"
+  },
+  {
+    "spanish": "piedra",
+    "pronunciation": "삐에드라",
+    "korean": "돌"
+  },
+  {
+    "spanish": "devolver",
+    "pronunciation": "데볼베르",
+    "korean": "돌려주다"
+  },
+  {
+    "spanish": "cuidar",
+    "pronunciation": "꾸이다르",
+    "korean": "돌보다"
+  },
+  {
+    "spanish": "volver",
+    "pronunciation": "볼베르",
+    "korean": "돌아오다"
+  },
+  {
+    "spanish": "ayudar",
+    "pronunciation": "아유다르",
+    "korean": "돕다"
+  },
+  {
+    "spanish": "compañero",
+    "pronunciation": "꼼빠녜로",
+    "korean": "동료"
+  },
+  {
+    "spanish": "animal",
+    "pronunciation": "아니말",
+    "korean": "동물"
+  },
+  {
+    "spanish": "zoológico",
+    "pronunciation": "소올로히꼬",
+    "korean": "동물원"
+  },
+  {
+    "spanish": "moneda",
+    "pronunciation": "모네다",
+    "korean": "동전"
+  },
+  {
+    "spanish": "este",
+    "pronunciation": "에스떼",
+    "korean": "동쪽"
+  },
+  {
+    "spanish": "cuento",
+    "pronunciation": "꾸엔또",
+    "korean": "동화"
+  },
+  {
+    "spanish": "cerdo",
+    "pronunciation": "세르도",
+    "korean": "돼지"
+  },
+  {
+    "spanish": "dos",
+    "pronunciation": "도스",
+    "korean": "둘"
+  },
+  {
+    "spanish": "detrás",
+    "pronunciation": "데뜨라스",
+    "korean": "뒤"
+  },
+  {
+    "spanish": "drama",
+    "pronunciation": "드라마",
+    "korean": "드라마"
+  },
+  {
+    "spanish": "escuchar",
+    "pronunciation": "에스꾸차르",
+    "korean": "듣다"
+  },
+  {
+    "spanish": "entrar",
+    "pronunciation": "엔뜨라르",
+    "korean": "들어가다"
+  },
+  {
+    "spanish": "levantar",
+    "pronunciation": "레반따르",
+    "korean": "들어올리다"
+  },
+  {
+    "spanish": "campo",
+    "pronunciation": "깜뽀",
+    "korean": "들판"
+  },
+  {
+    "spanish": "espalda",
+    "pronunciation": "에스빨다",
+    "korean": "등"
+  },
+  {
+    "spanish": "montañismo",
+    "pronunciation": "몬따니스모",
+    "korean": "등산"
+  },
+  {
+    "spanish": "diseñador",
+    "pronunciation": "디세냐도르",
+    "korean": "디자이너"
+  },
+  {
+    "spanish": "hija",
+    "pronunciation": "이하",
+    "korean": "딸"
+  },
+  {
+    "spanish": "fresa",
+    "pronunciation": "프레사",
+    "korean": "딸기"
+  },
+  {
+    "spanish": "sudor",
+    "pronunciation": "수도르",
+    "korean": "땀"
+  },
+  {
+    "spanish": "tierra",
+    "pronunciation": "띠에라",
+    "korean": "땅"
+  },
+  {
+    "spanish": "caer",
+    "pronunciation": "까에르",
+    "korean": "떨어지다"
+  },
+  {
+    "spanish": "tapa",
+    "pronunciation": "따빠",
+    "korean": "뚜껑"
+  },
+  {
+    "spanish": "significado",
+    "pronunciation": "시그니피까도",
+    "korean": "뜻"
+  },
+  {
+    "spanish": "radio",
+    "pronunciation": "라디오",
+    "korean": "라디오"
+  },
+  {
+    "spanish": "raqueta",
+    "pronunciation": "라게따",
+    "korean": "라켓"
+  },
+  {
+    "spanish": "lámpara",
+    "pronunciation": "람빠라",
+    "korean": "램프"
+  },
+  {
+    "spanish": "limón",
+    "pronunciation": "리몬",
+    "korean": "레몬"
+  },
+  {
+    "spanish": "restaurante",
+    "pronunciation": "레스따우란떼",
+    "korean": "레스토랑"
+  },
+  {
+    "spanish": "robot",
+    "pronunciation": "로봇",
+    "korean": "로봇"
+  },
+  {
+    "spanish": "ajo",
+    "pronunciation": "아호",
+    "korean": "마늘"
+  },
+  {
+    "spanish": "pueblo",
+    "pronunciation": "뿌에블로",
+    "korean": "마을"
+  },
+  {
+    "spanish": "corazón",
+    "pronunciation": "꼬라손",
+    "korean": "마음"
+  },
+  {
+    "spanish": "contento",
+    "pronunciation": "꼰뗀또",
+    "korean": "만족한"
+  },
+  {
+    "spanish": "tocar",
+    "pronunciation": "또까르",
+    "korean": "만지다"
+  },
+  {
+    "spanish": "caballo",
+    "pronunciation": "까바요",
+    "korean": "말"
+  },
+  {
+    "spanish": "secar",
+    "pronunciation": "세까르",
+    "korean": "말리다"
+  },
+  {
+    "spanish": "hablar",
+    "pronunciation": "아블라르",
+    "korean": "말하다"
+  },
+  {
+    "spanish": "claro",
+    "pronunciation": "끌라로",
+    "korean": "맑은"
+  },
+  {
+    "spanish": "sabor",
+    "pronunciation": "사보르",
+    "korean": "맛"
+  },
+  {
+    "spanish": "probar",
+    "pronunciation": "쁘로바르",
+    "korean": "맛보다"
+  },
+  {
+    "spanish": "delicioso",
+    "pronunciation": "델리시오소",
+    "korean": "맛있는"
+  },
+  {
+    "spanish": "correcto",
+    "pronunciation": "꼬렉또",
+    "korean": "맞는"
+  },
+  {
+    "spanish": "cerveza",
+    "pronunciation": "세르베사",
+    "korean": "맥주"
+  },
+  {
+    "spanish": "cabeza",
+    "pronunciation": "까베사",
+    "korean": "머리"
+  },
+  {
+    "spanish": "pelo",
+    "pronunciation": "뻴로",
+    "korean": "머리카락"
+  },
+  {
+    "spanish": "comer",
+    "pronunciation": "꼬메르",
+    "korean": "먹다"
+  },
+  {
+    "spanish": "lejos",
+    "pronunciation": "레호스",
+    "korean": "먼"
+  },
+  {
+    "spanish": "polvo",
+    "pronunciation": "뽈보",
+    "korean": "먼지"
+  },
+  {
+    "spanish": "parar",
+    "pronunciation": "빠라르",
+    "korean": "멈추다"
+  },
+  {
+    "spanish": "menú",
+    "pronunciation": "메누",
+    "korean": "메뉴"
+  },
+  {
+    "spanish": "mensaje",
+    "pronunciation": "멘사헤",
+    "korean": "메시지"
+  },
+  {
+    "spanish": "todos",
+    "pronunciation": "또도스",
+    "korean": "모든"
+  },
+  {
+    "spanish": "arena",
+    "pronunciation": "아레나",
+    "korean": "모래"
+  },
+  {
+    "spanish": "pasado mañana",
+    "pronunciation": "빠사도 마냐나",
+    "korean": "모레"
+  },
+  {
+    "spanish": "forma",
+    "pronunciation": "포르마",
+    "korean": "모양"
+  },
+  {
+    "spanish": "reunión",
+    "pronunciation": "레우니온",
+    "korean": "모임"
+  },
+  {
+    "spanish": "gorra",
+    "pronunciation": "고라",
+    "korean": "모자"
+  },
+  {
+    "spanish": "esquina",
+    "pronunciation": "에스끼나",
+    "korean": "모퉁이"
+  },
+  {
+    "spanish": "cuello",
+    "pronunciation": "꾸에요",
+    "korean": "목"
+  },
+  {
+    "spanish": "sed",
+    "pronunciation": "세드",
+    "korean": "목마름"
+  },
+  {
+    "spanish": "voz",
+    "pronunciation": "보스",
+    "korean": "목소리"
+  },
+  {
+    "spanish": "carpintero",
+    "pronunciation": "까르삔떼로",
+    "korean": "목수"
+  },
+  {
+    "spanish": "jueves",
+    "pronunciation": "후에베스",
+    "korean": "목요일"
+  },
+  {
+    "spanish": "madera",
+    "pronunciation": "마데라",
+    "korean": "목재"
+  },
+  {
+    "spanish": "objetivo",
+    "pronunciation": "옵헤띠보",
+    "korean": "목적"
+  },
+  {
+    "spanish": "cuerpo",
+    "pronunciation": "꾸에르뽀",
+    "korean": "몸"
+  },
+  {
+    "spanish": "peso",
+    "pronunciation": "뻬소",
+    "korean": "몸무게"
+  },
+  {
+    "spanish": "pesado",
+    "pronunciation": "뻬사도",
+    "korean": "무거운"
+  },
+  {
+    "spanish": "arma",
+    "pronunciation": "아르마",
+    "korean": "무기"
+  },
+  {
+    "spanish": "escenario",
+    "pronunciation": "에스세나리오",
+    "korean": "무대"
+  },
+  {
+    "spanish": "gratis",
+    "pronunciation": "그라띠스",
+    "korean": "무료의"
+  },
+  {
+    "spanish": "rodilla",
+    "pronunciation": "로디야",
+    "korean": "무릎"
+  },
+  {
+    "spanish": "miedo",
+    "pronunciation": "미에도",
+    "korean": "무서운"
+  },
+  {
+    "spanish": "qué",
+    "pronunciation": "게",
+    "korean": "무엇"
+  },
+  {
+    "spanish": "arcoíris",
+    "pronunciation": "아르꼬이리스",
+    "korean": "무지개"
+  },
+  {
+    "spanish": "puerta",
+    "pronunciation": "뿌에르따",
+    "korean": "문"
+  },
+  {
+    "spanish": "pulpo",
+    "pronunciation": "뿔뽀",
+    "korean": "문어"
+  },
+  {
+    "spanish": "problema",
+    "pronunciation": "쁘로블레마",
+    "korean": "문제"
+  },
+  {
+    "spanish": "cultura",
+    "pronunciation": "꿀뚜라",
+    "korean": "문화"
+  },
+  {
+    "spanish": "agua",
+    "pronunciation": "아구아",
+    "korean": "물"
+  },
+  {
+    "spanish": "objeto",
+    "pronunciation": "옵헤또",
+    "korean": "물건"
+  },
+  {
+    "spanish": "pez",
+    "pronunciation": "뻬스",
+    "korean": "물고기"
+  },
+  {
+    "spanish": "morder",
+    "pronunciation": "모르데르",
+    "korean": "물다"
+  },
+  {
+    "spanish": "pregunta",
+    "pronunciation": "쁘레군따",
+    "korean": "물음"
+  },
+  {
+    "spanish": "sonreír",
+    "pronunciation": "손레이르",
+    "korean": "미소 짓다"
+  },
+  {
+    "spanish": "lo siento",
+    "pronunciation": "로 시엔또",
+    "korean": "미안합니다"
+  },
+  {
+    "spanish": "creer",
+    "pronunciation": "크레에르",
+    "korean": "믿다"
+  },
+  {
+    "spanish": "harina",
+    "pronunciation": "아리나",
+    "korean": "밀가루"
+  },
+  {
+    "spanish": "empujar",
+    "pronunciation": "엠뿌하르",
+    "korean": "밀다"
+  },
+  {
+    "spanish": "cesta",
+    "pronunciation": "세스따",
+    "korean": "바구니"
+  },
+  {
+    "spanish": "plátano",
+    "pronunciation": "쁠라따노",
+    "korean": "바나나"
+  },
+  {
+    "spanish": "desear",
+    "pronunciation": "데세아르",
+    "korean": "바라다"
+  },
+  {
+    "spanish": "mirar",
+    "pronunciation": "미라르",
+    "korean": "바라보다"
+  },
+  {
+    "spanish": "viento",
+    "pronunciation": "비엔또",
+    "korean": "바람"
+  },
+  {
+    "spanish": "museo",
+    "pronunciation": "무세오",
+    "korean": "박물관"
+  },
+  {
+    "spanish": "afuera",
+    "pronunciation": "아푸에라",
+    "korean": "밖"
+  },
+  {
+    "spanish": "medio",
+    "pronunciation": "메디오",
+    "korean": "반"
+  },
+  {
+    "spanish": "alegre",
+    "pronunciation": "알레그레",
+    "korean": "반가운"
+  },
+  {
+    "spanish": "mascota",
+    "pronunciation": "마스꼬따",
+    "korean": "반려동물"
+  },
+  {
+    "spanish": "repetir",
+    "pronunciation": "레뻬띠르",
+    "korean": "반복하다"
+  },
+  {
+    "spanish": "anillo",
+    "pronunciation": "아니요",
+    "korean": "반지"
+  },
+  {
+    "spanish": "recibir",
+    "pronunciation": "레시비르",
+    "korean": "받다"
+  },
+  {
+    "spanish": "pie",
+    "pronunciation": "삐에",
+    "korean": "발"
+  },
+  {
+    "spanish": "dedo del pie",
+    "pronunciation": "데도 델 삐에",
+    "korean": "발가락"
+  },
+  {
+    "spanish": "tobillo",
+    "pronunciation": "또비요",
+    "korean": "발목"
+  },
+  {
+    "spanish": "pronunciación",
+    "pronunciation": "쁘로눈시아시온",
+    "korean": "발음"
+  },
+  {
+    "spanish": "desarrollo",
+    "pronunciation": "데사로요",
+    "korean": "발전"
+  },
+  {
+    "spanish": "brillante",
+    "pronunciation": "브리얀떼",
+    "korean": "밝은"
+  },
+  {
+    "spanish": "noche",
+    "pronunciation": "노체",
+    "korean": "밤"
+  },
+  {
+    "spanish": "arroz",
+    "pronunciation": "아로스",
+    "korean": "밥"
+  },
+  {
+    "spanish": "habitación",
+    "pronunciation": "아비따시온",
+    "korean": "방"
+  },
+  {
+    "spanish": "método",
+    "pronunciation": "메또도",
+    "korean": "방법"
+  },
+  {
+    "spanish": "vacación",
+    "pronunciation": "바까시온",
+    "korean": "방학"
+  },
+  {
+    "spanish": "dirección",
+    "pronunciation": "디렉시온",
+    "korean": "방향"
+  },
+  {
+    "spanish": "barco",
+    "pronunciation": "바르꼬",
+    "korean": "배"
+  },
+  {
+    "spanish": "pera",
+    "pronunciation": "뻬라",
+    "korean": "배(과일)"
+  },
+  {
+    "spanish": "voleibol",
+    "pronunciation": "볼레이볼",
+    "korean": "배구"
+  },
+  {
+    "spanish": "entrega",
+    "pronunciation": "엔뜨레가",
+    "korean": "배달"
+  },
+  {
+    "spanish": "actor",
+    "pronunciation": "악또르",
+    "korean": "배우"
+  },
+  {
+    "spanish": "aprender",
+    "pronunciation": "아쁘렌데르",
+    "korean": "배우다"
+  },
+  {
+    "spanish": "batería",
+    "pronunciation": "바떼리아",
+    "korean": "배터리"
+  },
+  {
+    "spanish": "cien",
+    "pronunciation": "시엔",
+    "korean": "백"
+  },
+  {
+    "spanish": "millón",
+    "pronunciation": "미욘",
+    "korean": "백만"
+  },
+  {
+    "spanish": "serpiente",
+    "pronunciation": "세르삐엔떼",
+    "korean": "뱀"
+  },
+  {
+    "spanish": "hongo",
+    "pronunciation": "옹고",
+    "korean": "버섯"
+  },
+  {
+    "spanish": "autobús",
+    "pronunciation": "아우또부스",
+    "korean": "버스"
+  },
+  {
+    "spanish": "mantequilla",
+    "pronunciation": "만떼끼야",
+    "korean": "버터"
+  },
+  {
+    "spanish": "relámpago",
+    "pronunciation": "렐람빠고",
+    "korean": "번개"
+  },
+  {
+    "spanish": "traducir",
+    "pronunciation": "뜨라두시르",
+    "korean": "번역하다"
+  },
+  {
+    "spanish": "número",
+    "pronunciation": "누메로",
+    "korean": "번호"
+  },
+  {
+    "spanish": "abeja",
+    "pronunciation": "아베하",
+    "korean": "벌"
+  },
+  {
+    "spanish": "ley",
+    "pronunciation": "레이",
+    "korean": "법"
+  },
+  {
+    "spanish": "almohada",
+    "pronunciation": "알모아다",
+    "korean": "베개"
+  },
+  {
+    "spanish": "pared",
+    "pronunciation": "빠레드",
+    "korean": "벽"
+  },
+  {
+    "spanish": "cambiar",
+    "pronunciation": "깜비아르",
+    "korean": "변하다"
+  },
+  {
+    "spanish": "abogado",
+    "pronunciation": "아보가도",
+    "korean": "변호사"
+  },
+  {
+    "spanish": "estrella",
+    "pronunciation": "에스뜨레야",
+    "korean": "별"
+  },
+  {
+    "spanish": "botella",
+    "pronunciation": "보떼야",
+    "korean": "병"
+  },
+  {
+    "spanish": "enfermedad",
+    "pronunciation": "엔페르메다드",
+    "korean": "병(질환)"
+  },
+  {
+    "spanish": "soldado",
+    "pronunciation": "솔다도",
+    "korean": "병사"
+  },
+  {
+    "spanish": "hospital",
+    "pronunciation": "오스삐딸",
+    "korean": "병원"
+  },
+  {
+    "spanish": "enviar",
+    "pronunciation": "엔비아르",
+    "korean": "보내다"
+  },
+  {
+    "spanish": "ver",
+    "pronunciation": "베르",
+    "korean": "보다"
+  },
+  {
+    "spanish": "morado",
+    "pronunciation": "모라도",
+    "korean": "보라색"
+  },
+  {
+    "spanish": "tesoro",
+    "pronunciation": "떼소로",
+    "korean": "보물"
+  },
+  {
+    "spanish": "mostrar",
+    "pronunciation": "모스뜨라르",
+    "korean": "보여주다"
+  },
+  {
+    "spanish": "normalmente",
+    "pronunciation": "노르말멘떼",
+    "korean": "보통"
+  },
+  {
+    "spanish": "seguro",
+    "pronunciation": "세구로",
+    "korean": "보험"
+  },
+  {
+    "spanish": "melocotón",
+    "pronunciation": "멜로꼬똔",
+    "korean": "복숭아"
+  },
+  {
+    "spanish": "complejo",
+    "pronunciation": "꼼쁠레호",
+    "korean": "복잡한"
+  },
+  {
+    "spanish": "mejilla",
+    "pronunciation": "메히야",
+    "korean": "볼"
+  },
+  {
+    "spanish": "primavera",
+    "pronunciation": "쁘리마베라",
+    "korean": "봄"
+  },
+  {
+    "spanish": "servicio voluntario",
+    "pronunciation": "세르비시오 볼룬따리오",
+    "korean": "봉사"
+  },
+  {
+    "spanish": "sobre",
+    "pronunciation": "소브레",
+    "korean": "봉투"
+  },
+  {
+    "spanish": "avergonzado",
+    "pronunciation": "아베르곤사도",
+    "korean": "부끄러운"
+  },
+  {
+    "spanish": "suave",
+    "pronunciation": "수아베",
+    "korean": "부드러운"
+  },
+  {
+    "spanish": "padre",
+    "pronunciation": "빠드레",
+    "korean": "부모(아버지)"
+  },
+  {
+    "spanish": "parte",
+    "pronunciation": "빠르떼",
+    "korean": "부분"
+  },
+  {
+    "spanish": "cocina",
+    "pronunciation": "꼬시나",
+    "korean": "부엌"
+  },
+  {
+    "spanish": "rico",
+    "pronunciation": "리꼬",
+    "korean": "부유한"
+  },
+  {
+    "spanish": "pedir",
+    "pronunciation": "뻬디르",
+    "korean": "부탁하다"
+  },
+  {
+    "spanish": "norte",
+    "pronunciation": "노르떼",
+    "korean": "북쪽"
+  },
+  {
+    "spanish": "minuto",
+    "pronunciation": "미누또",
+    "korean": "분"
+  },
+  {
+    "spanish": "enojo",
+    "pronunciation": "에노호",
+    "korean": "분노"
+  },
+  {
+    "spanish": "fuego",
+    "pronunciation": "푸에고",
+    "korean": "불"
+  },
+  {
+    "spanish": "estrella de mar",
+    "pronunciation": "에스뜨레야 데 마르",
+    "korean": "불가사리"
+  },
+  {
+    "spanish": "incómodo",
+    "pronunciation": "인꼬모도",
+    "korean": "불편한"
+  },
+  {
+    "spanish": "venda",
+    "pronunciation": "벤다",
+    "korean": "붕대"
+  },
+  {
+    "spanish": "jabón",
+    "pronunciation": "하본",
+    "korean": "비누"
+  },
+  {
+    "spanish": "paloma",
+    "pronunciation": "빠로마",
+    "korean": "비둘기"
+  },
+  {
+    "spanish": "contraseña",
+    "pronunciation": "꼰뜨라세냐",
+    "korean": "비밀번호"
+  },
+  {
+    "spanish": "avión",
+    "pronunciation": "아비온",
+    "korean": "비행기"
+  },
+  {
+    "spanish": "prestar",
+    "pronunciation": "쁘레스따르",
+    "korean": "빌려주다"
+  },
+  {
+    "spanish": "alquilar",
+    "pronunciation": "알낄라르",
+    "korean": "빌리다"
+  },
+  {
+    "spanish": "rápidamente",
+    "pronunciation": "라삐다멘떼",
+    "korean": "빠르게"
+  },
+  {
+    "spanish": "rojo",
+    "pronunciation": "로호",
+    "korean": "빨간색"
+  },
+  {
+    "spanish": "lavar",
+    "pronunciation": "라바르",
+    "korean": "빨래하다"
+  },
+  {
+    "spanish": "pan",
+    "pronunciation": "빤",
+    "korean": "빵"
+  },
+  {
+    "spanish": "hueso",
+    "pronunciation": "우에소",
+    "korean": "뼈"
+  },
+  {
+    "spanish": "raíz",
+    "pronunciation": "라이스",
+    "korean": "뿌리"
+  },
+  {
+    "spanish": "cuerno",
+    "pronunciation": "꾸에르노",
+    "korean": "뿔"
+  },
+  {
+    "spanish": "accidente",
+    "pronunciation": "악시덴떼",
+    "korean": "사고"
+  },
+  {
+    "spanish": "manzana",
+    "pronunciation": "만사나",
+    "korean": "사과"
+  },
+  {
+    "spanish": "comprar",
+    "pronunciation": "꼼쁘라르",
+    "korean": "사다"
+  },
+  {
+    "spanish": "persona",
+    "pronunciation": "뻬르소나",
+    "korean": "사람"
+  },
+  {
+    "spanish": "amor",
+    "pronunciation": "아모르",
+    "korean": "사랑"
+  },
+  {
+    "spanish": "amar",
+    "pronunciation": "아마르",
+    "korean": "사랑하다"
+  },
+  {
+    "spanish": "desierto",
+    "pronunciation": "데시에르또",
+    "korean": "사막"
+  },
+  {
+    "spanish": "oficina",
+    "pronunciation": "오피시나",
+    "korean": "사무실"
+  },
+  {
+    "spanish": "empresario",
+    "pronunciation": "엠쁘레사리오",
+    "korean": "사업가"
+  },
+  {
+    "spanish": "usar",
+    "pronunciation": "우사르",
+    "korean": "사용하다"
+  },
+  {
+    "spanish": "talla",
+    "pronunciation": "따야",
+    "korean": "사이즈"
+  },
+  {
+    "spanish": "león",
+    "pronunciation": "레온",
+    "korean": "사자"
+  },
+  {
+    "spanish": "diccionario",
+    "pronunciation": "딕시오나리오",
+    "korean": "사전"
+  },
+  {
+    "spanish": "foto",
+    "pronunciation": "포또",
+    "korean": "사진"
+  },
+  {
+    "spanish": "sociedad",
+    "pronunciation": "소시에다드",
+    "korean": "사회"
+  },
+  {
+    "spanish": "montaña",
+    "pronunciation": "몬따냐",
+    "korean": "산"
+  },
+  {
+    "spanish": "industria",
+    "pronunciation": "인두스뜨리아",
+    "korean": "산업"
+  },
+  {
+    "spanish": "paseo",
+    "pronunciation": "빠세오",
+    "korean": "산책"
+  },
+  {
+    "spanish": "vivir",
+    "pronunciation": "비비르",
+    "korean": "살다"
+  },
+  {
+    "spanish": "tres",
+    "pronunciation": "뜨레스",
+    "korean": "삼(숫자)"
+  },
+  {
+    "spanish": "tío",
+    "pronunciation": "띠오",
+    "korean": "삼촌"
+  },
+  {
+    "spanish": "premio",
+    "pronunciation": "쁘레미오",
+    "korean": "상"
+  },
+  {
+    "spanish": "imaginación",
+    "pronunciation": "이마히나시온",
+    "korean": "상상"
+  },
+  {
+    "spanish": "caja",
+    "pronunciation": "까하",
+    "korean": "상자"
+  },
+  {
+    "spanish": "herida",
+    "pronunciation": "에리다",
+    "korean": "상처"
+  },
+  {
+    "spanish": "lechuga",
+    "pronunciation": "레추가",
+    "korean": "상추"
+  },
+  {
+    "spanish": "situación",
+    "pronunciation": "시뚜아시온",
+    "korean": "상황"
+  },
+  {
+    "spanish": "ave",
+    "pronunciation": "아베",
+    "korean": "새"
+  },
+  {
+    "spanish": "nuevo",
+    "pronunciation": "누에보",
+    "korean": "새로운"
+  },
+  {
+    "spanish": "madrugada",
+    "pronunciation": "마드루가다",
+    "korean": "새벽"
+  },
+  {
+    "spanish": "color",
+    "pronunciation": "꼴로르",
+    "korean": "색"
+  },
+  {
+    "spanish": "sándwich",
+    "pronunciation": "산드위치",
+    "korean": "샌드위치"
+  },
+  {
+    "spanish": "pensamiento",
+    "pronunciation": "뻰사미엔또",
+    "korean": "생각"
+  },
+  {
+    "spanish": "pensar",
+    "pronunciation": "뻰사르",
+    "korean": "생각하다"
+  },
+  {
+    "spanish": "producción",
+    "pronunciation": "쁘로둑시온",
+    "korean": "생산"
+  },
+  {
+    "spanish": "cumpleaños",
+    "pronunciation": "꿈쁠레아뇨스",
+    "korean": "생일"
+  },
+  {
+    "spanish": "sobrevivir",
+    "pronunciation": "소브레비비르",
+    "korean": "생존하다"
+  },
+  {
+    "spanish": "vida",
+    "pronunciation": "비다",
+    "korean": "생활"
+  },
+  {
+    "spanish": "ducha",
+    "pronunciation": "두차",
+    "korean": "샤워"
+  },
+  {
+    "spanish": "documento",
+    "pronunciation": "도꾸멘또",
+    "korean": "서류"
+  },
+  {
+    "spanish": "firma",
+    "pronunciation": "피르마",
+    "korean": "서명"
+  },
+  {
+    "spanish": "librería",
+    "pronunciation": "리브레리아",
+    "korean": "서점"
+  },
+  {
+    "spanish": "oeste",
+    "pronunciation": "오에스떼",
+    "korean": "서쪽"
+  },
+  {
+    "spanish": "circo",
+    "pronunciation": "시르꼬",
+    "korean": "서커스"
+  },
+  {
+    "spanish": "mezclar",
+    "pronunciation": "메스끌라르",
+    "korean": "섞다"
+  },
+  {
+    "spanish": "seleccionar",
+    "pronunciation": "셀렉시오나르",
+    "korean": "선택하다"
+  },
+  {
+    "spanish": "explicar",
+    "pronunciation": "엑스쁠리까르",
+    "korean": "설명하다"
+  },
+  {
+    "spanish": "azúcar",
+    "pronunciation": "아수까르",
+    "korean": "설탕"
+  },
+  {
+    "spanish": "isla",
+    "pronunciation": "이슬라",
+    "korean": "섬"
+  },
+  {
+    "spanish": "castillo",
+    "pronunciation": "까스띠요",
+    "korean": "성"
+  },
+  {
+    "spanish": "éxito",
+    "pronunciation": "엑시또",
+    "korean": "성공"
+  },
+  {
+    "spanish": "mundo",
+    "pronunciation": "문도",
+    "korean": "세계"
+  },
+  {
+    "spanish": "impuesto",
+    "pronunciation": "임뿌에스또",
+    "korean": "세금"
+  },
+  {
+    "spanish": "siglo",
+    "pronunciation": "시글로",
+    "korean": "세기"
+  },
+  {
+    "spanish": "contar",
+    "pronunciation": "꼰따르",
+    "korean": "세다"
+  },
+  {
+    "spanish": "detergente",
+    "pronunciation": "데떼르헨떼",
+    "korean": "세제"
+  },
+  {
+    "spanish": "lavadora",
+    "pronunciation": "라바도라",
+    "korean": "세탁기"
+  },
+  {
+    "spanish": "camisa",
+    "pronunciation": "까미사",
+    "korean": "셔츠"
+  },
+  {
+    "spanish": "pequeño",
+    "pronunciation": "뻬게뇨",
+    "korean": "소"
+  },
+  {
+    "spanish": "vaca",
+    "pronunciation": "바까",
+    "korean": "소(동물)"
+  },
+  {
+    "spanish": "presentar",
+    "pronunciation": "쁘레센따르",
+    "korean": "소개하다"
+  },
+  {
+    "spanish": "sal",
+    "pronunciation": "살",
+    "korean": "소금"
+  },
+  {
+    "spanish": "gritar",
+    "pronunciation": "그리따르",
+    "korean": "소리치다"
+  },
+  {
+    "spanish": "bombero",
+    "pronunciation": "봄베로",
+    "korean": "소방관"
+  },
+  {
+    "spanish": "novela",
+    "pronunciation": "노벨라",
+    "korean": "소설"
+  },
+  {
+    "spanish": "salsa",
+    "pronunciation": "살사",
+    "korean": "소스"
+  },
+  {
+    "spanish": "noticias",
+    "pronunciation": "노띠시아스",
+    "korean": "소식"
+  },
+  {
+    "spanish": "deseo",
+    "pronunciation": "데세오",
+    "korean": "소원"
+  },
+  {
+    "spanish": "ruido",
+    "pronunciation": "루이도",
+    "korean": "소음"
+  },
+  {
+    "spanish": "sofá",
+    "pronunciation": "소파",
+    "korean": "소파"
+  },
+  {
+    "spanish": "pestaña",
+    "pronunciation": "뻬스따냐",
+    "korean": "속눈썹"
+  },
+  {
+    "spanish": "susurrar",
+    "pronunciation": "수수라르",
+    "korean": "속삭이다"
+  },
+  {
+    "spanish": "mano",
+    "pronunciation": "마노",
+    "korean": "손"
+  },
+  {
+    "spanish": "dedo",
+    "pronunciation": "데도",
+    "korean": "손가락"
+  },
+  {
+    "spanish": "invitado",
+    "pronunciation": "인비따도",
+    "korean": "손님"
+  },
+  {
+    "spanish": "nieto",
+    "pronunciation": "니에또",
+    "korean": "손자"
+  },
+  {
+    "spanish": "uña",
+    "pronunciation": "우냐",
+    "korean": "손톱"
+  },
+  {
+    "spanish": "cepillo",
+    "pronunciation": "세삐요",
+    "korean": "솔"
+  },
+  {
+    "spanish": "algodón",
+    "pronunciation": "알고돈",
+    "korean": "솜"
+  },
+  {
+    "spanish": "compras",
+    "pronunciation": "꼼쁘라스",
+    "korean": "쇼핑"
+  },
+  {
+    "spanish": "toalla",
+    "pronunciation": "또아야",
+    "korean": "수건"
+  },
+  {
+    "spanish": "sandía",
+    "pronunciation": "산디아",
+    "korean": "수박"
+  },
+  {
+    "spanish": "cirugía",
+    "pronunciation": "시루히아",
+    "korean": "수술"
+  },
+  {
+    "spanish": "natación",
+    "pronunciation": "나따시온",
+    "korean": "수영"
+  },
+  {
+    "spanish": "nadar",
+    "pronunciation": "나다르",
+    "korean": "수영하다"
+  },
+  {
+    "spanish": "miércoles",
+    "pronunciation": "미에르꼴레스",
+    "korean": "수요일"
+  },
+  {
+    "spanish": "acuario",
+    "pronunciation": "아꾸아리오",
+    "korean": "수족관"
+  },
+  {
+    "spanish": "deberes",
+    "pronunciation": "데베레스",
+    "korean": "숙제"
+  },
+  {
+    "spanish": "cuchara",
+    "pronunciation": "꾸차라",
+    "korean": "숟가락"
+  },
+  {
+    "spanish": "bosque",
+    "pronunciation": "보스게",
+    "korean": "숲"
+  },
+  {
+    "spanish": "descansar",
+    "pronunciation": "데스깐사르",
+    "korean": "쉬다"
+  },
+  {
+    "spanish": "fácil",
+    "pronunciation": "파실",
+    "korean": "쉬운"
+  },
+  {
+    "spanish": "supermercado",
+    "pronunciation": "수뻬르메르까도",
+    "korean": "슈퍼마켓"
+  },
+  {
+    "spanish": "maestro",
+    "pronunciation": "마에스뜨로",
+    "korean": "스승"
+  },
+  {
+    "spanish": "suéter",
+    "pronunciation": "수에떼르",
+    "korean": "스웨터"
+  },
+  {
+    "spanish": "interruptor",
+    "pronunciation": "인떼룹또르",
+    "korean": "스위치"
+  },
+  {
+    "spanish": "pantalla",
+    "pronunciation": "빤따야",
+    "korean": "스크린"
+  },
+  {
+    "spanish": "esquí",
+    "pronunciation": "에스끼",
+    "korean": "스키"
+  },
+  {
+    "spanish": "calcetín",
+    "pronunciation": "깔세띤",
+    "korean": "스타킹"
+  },
+  {
+    "spanish": "estrés",
+    "pronunciation": "에스뜨레스",
+    "korean": "스트레스"
+  },
+  {
+    "spanish": "deporte",
+    "pronunciation": "데뽀르떼",
+    "korean": "스포츠"
+  },
+  {
+    "spanish": "triste",
+    "pronunciation": "뜨리스떼",
+    "korean": "슬픈"
+  },
+  {
+    "spanish": "hábito",
+    "pronunciation": "아비또",
+    "korean": "습관"
+  },
+  {
+    "spanish": "húmedo",
+    "pronunciation": "우메도",
+    "korean": "습한"
+  },
+  {
+    "spanish": "pasajero",
+    "pronunciation": "빠사헤로",
+    "korean": "승객"
+  },
+  {
+    "spanish": "victoria",
+    "pronunciation": "빅또리아",
+    "korean": "승리"
+  },
+  {
+    "spanish": "hora",
+    "pronunciation": "오라",
+    "korean": "시간"
+  },
+  {
+    "spanish": "reloj",
+    "pronunciation": "렐로흐",
+    "korean": "시계"
+  },
+  {
+    "spanish": "ciudadano",
+    "pronunciation": "시우다다노",
+    "korean": "시민"
+  },
+  {
+    "spanish": "comenzar",
+    "pronunciation": "꼬멘사르",
+    "korean": "시작하다"
+  },
+  {
+    "spanish": "mercado",
+    "pronunciation": "메르까도",
+    "korean": "시장"
+  },
+  {
+    "spanish": "examen",
+    "pronunciation": "엑사멘",
+    "korean": "시험"
+  },
+  {
+    "spanish": "vinagre",
+    "pronunciation": "비나그레",
+    "korean": "식초"
+  },
+  {
+    "spanish": "enfriar",
+    "pronunciation": "엔프리아르",
+    "korean": "식히다"
+  },
+  {
+    "spanish": "dios",
+    "pronunciation": "디오스",
+    "korean": "신"
+  },
+  {
+    "spanish": "novio",
+    "pronunciation": "노비오",
+    "korean": "신랑"
+  },
+  {
+    "spanish": "periódico",
+    "pronunciation": "뻬리오디꼬",
+    "korean": "신문"
+  },
+  {
+    "spanish": "moderno",
+    "pronunciation": "모데르노",
+    "korean": "신식의"
+  },
+  {
+    "spanish": "tarjeta de crédito",
+    "pronunciation": "따르헤따 데 끄레디또",
+    "korean": "신용카드"
+  },
+  {
+    "spanish": "solicitud",
+    "pronunciation": "솔리시뚜드",
+    "korean": "신청"
+  },
+  {
+    "spanish": "señal",
+    "pronunciation": "세냘",
+    "korean": "신호"
+  },
+  {
+    "spanish": "semáforo",
+    "pronunciation": "세마포로",
+    "korean": "신호등"
+  },
+  {
+    "spanish": "hilo",
+    "pronunciation": "일로",
+    "korean": "실"
+  },
+  {
+    "spanish": "perdón",
+    "pronunciation": "뻬르돈",
+    "korean": "실례"
+  },
+  {
+    "spanish": "error",
+    "pronunciation": "에로르",
+    "korean": "실수"
+  },
+  {
+    "spanish": "verdad",
+    "pronunciation": "베르다드",
+    "korean": "실제"
+  },
+  {
+    "spanish": "odiar",
+    "pronunciation": "오디아르",
+    "korean": "싫어하다"
+  },
+  {
+    "spanish": "diez",
+    "pronunciation": "디에스",
+    "korean": "십"
+  },
+  {
+    "spanish": "pelear",
+    "pronunciation": "뻬레아르",
+    "korean": "싸우다"
+  },
+  {
+    "spanish": "barato",
+    "pronunciation": "바라또",
+    "korean": "싼"
+  },
+  {
+    "spanish": "escribir",
+    "pronunciation": "에스끄리비르",
+    "korean": "쓰다"
+  },
+  {
+    "spanish": "basura",
+    "pronunciation": "바수라",
+    "korean": "쓰레기"
+  },
+  {
+    "spanish": "amargo",
+    "pronunciation": "아마르고",
+    "korean": "쓴"
+  },
+  {
+    "spanish": "semilla",
+    "pronunciation": "세미야",
+    "korean": "씨앗"
+  },
+  {
+    "spanish": "bebé",
+    "pronunciation": "베베",
+    "korean": "아기"
+  },
+  {
+    "spanish": "esposa",
+    "pronunciation": "에스뽀사",
+    "korean": "아내"
+  },
+  {
+    "spanish": "hijo",
+    "pronunciation": "이호",
+    "korean": "아들"
+  },
+  {
+    "spanish": "abajo",
+    "pronunciation": "아바호",
+    "korean": "아래"
+  },
+  {
+    "spanish": "hermoso",
+    "pronunciation": "에르모소",
+    "korean": "아름다운"
+  },
+  {
+    "spanish": "quizás",
+    "pronunciation": "끼사스",
+    "korean": "아마"
+  },
+  {
+    "spanish": "niño",
+    "pronunciation": "니뇨",
+    "korean": "아이"
+  },
+  {
+    "spanish": "idea",
+    "pronunciation": "이데아",
+    "korean": "아이디어"
+  },
+  {
+    "spanish": "helado",
+    "pronunciation": "엘라도",
+    "korean": "아이스크림"
+  },
+  {
+    "spanish": "señor",
+    "pronunciation": "세뇨르",
+    "korean": "아저씨"
+  },
+  {
+    "spanish": "todavía",
+    "pronunciation": "또다비아",
+    "korean": "아직"
+  },
+  {
+    "spanish": "desayuno",
+    "pronunciation": "데사유노",
+    "korean": "아침 식사"
+  },
+  {
+    "spanish": "apartamento",
+    "pronunciation": "아빠르따멘또",
+    "korean": "아파트"
+  },
+  {
+    "spanish": "enfermo",
+    "pronunciation": "엔페르모",
+    "korean": "아픈"
+  },
+  {
+    "spanish": "instrumento",
+    "pronunciation": "인스뜨루멘또",
+    "korean": "악기"
+  },
+  {
+    "spanish": "cocodrilo",
+    "pronunciation": "꼬꼬드릴로",
+    "korean": "악어"
+  },
+  {
+    "spanish": "adentro",
+    "pronunciation": "아덴뜨로",
+    "korean": "안"
+  },
+  {
+    "spanish": "niebla",
+    "pronunciation": "니에블라",
+    "korean": "안개"
+  },
+  {
+    "spanish": "gafas",
+    "pronunciation": "가파스",
+    "korean": "안경"
+  },
+  {
+    "spanish": "hola",
+    "pronunciation": "올라",
+    "korean": "안녕"
+  },
+  {
+    "spanish": "adiós",
+    "pronunciation": "아디오스",
+    "korean": "안녕히"
+  },
+  {
+    "spanish": "sentarse",
+    "pronunciation": "센따르세",
+    "korean": "앉다"
+  },
+  {
+    "spanish": "saber",
+    "pronunciation": "사베르",
+    "korean": "알다"
+  },
+  {
+    "spanish": "alergia",
+    "pronunciation": "알레르히아",
+    "korean": "알레르기"
+  },
+  {
+    "spanish": "delante",
+    "pronunciation": "델란떼",
+    "korean": "앞"
+  },
+  {
+    "spanish": "futuro",
+    "pronunciation": "푸뚜로",
+    "korean": "앞으로"
+  },
+  {
+    "spanish": "aplicación",
+    "pronunciation": "아쁠리까시온",
+    "korean": "앱"
+  },
+  {
+    "spanish": "béisbol",
+    "pronunciation": "베이스볼",
+    "korean": "야구"
+  },
+  {
+    "spanish": "medicina",
+    "pronunciation": "메디시나",
+    "korean": "약"
+  },
+  {
+    "spanish": "farmacia",
+    "pronunciation": "파르마시아",
+    "korean": "약국"
+  },
+  {
+    "spanish": "promesa",
+    "pronunciation": "쁘로메사",
+    "korean": "약속"
+  },
+  {
+    "spanish": "prometer",
+    "pronunciation": "쁘로메떼르",
+    "korean": "약속하다"
+  },
+  {
+    "spanish": "débil",
+    "pronunciation": "데빌",
+    "korean": "약한"
+  },
+  {
+    "spanish": "cordero",
+    "pronunciation": "꼬르데로",
+    "korean": "양"
+  },
+  {
+    "spanish": "calcetines",
+    "pronunciation": "깔세띠네스",
+    "korean": "양말"
+  },
+  {
+    "spanish": "ambos",
+    "pronunciation": "암보스",
+    "korean": "양쪽"
+  },
+  {
+    "spanish": "cebolla",
+    "pronunciation": "세보야",
+    "korean": "양파"
+  },
+  {
+    "spanish": "hombro",
+    "pronunciation": "옴브로",
+    "korean": "어깨"
+  },
+  {
+    "spanish": "oscuro",
+    "pronunciation": "오스꾸로",
+    "korean": "어두운"
+  },
+  {
+    "spanish": "ayer",
+    "pronunciation": "아예르",
+    "korean": "어제"
+  },
+  {
+    "spanish": "cara",
+    "pronunciation": "까라",
+    "korean": "얼굴"
+  },
+  {
+    "spanish": "cebra",
+    "pronunciation": "세브라",
+    "korean": "얼룩말"
+  },
+  {
+    "spanish": "cuánto",
+    "pronunciation": "꾸안또",
+    "korean": "얼마나"
+  },
+  {
+    "spanish": "hielo",
+    "pronunciation": "이엘로",
+    "korean": "얼음"
+  },
+  {
+    "spanish": "estricto",
+    "pronunciation": "에스뜨릭또",
+    "korean": "엄격한"
+  },
+  {
+    "spanish": "mamá",
+    "pronunciation": "마마",
+    "korean": "엄마"
+  },
+  {
+    "spanish": "ingeniero",
+    "pronunciation": "인헤니에로",
+    "korean": "엔지니어"
+  },
+  {
+    "spanish": "ascensor",
+    "pronunciation": "아센소르",
+    "korean": "엘리베이터"
+  },
+  {
+    "spanish": "pasaporte",
+    "pronunciation": "빠사뽀르떼",
+    "korean": "여권"
+  },
+  {
+    "spanish": "aquí",
+    "pronunciation": "아끼",
+    "korean": "여기"
+  },
+  {
+    "spanish": "ocho",
+    "pronunciation": "오초",
+    "korean": "여덟"
+  },
+  {
+    "spanish": "verano",
+    "pronunciation": "베라노",
+    "korean": "여름"
+  },
+  {
+    "spanish": "mujer",
+    "pronunciation": "무헤르",
+    "korean": "여자"
+  },
+  {
+    "spanish": "hermana",
+    "pronunciation": "에르마나",
+    "korean": "여자 형제"
+  },
+  {
+    "spanish": "viaje",
+    "pronunciation": "비아헤",
+    "korean": "여행"
+  },
+  {
+    "spanish": "estación",
+    "pronunciation": "에스따시온",
+    "korean": "역"
+  },
+  {
+    "spanish": "historia",
+    "pronunciation": "이스또리아",
+    "korean": "역사"
+  },
+  {
+    "spanish": "contactar",
+    "pronunciation": "꼰딱따르",
+    "korean": "연락하다"
+  },
+  {
+    "spanish": "practicar",
+    "pronunciation": "쁘락띠까르",
+    "korean": "연습하다"
+  },
+  {
+    "spanish": "lápiz",
+    "pronunciation": "라삐스",
+    "korean": "연필"
+  },
+  {
+    "spanish": "fiebre",
+    "pronunciation": "피에브레",
+    "korean": "열"
+  },
+  {
+    "spanish": "abrir",
+    "pronunciation": "아브리르",
+    "korean": "열다"
+  },
+  {
+    "spanish": "fruto",
+    "pronunciation": "프루또",
+    "korean": "열매"
+  },
+  {
+    "spanish": "llave",
+    "pronunciation": "야베",
+    "korean": "열쇠"
+  },
+  {
+    "spanish": "cero",
+    "pronunciation": "세로",
+    "korean": "영(숫자)"
+  },
+  {
+    "spanish": "recibo",
+    "pronunciation": "레시보",
+    "korean": "영수증"
+  },
+  {
+    "spanish": "inglés",
+    "pronunciation": "잉글레스",
+    "korean": "영어"
+  },
+  {
+    "spanish": "película",
+    "pronunciation": "뻴리꿀라",
+    "korean": "영화"
+  },
+  {
+    "spanish": "al lado",
+    "pronunciation": "알 라도",
+    "korean": "옆"
+  },
+  {
+    "spanish": "ejemplo",
+    "pronunciation": "에헴쁠로",
+    "korean": "예"
+  },
+  {
+    "spanish": "bonito",
+    "pronunciation": "보니또",
+    "korean": "예쁜"
+  },
+  {
+    "spanish": "arte",
+    "pronunciation": "아르떼",
+    "korean": "예술"
+  },
+  {
+    "spanish": "reservación",
+    "pronunciation": "레세르바시온",
+    "korean": "예약"
+  },
+  {
+    "spanish": "antes",
+    "pronunciation": "안떼스",
+    "korean": "예전에"
+  },
+  {
+    "spanish": "cinco",
+    "pronunciation": "싱꼬",
+    "korean": "오(숫자)"
+  },
+  {
+    "spanish": "hoy",
+    "pronunciation": "오이",
+    "korean": "오늘"
+  },
+  {
+    "spanish": "viejo",
+    "pronunciation": "비에호",
+    "korean": "오래된"
+  },
+  {
+    "spanish": "subir",
+    "pronunciation": "수비르",
+    "korean": "오르다"
+  },
+  {
+    "spanish": "derecha",
+    "pronunciation": "데레차",
+    "korean": "오른쪽"
+  },
+  {
+    "spanish": "pato",
+    "pronunciation": "빠또",
+    "korean": "오리"
+  },
+  {
+    "spanish": "hermano mayor",
+    "pronunciation": "에르마노 마요르",
+    "korean": "오빠"
+  },
+  {
+    "spanish": "pepino",
+    "pronunciation": "뻬삐노",
+    "korean": "오이"
+  },
+  {
+    "spanish": "motocicleta",
+    "pronunciation": "모또시끌레따",
+    "korean": "오토바이"
+  },
+  {
+    "spanish": "maíz",
+    "pronunciation": "마이스",
+    "korean": "옥수수"
+  },
+  {
+    "spanish": "temperatura",
+    "pronunciation": "뗌뻬라뚜라",
+    "korean": "온도"
+  },
+  {
+    "spanish": "ropa",
+    "pronunciation": "로빠",
+    "korean": "옷"
+  },
+  {
+    "spanish": "armario",
+    "pronunciation": "아르마리오",
+    "korean": "옷장"
+  },
+  {
+    "spanish": "completo",
+    "pronunciation": "꼼쁠레또",
+    "korean": "완전한"
+  },
+  {
+    "spanish": "rey",
+    "pronunciation": "레이",
+    "korean": "왕"
+  },
+  {
+    "spanish": "por qué",
+    "pronunciation": "뽀르게",
+    "korean": "왜"
+  },
+  {
+    "spanish": "extranjero",
+    "pronunciation": "엑스뜨란헤로",
+    "korean": "외국인"
+  },
+  {
+    "spanish": "solitario",
+    "pronunciation": "솔리따리오",
+    "korean": "외로운"
+  },
+  {
+    "spanish": "soledad",
+    "pronunciation": "솔레다드",
+    "korean": "외로움"
+  },
+  {
+    "spanish": "abuelo",
+    "pronunciation": "아부엘로",
+    "korean": "외할아버지"
+  },
+  {
+    "spanish": "izquierda",
+    "pronunciation": "이스끼에르다",
+    "korean": "왼쪽"
+  },
+  {
+    "spanish": "yogur",
+    "pronunciation": "요구르",
+    "korean": "요구르트"
+  },
+  {
+    "spanish": "necesitar",
+    "pronunciation": "네세시따르",
+    "korean": "요구하다"
+  },
+  {
+    "spanish": "receta",
+    "pronunciation": "레세따",
+    "korean": "요리법"
+  },
+  {
+    "spanish": "cocinar",
+    "pronunciation": "꼬시나르",
+    "korean": "요리하다"
+  },
+  {
+    "spanish": "bañera",
+    "pronunciation": "바녜라",
+    "korean": "욕조"
+  },
+  {
+    "spanish": "coraje",
+    "pronunciation": "꼬라헤",
+    "korean": "용기"
+  },
+  {
+    "spanish": "nosotros",
+    "pronunciation": "노소뜨로스",
+    "korean": "우리"
+  },
+  {
+    "spanish": "lluvia",
+    "pronunciation": "유비아",
+    "korean": "우비"
+  },
+  {
+    "spanish": "paraguas",
+    "pronunciation": "빠라구아스",
+    "korean": "우산"
+  },
+  {
+    "spanish": "leche",
+    "pronunciation": "레체",
+    "korean": "우유"
+  },
+  {
+    "spanish": "amistad",
+    "pronunciation": "아미스따드",
+    "korean": "우정"
+  },
+  {
+    "spanish": "correo",
+    "pronunciation": "꼬레오",
+    "korean": "우편"
+  },
+  {
+    "spanish": "suerte",
+    "pronunciation": "수에르떼",
+    "korean": "운"
+  },
+  {
+    "spanish": "ejercicio",
+    "pronunciation": "에헤르시시오",
+    "korean": "운동"
+  },
+  {
+    "spanish": "conducir",
+    "pronunciation": "꼰두시르",
+    "korean": "운전하다"
+  },
+  {
+    "spanish": "llorar",
+    "pronunciation": "요라르",
+    "korean": "울다"
+  },
+  {
+    "spanish": "moverse",
+    "pronunciation": "모베르세",
+    "korean": "움직이다"
+  },
+  {
+    "spanish": "reír",
+    "pronunciation": "레이르",
+    "korean": "웃다"
+  },
+  {
+    "spanish": "primero",
+    "pronunciation": "쁘리메로",
+    "korean": "원래"
+  },
+  {
+    "spanish": "mono",
+    "pronunciation": "모노",
+    "korean": "원숭이"
+  },
+  {
+    "spanish": "mes",
+    "pronunciation": "메스",
+    "korean": "월"
+  },
+  {
+    "spanish": "lunes",
+    "pronunciation": "루네스",
+    "korean": "월요일"
+  },
+  {
+    "spanish": "camarero",
+    "pronunciation": "까마레로",
+    "korean": "웨이터"
+  },
+  {
+    "spanish": "sitio web",
+    "pronunciation": "시띠오 웹",
+    "korean": "웹사이트"
+  },
+  {
+    "spanish": "arriba",
+    "pronunciation": "아리바",
+    "korean": "위"
+  },
+  {
+    "spanish": "estómago",
+    "pronunciation": "에스또마고",
+    "korean": "위장"
+  },
+  {
+    "spanish": "peligroso",
+    "pronunciation": "뻴리그로소",
+    "korean": "위험한"
+  },
+  {
+    "spanish": "uniforme",
+    "pronunciation": "우니포르메",
+    "korean": "유니폼"
+  },
+  {
+    "spanish": "ventana",
+    "pronunciation": "벤따나",
+    "korean": "유리창"
+  },
+  {
+    "spanish": "humor",
+    "pronunciation": "우모르",
+    "korean": "유머"
+  },
+  {
+    "spanish": "famoso",
+    "pronunciation": "파모소",
+    "korean": "유명한"
+  },
+  {
+    "spanish": "útil",
+    "pronunciation": "우띨",
+    "korean": "유용한"
+  },
+  {
+    "spanish": "seis",
+    "pronunciation": "세이스",
+    "korean": "육(숫자)"
+  },
+  {
+    "spanish": "carne",
+    "pronunciation": "까르네",
+    "korean": "육류"
+  },
+  {
+    "spanish": "plata",
+    "pronunciation": "쁠라따",
+    "korean": "은"
+  },
+  {
+    "spanish": "plateado",
+    "pronunciation": "쁠라떼아도",
+    "korean": "은색"
+  },
+  {
+    "spanish": "banco",
+    "pronunciation": "방꼬",
+    "korean": "은행"
+  },
+  {
+    "spanish": "bebida",
+    "pronunciation": "베비다",
+    "korean": "음료"
+  },
+  {
+    "spanish": "comida",
+    "pronunciation": "꼬미다",
+    "korean": "음식"
+  },
+  {
+    "spanish": "música",
+    "pronunciation": "무시까",
+    "korean": "음악"
+  },
+  {
+    "spanish": "emergencia",
+    "pronunciation": "에메르헨시아",
+    "korean": "응급"
+  },
+  {
+    "spanish": "opinión",
+    "pronunciation": "오삐니온",
+    "korean": "의견"
+  },
+  {
+    "spanish": "médico",
+    "pronunciation": "메디꼬",
+    "korean": "의사"
+  },
+  {
+    "spanish": "silla",
+    "pronunciation": "시야",
+    "korean": "의자"
+  },
+  {
+    "spanish": "nombre",
+    "pronunciation": "놈브레",
+    "korean": "이름"
+  },
+  {
+    "spanish": "frente",
+    "pronunciation": "프렌떼",
+    "korean": "이마"
+  },
+  {
+    "spanish": "correo electrónico",
+    "pronunciation": "꼬레오 엘렉뜨로니꼬",
+    "korean": "이메일"
+  },
+  {
+    "spanish": "mudanza",
+    "pronunciation": "무단사",
+    "korean": "이사"
+  },
+  {
+    "spanish": "vecino",
+    "pronunciation": "베시노",
+    "korean": "이웃"
+  },
+  {
+    "spanish": "razón",
+    "pronunciation": "라손",
+    "korean": "이유"
+  },
+  {
+    "spanish": "beneficio",
+    "pronunciation": "베네피시오",
+    "korean": "이익"
+  },
+  {
+    "spanish": "entender",
+    "pronunciation": "엔뗀데르",
+    "korean": "이해하다"
+  },
+  {
+    "spanish": "popular",
+    "pronunciation": "뽀뿔라르",
+    "korean": "인기 있는"
+  },
+  {
+    "spanish": "saludar",
+    "pronunciation": "살루다르",
+    "korean": "인사하다"
+  },
+  {
+    "spanish": "internet",
+    "pronunciation": "인떼르넷",
+    "korean": "인터넷"
+  },
+  {
+    "spanish": "muñeca",
+    "pronunciation": "무녜까",
+    "korean": "인형"
+  },
+  {
+    "spanish": "trabajo",
+    "pronunciation": "뜨라바호",
+    "korean": "일"
+  },
+  {
+    "spanish": "uno",
+    "pronunciation": "우노",
+    "korean": "일(숫자)"
+  },
+  {
+    "spanish": "diario",
+    "pronunciation": "디아리오",
+    "korean": "일기"
+  },
+  {
+    "spanish": "levantarse",
+    "pronunciation": "레반따르세",
+    "korean": "일어나다"
+  },
+  {
+    "spanish": "domingo",
+    "pronunciation": "도밍고",
+    "korean": "일요일"
+  },
+  {
+    "spanish": "temprano",
+    "pronunciation": "뗌쁘라노",
+    "korean": "일찍"
+  },
+  {
+    "spanish": "leer",
+    "pronunciation": "레에르",
+    "korean": "읽다"
+  },
+  {
+    "spanish": "perder",
+    "pronunciation": "뻬르데르",
+    "korean": "잃다"
+  },
+  {
+    "spanish": "boca",
+    "pronunciation": "보까",
+    "korean": "입"
+  },
+  {
+    "spanish": "labio",
+    "pronunciation": "라비오",
+    "korean": "입술"
+  },
+  {
+    "spanish": "tener",
+    "pronunciation": "떼네르",
+    "korean": "있다"
+  },
+  {
+    "spanish": "olvidar",
+    "pronunciation": "올비다르",
+    "korean": "잊다"
+  },
+  {
+    "spanish": "hoja",
+    "pronunciation": "오하",
+    "korean": "잎"
+  },
+  {
+    "spanish": "dormir",
+    "pronunciation": "도르미르",
+    "korean": "자다"
+  },
+  {
+    "spanish": "crecer",
+    "pronunciation": "크레세르",
+    "korean": "자라다"
+  },
+  {
+    "spanish": "orgulloso",
+    "pronunciation": "오르구요소",
+    "korean": "자랑스러운"
+  },
+  {
+    "spanish": "cortar",
+    "pronunciation": "꼬르따르",
+    "korean": "자르다"
+  },
+  {
+    "spanish": "posición",
+    "pronunciation": "뽀시시온",
+    "korean": "자리"
+  },
+  {
+    "spanish": "naturaleza",
+    "pronunciation": "나뚜랄레사",
+    "korean": "자연"
+  },
+  {
+    "spanish": "libre",
+    "pronunciation": "리브레",
+    "korean": "자유로운"
+  },
+  {
+    "spanish": "bicicleta",
+    "pronunciation": "비시끌레따",
+    "korean": "자전거"
+  },
+  {
+    "spanish": "medianoche",
+    "pronunciation": "메디아노체",
+    "korean": "자정"
+  },
+  {
+    "spanish": "a menudo",
+    "pronunciation": "아 메누도",
+    "korean": "자주"
+  },
+  {
+    "spanish": "despedir",
+    "pronunciation": "데스뻬디르",
+    "korean": "작별하다"
+  },
+  {
+    "spanish": "vaso",
+    "pronunciation": "바소",
+    "korean": "잔"
+  },
+  {
+    "spanish": "pasto",
+    "pronunciation": "빠스또",
+    "korean": "잔디"
+  },
+  {
+    "spanish": "guapo",
+    "pronunciation": "구아뽀",
+    "korean": "잘생긴"
+  },
+  {
+    "spanish": "atrapar",
+    "pronunciation": "아뜨라빠르",
+    "korean": "잡다"
+  },
+  {
+    "spanish": "revista",
+    "pronunciation": "레비스따",
+    "korean": "잡지"
+  },
+  {
+    "spanish": "guante",
+    "pronunciation": "구안떼",
+    "korean": "장갑"
+  },
+  {
+    "spanish": "funeral",
+    "pronunciation": "푸네랄",
+    "korean": "장례식"
+  },
+  {
+    "spanish": "rosa",
+    "pronunciation": "로사",
+    "korean": "장미"
+  },
+  {
+    "spanish": "decorar",
+    "pronunciation": "데꼬라르",
+    "korean": "장식하다"
+  },
+  {
+    "spanish": "ventaja",
+    "pronunciation": "벤따하",
+    "korean": "장점"
+  },
+  {
+    "spanish": "beca",
+    "pronunciation": "베까",
+    "korean": "장학금"
+  },
+  {
+    "spanish": "desastre",
+    "pronunciation": "데사스뜨레",
+    "korean": "재난"
+  },
+  {
+    "spanish": "talento",
+    "pronunciation": "딸렌또",
+    "korean": "재능"
+  },
+  {
+    "spanish": "material",
+    "pronunciation": "마떼리알",
+    "korean": "재료"
+  },
+  {
+    "spanish": "divertido",
+    "pronunciation": "디베르띠도",
+    "korean": "재미있는"
+  },
+  {
+    "spanish": "chaqueta",
+    "pronunciation": "차게따",
+    "korean": "재킷"
+  },
+  {
+    "spanish": "aquel",
+    "pronunciation": "아겔",
+    "korean": "저"
+  },
+  {
+    "spanish": "ahorrar",
+    "pronunciation": "아오라르",
+    "korean": "저축하다"
+  },
+  {
+    "spanish": "bombilla",
+    "pronunciation": "봄비야",
+    "korean": "전구"
+  },
+  {
+    "spanish": "electricidad",
+    "pronunciation": "엘렉뜨리시다드",
+    "korean": "전기"
+  },
+  {
+    "spanish": "joven",
+    "pronunciation": "호벤",
+    "korean": "젊은"
+  },
+  {
+    "spanish": "punto",
+    "pronunciation": "뿐또",
+    "korean": "점"
+  },
+  {
+    "spanish": "almuerzo",
+    "pronunciation": "알무에르소",
+    "korean": "점심"
+  },
+  {
+    "spanish": "saltar",
+    "pronunciation": "살따르",
+    "korean": "점프하다"
+  },
+  {
+    "spanish": "organizar",
+    "pronunciation": "오르가니사르",
+    "korean": "정리하다"
+  },
+  {
+    "spanish": "información",
+    "pronunciation": "인포르마시온",
+    "korean": "정보"
+  },
+  {
+    "spanish": "gobierno",
+    "pronunciation": "고비에르노",
+    "korean": "정부"
+  },
+  {
+    "spanish": "mediodía",
+    "pronunciation": "메디오디아",
+    "korean": "정오"
+  },
+  {
+    "spanish": "jardín",
+    "pronunciation": "하르딘",
+    "korean": "정원"
+  },
+  {
+    "spanish": "por favor",
+    "pronunciation": "뽀르 파보르",
+    "korean": "제발"
+  },
+  {
+    "spanish": "panadero",
+    "pronunciation": "빠나데로",
+    "korean": "제빵사"
+  },
+  {
+    "spanish": "escultura",
+    "pronunciation": "에스꿀뚜라",
+    "korean": "조각"
+  },
+  {
+    "spanish": "condición",
+    "pronunciation": "꼰디시온",
+    "korean": "조건"
+  },
+  {
+    "spanish": "poco",
+    "pronunciation": "뽀꼬",
+    "korean": "조금"
+  },
+  {
+    "spanish": "cuidado",
+    "pronunciation": "꾸이다도",
+    "korean": "조심"
+  },
+  {
+    "spanish": "consejo",
+    "pronunciation": "꼰세호",
+    "korean": "조언"
+  },
+  {
+    "spanish": "tranquilo",
+    "pronunciation": "뜨랑낄로",
+    "korean": "조용한"
+  },
+  {
+    "spanish": "piloto",
+    "pronunciation": "삐로또",
+    "korean": "조종사"
+  },
+  {
+    "spanish": "respeto",
+    "pronunciation": "레스뻬또",
+    "korean": "존경"
+  },
+  {
+    "spanish": "graduación",
+    "pronunciation": "그라두아시온",
+    "korean": "졸업"
+  },
+  {
+    "spanish": "estrecho",
+    "pronunciation": "에스뜨레초",
+    "korean": "좁은"
+  },
+  {
+    "spanish": "religión",
+    "pronunciation": "렐리히온",
+    "korean": "종교"
+  },
+  {
+    "spanish": "tipo",
+    "pronunciation": "띠뽀",
+    "korean": "종류"
+  },
+  {
+    "spanish": "gustar",
+    "pronunciation": "구스따르",
+    "korean": "좋아하다"
+  },
+  {
+    "spanish": "bueno",
+    "pronunciation": "부에노",
+    "korean": "좋은"
+  },
+  {
+    "spanish": "asiento",
+    "pronunciation": "아시엔또",
+    "korean": "좌석"
+  },
+  {
+    "spanish": "semana",
+    "pronunciation": "세마나",
+    "korean": "주"
+  },
+  {
+    "spanish": "dar",
+    "pronunciation": "다르",
+    "korean": "주다"
+  },
+  {
+    "spanish": "bolsillo",
+    "pronunciation": "볼시요",
+    "korean": "주머니"
+  },
+  {
+    "spanish": "inyección",
+    "pronunciation": "인엑시온",
+    "korean": "주사"
+  },
+  {
+    "spanish": "jugo",
+    "pronunciation": "후고",
+    "korean": "주스"
+  },
+  {
+    "spanish": "gasolinera",
+    "pronunciation": "가솔리네라",
+    "korean": "주유소"
+  },
+  {
+    "spanish": "atención",
+    "pronunciation": "아뗀시온",
+    "korean": "주의"
+  },
+  {
+    "spanish": "estacionamiento",
+    "pronunciation": "에스따시오나미엔또",
+    "korean": "주차장"
+  },
+  {
+    "spanish": "morir",
+    "pronunciation": "모리르",
+    "korean": "죽다"
+  },
+  {
+    "spanish": "muerte",
+    "pronunciation": "무에르떼",
+    "korean": "죽음"
+  },
+  {
+    "spanish": "preparar",
+    "pronunciation": "쁘레빠라르",
+    "korean": "준비하다"
+  },
+  {
+    "spanish": "tronco",
+    "pronunciation": "뜨론꼬",
+    "korean": "줄기"
+  },
+  {
+    "spanish": "reducir",
+    "pronunciation": "레두시르",
+    "korean": "줄이다"
+  },
+  {
+    "spanish": "segunda mano",
+    "pronunciation": "세군다 마노",
+    "korean": "중고"
+  },
+  {
+    "spanish": "chino",
+    "pronunciation": "치노",
+    "korean": "중국어"
+  },
+  {
+    "spanish": "centro",
+    "pronunciation": "센뜨로",
+    "korean": "중심"
+  },
+  {
+    "spanish": "importante",
+    "pronunciation": "임뽀르딴떼",
+    "korean": "중요한"
+  },
+  {
+    "spanish": "ratón",
+    "pronunciation": "라똔",
+    "korean": "쥐"
+  },
+  {
+    "spanish": "alegría",
+    "pronunciation": "알레그리아",
+    "korean": "즐거움"
+  },
+  {
+    "spanish": "disfrutar",
+    "pronunciation": "디스프루따르",
+    "korean": "즐기다"
+  },
+  {
+    "spanish": "aumentar",
+    "pronunciation": "아우멘따르",
+    "korean": "증가하다"
+  },
+  {
+    "spanish": "prueba",
+    "pronunciation": "쁘루에바",
+    "korean": "증거"
+  },
+  {
+    "spanish": "certificado",
+    "pronunciation": "세르띠피까도",
+    "korean": "증명서"
+  },
+  {
+    "spanish": "cartera",
+    "pronunciation": "까르떼라",
+    "korean": "지갑"
+  },
+  {
+    "spanish": "ahora",
+    "pronunciation": "아오라",
+    "korean": "지금"
+  },
+  {
+    "spanish": "último",
+    "pronunciation": "울띠모",
+    "korean": "지난"
+  },
+  {
+    "spanish": "inteligencia",
+    "pronunciation": "인뗄리헨시아",
+    "korean": "지능"
+  },
+  {
+    "spanish": "mapa",
+    "pronunciation": "마빠",
+    "korean": "지도"
+  },
+  {
+    "spanish": "aburrido",
+    "pronunciation": "아부리도",
+    "korean": "지루한"
+  },
+  {
+    "spanish": "aburrimiento",
+    "pronunciation": "아부리미엔또",
+    "korean": "지루함"
+  },
+  {
+    "spanish": "pagar",
+    "pronunciation": "빠가르",
+    "korean": "지불하다"
+  },
+  {
+    "spanish": "techo",
+    "pronunciation": "떼초",
+    "korean": "지붕"
+  },
+  {
+    "spanish": "conocimiento",
+    "pronunciation": "꼬노시미엔또",
+    "korean": "지식"
+  },
+  {
+    "spanish": "región",
+    "pronunciation": "레히온",
+    "korean": "지역"
+  },
+  {
+    "spanish": "terremoto",
+    "pronunciation": "떼레모또",
+    "korean": "지진"
+  },
+  {
+    "spanish": "profesión",
+    "pronunciation": "쁘로페시온",
+    "korean": "직업"
+  },
+  {
+    "spanish": "empleado",
+    "pronunciation": "엠쁠레아도",
+    "korean": "직원"
+  },
+  {
+    "spanish": "celoso",
+    "pronunciation": "셀로소",
+    "korean": "질투하는"
+  },
+  {
+    "spanish": "equipaje",
+    "pronunciation": "에끼빠헤",
+    "korean": "짐"
+  },
+  {
+    "spanish": "casa",
+    "pronunciation": "까사",
+    "korean": "집"
+  },
+  {
+    "spanish": "salado",
+    "pronunciation": "살라도",
+    "korean": "짠"
+  },
+  {
+    "spanish": "corto",
+    "pronunciation": "꼬르또",
+    "korean": "짧은"
+  },
+  {
+    "spanish": "lado",
+    "pronunciation": "라도",
+    "korean": "쪽"
+  },
+  {
+    "spanish": "coche",
+    "pronunciation": "꼬체",
+    "korean": "차"
+  },
+  {
+    "spanish": "frío",
+    "pronunciation": "프리오",
+    "korean": "차가운"
+  },
+  {
+    "spanish": "garaje",
+    "pronunciation": "가라헤",
+    "korean": "차고"
+  },
+  {
+    "spanish": "diferencia",
+    "pronunciation": "디페렌시아",
+    "korean": "차이"
+  },
+  {
+    "spanish": "creativo",
+    "pronunciation": "크레아띠보",
+    "korean": "창의적인"
+  },
+  {
+    "spanish": "buscar",
+    "pronunciation": "부스까르",
+    "korean": "찾다"
+  },
+  {
+    "spanish": "libro",
+    "pronunciation": "리브로",
+    "korean": "책"
+  },
+  {
+    "spanish": "escritorio",
+    "pronunciation": "에스끄리또리오",
+    "korean": "책상"
+  },
+  {
+    "spanish": "responsabilidad",
+    "pronunciation": "레스뽄사빌리다드",
+    "korean": "책임"
+  },
+  {
+    "spanish": "estante",
+    "pronunciation": "에스딴떼",
+    "korean": "책장"
+  },
+  {
+    "spanish": "mil",
+    "pronunciation": "밀",
+    "korean": "천"
+  },
+  {
+    "spanish": "tela",
+    "pronunciation": "떼라",
+    "korean": "천(옷감)"
+  },
+  {
+    "spanish": "trueno",
+    "pronunciation": "뜨루에노",
+    "korean": "천둥"
+  },
+  {
+    "spanish": "despacio",
+    "pronunciation": "데스빠시오",
+    "korean": "천천히"
+  },
+  {
+    "spanish": "hierro",
+    "pronunciation": "이에로",
+    "korean": "철"
+  },
+  {
+    "spanish": "factura",
+    "pronunciation": "팍뚜라",
+    "korean": "청구서"
+  },
+  {
+    "spanish": "vaqueros",
+    "pronunciation": "바게로스",
+    "korean": "청바지"
+  },
+  {
+    "spanish": "juventud",
+    "pronunciation": "후벤뚜드",
+    "korean": "청소년"
+  },
+  {
+    "spanish": "limpiar",
+    "pronunciation": "림삐아르",
+    "korean": "청소하다"
+  },
+  {
+    "spanish": "cereza",
+    "pronunciation": "세레사",
+    "korean": "체리"
+  },
+  {
+    "spanish": "gimnasio",
+    "pronunciation": "힘나시오",
+    "korean": "체육관"
+  },
+  {
+    "spanish": "segundo",
+    "pronunciation": "세군도",
+    "korean": "초"
+  },
+  {
+    "spanish": "invitación",
+    "pronunciation": "인비따시온",
+    "korean": "초대"
+  },
+  {
+    "spanish": "invitar",
+    "pronunciation": "인비따르",
+    "korean": "초대하다"
+  },
+  {
+    "spanish": "verde",
+    "pronunciation": "베르데",
+    "korean": "초록색"
+  },
+  {
+    "spanish": "chocolate",
+    "pronunciation": "초꼴라떼",
+    "korean": "초콜릿"
+  },
+  {
+    "spanish": "vela",
+    "pronunciation": "벨라",
+    "korean": "촛불"
+  },
+  {
+    "spanish": "mejor",
+    "pronunciation": "메호르",
+    "korean": "최고의"
+  },
+  {
+    "spanish": "reciente",
+    "pronunciation": "레시엔떼",
+    "korean": "최근의"
+  },
+  {
+    "spanish": "máximo",
+    "pronunciation": "막시모",
+    "korean": "최대의"
+  },
+  {
+    "spanish": "mínimo",
+    "pronunciation": "미니모",
+    "korean": "최소의"
+  },
+  {
+    "spanish": "fútbol",
+    "pronunciation": "풋볼",
+    "korean": "축구"
+  },
+  {
+    "spanish": "fiesta",
+    "pronunciation": "피에스따",
+    "korean": "축제"
+  },
+  {
+    "spanish": "celebración",
+    "pronunciation": "셀레브라시온",
+    "korean": "축하"
+  },
+  {
+    "spanish": "celebrar",
+    "pronunciation": "셀레브라르",
+    "korean": "축하하다"
+  },
+  {
+    "spanish": "felicidades",
+    "pronunciation": "펠리시다데스",
+    "korean": "축하합니다"
+  },
+  {
+    "spanish": "salida",
+    "pronunciation": "살리다",
+    "korean": "출구"
+  },
+  {
+    "spanish": "baile",
+    "pronunciation": "바일레",
+    "korean": "춤"
+  },
+  {
+    "spanish": "bailar",
+    "pronunciation": "바일라르",
+    "korean": "춤추다"
+  },
+  {
+    "spanish": "suficiente",
+    "pronunciation": "수피시엔떼",
+    "korean": "충분한"
+  },
+  {
+    "spanish": "cargador",
+    "pronunciation": "까르가도르",
+    "korean": "충전기"
+  },
+  {
+    "spanish": "piso",
+    "pronunciation": "삐소",
+    "korean": "층"
+  },
+  {
+    "spanish": "dentista",
+    "pronunciation": "덴띠스따",
+    "korean": "치과"
+  },
+  {
+    "spanish": "falda",
+    "pronunciation": "팔다",
+    "korean": "치마"
+  },
+  {
+    "spanish": "diente",
+    "pronunciation": "디엔떼",
+    "korean": "치아"
+  },
+  {
+    "spanish": "queso",
+    "pronunciation": "게소",
+    "korean": "치즈"
+  },
+  {
+    "spanish": "amigo",
+    "pronunciation": "아미고",
+    "korean": "친구"
+  },
+  {
+    "spanish": "amable",
+    "pronunciation": "아마블레",
+    "korean": "친절한"
+  },
+  {
+    "spanish": "siete",
+    "pronunciation": "시에떼",
+    "korean": "칠(숫자)"
+  },
+  {
+    "spanish": "cama",
+    "pronunciation": "까마",
+    "korean": "침대"
+  },
+  {
+    "spanish": "sábana",
+    "pronunciation": "사바나",
+    "korean": "침대 시트"
+  },
+  {
+    "spanish": "silencio",
+    "pronunciation": "실렌시오",
+    "korean": "침묵"
+  },
+  {
+    "spanish": "dormitorio",
+    "pronunciation": "도르미또리오",
+    "korean": "침실"
+  },
+  {
+    "spanish": "tarjeta",
+    "pronunciation": "따르헤따",
+    "korean": "카드"
+  },
+  {
+    "spanish": "cámara",
+    "pronunciation": "까마라",
+    "korean": "카메라"
+  },
+  {
+    "spanish": "café",
+    "pronunciation": "까페",
+    "korean": "카페"
+  },
+  {
+    "spanish": "alfombra",
+    "pronunciation": "알폼브라",
+    "korean": "카펫"
+  },
+  {
+    "spanish": "cuchillo",
+    "pronunciation": "꾸치요",
+    "korean": "칼"
+  },
+  {
+    "spanish": "acampar",
+    "pronunciation": "아깜빠르",
+    "korean": "캠핑하다"
+  },
+  {
+    "spanish": "cortina",
+    "pronunciation": "꼬르띠나",
+    "korean": "커튼"
+  },
+  {
+    "spanish": "computadora",
+    "pronunciation": "꼼뿌따도라",
+    "korean": "컴퓨터"
+  },
+  {
+    "spanish": "copa",
+    "pronunciation": "꼬빠",
+    "korean": "컵"
+  },
+  {
+    "spanish": "pastel",
+    "pronunciation": "빠스뗄",
+    "korean": "케이크"
+  },
+  {
+    "spanish": "nariz",
+    "pronunciation": "나리스",
+    "korean": "코"
+  },
+  {
+    "spanish": "elefante",
+    "pronunciation": "엘레판떼",
+    "korean": "코끼리"
+  },
+  {
+    "spanish": "coco",
+    "pronunciation": "꼬꼬",
+    "korean": "코코넛"
+  },
+  {
+    "spanish": "abrigo",
+    "pronunciation": "아브리고",
+    "korean": "코트"
+  },
+  {
+    "spanish": "concierto",
+    "pronunciation": "꼰시에르또",
+    "korean": "콘서트"
+  },
+  {
+    "spanish": "enchufe",
+    "pronunciation": "엔추페",
+    "korean": "콘센트"
+  },
+  {
+    "spanish": "grande",
+    "pronunciation": "그란데",
+    "korean": "큰"
+  },
+  {
+    "spanish": "teclado",
+    "pronunciation": "떼끌라도",
+    "korean": "키보드"
+  },
+  {
+    "spanish": "besar",
+    "pronunciation": "베사르",
+    "korean": "키스하다"
+  },
+  {
+    "spanish": "probador",
+    "pronunciation": "쁘로바도르",
+    "korean": "탈의실"
+  },
+  {
+    "spanish": "taxi",
+    "pronunciation": "딱시",
+    "korean": "택시"
+  },
+  {
+    "spanish": "barbilla",
+    "pronunciation": "바르비야",
+    "korean": "턱"
+  },
+  {
+    "spanish": "tenis",
+    "pronunciation": "떼니스",
+    "korean": "테니스"
+  },
+  {
+    "spanish": "mesa",
+    "pronunciation": "메사",
+    "korean": "테이블"
+  },
+  {
+    "spanish": "televisión",
+    "pronunciation": "뗄레비시온",
+    "korean": "텔레비전"
+  },
+  {
+    "spanish": "conejo",
+    "pronunciation": "꼬네호",
+    "korean": "토끼"
+  },
+  {
+    "spanish": "tomate",
+    "pronunciation": "또마떼",
+    "korean": "토마토"
+  },
+  {
+    "spanish": "suelo",
+    "pronunciation": "수엘로",
+    "korean": "토양"
+  },
+  {
+    "spanish": "sábado",
+    "pronunciation": "사바도",
+    "korean": "토요일"
+  },
+  {
+    "spanish": "tulipán",
+    "pronunciation": "뚤리빤",
+    "korean": "튤립"
+  },
+  {
+    "spanish": "especial",
+    "pronunciation": "에스뻬시알",
+    "korean": "특별한"
+  },
+  {
+    "spanish": "equipo",
+    "pronunciation": "에끼뽀",
+    "korean": "팀"
+  },
+  {
+    "spanish": "ola",
+    "pronunciation": "올라",
+    "korean": "파도"
+  },
+  {
+    "spanish": "azul",
+    "pronunciation": "아술",
+    "korean": "파란색"
+  },
+  {
+    "spanish": "piña",
+    "pronunciation": "삐냐",
+    "korean": "파인애플"
+  },
+  {
+    "spanish": "brazo",
+    "pronunciation": "브라소",
+    "korean": "팔"
+  },
+  {
+    "spanish": "codo",
+    "pronunciation": "꼬도",
+    "korean": "팔꿈치"
+  },
+  {
+    "spanish": "vender",
+    "pronunciation": "벤데르",
+    "korean": "팔다"
+  },
+  {
+    "spanish": "página",
+    "pronunciation": "빠히나",
+    "korean": "페이지"
+  },
+  {
+    "spanish": "bolígrafo",
+    "pronunciation": "볼리그라포",
+    "korean": "펜"
+  },
+  {
+    "spanish": "cómodo",
+    "pronunciation": "꼬모도",
+    "korean": "편한"
+  },
+  {
+    "spanish": "paz",
+    "pronunciation": "빠스",
+    "korean": "평화"
+  },
+  {
+    "spanish": "uva",
+    "pronunciation": "우바",
+    "korean": "포도"
+  },
+  {
+    "spanish": "abrazar",
+    "pronunciation": "아브라사르",
+    "korean": "포옹하다"
+  },
+  {
+    "spanish": "tenedor",
+    "pronunciation": "떼네도르",
+    "korean": "포크"
+  },
+  {
+    "spanish": "violencia",
+    "pronunciation": "비올렌시아",
+    "korean": "폭력"
+  },
+  {
+    "spanish": "explosión",
+    "pronunciation": "엑스쁠로시온",
+    "korean": "폭발"
+  },
+  {
+    "spanish": "cascada",
+    "pronunciation": "까스까다",
+    "korean": "폭포"
+  },
+  {
+    "spanish": "tormenta",
+    "pronunciation": "또르멘따",
+    "korean": "폭풍"
+  },
+  {
+    "spanish": "billete",
+    "pronunciation": "비예떼",
+    "korean": "표"
+  },
+  {
+    "spanish": "expresión",
+    "pronunciation": "엑스쁘레시온",
+    "korean": "표현"
+  },
+  {
+    "spanish": "hierba",
+    "pronunciation": "이에르바",
+    "korean": "풀"
+  },
+  {
+    "spanish": "programa",
+    "pronunciation": "쁘로그라마",
+    "korean": "프로그램"
+  },
+  {
+    "spanish": "impresora",
+    "pronunciation": "임쁘레소라",
+    "korean": "프린터"
+  },
+  {
+    "spanish": "sangre",
+    "pronunciation": "상그레",
+    "korean": "피"
+  },
+  {
+    "spanish": "cansado",
+    "pronunciation": "깐사도",
+    "korean": "피곤한"
+  },
+  {
+    "spanish": "piel",
+    "pronunciation": "삐엘",
+    "korean": "피부"
+  },
+  {
+    "spanish": "piano",
+    "pronunciation": "삐아노",
+    "korean": "피아노"
+  },
+  {
+    "spanish": "pizza",
+    "pronunciation": "삣사",
+    "korean": "피자"
+  },
+  {
+    "spanish": "necesario",
+    "pronunciation": "네세사리오",
+    "korean": "필요한"
+  },
+  {
+    "spanish": "cielo",
+    "pronunciation": "시엘로",
+    "korean": "하늘"
+  },
+  {
+    "spanish": "hacer",
+    "pronunciation": "아세르",
+    "korean": "하다"
+  },
+  {
+    "spanish": "blanco",
+    "pronunciation": "블란꼬",
+    "korean": "하얀색"
+  },
+  {
+    "spanish": "escuela",
+    "pronunciation": "에스꾸엘라",
+    "korean": "학교"
+  },
+  {
+    "spanish": "semestre",
+    "pronunciation": "세메스뜨레",
+    "korean": "학기"
+  },
+  {
+    "spanish": "estudiante",
+    "pronunciation": "에스뚜디안떼",
+    "korean": "학생"
+  },
+  {
+    "spanish": "abuela",
+    "pronunciation": "아부엘라",
+    "korean": "할머니"
+  },
+  {
+    "spanish": "descuento",
+    "pronunciation": "데스꾸엔또",
+    "korean": "할인"
+  },
+  {
+    "spanish": "juntos",
+    "pronunciation": "훈또스",
+    "korean": "함께"
+  },
+  {
+    "spanish": "sol",
+    "pronunciation": "솔",
+    "korean": "해"
+  },
+  {
+    "spanish": "girasol",
+    "pronunciation": "히라솔",
+    "korean": "해바라기"
+  },
+  {
+    "spanish": "playa",
+    "pronunciation": "쁠라야",
+    "korean": "해변"
+  },
+  {
+    "spanish": "hamburguesa",
+    "pronunciation": "암부르게사",
+    "korean": "햄버거"
+  },
+  {
+    "spanish": "comportamiento",
+    "pronunciation": "꼼뽀르따미엔또",
+    "korean": "행동"
+  },
+  {
+    "spanish": "felicidad",
+    "pronunciation": "펠리시다드",
+    "korean": "행복"
+  },
+  {
+    "spanish": "feliz",
+    "pronunciation": "펠리스",
+    "korean": "행복한"
+  },
+  {
+    "spanish": "evento",
+    "pronunciation": "에벤또",
+    "korean": "행사"
+  },
+  {
+    "spanish": "perfume",
+    "pronunciation": "뻬르푸메",
+    "korean": "향수"
+  },
+  {
+    "spanish": "especia",
+    "pronunciation": "에스뻬시아",
+    "korean": "향신료"
+  },
+  {
+    "spanish": "permiso",
+    "pronunciation": "뻬르미소",
+    "korean": "허락"
+  },
+  {
+    "spanish": "cintura",
+    "pronunciation": "신뚜라",
+    "korean": "허리"
+  },
+  {
+    "spanish": "cinturón",
+    "pronunciation": "신뚜론",
+    "korean": "허리띠"
+  },
+  {
+    "spanish": "lengua",
+    "pronunciation": "렝구아",
+    "korean": "혀"
+  },
+  {
+    "spanish": "efectivo",
+    "pronunciation": "에펙띠보",
+    "korean": "현금"
+  },
+  {
+    "spanish": "realidad",
+    "pronunciation": "레알리다드",
+    "korean": "현실"
+  },
+  {
+    "spanish": "presente",
+    "pronunciation": "쁘레센떼",
+    "korean": "현재"
+  },
+  {
+    "spanish": "tigre",
+    "pronunciation": "띠그레",
+    "korean": "호랑이"
+  },
+  {
+    "spanish": "lago",
+    "pronunciation": "라고",
+    "korean": "호수"
+  },
+  {
+    "spanish": "hotel",
+    "pronunciation": "오뗄",
+    "korean": "호텔"
+  },
+  {
+    "spanish": "confusión",
+    "pronunciation": "꼰푸시온",
+    "korean": "혼란"
+  },
+  {
+    "spanish": "inundación",
+    "pronunciation": "이눈다시온",
+    "korean": "홍수"
+  },
+  {
+    "spanish": "enojado",
+    "pronunciation": "에노하도",
+    "korean": "화난"
+  },
+  {
+    "spanish": "martes",
+    "pronunciation": "마르떼스",
+    "korean": "화요일"
+  },
+  {
+    "spanish": "maquillar",
+    "pronunciation": "마끼야르",
+    "korean": "화장하다"
+  },
+  {
+    "spanish": "soleado",
+    "pronunciation": "솔레아도",
+    "korean": "화창한"
+  },
+  {
+    "spanish": "confirmación",
+    "pronunciation": "꼰피르마시온",
+    "korean": "확인"
+  },
+  {
+    "spanish": "medio ambiente",
+    "pronunciation": "메디오 암비엔떼",
+    "korean": "환경"
+  },
+  {
+    "spanish": "bienvenida",
+    "pronunciation": "비엔베니다",
+    "korean": "환영"
+  },
+  {
+    "spanish": "bienvenido",
+    "pronunciation": "비엔베니도",
+    "korean": "환영합니다"
+  },
+  {
+    "spanish": "paciente",
+    "pronunciation": "빠시엔떼",
+    "korean": "환자"
+  },
+  {
+    "spanish": "actividad",
+    "pronunciation": "악띠비다드",
+    "korean": "활동"
+  },
+  {
+    "spanish": "empresa",
+    "pronunciation": "엠쁘레사",
+    "korean": "회사"
+  },
+  {
+    "spanish": "gris",
+    "pronunciation": "그리스",
+    "korean": "회색"
+  },
+  {
+    "spanish": "miembro",
+    "pronunciation": "미엠브로",
+    "korean": "회원"
+  },
+  {
+    "spanish": "efecto",
+    "pronunciation": "에펙또",
+    "korean": "효과"
+  },
+  {
+    "spanish": "después",
+    "pronunciation": "데스뿌에스",
+    "korean": "후에"
+  },
+  {
+    "spanish": "pimienta",
+    "pronunciation": "삐미엔따",
+    "korean": "후추"
+  },
+  {
+    "spanish": "gasolina",
+    "pronunciation": "가솔리나",
+    "korean": "휘발유"
+  },
+  {
+    "spanish": "vacaciones",
+    "pronunciation": "바까시오네스",
+    "korean": "휴가"
+  },
+  {
+    "spanish": "teléfono",
+    "pronunciation": "뗄레포노",
+    "korean": "휴대전화"
+  },
+  {
+    "spanish": "celular",
+    "pronunciation": "셀룰라르",
+    "korean": "휴대폰"
+  },
+  {
+    "spanish": "descanso",
+    "pronunciation": "데스깐소",
+    "korean": "휴식"
+  },
+  {
+    "spanish": "papel higiénico",
+    "pronunciation": "빠뻴 이히에니꼬",
+    "korean": "휴지"
+  },
+  {
+    "spanish": "nublado",
+    "pronunciation": "누블라도",
+    "korean": "흐린"
+  },
+  {
+    "spanish": "negro",
+    "pronunciation": "네그로",
+    "korean": "흑색"
+  },
+  {
+    "spanish": "esperanza",
+    "pronunciation": "에스뻬란사",
+    "korean": "희망"
+  },
+  {
+    "spanish": "fuerza",
+    "pronunciation": "푸에르사",
+    "korean": "힘"
+  },
+  {
+    "spanish": "difícil",
+    "pronunciation": "디피실",
+    "korean": "힘든"
+  }
+]

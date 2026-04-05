@@ -1,0 +1,5002 @@
+[
+  {
+    "french": "magasin",
+    "pronunciation": "마가쟁",
+    "korean": "가게"
+  },
+  {
+    "french": "prix",
+    "pronunciation": "프리",
+    "korean": "가격"
+  },
+  {
+    "french": "meubles",
+    "pronunciation": "뫼블",
+    "korean": "가구"
+  },
+  {
+    "french": "mince",
+    "pronunciation": "맹스",
+    "korean": "가느다란"
+  },
+  {
+    "french": "possible",
+    "pronunciation": "포시블",
+    "korean": "가능한"
+  },
+  {
+    "french": "aller",
+    "pronunciation": "알레",
+    "korean": "가다"
+  },
+  {
+    "french": "enseigner",
+    "pronunciation": "엉세녜",
+    "korean": "가르치다"
+  },
+  {
+    "french": "masque",
+    "pronunciation": "마스크",
+    "korean": "가면"
+  },
+  {
+    "french": "sac",
+    "pronunciation": "삭",
+    "korean": "가방"
+  },
+  {
+    "french": "léger",
+    "pronunciation": "레제",
+    "korean": "가벼운"
+  },
+  {
+    "french": "chanteur",
+    "pronunciation": "셩퇴르",
+    "korean": "가수"
+  },
+  {
+    "french": "gaz",
+    "pronunciation": "가즈",
+    "korean": "가스"
+  },
+  {
+    "french": "poitrine",
+    "pronunciation": "푸아트린",
+    "korean": "가슴"
+  },
+  {
+    "french": "milieu",
+    "pronunciation": "밀리외",
+    "korean": "가운데"
+  },
+  {
+    "french": "ciseaux",
+    "pronunciation": "시조",
+    "korean": "가위"
+  },
+  {
+    "french": "automne",
+    "pronunciation": "오톤",
+    "korean": "가을"
+  },
+  {
+    "french": "apporter",
+    "pronunciation": "아포르테",
+    "korean": "가져오다"
+  },
+  {
+    "french": "famille",
+    "pronunciation": "파미유",
+    "korean": "가족"
+  },
+  {
+    "french": "rhume",
+    "pronunciation": "뤼므",
+    "korean": "감기"
+  },
+  {
+    "french": "merci",
+    "pronunciation": "메르시",
+    "korean": "감사합니다"
+  },
+  {
+    "french": "rivière",
+    "pronunciation": "리비에르",
+    "korean": "강"
+  },
+  {
+    "french": "chien",
+    "pronunciation": "시앵",
+    "korean": "개"
+  },
+  {
+    "french": "grenouille",
+    "pronunciation": "그르누이유",
+    "korean": "개구리"
+  },
+  {
+    "french": "concept",
+    "pronunciation": "콩세프트",
+    "korean": "개념"
+  },
+  {
+    "french": "développement personnel",
+    "pronunciation": "데블로프멍 페르소넬",
+    "korean": "개발"
+  },
+  {
+    "french": "individuel",
+    "pronunciation": "엥디비뒤엘",
+    "korean": "개인적인"
+  },
+  {
+    "french": "réforme",
+    "pronunciation": "레포름",
+    "korean": "개혁"
+  },
+  {
+    "french": "géant",
+    "pronunciation": "제엉",
+    "korean": "거대한"
+  },
+  {
+    "french": "rue",
+    "pronunciation": "뤼",
+    "korean": "거리"
+  },
+  {
+    "french": "refuser",
+    "pronunciation": "르퓌제",
+    "korean": "거부하다"
+  },
+  {
+    "french": "miroir",
+    "pronunciation": "미루아르",
+    "korean": "거울"
+  },
+  {
+    "french": "presque",
+    "pronunciation": "프레스크",
+    "korean": "거의"
+  },
+  {
+    "french": "mensonge",
+    "pronunciation": "멍송주",
+    "korean": "거짓말"
+  },
+  {
+    "french": "inquiet",
+    "pronunciation": "엥키에",
+    "korean": "걱정하는"
+  },
+  {
+    "french": "santé",
+    "pronunciation": "셩떼",
+    "korean": "건강"
+  },
+  {
+    "french": "sain",
+    "pronunciation": "생",
+    "korean": "건강한"
+  },
+  {
+    "french": "bâtiment",
+    "pronunciation": "바티멍",
+    "korean": "건물"
+  },
+  {
+    "french": "construction",
+    "pronunciation": "콩스트뤽시옹",
+    "korean": "건설"
+  },
+  {
+    "french": "sec",
+    "pronunciation": "섹",
+    "korean": "건조한"
+  },
+  {
+    "french": "marcher",
+    "pronunciation": "마르셰",
+    "korean": "걷다"
+  },
+  {
+    "french": "surface",
+    "pronunciation": "쉬르파스",
+    "korean": "겉"
+  },
+  {
+    "french": "jeu",
+    "pronunciation": "죄",
+    "korean": "게임"
+  },
+  {
+    "french": "hiver",
+    "pronunciation": "이베르",
+    "korean": "겨울"
+  },
+  {
+    "french": "résultat",
+    "pronunciation": "레쥘타",
+    "korean": "결과"
+  },
+  {
+    "french": "absence",
+    "pronunciation": "압셩스",
+    "korean": "결석"
+  },
+  {
+    "french": "décision",
+    "pronunciation": "데시지옹",
+    "korean": "결정"
+  },
+  {
+    "french": "mariage",
+    "pronunciation": "마리아주",
+    "korean": "결혼"
+  },
+  {
+    "french": "anniversaire de mariage",
+    "pronunciation": "아니베르세르 드 마리아주",
+    "korean": "결혼기념일"
+  },
+  {
+    "french": "modeste",
+    "pronunciation": "모데스트",
+    "korean": "겸손한"
+  },
+  {
+    "french": "frontière",
+    "pronunciation": "프롱티에르",
+    "korean": "경계"
+  },
+  {
+    "french": "stade",
+    "pronunciation": "스타드",
+    "korean": "경기장"
+  },
+  {
+    "french": "compétition",
+    "pronunciation": "콩페티시옹",
+    "korean": "경쟁"
+  },
+  {
+    "french": "économie",
+    "pronunciation": "에꼬노미",
+    "korean": "경제"
+  },
+  {
+    "french": "police",
+    "pronunciation": "폴리스",
+    "korean": "경찰"
+  },
+  {
+    "french": "paysage",
+    "pronunciation": "페이자주",
+    "korean": "경치"
+  },
+  {
+    "french": "expérience",
+    "pronunciation": "엑스페리엉스",
+    "korean": "경험"
+  },
+  {
+    "french": "escalier",
+    "pronunciation": "에스칼리에",
+    "korean": "계단"
+  },
+  {
+    "french": "saison",
+    "pronunciation": "세종",
+    "korean": "계절"
+  },
+  {
+    "french": "compte",
+    "pronunciation": "콩트",
+    "korean": "계좌"
+  },
+  {
+    "french": "plan",
+    "pronunciation": "플랑",
+    "korean": "계획"
+  },
+  {
+    "french": "client",
+    "pronunciation": "클리엉",
+    "korean": "고객"
+  },
+  {
+    "french": "viande",
+    "pronunciation": "비엉드",
+    "korean": "고기"
+  },
+  {
+    "french": "ancien",
+    "pronunciation": "엉시엥",
+    "korean": "고대의"
+  },
+  {
+    "french": "solitude",
+    "pronunciation": "솔리튀드",
+    "korean": "고독"
+  },
+  {
+    "french": "anneau",
+    "pronunciation": "아노",
+    "korean": "고리"
+  },
+  {
+    "french": "remercier",
+    "pronunciation": "르메르시에",
+    "korean": "고마워하다"
+  },
+  {
+    "french": "chat",
+    "pronunciation": "샤",
+    "korean": "고양이"
+  },
+  {
+    "french": "douleur",
+    "pronunciation": "둘뢰르",
+    "korean": "고통"
+  },
+  {
+    "french": "natal",
+    "pronunciation": "나탈",
+    "korean": "고향의"
+  },
+  {
+    "french": "insecte",
+    "pronunciation": "엥섹트",
+    "korean": "곤충"
+  },
+  {
+    "french": "bientôt",
+    "pronunciation": "비엥또",
+    "korean": "곧"
+  },
+  {
+    "french": "ours",
+    "pronunciation": "우르스",
+    "korean": "곰"
+  },
+  {
+    "french": "lieu",
+    "pronunciation": "리외",
+    "korean": "곳"
+  },
+  {
+    "french": "balle",
+    "pronunciation": "발",
+    "korean": "공"
+  },
+  {
+    "french": "air",
+    "pronunciation": "에르",
+    "korean": "공기"
+  },
+  {
+    "french": "étude",
+    "pronunciation": "에뛰드",
+    "korean": "공부"
+  },
+  {
+    "french": "officiel",
+    "pronunciation": "오피시엘",
+    "korean": "공식적인"
+  },
+  {
+    "french": "spectacle",
+    "pronunciation": "스펙타클",
+    "korean": "공연"
+  },
+  {
+    "french": "parc",
+    "pronunciation": "파르크",
+    "korean": "공원"
+  },
+  {
+    "french": "usine",
+    "pronunciation": "위진",
+    "korean": "공장"
+  },
+  {
+    "french": "cahier",
+    "pronunciation": "카이에",
+    "korean": "공책"
+  },
+  {
+    "french": "commun",
+    "pronunciation": "코뮌",
+    "korean": "공통의"
+  },
+  {
+    "french": "aéroport",
+    "pronunciation": "아에로포르",
+    "korean": "공항"
+  },
+  {
+    "french": "passé",
+    "pronunciation": "파세",
+    "korean": "과거"
+  },
+  {
+    "french": "matière",
+    "pronunciation": "마티에르",
+    "korean": "과목"
+  },
+  {
+    "french": "fruit",
+    "pronunciation": "프뤼",
+    "korean": "과일"
+  },
+  {
+    "french": "science",
+    "pronunciation": "시엉스",
+    "korean": "과학"
+  },
+  {
+    "french": "relation",
+    "pronunciation": "를라시옹",
+    "korean": "관계"
+  },
+  {
+    "french": "tourisme",
+    "pronunciation": "투리즘",
+    "korean": "관광"
+  },
+  {
+    "french": "gestion",
+    "pronunciation": "제스티옹",
+    "korean": "관리"
+  },
+  {
+    "french": "intérêt",
+    "pronunciation": "엥테레",
+    "korean": "관심"
+  },
+  {
+    "french": "d'accord",
+    "pronunciation": "다코르",
+    "korean": "괜찮은"
+  },
+  {
+    "french": "uniforme",
+    "pronunciation": "위니포름",
+    "korean": "교복"
+  },
+  {
+    "french": "professeur",
+    "pronunciation": "프로페쇠르",
+    "korean": "교수"
+  },
+  {
+    "french": "salle de classe",
+    "pronunciation": "살 드 클라스",
+    "korean": "교실"
+  },
+  {
+    "french": "éducation",
+    "pronunciation": "에뒤카시옹",
+    "korean": "교육"
+  },
+  {
+    "french": "circulation",
+    "pronunciation": "시르퀼라시옹",
+    "korean": "교통"
+  },
+  {
+    "french": "échange",
+    "pronunciation": "에셩주",
+    "korean": "교환"
+  },
+  {
+    "french": "église",
+    "pronunciation": "에글리즈",
+    "korean": "교회"
+  },
+  {
+    "french": "chaussure",
+    "pronunciation": "쇼쉬르",
+    "korean": "구두"
+  },
+  {
+    "french": "nuage",
+    "pronunciation": "뉘아주",
+    "korean": "구름"
+  },
+  {
+    "french": "zone",
+    "pronunciation": "존",
+    "korean": "구역"
+  },
+  {
+    "french": "structure",
+    "pronunciation": "스트뤽튀르",
+    "korean": "구조"
+  },
+  {
+    "french": "soupe",
+    "pronunciation": "수프",
+    "korean": "국"
+  },
+  {
+    "french": "pays",
+    "pronunciation": "페이",
+    "korean": "국가"
+  },
+  {
+    "french": "international",
+    "pronunciation": "엥테르나시오날",
+    "korean": "국제적인"
+  },
+  {
+    "french": "militaire",
+    "pronunciation": "밀리테르",
+    "korean": "군인"
+  },
+  {
+    "french": "épais",
+    "pronunciation": "에페",
+    "korean": "굵은"
+  },
+  {
+    "french": "faim",
+    "pronunciation": "팽",
+    "korean": "굶주림"
+  },
+  {
+    "french": "vendredi",
+    "pronunciation": "벙드르디",
+    "korean": "금요일"
+  },
+  {
+    "french": "période",
+    "pronunciation": "페리오드",
+    "korean": "기간"
+  },
+  {
+    "french": "machine",
+    "pronunciation": "마신",
+    "korean": "기계"
+  },
+  {
+    "french": "attente",
+    "pronunciation": "아텅트",
+    "korean": "기다림"
+  },
+  {
+    "french": "prière",
+    "pronunciation": "프리에르",
+    "korean": "기도"
+  },
+  {
+    "french": "huile",
+    "pronunciation": "윌",
+    "korean": "기름"
+  },
+  {
+    "french": "girafe",
+    "pronunciation": "지라프",
+    "korean": "기린"
+  },
+  {
+    "french": "joie",
+    "pronunciation": "주아",
+    "korean": "기쁨"
+  },
+  {
+    "french": "technique",
+    "pronunciation": "테크니크",
+    "korean": "기술"
+  },
+  {
+    "french": "contribution",
+    "pronunciation": "콩트리뷔시옹",
+    "korean": "기여"
+  },
+  {
+    "french": "train",
+    "pronunciation": "트랭",
+    "korean": "기차"
+  },
+  {
+    "french": "base",
+    "pronunciation": "바즈",
+    "korean": "기초"
+  },
+  {
+    "french": "drapeau",
+    "pronunciation": "드라포",
+    "korean": "깃발"
+  },
+  {
+    "french": "propre",
+    "pronunciation": "프로프르",
+    "korean": "깨끗한"
+  },
+  {
+    "french": "réveiller",
+    "pronunciation": "레베이예",
+    "korean": "깨우다"
+  },
+  {
+    "french": "fleur",
+    "pronunciation": "플뢰르",
+    "korean": "꽃"
+  },
+  {
+    "french": "vase",
+    "pronunciation": "바즈",
+    "korean": "꽃병"
+  },
+  {
+    "french": "décorer",
+    "pronunciation": "데코레",
+    "korean": "꾸미다"
+  },
+  {
+    "french": "miel",
+    "pronunciation": "미엘",
+    "korean": "꿀"
+  },
+  {
+    "french": "rêve",
+    "pronunciation": "레브",
+    "korean": "꿈"
+  },
+  {
+    "french": "rêver",
+    "pronunciation": "레베",
+    "korean": "꿈꾸다"
+  },
+  {
+    "french": "fin",
+    "pronunciation": "팽",
+    "korean": "끝"
+  },
+  {
+    "french": "terminer",
+    "pronunciation": "테르미네",
+    "korean": "끝내다"
+  },
+  {
+    "french": "moi",
+    "pronunciation": "무아",
+    "korean": "나"
+  },
+  {
+    "french": "sortir",
+    "pronunciation": "소르티르",
+    "korean": "나가다"
+  },
+  {
+    "french": "arbre",
+    "pronunciation": "아르브르",
+    "korean": "나무"
+  },
+  {
+    "french": "papillon",
+    "pronunciation": "파피용",
+    "korean": "나비"
+  },
+  {
+    "french": "mauvais",
+    "pronunciation": "모베",
+    "korean": "나쁜"
+  },
+  {
+    "french": "âge",
+    "pronunciation": "아주",
+    "korean": "나이"
+  },
+  {
+    "french": "nylon",
+    "pronunciation": "닐롱",
+    "korean": "나일론"
+  },
+  {
+    "french": "boussole",
+    "pronunciation": "부솔",
+    "korean": "나침반"
+  },
+  {
+    "french": "paraître",
+    "pronunciation": "파레트르",
+    "korean": "나타나다"
+  },
+  {
+    "french": "jour",
+    "pronunciation": "주르",
+    "korean": "날"
+  },
+  {
+    "french": "aile",
+    "pronunciation": "엘",
+    "korean": "날개"
+  },
+  {
+    "french": "météo",
+    "pronunciation": "메테오",
+    "korean": "날씨"
+  },
+  {
+    "french": "tranchant",
+    "pronunciation": "트렁셩",
+    "korean": "날카로운"
+  },
+  {
+    "french": "surplus",
+    "pronunciation": "쉬르플뤼",
+    "korean": "남은"
+  },
+  {
+    "french": "homme",
+    "pronunciation": "옴",
+    "korean": "남자"
+  },
+  {
+    "french": "sud",
+    "pronunciation": "쉬드",
+    "korean": "남쪽"
+  },
+  {
+    "french": "mari",
+    "pronunciation": "마리",
+    "korean": "남편"
+  },
+  {
+    "french": "romantique",
+    "pronunciation": "호멍티크",
+    "korean": "낭만적인"
+  },
+  {
+    "french": "bas",
+    "pronunciation": "바",
+    "korean": "낮은"
+  },
+  {
+    "french": "résistance",
+    "pronunciation": "레지스텅스",
+    "korean": "내구성"
+  },
+  {
+    "french": "national",
+    "pronunciation": "나시오날",
+    "korean": "내국의"
+  },
+  {
+    "french": "servir",
+    "pronunciation": "세르비르",
+    "korean": "내놓다"
+  },
+  {
+    "french": "descendre",
+    "pronunciation": "데셩드르",
+    "korean": "내려가다"
+  },
+  {
+    "french": "intérieur",
+    "pronunciation": "엥테리외르",
+    "korean": "내부"
+  },
+  {
+    "french": "contenu",
+    "pronunciation": "콩트뉘",
+    "korean": "내용"
+  },
+  {
+    "french": "demain",
+    "pronunciation": "드맹",
+    "korean": "내일"
+  },
+  {
+    "french": "odeur",
+    "pronunciation": "오뒤르",
+    "korean": "냄새"
+  },
+  {
+    "french": "réfrigérateur",
+    "pronunciation": "레프리제라퇴르",
+    "korean": "냉장고"
+  },
+  {
+    "french": "toi",
+    "pronunciation": "투아",
+    "korean": "너"
+  },
+  {
+    "french": "généreux",
+    "pronunciation": "제네르외",
+    "korean": "너그러운"
+  },
+  {
+    "french": "trop",
+    "pronunciation": "트로",
+    "korean": "너무"
+  },
+  {
+    "french": "largeur",
+    "pronunciation": "라르죄르",
+    "korean": "너비"
+  },
+  {
+    "french": "large",
+    "pronunciation": "라르주",
+    "korean": "넓은"
+  },
+  {
+    "french": "oui",
+    "pronunciation": "위",
+    "korean": "네"
+  },
+  {
+    "french": "réseau",
+    "pronunciation": "레조",
+    "korean": "네트워크"
+  },
+  {
+    "french": "cravate",
+    "pronunciation": "크라바트",
+    "korean": "넥타이"
+  },
+  {
+    "french": "quatre",
+    "pronunciation": "카트르",
+    "korean": "넷"
+  },
+  {
+    "french": "jaune",
+    "pronunciation": "존",
+    "korean": "노란색"
+  },
+  {
+    "french": "chanson",
+    "pronunciation": "셩송",
+    "korean": "노래"
+  },
+  {
+    "french": "effort",
+    "pronunciation": "에포르",
+    "korean": "노력"
+  },
+  {
+    "french": "esclave",
+    "pronunciation": "에스클라브",
+    "korean": "노예"
+  },
+  {
+    "french": "vieux",
+    "pronunciation": "비외",
+    "korean": "노인"
+  },
+  {
+    "french": "ordinateur portable",
+    "pronunciation": "오르디나퇴르 포르타블",
+    "korean": "노트북"
+  },
+  {
+    "french": "enregistrement",
+    "pronunciation": "엉르지스트르멍",
+    "korean": "녹음"
+  },
+  {
+    "french": "logique",
+    "pronunciation": "로지크",
+    "korean": "논리"
+  },
+  {
+    "french": "essai",
+    "pronunciation": "에세",
+    "korean": "논문"
+  },
+  {
+    "french": "débat",
+    "pronunciation": "데바",
+    "korean": "논쟁"
+  },
+  {
+    "french": "jouer",
+    "pronunciation": "주에",
+    "korean": "놀다"
+  },
+  {
+    "french": "surpris",
+    "pronunciation": "쉬르프리",
+    "korean": "놀란"
+  },
+  {
+    "french": "terrain de jeu",
+    "pronunciation": "테랭 드 죄",
+    "korean": "놀이터"
+  },
+  {
+    "french": "basket-ball",
+    "pronunciation": "바스켓볼",
+    "korean": "농구"
+  },
+  {
+    "french": "agriculture",
+    "pronunciation": "아그리퀼튀르",
+    "korean": "농업"
+  },
+  {
+    "french": "ferme",
+    "pronunciation": "페름",
+    "korean": "농장"
+  },
+  {
+    "french": "haut",
+    "pronunciation": "오",
+    "korean": "높은"
+  },
+  {
+    "french": "placer",
+    "pronunciation": "플라세",
+    "korean": "놓다"
+  },
+  {
+    "french": "cerveau",
+    "pronunciation": "세르보",
+    "korean": "뇌"
+  },
+  {
+    "french": "qui",
+    "pronunciation": "키",
+    "korean": "누구"
+  },
+  {
+    "french": "sœur aînée",
+    "pronunciation": "쇠르 에네",
+    "korean": "누나"
+  },
+  {
+    "french": "neige",
+    "pronunciation": "네주",
+    "korean": "눈(날씨)"
+  },
+  {
+    "french": "œil",
+    "pronunciation": "외이",
+    "korean": "눈(신체)"
+  },
+  {
+    "french": "larme",
+    "pronunciation": "라름",
+    "korean": "눈물"
+  },
+  {
+    "french": "pression",
+    "pronunciation": "프레시옹",
+    "korean": "눌림"
+  },
+  {
+    "french": "couché",
+    "pronunciation": "쿠셰",
+    "korean": "눕다"
+  },
+  {
+    "french": "nouvelles",
+    "pronunciation": "누벨",
+    "korean": "뉴스"
+  },
+  {
+    "french": "actualité",
+    "pronunciation": "악튀알리테",
+    "korean": "뉴스(시사)"
+  },
+  {
+    "french": "sentiment",
+    "pronunciation": "셩티멍",
+    "korean": "느낌"
+  },
+  {
+    "french": "lent",
+    "pronunciation": "렁",
+    "korean": "느린"
+  },
+  {
+    "french": "augmentation",
+    "pronunciation": "오그멍타시옹",
+    "korean": "늘어남"
+  },
+  {
+    "french": "capacité",
+    "pronunciation": "카파시테",
+    "korean": "능력"
+  },
+  {
+    "french": "retard",
+    "pronunciation": "르타르",
+    "korean": "늦음"
+  },
+  {
+    "french": "différent",
+    "pronunciation": "디페렁",
+    "korean": "다른"
+  },
+  {
+    "french": "pont",
+    "pronunciation": "퐁",
+    "korean": "다리(구조물)"
+  },
+  {
+    "french": "jambe",
+    "pronunciation": "쟝브",
+    "korean": "다리(신체)"
+  },
+  {
+    "french": "repasser",
+    "pronunciation": "르파세",
+    "korean": "다리미질하다"
+  },
+  {
+    "french": "repassage",
+    "pronunciation": "르파사주",
+    "korean": "다림질"
+  },
+  {
+    "french": "cinq",
+    "pronunciation": "쌩크",
+    "korean": "다섯"
+  },
+  {
+    "french": "divers",
+    "pronunciation": "디베르",
+    "korean": "다양한"
+  },
+  {
+    "french": "prochain",
+    "pronunciation": "프로셍",
+    "korean": "다음의"
+  },
+  {
+    "french": "blessure",
+    "pronunciation": "블레쉬르",
+    "korean": "다침"
+  },
+  {
+    "french": "heureusement",
+    "pronunciation": "외뢰즈멍",
+    "korean": "다행히"
+  },
+  {
+    "french": "simple",
+    "pronunciation": "셍플",
+    "korean": "단순한"
+  },
+  {
+    "french": "mot",
+    "pronunciation": "모",
+    "korean": "단어"
+  },
+  {
+    "french": "bouton",
+    "pronunciation": "부통",
+    "korean": "단추"
+  },
+  {
+    "french": "court",
+    "pronunciation": "쿠르",
+    "korean": "단축된"
+  },
+  {
+    "french": "feuille d'érable",
+    "pronunciation": "푀이유 데라블",
+    "korean": "단풍"
+  },
+  {
+    "french": "fermer",
+    "pronunciation": "페르메",
+    "korean": "닫다"
+  },
+  {
+    "french": "lune",
+    "pronunciation": "륀",
+    "korean": "달"
+  },
+  {
+    "french": "mois",
+    "pronunciation": "무아",
+    "korean": "달(월)"
+  },
+  {
+    "french": "doux",
+    "pronunciation": "두",
+    "korean": "달콤한"
+  },
+  {
+    "french": "poulet",
+    "pronunciation": "풀레",
+    "korean": "닭"
+  },
+  {
+    "french": "résembler",
+    "pronunciation": "르셩블레",
+    "korean": "닮다"
+  },
+  {
+    "french": "courageux",
+    "pronunciation": "쿠라죄",
+    "korean": "담대한"
+  },
+  {
+    "french": "tabac",
+    "pronunciation": "타바",
+    "korean": "담배"
+  },
+  {
+    "french": "réponse",
+    "pronunciation": "레퐁스",
+    "korean": "답변"
+  },
+  {
+    "french": "carotte",
+    "pronunciation": "카로트",
+    "korean": "당근"
+  },
+  {
+    "french": "bien sûr",
+    "pronunciation": "비엥 쉬르",
+    "korean": "당연히"
+  },
+  {
+    "french": "grand",
+    "pronunciation": "그랑",
+    "korean": "대(큰)"
+  },
+  {
+    "french": "environ",
+    "pronunciation": "엉비롱",
+    "korean": "대략"
+  },
+  {
+    "french": "continent",
+    "pronunciation": "콩티넝",
+    "korean": "대륙"
+  },
+  {
+    "french": "majorité",
+    "pronunciation": "마조리테",
+    "korean": "대부분"
+  },
+  {
+    "french": "président",
+    "pronunciation": "프레지덩",
+    "korean": "대통령"
+  },
+  {
+    "french": "représentant",
+    "pronunciation": "르프레정떵",
+    "korean": "대표"
+  },
+  {
+    "french": "université",
+    "pronunciation": "위니베르시테",
+    "korean": "대학교"
+  },
+  {
+    "french": "conversation",
+    "pronunciation": "콩베르사시옹",
+    "korean": "대화"
+  },
+  {
+    "french": "plus",
+    "pronunciation": "플뤼스",
+    "korean": "더"
+  },
+  {
+    "french": "sale",
+    "pronunciation": "살",
+    "korean": "더러운"
+  },
+  {
+    "french": "chaud",
+    "pronunciation": "쇼",
+    "korean": "더운"
+  },
+  {
+    "french": "sécheresse",
+    "pronunciation": "세슈레스",
+    "korean": "더위"
+  },
+  {
+    "french": "chaleur",
+    "pronunciation": "샬뢰르",
+    "korean": "더위(열)"
+  },
+  {
+    "french": "ajouter",
+    "pronunciation": "아주테",
+    "korean": "더하다"
+  },
+  {
+    "french": "vertu",
+    "pronunciation": "베르튀",
+    "korean": "덕"
+  },
+  {
+    "french": "moins",
+    "pronunciation": "무앵",
+    "korean": "덜"
+  },
+  {
+    "french": "addition",
+    "pronunciation": "아디시옹",
+    "korean": "덧셈"
+  },
+  {
+    "french": "piège",
+    "pronunciation": "피에주",
+    "korean": "덫"
+  },
+  {
+    "french": "dessin",
+    "pronunciation": "데생",
+    "korean": "데생"
+  },
+  {
+    "french": "données",
+    "pronunciation": "도네",
+    "korean": "데이터"
+  },
+  {
+    "french": "outil",
+    "pronunciation": "우티",
+    "korean": "도구"
+  },
+  {
+    "french": "voleur",
+    "pronunciation": "볼뢰르",
+    "korean": "도둑"
+  },
+  {
+    "french": "route",
+    "pronunciation": "루트",
+    "korean": "도로"
+  },
+  {
+    "french": "peinture",
+    "pronunciation": "팽튀르",
+    "korean": "도색"
+  },
+  {
+    "french": "bibliothèque",
+    "pronunciation": "비블리오테크",
+    "korean": "도서관"
+  },
+  {
+    "french": "ville",
+    "pronunciation": "빌",
+    "korean": "도시"
+  },
+  {
+    "french": "aide",
+    "pronunciation": "에드",
+    "korean": "도움"
+  },
+  {
+    "french": "céramique",
+    "pronunciation": "세라미크",
+    "korean": "도자기"
+  },
+  {
+    "french": "défi",
+    "pronunciation": "데피",
+    "korean": "도전"
+  },
+  {
+    "french": "arrivée",
+    "pronunciation": "아리베",
+    "korean": "도착"
+  },
+  {
+    "french": "figure",
+    "pronunciation": "피귀르",
+    "korean": "도형"
+  },
+  {
+    "french": "poison",
+    "pronunciation": "푸아종",
+    "korean": "독"
+  },
+  {
+    "french": "indépendance",
+    "pronunciation": "엥데펑덩스",
+    "korean": "독립"
+  },
+  {
+    "french": "lecture",
+    "pronunciation": "렉튀르",
+    "korean": "독서"
+  },
+  {
+    "french": "allemand",
+    "pronunciation": "알르멍",
+    "korean": "독일어"
+  },
+  {
+    "french": "argent",
+    "pronunciation": "아르정",
+    "korean": "돈"
+  },
+  {
+    "french": "pierre",
+    "pronunciation": "피에르",
+    "korean": "돌"
+  },
+  {
+    "french": "dauphin",
+    "pronunciation": "도팽",
+    "korean": "돌고래"
+  },
+  {
+    "french": "soigner",
+    "pronunciation": "수아녜",
+    "korean": "돌보다"
+  },
+  {
+    "french": "retour",
+    "pronunciation": "르투르",
+    "korean": "돌아옴"
+  },
+  {
+    "french": "grotte",
+    "pronunciation": "그로트",
+    "korean": "동굴"
+  },
+  {
+    "french": "cercle",
+    "pronunciation": "세르클",
+    "korean": "동그라미"
+  },
+  {
+    "french": "collègue",
+    "pronunciation": "콜레그",
+    "korean": "동료"
+  },
+  {
+    "french": "médaille d'or",
+    "pronunciation": "메다이유 도르",
+    "korean": "동메달"
+  },
+  {
+    "french": "animal",
+    "pronunciation": "아니말",
+    "korean": "동물"
+  },
+  {
+    "french": "frère cadet",
+    "pronunciation": "프레르 카데",
+    "korean": "동생"
+  },
+  {
+    "french": "accord",
+    "pronunciation": "아코르",
+    "korean": "동의"
+  },
+  {
+    "french": "est",
+    "pronunciation": "에스트",
+    "korean": "동쪽"
+  },
+  {
+    "french": "conte",
+    "pronunciation": "콩트",
+    "korean": "동화"
+  },
+  {
+    "french": "cochon",
+    "pronunciation": "코숑",
+    "korean": "돼지"
+  },
+  {
+    "french": "devenir",
+    "pronunciation": "드브니르",
+    "korean": "되다"
+  },
+  {
+    "french": "rond",
+    "pronunciation": "롱",
+    "korean": "둥근"
+  },
+  {
+    "french": "derrière",
+    "pronunciation": "데리에르",
+    "korean": "뒤"
+  },
+  {
+    "french": "drame",
+    "pronunciation": "드람",
+    "korean": "드라마"
+  },
+  {
+    "french": "robe",
+    "pronunciation": "로브",
+    "korean": "드레스"
+  },
+  {
+    "french": "écouter",
+    "pronunciation": "에꾸떼",
+    "korean": "듣다"
+  },
+  {
+    "french": "entrer",
+    "pronunciation": "엉트레",
+    "korean": "들어가다"
+  },
+  {
+    "french": "champ",
+    "pronunciation": "셩",
+    "korean": "들판"
+  },
+  {
+    "french": "dos",
+    "pronunciation": "도",
+    "korean": "등"
+  },
+  {
+    "french": "inscription",
+    "pronunciation": "엥스크립시옹",
+    "korean": "등록"
+  },
+  {
+    "french": "lampe",
+    "pronunciation": "렁프",
+    "korean": "등불"
+  },
+  {
+    "french": "fille",
+    "pronunciation": "피유",
+    "korean": "딸"
+  },
+  {
+    "french": "fraise",
+    "pronunciation": "프레즈",
+    "korean": "딸기"
+  },
+  {
+    "french": "sueur",
+    "pronunciation": "쉬외르",
+    "korean": "땀"
+  },
+  {
+    "french": "terre",
+    "pronunciation": "테르",
+    "korean": "땅"
+  },
+  {
+    "french": "couvercle",
+    "pronunciation": "쿠베르클",
+    "korean": "뚜껑"
+  },
+  {
+    "french": "courir",
+    "pronunciation": "쿠리르",
+    "korean": "뛰다"
+  },
+  {
+    "french": "sens",
+    "pronunciation": "셍스",
+    "korean": "뜻"
+  },
+  {
+    "french": "signification",
+    "pronunciation": "시니피카시옹",
+    "korean": "뜻(의미)"
+  },
+  {
+    "french": "radio",
+    "pronunciation": "하디오",
+    "korean": "라디오"
+  },
+  {
+    "french": "raquette",
+    "pronunciation": "라케트",
+    "korean": "라켓"
+  },
+  {
+    "french": "citron",
+    "pronunciation": "시트롱",
+    "korean": "레몬"
+  },
+  {
+    "french": "restaurant",
+    "pronunciation": "레스토랑",
+    "korean": "레스토랑"
+  },
+  {
+    "french": "leçon",
+    "pronunciation": "르송",
+    "korean": "레슨"
+  },
+  {
+    "french": "robot",
+    "pronunciation": "로보",
+    "korean": "로봇"
+  },
+  {
+    "french": "rideau",
+    "pronunciation": "리도",
+    "korean": "리본"
+  },
+  {
+    "french": "beaucoup",
+    "pronunciation": "보쿠",
+    "korean": "많은"
+  },
+  {
+    "french": "aîné",
+    "pronunciation": "에네",
+    "korean": "맏이"
+  },
+  {
+    "french": "cheval",
+    "pronunciation": "슈발",
+    "korean": "말(동물)"
+  },
+  {
+    "french": "parole",
+    "pronunciation": "파롤",
+    "korean": "말(언어)"
+  },
+  {
+    "french": "clair",
+    "pronunciation": "클레르",
+    "korean": "맑은"
+  },
+  {
+    "french": "goût",
+    "pronunciation": "구",
+    "korean": "맛"
+  },
+  {
+    "french": "délicieux",
+    "pronunciation": "델리시외",
+    "korean": "맛있는"
+  },
+  {
+    "french": "juste",
+    "pronunciation": "쥐스트",
+    "korean": "맞는"
+  },
+  {
+    "french": "opposé",
+    "pronunciation": "오포제",
+    "korean": "맞은편"
+  },
+  {
+    "french": "tête",
+    "pronunciation": "테트",
+    "korean": "머리"
+  },
+  {
+    "french": "cheveux",
+    "pronunciation": "슈뵈",
+    "korean": "머리카락"
+  },
+  {
+    "french": "loin",
+    "pronunciation": "루앵",
+    "korean": "멀리"
+  },
+  {
+    "french": "menu",
+    "pronunciation": "므뉘",
+    "korean": "메뉴"
+  },
+  {
+    "french": "médaille",
+    "pronunciation": "메다이유",
+    "korean": "메달"
+  },
+  {
+    "french": "mémoire",
+    "pronunciation": "메무아르",
+    "korean": "메모리"
+  },
+  {
+    "french": "message",
+    "pronunciation": "메사주",
+    "korean": "메시지"
+  },
+  {
+    "french": "tous",
+    "pronunciation": "투스",
+    "korean": "모든"
+  },
+  {
+    "french": "sable",
+    "pronunciation": "사블",
+    "korean": "모래"
+  },
+  {
+    "french": "forme",
+    "pronunciation": "포름",
+    "korean": "모양"
+  },
+  {
+    "french": "chapeau",
+    "pronunciation": "샤포",
+    "korean": "모자"
+  },
+  {
+    "french": "mère",
+    "pronunciation": "메르",
+    "korean": "모친"
+  },
+  {
+    "french": "coin",
+    "pronunciation": "쿠앵",
+    "korean": "모퉁이"
+  },
+  {
+    "french": "cou",
+    "pronunciation": "쿠",
+    "korean": "목"
+  },
+  {
+    "french": "collier",
+    "pronunciation": "콜리에",
+    "korean": "목걸이"
+  },
+  {
+    "french": "voix",
+    "pronunciation": "부아",
+    "korean": "목소리"
+  },
+  {
+    "french": "jeudi",
+    "pronunciation": "죄디",
+    "korean": "목요일"
+  },
+  {
+    "french": "bois",
+    "pronunciation": "부아",
+    "korean": "목재"
+  },
+  {
+    "french": "but",
+    "pronunciation": "뷔",
+    "korean": "목적"
+  },
+  {
+    "french": "corps",
+    "pronunciation": "코르",
+    "korean": "몸"
+  },
+  {
+    "french": "poids",
+    "pronunciation": "푸아",
+    "korean": "몸무게"
+  },
+  {
+    "french": "clou",
+    "pronunciation": "클루",
+    "korean": "못"
+  },
+  {
+    "french": "laid",
+    "pronunciation": "레",
+    "korean": "못생긴"
+  },
+  {
+    "french": "ne pas pouvoir",
+    "pronunciation": "느 파 푸부아르",
+    "korean": "못하다"
+  },
+  {
+    "french": "lourd",
+    "pronunciation": "루르",
+    "korean": "무거운"
+  },
+  {
+    "french": "scène",
+    "pronunciation": "센",
+    "korean": "무대"
+  },
+  {
+    "french": "gratuit",
+    "pronunciation": "그라튀",
+    "korean": "무료의"
+  },
+  {
+    "french": "genou",
+    "pronunciation": "주누",
+    "korean": "무릎"
+  },
+  {
+    "french": "peur",
+    "pronunciation": "뵈르",
+    "korean": "무서움"
+  },
+  {
+    "french": "quoi",
+    "pronunciation": "쿠아",
+    "korean": "무엇"
+  },
+  {
+    "french": "arc-en-ciel",
+    "pronunciation": "아르껑시엘",
+    "korean": "무지개"
+  },
+  {
+    "french": "porte",
+    "pronunciation": "포르트",
+    "korean": "문"
+  },
+  {
+    "french": "phrase",
+    "pronunciation": "프라즈",
+    "korean": "문장"
+  },
+  {
+    "french": "problème",
+    "pronunciation": "프로블렘",
+    "korean": "문제"
+  },
+  {
+    "french": "littérature",
+    "pronunciation": "리테라튀르",
+    "korean": "문학"
+  },
+  {
+    "french": "culture",
+    "pronunciation": "퀼튀르",
+    "korean": "문화"
+  },
+  {
+    "french": "eau",
+    "pronunciation": "오",
+    "korean": "물"
+  },
+  {
+    "french": "objet",
+    "pronunciation": "오브제",
+    "korean": "물건"
+  },
+  {
+    "french": "poisson",
+    "pronunciation": "푸아송",
+    "korean": "물고기"
+  },
+  {
+    "french": "mordre",
+    "pronunciation": "모르드르",
+    "korean": "물다"
+  },
+  {
+    "french": "physique",
+    "pronunciation": "피지크",
+    "korean": "물리학"
+  },
+  {
+    "french": "question",
+    "pronunciation": "케스티옹",
+    "korean": "물음"
+  },
+  {
+    "french": "beau",
+    "pronunciation": "보",
+    "korean": "미남"
+  },
+  {
+    "french": "avenir",
+    "pronunciation": "아브니르",
+    "korean": "미래"
+  },
+  {
+    "french": "sourire",
+    "pronunciation": "수리르",
+    "korean": "미소"
+  },
+  {
+    "french": "art",
+    "pronunciation": "아르",
+    "korean": "미술"
+  },
+  {
+    "french": "excusez-moi",
+    "pronunciation": "엑스퀴제무아",
+    "korean": "미안합니다"
+  },
+  {
+    "french": "beauté",
+    "pronunciation": "보떼",
+    "korean": "미용"
+  },
+  {
+    "french": "croire",
+    "pronunciation": "크루아르",
+    "korean": "믿다"
+  },
+  {
+    "french": "pantalon",
+    "pronunciation": "펑탈롱",
+    "korean": "바지"
+  },
+  {
+    "french": "pied",
+    "pronunciation": "피에",
+    "korean": "발"
+  },
+  {
+    "french": "prononciation",
+    "pronunciation": "프로농시아시옹",
+    "korean": "발음"
+  },
+  {
+    "french": "développement",
+    "pronunciation": "데블로프멍",
+    "korean": "발전"
+  },
+  {
+    "french": "balcon",
+    "pronunciation": "발콩",
+    "korean": "발코니"
+  },
+  {
+    "french": "nuit",
+    "pronunciation": "뉘",
+    "korean": "밤"
+  },
+  {
+    "french": "châtaigne",
+    "pronunciation": "샤테뉴",
+    "korean": "밤(열매)"
+  },
+  {
+    "french": "riz",
+    "pronunciation": "히",
+    "korean": "밥"
+  },
+  {
+    "french": "chambre",
+    "pronunciation": "셩브르",
+    "korean": "방"
+  },
+  {
+    "french": "méthode",
+    "pronunciation": "메토드",
+    "korean": "방법"
+  },
+  {
+    "french": "vacances",
+    "pronunciation": "바껑스",
+    "korean": "방학"
+  },
+  {
+    "french": "direction",
+    "pronunciation": "디렉시옹",
+    "korean": "방향"
+  },
+  {
+    "french": "ventre",
+    "pronunciation": "벙트르",
+    "korean": "배"
+  },
+  {
+    "french": "poire",
+    "pronunciation": "푸아르",
+    "korean": "배(과일)"
+  },
+  {
+    "french": "bateau",
+    "pronunciation": "바또",
+    "korean": "배(선박)"
+  },
+  {
+    "french": "livraison",
+    "pronunciation": "리브레종",
+    "korean": "배달"
+  },
+  {
+    "french": "acteur",
+    "pronunciation": "악퇴르",
+    "korean": "배우"
+  },
+  {
+    "french": "apprendre",
+    "pronunciation": "아프렁드르",
+    "korean": "배우다"
+  },
+  {
+    "french": "serpent",
+    "pronunciation": "세르펑",
+    "korean": "뱀"
+  },
+  {
+    "french": "habitude",
+    "pronunciation": "아비튀드",
+    "korean": "버릇"
+  },
+  {
+    "french": "champignon",
+    "pronunciation": "셩피뇽",
+    "korean": "버섯"
+  },
+  {
+    "french": "bus",
+    "pronunciation": "뷔스",
+    "korean": "버스"
+  },
+  {
+    "french": "beurre",
+    "pronunciation": "뵈르",
+    "korean": "버터"
+  },
+  {
+    "french": "traduction",
+    "pronunciation": "트라뒥시옹",
+    "korean": "번역"
+  },
+  {
+    "french": "numéro",
+    "pronunciation": "뉘메로",
+    "korean": "번호"
+  },
+  {
+    "french": "loi",
+    "pronunciation": "루아",
+    "korean": "법"
+  },
+  {
+    "french": "mur",
+    "pronunciation": "뮈르",
+    "korean": "벽"
+  },
+  {
+    "french": "changement",
+    "pronunciation": "셩주멍",
+    "korean": "변화"
+  },
+  {
+    "french": "étoile",
+    "pronunciation": "에투알",
+    "korean": "별"
+  },
+  {
+    "french": "bouteille",
+    "pronunciation": "부테이유",
+    "korean": "병"
+  },
+  {
+    "french": "maladie",
+    "pronunciation": "말라디",
+    "korean": "병(질병)"
+  },
+  {
+    "french": "soldat",
+    "pronunciation": "솔다",
+    "korean": "병사"
+  },
+  {
+    "french": "hôpital",
+    "pronunciation": "오피탈",
+    "korean": "병원"
+  },
+  {
+    "french": "rapport",
+    "pronunciation": "라포르",
+    "korean": "보고서"
+  },
+  {
+    "french": "envoyer",
+    "pronunciation": "엉부아예",
+    "korean": "보내다"
+  },
+  {
+    "french": "voir",
+    "pronunciation": "부아르",
+    "korean": "보다"
+  },
+  {
+    "french": "trésor",
+    "pronunciation": "트레조르",
+    "korean": "보물"
+  },
+  {
+    "french": "sécurité",
+    "pronunciation": "세퀴리테",
+    "korean": "보안"
+  },
+  {
+    "french": "normalement",
+    "pronunciation": "노르말멍",
+    "korean": "보통"
+  },
+  {
+    "french": "protéger",
+    "pronunciation": "프로테제",
+    "korean": "보호하다"
+  },
+  {
+    "french": "couloir",
+    "pronunciation": "쿨루아르",
+    "korean": "복도"
+  },
+  {
+    "french": "pêche",
+    "pronunciation": "페슈",
+    "korean": "복숭아"
+  },
+  {
+    "french": "compliqué",
+    "pronunciation": "콩플리게",
+    "korean": "복잡한"
+  },
+  {
+    "french": "printemps",
+    "pronunciation": "프랭텅",
+    "korean": "봄"
+  },
+  {
+    "french": "enveloppe",
+    "pronunciation": "엉블로프",
+    "korean": "봉투"
+  },
+  {
+    "french": "parents",
+    "pronunciation": "파렁",
+    "korean": "부모"
+  },
+  {
+    "french": "partie",
+    "pronunciation": "파르티",
+    "korean": "부분"
+  },
+  {
+    "french": "cuisine",
+    "pronunciation": "퀴진",
+    "korean": "부엌"
+  },
+  {
+    "french": "riche",
+    "pronunciation": "리슈",
+    "korean": "부유한"
+  },
+  {
+    "french": "père",
+    "pronunciation": "페르",
+    "korean": "부친"
+  },
+  {
+    "french": "nord",
+    "pronunciation": "노르",
+    "korean": "북쪽"
+  },
+  {
+    "french": "minute",
+    "pronunciation": "미뉘트",
+    "korean": "분"
+  },
+  {
+    "french": "colère",
+    "pronunciation": "콜레르",
+    "korean": "분노"
+  },
+  {
+    "french": "atmosphère",
+    "pronunciation": "아트모스페르",
+    "korean": "분위기"
+  },
+  {
+    "french": "feu",
+    "pronunciation": "푀",
+    "korean": "불"
+  },
+  {
+    "french": "anxiété",
+    "pronunciation": "앙지에테",
+    "korean": "불안"
+  },
+  {
+    "french": "pluie",
+    "pronunciation": "플뤼",
+    "korean": "비"
+  },
+  {
+    "french": "savon",
+    "pronunciation": "사봉",
+    "korean": "비누"
+  },
+  {
+    "french": "vidéo",
+    "pronunciation": "비데오",
+    "korean": "비디오"
+  },
+  {
+    "french": "secret",
+    "pronunciation": "스크레",
+    "korean": "비밀"
+  },
+  {
+    "french": "similaire",
+    "pronunciation": "시밀레르",
+    "korean": "비슷한"
+  },
+  {
+    "french": "cher",
+    "pronunciation": "셰르",
+    "korean": "비싼"
+  },
+  {
+    "french": "visa",
+    "pronunciation": "비자",
+    "korean": "비자"
+  },
+  {
+    "french": "avion",
+    "pronunciation": "아비옹",
+    "korean": "비행기"
+  },
+  {
+    "french": "lumière",
+    "pronunciation": "뤼미에르",
+    "korean": "빛"
+  },
+  {
+    "french": "rapide",
+    "pronunciation": "라피드",
+    "korean": "빠른"
+  },
+  {
+    "french": "rouge",
+    "pronunciation": "루주",
+    "korean": "빨간색"
+  },
+  {
+    "french": "paille",
+    "pronunciation": "파이유",
+    "korean": "빨대"
+  },
+  {
+    "french": "lessive",
+    "pronunciation": "레시브",
+    "korean": "빨래"
+  },
+  {
+    "french": "pain",
+    "pronunciation": "팽",
+    "korean": "빵"
+  },
+  {
+    "french": "os",
+    "pronunciation": "오스",
+    "korean": "뼈"
+  },
+  {
+    "french": "accident",
+    "pronunciation": "악시덩",
+    "korean": "사고"
+  },
+  {
+    "french": "pomme",
+    "pronunciation": "폼",
+    "korean": "사과"
+  },
+  {
+    "french": "personne",
+    "pronunciation": "페르손",
+    "korean": "사람"
+  },
+  {
+    "french": "amour",
+    "pronunciation": "아무르",
+    "korean": "사랑"
+  },
+  {
+    "french": "désert",
+    "pronunciation": "데제르",
+    "korean": "사막"
+  },
+  {
+    "french": "bureau",
+    "pronunciation": "뷔로",
+    "korean": "사무실"
+  },
+  {
+    "french": "utiliser",
+    "pronunciation": "위틸리제",
+    "korean": "사용하다"
+  },
+  {
+    "french": "patron",
+    "pronunciation": "파트롱",
+    "korean": "사장"
+  },
+  {
+    "french": "dictionnaire",
+    "pronunciation": "딕시오네르",
+    "korean": "사전"
+  },
+  {
+    "french": "photo",
+    "pronunciation": "포토",
+    "korean": "사진"
+  },
+  {
+    "french": "société",
+    "pronunciation": "소시에테",
+    "korean": "사회"
+  },
+  {
+    "french": "montagne",
+    "pronunciation": "몽타뉴",
+    "korean": "산"
+  },
+  {
+    "french": "industrie",
+    "pronunciation": "엥뒤스트리",
+    "korean": "산업"
+  },
+  {
+    "french": "promenade",
+    "pronunciation": "프로므나드",
+    "korean": "산책"
+  },
+  {
+    "french": "vivre",
+    "pronunciation": "비브르",
+    "korean": "살다"
+  },
+  {
+    "french": "vie",
+    "pronunciation": "비",
+    "korean": "삶"
+  },
+  {
+    "french": "trois",
+    "pronunciation": "트루아",
+    "korean": "삼"
+  },
+  {
+    "french": "oncle",
+    "pronunciation": "옹클",
+    "korean": "삼촌"
+  },
+  {
+    "french": "sang",
+    "pronunciation": "상",
+    "korean": "상"
+  },
+  {
+    "french": "boîte",
+    "pronunciation": "부아트",
+    "korean": "상자"
+  },
+  {
+    "french": "situation",
+    "pronunciation": "시튀아시옹",
+    "korean": "상황"
+  },
+  {
+    "french": "oiseau",
+    "pronunciation": "우아조",
+    "korean": "새"
+  },
+  {
+    "french": "nouveau",
+    "pronunciation": "누보",
+    "korean": "새로운"
+  },
+  {
+    "french": "aube",
+    "pronunciation": "오브",
+    "korean": "새벽"
+  },
+  {
+    "french": "crevette",
+    "pronunciation": "크르베트",
+    "korean": "새우"
+  },
+  {
+    "french": "couleur",
+    "pronunciation": "쿨뢰르",
+    "korean": "색"
+  },
+  {
+    "french": "sandwich",
+    "pronunciation": "셍드위치",
+    "korean": "샌드위치"
+  },
+  {
+    "french": "salade",
+    "pronunciation": "살라드",
+    "korean": "샐러드"
+  },
+  {
+    "french": "pensée",
+    "pronunciation": "펑세",
+    "korean": "생각"
+  },
+  {
+    "french": "production",
+    "pronunciation": "프로뒥시옹",
+    "korean": "생산"
+  },
+  {
+    "french": "anniversaire",
+    "pronunciation": "아니베르세르",
+    "korean": "생일"
+  },
+  {
+    "french": "douche",
+    "pronunciation": "두쉬",
+    "korean": "샤워"
+  },
+  {
+    "french": "se tenir debout",
+    "pronunciation": "스 트니르 드부",
+    "korean": "서다"
+  },
+  {
+    "french": "tiroir",
+    "pronunciation": "티루아르",
+    "korean": "서랍"
+  },
+  {
+    "french": "chacun",
+    "pronunciation": "샤쿵",
+    "korean": "서로"
+  },
+  {
+    "french": "document",
+    "pronunciation": "도퀴멍",
+    "korean": "서류"
+  },
+  {
+    "french": "librairie",
+    "pronunciation": "리브레리",
+    "korean": "서점"
+  },
+  {
+    "french": "ouest",
+    "pronunciation": "우에스트",
+    "korean": "서쪽"
+  },
+  {
+    "french": "coucher de soleil",
+    "pronunciation": "쿠셰 드 솔레이유",
+    "korean": "석양"
+  },
+  {
+    "french": "mélange",
+    "pronunciation": "멜렁주",
+    "korean": "섞음"
+  },
+  {
+    "french": "cadeau",
+    "pronunciation": "카도",
+    "korean": "선물"
+  },
+  {
+    "french": "choisir",
+    "pronunciation": "슈아지르",
+    "korean": "선택하다"
+  },
+  {
+    "french": "ventilateur",
+    "pronunciation": "벙틸라퇴르",
+    "korean": "선풍기"
+  },
+  {
+    "french": "vaisselle",
+    "pronunciation": "베셀",
+    "korean": "설거지"
+  },
+  {
+    "french": "Nouvel An",
+    "pronunciation": "누벨 엉",
+    "korean": "설날"
+  },
+  {
+    "french": "persuader",
+    "pronunciation": "페르쉬아데",
+    "korean": "설득하다"
+  },
+  {
+    "french": "explication",
+    "pronunciation": "엑스플리카시옹",
+    "korean": "설명"
+  },
+  {
+    "french": "installation",
+    "pronunciation": "엥스탈라시옹",
+    "korean": "설치"
+  },
+  {
+    "french": "sucre",
+    "pronunciation": "쉬크르",
+    "korean": "설탕"
+  },
+  {
+    "french": "île",
+    "pronunciation": "일",
+    "korean": "섬"
+  },
+  {
+    "french": "forteresse",
+    "pronunciation": "포르트레스",
+    "korean": "성"
+  },
+  {
+    "french": "caractère",
+    "pronunciation": "카락테르",
+    "korean": "성격"
+  },
+  {
+    "french": "succès",
+    "pronunciation": "쉬크세",
+    "korean": "성공"
+  },
+  {
+    "french": "sexe",
+    "pronunciation": "섹스",
+    "korean": "성별"
+  },
+  {
+    "french": "adulte",
+    "pronunciation": "아뒬트",
+    "korean": "성인"
+  },
+  {
+    "french": "monde",
+    "pronunciation": "몽드",
+    "korean": "세계"
+  },
+  {
+    "french": "impôt",
+    "pronunciation": "엥포",
+    "korean": "세금"
+  },
+  {
+    "french": "siècle",
+    "pronunciation": "시에클",
+    "korean": "세기"
+  },
+  {
+    "french": "cérémonie",
+    "pronunciation": "세레모니",
+    "korean": "세레모니"
+  },
+  {
+    "french": "puissant",
+    "pronunciation": "퓌이셍",
+    "korean": "세력있는"
+  },
+  {
+    "french": "détail",
+    "pronunciation": "데타이유",
+    "korean": "세부사항"
+  },
+  {
+    "french": "fort",
+    "pronunciation": "포르",
+    "korean": "센"
+  },
+  {
+    "french": "centre",
+    "pronunciation": "셩트르",
+    "korean": "센터"
+  },
+  {
+    "french": "chemise",
+    "pronunciation": "슈미즈",
+    "korean": "셔츠"
+  },
+  {
+    "french": "présentation",
+    "pronunciation": "프레정따시옹",
+    "korean": "소개"
+  },
+  {
+    "french": "bœuf",
+    "pronunciation": "뵈프",
+    "korean": "소고기"
+  },
+  {
+    "french": "sel",
+    "pronunciation": "셀",
+    "korean": "소금"
+  },
+  {
+    "french": "son",
+    "pronunciation": "송",
+    "korean": "소리"
+  },
+  {
+    "french": "roman",
+    "pronunciation": "로멍",
+    "korean": "소설"
+  },
+  {
+    "french": "sauce",
+    "pronunciation": "소스",
+    "korean": "소스"
+  },
+  {
+    "french": "souhait",
+    "pronunciation": "수에",
+    "korean": "소원"
+  },
+  {
+    "french": "matériel",
+    "pronunciation": "마테리엘",
+    "korean": "소재"
+  },
+  {
+    "french": "canapé",
+    "pronunciation": "카나페",
+    "korean": "소파"
+  },
+  {
+    "french": "vitesse",
+    "pronunciation": "비테스",
+    "korean": "속도"
+  },
+  {
+    "french": "main",
+    "pronunciation": "맹",
+    "korean": "손"
+  },
+  {
+    "french": "doigt",
+    "pronunciation": "두아",
+    "korean": "손가락"
+  },
+  {
+    "french": "invité",
+    "pronunciation": "엥비테",
+    "korean": "손님"
+  },
+  {
+    "french": "mouchoir",
+    "pronunciation": "무슈아르",
+    "korean": "손수건"
+  },
+  {
+    "french": "petit-fils",
+    "pronunciation": "프티피스",
+    "korean": "손자"
+  },
+  {
+    "french": "serviette",
+    "pronunciation": "세르비에트",
+    "korean": "수건"
+  },
+  {
+    "french": "moyen",
+    "pronunciation": "무아이앵",
+    "korean": "수단"
+  },
+  {
+    "french": "réparation",
+    "pronunciation": "레파라시옹",
+    "korean": "수리"
+  },
+  {
+    "french": "pastèque",
+    "pronunciation": "파스테크",
+    "korean": "수박"
+  },
+  {
+    "french": "classe",
+    "pronunciation": "클라스",
+    "korean": "수업(반)"
+  },
+  {
+    "french": "natation",
+    "pronunciation": "나타시옹",
+    "korean": "수영"
+  },
+  {
+    "french": "nager",
+    "pronunciation": "나제",
+    "korean": "수영하다"
+  },
+  {
+    "french": "mercredi",
+    "pronunciation": "메르크르디",
+    "korean": "수요일"
+  },
+  {
+    "french": "importation",
+    "pronunciation": "엥포르타시옹",
+    "korean": "수입"
+  },
+  {
+    "french": "niveau",
+    "pronunciation": "니보",
+    "korean": "수준"
+  },
+  {
+    "french": "exportation",
+    "pronunciation": "엑스포르타시옹",
+    "korean": "수출"
+  },
+  {
+    "french": "mathématiques",
+    "pronunciation": "마테마티크",
+    "korean": "수학"
+  },
+  {
+    "french": "récolte",
+    "pronunciation": "레꼴트",
+    "korean": "수확"
+  },
+  {
+    "french": "devoirs",
+    "pronunciation": "드부아르",
+    "korean": "숙제"
+  },
+  {
+    "french": "cuillère",
+    "pronunciation": "퀴이에르",
+    "korean": "숟가락"
+  },
+  {
+    "french": "nombre",
+    "pronunciation": "농브르",
+    "korean": "숫자"
+  },
+  {
+    "french": "forêt",
+    "pronunciation": "포레",
+    "korean": "숲"
+  },
+  {
+    "french": "repos",
+    "pronunciation": "르포",
+    "korean": "쉬다"
+  },
+  {
+    "french": "facile",
+    "pronunciation": "파실",
+    "korean": "쉬운"
+  },
+  {
+    "french": "super",
+    "pronunciation": "쉬페르",
+    "korean": "슈퍼"
+  },
+  {
+    "french": "supermarché",
+    "pronunciation": "쉬페르마르셰",
+    "korean": "슈퍼마켓"
+  },
+  {
+    "french": "interrupteur",
+    "pronunciation": "엥테뤼프퇴르",
+    "korean": "스위치"
+  },
+  {
+    "french": "horaire",
+    "pronunciation": "오레르",
+    "korean": "스케줄"
+  },
+  {
+    "french": "écran",
+    "pronunciation": "에크랑",
+    "korean": "스크린"
+  },
+  {
+    "french": "ski",
+    "pronunciation": "스키",
+    "korean": "스키"
+  },
+  {
+    "french": "style",
+    "pronunciation": "스틸",
+    "korean": "스타일"
+  },
+  {
+    "french": "stress",
+    "pronunciation": "스트레스",
+    "korean": "스트레스"
+  },
+  {
+    "french": "sport",
+    "pronunciation": "스포르",
+    "korean": "스포츠"
+  },
+  {
+    "french": "coutume",
+    "pronunciation": "쿠튀므",
+    "korean": "습관"
+  },
+  {
+    "french": "humidité",
+    "pronunciation": "위미디테",
+    "korean": "습기"
+  },
+  {
+    "french": "passager",
+    "pronunciation": "파사제",
+    "korean": "승객"
+  },
+  {
+    "french": "victoire",
+    "pronunciation": "빅투아르",
+    "korean": "승리"
+  },
+  {
+    "french": "poème",
+    "pronunciation": "포엠",
+    "korean": "시"
+  },
+  {
+    "french": "heure",
+    "pronunciation": "외르",
+    "korean": "시간"
+  },
+  {
+    "french": "horloge",
+    "pronunciation": "오를로주",
+    "korean": "시계"
+  },
+  {
+    "french": "époque",
+    "pronunciation": "에포크",
+    "korean": "시대"
+  },
+  {
+    "french": "citoyen",
+    "pronunciation": "시투아이앵",
+    "korean": "시민"
+  },
+  {
+    "french": "commencer",
+    "pronunciation": "코멍세",
+    "korean": "시작하다"
+  },
+  {
+    "french": "marché",
+    "pronunciation": "마르셰",
+    "korean": "시장"
+  },
+  {
+    "french": "examen",
+    "pronunciation": "에그자맹",
+    "korean": "시험"
+  },
+  {
+    "french": "nourriture",
+    "pronunciation": "누리튀르",
+    "korean": "식량"
+  },
+  {
+    "french": "plante",
+    "pronunciation": "플렁트",
+    "korean": "식물"
+  },
+  {
+    "french": "vinaigre",
+    "pronunciation": "비네그르",
+    "korean": "식초"
+  },
+  {
+    "french": "table",
+    "pronunciation": "타블",
+    "korean": "식탁"
+  },
+  {
+    "french": "dieu",
+    "pronunciation": "디외",
+    "korean": "신"
+  },
+  {
+    "french": "confiance",
+    "pronunciation": "콩피엉스",
+    "korean": "신뢰"
+  },
+  {
+    "french": "journal",
+    "pronunciation": "주르날",
+    "korean": "신문"
+  },
+  {
+    "french": "chaussures",
+    "pronunciation": "쇼쉬르",
+    "korean": "신발"
+  },
+  {
+    "french": "carte d'identité",
+    "pronunciation": "카르트 디덩티테",
+    "korean": "신분증"
+  },
+  {
+    "french": "signal",
+    "pronunciation": "시날",
+    "korean": "신호"
+  },
+  {
+    "french": "fil",
+    "pronunciation": "필",
+    "korean": "실"
+  },
+  {
+    "french": "erreur",
+    "pronunciation": "에뢰르",
+    "korean": "실수"
+  },
+  {
+    "french": "pratique",
+    "pronunciation": "프라티크",
+    "korean": "실용적인"
+  },
+  {
+    "french": "ennuyeux",
+    "pronunciation": "엉뉘이외",
+    "korean": "심심한"
+  },
+  {
+    "french": "cœur",
+    "pronunciation": "쾨르",
+    "korean": "심장"
+  },
+  {
+    "french": "profond",
+    "pronunciation": "프로퐁",
+    "korean": "심한"
+  },
+  {
+    "french": "dix",
+    "pronunciation": "디스",
+    "korean": "십"
+  },
+  {
+    "french": "pas cher",
+    "pronunciation": "파 셰르",
+    "korean": "싼"
+  },
+  {
+    "french": "couple",
+    "pronunciation": "쿠플",
+    "korean": "쌍"
+  },
+  {
+    "french": "écrire",
+    "pronunciation": "에크리르",
+    "korean": "쓰다"
+  },
+  {
+    "french": "poubelle",
+    "pronunciation": "푸벨",
+    "korean": "쓰레기통"
+  },
+  {
+    "french": "amer",
+    "pronunciation": "아메르",
+    "korean": "쓴"
+  },
+  {
+    "french": "laver",
+    "pronunciation": "라베",
+    "korean": "씻다"
+  },
+  {
+    "french": "bébé",
+    "pronunciation": "베베",
+    "korean": "아기"
+  },
+  {
+    "french": "fils",
+    "pronunciation": "피스",
+    "korean": "아들"
+  },
+  {
+    "french": "en bas",
+    "pronunciation": "엉 바",
+    "korean": "아래"
+  },
+  {
+    "french": "peut-être",
+    "pronunciation": "푀테트르",
+    "korean": "아마도"
+  },
+  {
+    "french": "papa",
+    "pronunciation": "파파",
+    "korean": "아빠"
+  },
+  {
+    "french": "enfant",
+    "pronunciation": "엉펑",
+    "korean": "아이"
+  },
+  {
+    "french": "idée",
+    "pronunciation": "이데",
+    "korean": "아이디어"
+  },
+  {
+    "french": "glace",
+    "pronunciation": "글라스",
+    "korean": "아이스크림"
+  },
+  {
+    "french": "encore",
+    "pronunciation": "엉코르",
+    "korean": "아직"
+  },
+  {
+    "french": "matin",
+    "pronunciation": "마탱",
+    "korean": "아침"
+  },
+  {
+    "french": "petit déjeuner",
+    "pronunciation": "프티 데죄네",
+    "korean": "아침식사"
+  },
+  {
+    "french": "appartement",
+    "pronunciation": "아파르트멍",
+    "korean": "아파트"
+  },
+  {
+    "french": "malade",
+    "pronunciation": "말라드",
+    "korean": "아픈"
+  },
+  {
+    "french": "neuf",
+    "pronunciation": "뇌프",
+    "korean": "아홉"
+  },
+  {
+    "french": "instrument",
+    "pronunciation": "엥스트뤼멍",
+    "korean": "악기"
+  },
+  {
+    "french": "serrer la main",
+    "pronunciation": "세레 라 맹",
+    "korean": "악수"
+  },
+  {
+    "french": "brouillard",
+    "pronunciation": "브루이야르",
+    "korean": "안개"
+  },
+  {
+    "french": "lunettes",
+    "pronunciation": "뤼네트",
+    "korean": "안경"
+  },
+  {
+    "french": "bonjour",
+    "pronunciation": "봉주르",
+    "korean": "안녕하세요"
+  },
+  {
+    "french": "dedans",
+    "pronunciation": "드덩",
+    "korean": "안쪽"
+  },
+  {
+    "french": "s'asseoir",
+    "pronunciation": "사수아르",
+    "korean": "앉다"
+  },
+  {
+    "french": "savoir",
+    "pronunciation": "사부아르",
+    "korean": "알다"
+  },
+  {
+    "french": "allergie",
+    "pronunciation": "알레르지",
+    "korean": "알레르기"
+  },
+  {
+    "french": "alphabet",
+    "pronunciation": "알파베",
+    "korean": "알파벳"
+  },
+  {
+    "french": "devant",
+    "pronunciation": "드봉",
+    "korean": "앞"
+  },
+  {
+    "french": "médicament",
+    "pronunciation": "메디카멍",
+    "korean": "약"
+  },
+  {
+    "french": "pharmacie",
+    "pronunciation": "파르마시",
+    "korean": "약국"
+  },
+  {
+    "french": "promesse",
+    "pronunciation": "프로메스",
+    "korean": "약속"
+  },
+  {
+    "french": "faible",
+    "pronunciation": "페블",
+    "korean": "약한"
+  },
+  {
+    "french": "mouton",
+    "pronunciation": "무통",
+    "korean": "양"
+  },
+  {
+    "french": "chaussette",
+    "pronunciation": "쇼세트",
+    "korean": "양말"
+  },
+  {
+    "french": "oignon",
+    "pronunciation": "오뇽",
+    "korean": "양파"
+  },
+  {
+    "french": "visage",
+    "pronunciation": "비자주",
+    "korean": "얼굴"
+  },
+  {
+    "french": "combien",
+    "pronunciation": "콩비앵",
+    "korean": "얼마나"
+  },
+  {
+    "french": "strict",
+    "pronunciation": "스트릭트",
+    "korean": "엄격한"
+  },
+  {
+    "french": "maman",
+    "pronunciation": "마멍",
+    "korean": "엄마"
+  },
+  {
+    "french": "pouce",
+    "pronunciation": "푸스",
+    "korean": "엄지"
+  },
+  {
+    "french": "travail",
+    "pronunciation": "트라바이유",
+    "korean": "업무"
+  },
+  {
+    "french": "sans",
+    "pronunciation": "셍",
+    "korean": "없이"
+  },
+  {
+    "french": "ascenseur",
+    "pronunciation": "아셍쇠르",
+    "korean": "엘리베이터"
+  },
+  {
+    "french": "passeport",
+    "pronunciation": "파스포르",
+    "korean": "여권"
+  },
+  {
+    "french": "ici",
+    "pronunciation": "이시",
+    "korean": "여기"
+  },
+  {
+    "french": "huit",
+    "pronunciation": "위트",
+    "korean": "여덟"
+  },
+  {
+    "french": "plusieurs",
+    "pronunciation": "플뤼지외르",
+    "korean": "여러"
+  },
+  {
+    "french": "été",
+    "pronunciation": "에떼",
+    "korean": "여름"
+  },
+  {
+    "french": "renard",
+    "pronunciation": "르나르",
+    "korean": "여우"
+  },
+  {
+    "french": "femme",
+    "pronunciation": "팜",
+    "korean": "여자"
+  },
+  {
+    "french": "voyage",
+    "pronunciation": "부아야주",
+    "korean": "여행"
+  },
+  {
+    "french": "valise",
+    "pronunciation": "발리즈",
+    "korean": "여행가방"
+  },
+  {
+    "french": "gare",
+    "pronunciation": "가르",
+    "korean": "역"
+  },
+  {
+    "french": "histoire",
+    "pronunciation": "이스투아르",
+    "korean": "역사"
+  },
+  {
+    "french": "contact",
+    "pronunciation": "콩탁트",
+    "korean": "연락"
+  },
+  {
+    "french": "discours",
+    "pronunciation": "디스쿠르",
+    "korean": "연설"
+  },
+  {
+    "french": "exercice",
+    "pronunciation": "에그제르시스",
+    "korean": "연습"
+  },
+  {
+    "french": "crayon",
+    "pronunciation": "크레용",
+    "korean": "연필"
+  },
+  {
+    "french": "fièvre",
+    "pronunciation": "피에브르",
+    "korean": "열"
+  },
+  {
+    "french": "ouvrir",
+    "pronunciation": "우브리르",
+    "korean": "열다"
+  },
+  {
+    "french": "clé",
+    "pronunciation": "클레",
+    "korean": "열쇠"
+  },
+  {
+    "french": "passion",
+    "pronunciation": "파시옹",
+    "korean": "열정"
+  },
+  {
+    "french": "carte postale",
+    "pronunciation": "카르트 포스탈",
+    "korean": "엽서"
+  },
+  {
+    "french": "zéro",
+    "pronunciation": "제로",
+    "korean": "영"
+  },
+  {
+    "french": "reçu",
+    "pronunciation": "르쉬",
+    "korean": "영수증"
+  },
+  {
+    "french": "anglais",
+    "pronunciation": "엉글레",
+    "korean": "영어"
+  },
+  {
+    "french": "héros",
+    "pronunciation": "에로",
+    "korean": "영웅"
+  },
+  {
+    "french": "influence",
+    "pronunciation": "엥플뤼엉스",
+    "korean": "영향"
+  },
+  {
+    "french": "cinéma",
+    "pronunciation": "시네마",
+    "korean": "영화"
+  },
+  {
+    "french": "à côté",
+    "pronunciation": "아 꼬떼",
+    "korean": "옆"
+  },
+  {
+    "french": "exemple",
+    "pronunciation": "에그정플",
+    "korean": "예"
+  },
+  {
+    "french": "joli",
+    "pronunciation": "졸리",
+    "korean": "예쁜"
+  },
+  {
+    "french": "réservation",
+    "pronunciation": "레제르바시옹",
+    "korean": "예약"
+  },
+  {
+    "french": "autrefois",
+    "pronunciation": "오트르푸아",
+    "korean": "옛날"
+  },
+  {
+    "french": "aujourd'hui",
+    "pronunciation": "오주르뒤",
+    "korean": "오늘"
+  },
+  {
+    "french": "longtemps",
+    "pronunciation": "롱텅",
+    "korean": "오래"
+  },
+  {
+    "french": "orange",
+    "pronunciation": "오렁주",
+    "korean": "오렌지"
+  },
+  {
+    "french": "escalade",
+    "pronunciation": "에스칼라드",
+    "korean": "오르다"
+  },
+  {
+    "french": "droite",
+    "pronunciation": "드루아트",
+    "korean": "오른쪽"
+  },
+  {
+    "french": "frère aîné",
+    "pronunciation": "프레르 에네",
+    "korean": "오빠"
+  },
+  {
+    "french": "pollution",
+    "pronunciation": "폴뤼시옹",
+    "korean": "오염"
+  },
+  {
+    "french": "concombre",
+    "pronunciation": "콩콩브르",
+    "korean": "오이"
+  },
+  {
+    "french": "opéra",
+    "pronunciation": "오페라",
+    "korean": "오페라"
+  },
+  {
+    "french": "malentendu",
+    "pronunciation": "말렁텅뒤",
+    "korean": "오해"
+  },
+  {
+    "french": "après-midi",
+    "pronunciation": "아프레미디",
+    "korean": "오후"
+  },
+  {
+    "french": "température",
+    "pronunciation": "텅페라튀르",
+    "korean": "온도"
+  },
+  {
+    "french": "entier",
+    "pronunciation": "엉티에",
+    "korean": "온전한"
+  },
+  {
+    "french": "olive",
+    "pronunciation": "올리브",
+    "korean": "올리브"
+  },
+  {
+    "french": "correct",
+    "pronunciation": "코렉트",
+    "korean": "올바른"
+  },
+  {
+    "french": "vêtements",
+    "pronunciation": "베트멍",
+    "korean": "옷"
+  },
+  {
+    "french": "armoire",
+    "pronunciation": "아르무아르",
+    "korean": "옷장"
+  },
+  {
+    "french": "complet",
+    "pronunciation": "콩플레",
+    "korean": "완전한"
+  },
+  {
+    "french": "roi",
+    "pronunciation": "루아",
+    "korean": "왕"
+  },
+  {
+    "french": "pourquoi",
+    "pronunciation": "푸르쿠아",
+    "korean": "왜"
+  },
+  {
+    "french": "étranger",
+    "pronunciation": "에트렁제",
+    "korean": "외국인"
+  },
+  {
+    "french": "seul",
+    "pronunciation": "쇨",
+    "korean": "외로운"
+  },
+  {
+    "french": "extérieur",
+    "pronunciation": "엑스테리외르",
+    "korean": "외부"
+  },
+  {
+    "french": "manteau",
+    "pronunciation": "멍또",
+    "korean": "외투"
+  },
+  {
+    "french": "gauche",
+    "pronunciation": "고슈",
+    "korean": "왼쪽"
+  },
+  {
+    "french": "jour de la semaine",
+    "pronunciation": "주르 드 라 스멘",
+    "korean": "요일"
+  },
+  {
+    "french": "récemment",
+    "pronunciation": "레사멍",
+    "korean": "요즘"
+  },
+  {
+    "french": "nous",
+    "pronunciation": "누",
+    "korean": "우리"
+  },
+  {
+    "french": "parapluie",
+    "pronunciation": "파라플뤼",
+    "korean": "우산"
+  },
+  {
+    "french": "lait",
+    "pronunciation": "레",
+    "korean": "우유"
+  },
+  {
+    "french": "amitié",
+    "pronunciation": "아미티에",
+    "korean": "우정"
+  },
+  {
+    "french": "univers",
+    "pronunciation": "위니베르",
+    "korean": "우주"
+  },
+  {
+    "french": "poste",
+    "pronunciation": "포스트",
+    "korean": "우체국"
+  },
+  {
+    "french": "chance",
+    "pronunciation": "셩스",
+    "korean": "운"
+  },
+  {
+    "french": "mouvement",
+    "pronunciation": "무브멍",
+    "korean": "운동"
+  },
+  {
+    "french": "destin",
+    "pronunciation": "데스탱",
+    "korean": "운명"
+  },
+  {
+    "french": "conducteur",
+    "pronunciation": "콩뒥퇴르",
+    "korean": "운전사"
+  },
+  {
+    "french": "pleurer",
+    "pronunciation": "플뢰레",
+    "korean": "울다"
+  },
+  {
+    "french": "premier",
+    "pronunciation": "프르미에",
+    "korean": "원래의"
+  },
+  {
+    "french": "lundi",
+    "pronunciation": "룅디",
+    "korean": "월요일"
+  },
+  {
+    "french": "site web",
+    "pronunciation": "시트 웹",
+    "korean": "웹사이트"
+  },
+  {
+    "french": "au-dessus",
+    "pronunciation": "오 드쉬",
+    "korean": "위"
+  },
+  {
+    "french": "estomac",
+    "pronunciation": "에스토마",
+    "korean": "위장"
+  },
+  {
+    "french": "position",
+    "pronunciation": "포지시옹",
+    "korean": "위치"
+  },
+  {
+    "french": "danger",
+    "pronunciation": "덩제",
+    "korean": "위험"
+  },
+  {
+    "french": "verre",
+    "pronunciation": "베르",
+    "korean": "유리"
+  },
+  {
+    "french": "humour",
+    "pronunciation": "위무르",
+    "korean": "유머"
+  },
+  {
+    "french": "célèbre",
+    "pronunciation": "셀레브르",
+    "korean": "유명한"
+  },
+  {
+    "french": "utile",
+    "pronunciation": "위틸",
+    "korean": "유용한"
+  },
+  {
+    "french": "jardin d'enfants",
+    "pronunciation": "자르뎅 덩펑",
+    "korean": "유치원"
+  },
+  {
+    "french": "mode",
+    "pronunciation": "모드",
+    "korean": "유행"
+  },
+  {
+    "french": "banque",
+    "pronunciation": "방크",
+    "korean": "은행"
+  },
+  {
+    "french": "boisson",
+    "pronunciation": "부아송",
+    "korean": "음료"
+  },
+  {
+    "french": "musique",
+    "pronunciation": "뮈지크",
+    "korean": "음악"
+  },
+  {
+    "french": "avis",
+    "pronunciation": "아비",
+    "korean": "의견"
+  },
+  {
+    "french": "devoir",
+    "pronunciation": "드부아르",
+    "korean": "의무"
+  },
+  {
+    "french": "vêtement",
+    "pronunciation": "베트멍",
+    "korean": "의복"
+  },
+  {
+    "french": "médecin",
+    "pronunciation": "메드생",
+    "korean": "의사"
+  },
+  {
+    "french": "doute",
+    "pronunciation": "두트",
+    "korean": "의심"
+  },
+  {
+    "french": "chaise",
+    "pronunciation": "셰즈",
+    "korean": "의자"
+  },
+  {
+    "french": "deux",
+    "pronunciation": "되",
+    "korean": "이"
+  },
+  {
+    "french": "ceci",
+    "pronunciation": "스시",
+    "korean": "이것"
+  },
+  {
+    "french": "nom",
+    "pronunciation": "농",
+    "korean": "이름"
+  },
+  {
+    "french": "e-mail",
+    "pronunciation": "이메일",
+    "korean": "이메일"
+  },
+  {
+    "french": "coiffeur",
+    "pronunciation": "쿠아푀르",
+    "korean": "이발사"
+  },
+  {
+    "french": "dent",
+    "pronunciation": "덩",
+    "korean": "이빨"
+  },
+  {
+    "french": "déménagement",
+    "pronunciation": "데메나주멍",
+    "korean": "이사"
+  },
+  {
+    "french": "voisin",
+    "pronunciation": "부아쟁",
+    "korean": "이웃"
+  },
+  {
+    "french": "raison",
+    "pronunciation": "레종",
+    "korean": "이유"
+  },
+  {
+    "french": "bénéfice",
+    "pronunciation": "베네피스",
+    "korean": "이익"
+  },
+  {
+    "french": "compréhension",
+    "pronunciation": "콩프레엉시옹",
+    "korean": "이해"
+  },
+  {
+    "french": "humain",
+    "pronunciation": "위맹",
+    "korean": "인간"
+  },
+  {
+    "french": "population",
+    "pronunciation": "포퓔라시옹",
+    "korean": "인구"
+  },
+  {
+    "french": "populaire",
+    "pronunciation": "포퓔레르",
+    "korean": "인기있는"
+  },
+  {
+    "french": "patience",
+    "pronunciation": "파시엉스",
+    "korean": "인내"
+  },
+  {
+    "french": "salut",
+    "pronunciation": "살뤼",
+    "korean": "인사"
+  },
+  {
+    "french": "impression",
+    "pronunciation": "엥프레시옹",
+    "korean": "인상"
+  },
+  {
+    "french": "Internet",
+    "pronunciation": "엥테르네",
+    "korean": "인터넷"
+  },
+  {
+    "french": "poupée",
+    "pronunciation": "푸페",
+    "korean": "인형"
+  },
+  {
+    "french": "un",
+    "pronunciation": "앵",
+    "korean": "일"
+  },
+  {
+    "french": "journal intime",
+    "pronunciation": "주르날 엥팀",
+    "korean": "일기"
+  },
+  {
+    "french": "général",
+    "pronunciation": "제네랄",
+    "korean": "일반적인"
+  },
+  {
+    "french": "dimanche",
+    "pronunciation": "디멍슈",
+    "korean": "일요일"
+  },
+  {
+    "french": "tôt",
+    "pronunciation": "또",
+    "korean": "일찍"
+  },
+  {
+    "french": "lever du soleil",
+    "pronunciation": "르베 뒤 솔레이유",
+    "korean": "일출"
+  },
+  {
+    "french": "lire",
+    "pronunciation": "리르",
+    "korean": "읽다"
+  },
+  {
+    "french": "perdre",
+    "pronunciation": "페르드르",
+    "korean": "잃다"
+  },
+  {
+    "french": "bouche",
+    "pronunciation": "부슈",
+    "korean": "입"
+  },
+  {
+    "french": "entrée",
+    "pronunciation": "엉트레",
+    "korean": "입구"
+  },
+  {
+    "french": "admission",
+    "pronunciation": "아드미시옹",
+    "korean": "입학"
+  },
+  {
+    "french": "oublier",
+    "pronunciation": "우블리에",
+    "korean": "잊다"
+  },
+  {
+    "french": "feuille",
+    "pronunciation": "푀이유",
+    "korean": "잎"
+  },
+  {
+    "french": "soi-même",
+    "pronunciation": "수아멤",
+    "korean": "자기자신"
+  },
+  {
+    "french": "voiture",
+    "pronunciation": "부아튀르",
+    "korean": "자동차"
+  },
+  {
+    "french": "fier",
+    "pronunciation": "피에르",
+    "korean": "자랑스러운"
+  },
+  {
+    "french": "nature",
+    "pronunciation": "나튀르",
+    "korean": "자연"
+  },
+  {
+    "french": "liberté",
+    "pronunciation": "리베르테",
+    "korean": "자유"
+  },
+  {
+    "french": "vélo",
+    "pronunciation": "벨로",
+    "korean": "자전거"
+  },
+  {
+    "french": "minuit",
+    "pronunciation": "미뉘",
+    "korean": "자정"
+  },
+  {
+    "french": "souvent",
+    "pronunciation": "수방",
+    "korean": "자주"
+  },
+  {
+    "french": "écrivain",
+    "pronunciation": "에크리벵",
+    "korean": "작가"
+  },
+  {
+    "french": "année dernière",
+    "pronunciation": "아네 데르니에르",
+    "korean": "작년"
+  },
+  {
+    "french": "petit",
+    "pronunciation": "프티",
+    "korean": "작은"
+  },
+  {
+    "french": "œuvre",
+    "pronunciation": "외브르",
+    "korean": "작품"
+  },
+  {
+    "french": "tasse",
+    "pronunciation": "타스",
+    "korean": "잔"
+  },
+  {
+    "french": "pelouse",
+    "pronunciation": "플루즈",
+    "korean": "잔디"
+  },
+  {
+    "french": "bien",
+    "pronunciation": "비앵",
+    "korean": "잘"
+  },
+  {
+    "french": "un moment",
+    "pronunciation": "앵 모멍",
+    "korean": "잠시"
+  },
+  {
+    "french": "dormir",
+    "pronunciation": "도르미르",
+    "korean": "잠자다"
+  },
+  {
+    "french": "attraper",
+    "pronunciation": "아트라페",
+    "korean": "잡다"
+  },
+  {
+    "french": "magazine",
+    "pronunciation": "마가진",
+    "korean": "잡지"
+  },
+  {
+    "french": "gant",
+    "pronunciation": "겅",
+    "korean": "장갑"
+  },
+  {
+    "french": "funérailles",
+    "pronunciation": "퓌네라이유",
+    "korean": "장례식"
+  },
+  {
+    "french": "endroit",
+    "pronunciation": "엉드루아",
+    "korean": "장소"
+  },
+  {
+    "french": "décoration",
+    "pronunciation": "데코라시옹",
+    "korean": "장식"
+  },
+  {
+    "french": "avantage",
+    "pronunciation": "아방타주",
+    "korean": "장점"
+  },
+  {
+    "french": "bourse",
+    "pronunciation": "부르스",
+    "korean": "장학금"
+  },
+  {
+    "french": "cendre",
+    "pronunciation": "셩드르",
+    "korean": "재"
+  },
+  {
+    "french": "catastrophe",
+    "pronunciation": "카타스트로프",
+    "korean": "재난"
+  },
+  {
+    "french": "talent",
+    "pronunciation": "탈렁",
+    "korean": "재능"
+  },
+  {
+    "french": "matériau",
+    "pronunciation": "마테리오",
+    "korean": "재료"
+  },
+  {
+    "french": "amusant",
+    "pronunciation": "아뮈정",
+    "korean": "재미있는"
+  },
+  {
+    "french": "veste",
+    "pronunciation": "베스트",
+    "korean": "재킷"
+  },
+  {
+    "french": "là-bas",
+    "pronunciation": "라바",
+    "korean": "저기"
+  },
+  {
+    "french": "soir",
+    "pronunciation": "수아르",
+    "korean": "저녁"
+  },
+  {
+    "french": "dîner",
+    "pronunciation": "디네",
+    "korean": "저녁식사"
+  },
+  {
+    "french": "épargne",
+    "pronunciation": "에파르뉴",
+    "korean": "저축"
+  },
+  {
+    "french": "ennemi",
+    "pronunciation": "에느미",
+    "korean": "적"
+  },
+  {
+    "french": "adapté",
+    "pronunciation": "아답테",
+    "korean": "적절한"
+  },
+  {
+    "french": "électricité",
+    "pronunciation": "엘렉트리시테",
+    "korean": "전기"
+  },
+  {
+    "french": "vue",
+    "pronunciation": "뷔",
+    "korean": "전망"
+  },
+  {
+    "french": "spécialiste",
+    "pronunciation": "스페시알리스트",
+    "korean": "전문가"
+  },
+  {
+    "french": "tout",
+    "pronunciation": "투",
+    "korean": "전부"
+  },
+  {
+    "french": "exposition",
+    "pronunciation": "엑스포지시옹",
+    "korean": "전시회"
+  },
+  {
+    "french": "avant",
+    "pronunciation": "아방",
+    "korean": "전에"
+  },
+  {
+    "french": "guerre",
+    "pronunciation": "게르",
+    "korean": "전쟁"
+  },
+  {
+    "french": "tradition",
+    "pronunciation": "트라디시옹",
+    "korean": "전통"
+  },
+  {
+    "french": "téléphone",
+    "pronunciation": "텔레폰",
+    "korean": "전화"
+  },
+  {
+    "french": "temple",
+    "pronunciation": "텅플",
+    "korean": "절"
+  },
+  {
+    "french": "jeune",
+    "pronunciation": "죈",
+    "korean": "젊은"
+  },
+  {
+    "french": "point",
+    "pronunciation": "푸앵",
+    "korean": "점"
+  },
+  {
+    "french": "déjeuner",
+    "pronunciation": "데죄네",
+    "korean": "점심"
+  },
+  {
+    "french": "boutique",
+    "pronunciation": "부티크",
+    "korean": "점포"
+  },
+  {
+    "french": "assiette",
+    "pronunciation": "아시에트",
+    "korean": "접시"
+  },
+  {
+    "french": "arrêt",
+    "pronunciation": "아레",
+    "korean": "정류장"
+  },
+  {
+    "french": "information",
+    "pronunciation": "엥포르마시옹",
+    "korean": "정보"
+  },
+  {
+    "french": "gouvernement",
+    "pronunciation": "구베르느멍",
+    "korean": "정부"
+  },
+  {
+    "french": "normal",
+    "pronunciation": "노르말",
+    "korean": "정상적인"
+  },
+  {
+    "french": "émotion",
+    "pronunciation": "에모시옹",
+    "korean": "정서"
+  },
+  {
+    "french": "jardin",
+    "pronunciation": "자르뎅",
+    "korean": "정원"
+  },
+  {
+    "french": "politique",
+    "pronunciation": "폴리티크",
+    "korean": "정치"
+  },
+  {
+    "french": "exact",
+    "pronunciation": "에그작트",
+    "korean": "정확한"
+  },
+  {
+    "french": "système",
+    "pronunciation": "시스템",
+    "korean": "제도"
+  },
+  {
+    "french": "titre",
+    "pronunciation": "티트르",
+    "korean": "제목"
+  },
+  {
+    "french": "suggestion",
+    "pronunciation": "쉬제스티옹",
+    "korean": "제안"
+  },
+  {
+    "french": "produit",
+    "pronunciation": "프로뒤",
+    "korean": "제품"
+  },
+  {
+    "french": "restriction",
+    "pronunciation": "레스트릭시옹",
+    "korean": "제한"
+  },
+  {
+    "french": "morceau",
+    "pronunciation": "모르소",
+    "korean": "조각"
+  },
+  {
+    "french": "condition",
+    "pronunciation": "콩디시옹",
+    "korean": "조건"
+  },
+  {
+    "french": "peu",
+    "pronunciation": "푀",
+    "korean": "조금"
+  },
+  {
+    "french": "grand-père",
+    "pronunciation": "그랑페르",
+    "korean": "조부"
+  },
+  {
+    "french": "attention",
+    "pronunciation": "아텅시옹",
+    "korean": "조심"
+  },
+  {
+    "french": "calme",
+    "pronunciation": "칼므",
+    "korean": "조용한"
+  },
+  {
+    "french": "respect",
+    "pronunciation": "레스페",
+    "korean": "존경"
+  },
+  {
+    "french": "existence",
+    "pronunciation": "에그지스텅스",
+    "korean": "존재"
+  },
+  {
+    "french": "diplôme",
+    "pronunciation": "디플롬",
+    "korean": "졸업"
+  },
+  {
+    "french": "étroit",
+    "pronunciation": "에트루아",
+    "korean": "좁은"
+  },
+  {
+    "french": "aimer",
+    "pronunciation": "에메",
+    "korean": "좋아하다"
+  },
+  {
+    "french": "gentil",
+    "pronunciation": "정티",
+    "korean": "좋은"
+  },
+  {
+    "french": "siège",
+    "pronunciation": "시에주",
+    "korean": "좌석"
+  },
+  {
+    "french": "semaine",
+    "pronunciation": "스멘",
+    "korean": "주"
+  },
+  {
+    "french": "donner",
+    "pronunciation": "도네",
+    "korean": "주다"
+  },
+  {
+    "french": "week-end",
+    "pronunciation": "위켄드",
+    "korean": "주말"
+  },
+  {
+    "french": "poche",
+    "pronunciation": "포슈",
+    "korean": "주머니"
+  },
+  {
+    "french": "commande",
+    "pronunciation": "코멍드",
+    "korean": "주문"
+  },
+  {
+    "french": "adresse",
+    "pronunciation": "아드레스",
+    "korean": "주소"
+  },
+  {
+    "french": "jus",
+    "pronunciation": "쥐",
+    "korean": "주스"
+  },
+  {
+    "french": "maître",
+    "pronunciation": "메트르",
+    "korean": "주인"
+  },
+  {
+    "french": "sujet",
+    "pronunciation": "쉬제",
+    "korean": "주제"
+  },
+  {
+    "french": "parking",
+    "pronunciation": "파르킹",
+    "korean": "주차장"
+  },
+  {
+    "french": "mort",
+    "pronunciation": "모르",
+    "korean": "죽음"
+  },
+  {
+    "french": "préparation",
+    "pronunciation": "프레파라시옹",
+    "korean": "준비"
+  },
+  {
+    "french": "corde",
+    "pronunciation": "코르드",
+    "korean": "줄"
+  },
+  {
+    "french": "Chine",
+    "pronunciation": "신",
+    "korean": "중국"
+  },
+  {
+    "french": "important",
+    "pronunciation": "엥포르텅",
+    "korean": "중요한"
+  },
+  {
+    "french": "souris",
+    "pronunciation": "수리",
+    "korean": "쥐"
+  },
+  {
+    "french": "joyeux",
+    "pronunciation": "주아이외",
+    "korean": "즐거운"
+  },
+  {
+    "french": "augmenter",
+    "pronunciation": "오그멍떼",
+    "korean": "증가하다"
+  },
+  {
+    "french": "preuve",
+    "pronunciation": "프뢰브",
+    "korean": "증거"
+  },
+  {
+    "french": "portefeuille",
+    "pronunciation": "포르트푀이유",
+    "korean": "지갑"
+  },
+  {
+    "french": "maintenant",
+    "pronunciation": "멩트넝",
+    "korean": "지금"
+  },
+  {
+    "french": "intelligence",
+    "pronunciation": "엥텔리정스",
+    "korean": "지능"
+  },
+  {
+    "french": "carte",
+    "pronunciation": "카르트",
+    "korean": "지도"
+  },
+  {
+    "french": "toit",
+    "pronunciation": "투아",
+    "korean": "지붕"
+  },
+  {
+    "french": "connaissance",
+    "pronunciation": "코네셍스",
+    "korean": "지식"
+  },
+  {
+    "french": "région",
+    "pronunciation": "레지옹",
+    "korean": "지역"
+  },
+  {
+    "french": "soutien",
+    "pronunciation": "수티앵",
+    "korean": "지원"
+  },
+  {
+    "french": "sous-sol",
+    "pronunciation": "수솔",
+    "korean": "지하"
+  },
+  {
+    "french": "métro",
+    "pronunciation": "메트로",
+    "korean": "지하철"
+  },
+  {
+    "french": "emploi",
+    "pronunciation": "엉플루아",
+    "korean": "직업"
+  },
+  {
+    "french": "employé",
+    "pronunciation": "엉플루아예",
+    "korean": "직원"
+  },
+  {
+    "french": "direct",
+    "pronunciation": "디렉트",
+    "korean": "직접적인"
+  },
+  {
+    "french": "sérieux",
+    "pronunciation": "세리외",
+    "korean": "진지한"
+  },
+  {
+    "french": "vrai",
+    "pronunciation": "브레",
+    "korean": "진짜의"
+  },
+  {
+    "french": "bagage",
+    "pronunciation": "바가주",
+    "korean": "짐"
+  },
+  {
+    "french": "maison",
+    "pronunciation": "메종",
+    "korean": "집"
+  },
+  {
+    "french": "concentrer",
+    "pronunciation": "콩셩트레",
+    "korean": "집중하다"
+  },
+  {
+    "french": "salé",
+    "pronunciation": "살레",
+    "korean": "짠"
+  },
+  {
+    "french": "côté",
+    "pronunciation": "꼬떼",
+    "korean": "쪽"
+  },
+  {
+    "french": "fenêtre",
+    "pronunciation": "프네트르",
+    "korean": "창문"
+  },
+  {
+    "french": "création",
+    "pronunciation": "크레아시옹",
+    "korean": "창조"
+  },
+  {
+    "french": "livre",
+    "pronunciation": "리브르",
+    "korean": "책"
+  },
+  {
+    "french": "responsabilité",
+    "pronunciation": "레스퐁사빌리테",
+    "korean": "책임"
+  },
+  {
+    "french": "étagère",
+    "pronunciation": "에타제르",
+    "korean": "책장"
+  },
+  {
+    "french": "mille",
+    "pronunciation": "밀",
+    "korean": "천"
+  },
+  {
+    "french": "ciel",
+    "pronunciation": "시엘",
+    "korean": "천국"
+  },
+  {
+    "french": "plafond",
+    "pronunciation": "플라퐁",
+    "korean": "천장"
+  },
+  {
+    "french": "lentement",
+    "pronunciation": "렁트멍",
+    "korean": "천천히"
+  },
+  {
+    "french": "fer",
+    "pronunciation": "페르",
+    "korean": "철"
+  },
+  {
+    "french": "philosophie",
+    "pronunciation": "필로조피",
+    "korean": "철학"
+  },
+  {
+    "french": "jean",
+    "pronunciation": "진",
+    "korean": "청바지"
+  },
+  {
+    "french": "nettoyage",
+    "pronunciation": "네투아야주",
+    "korean": "청소"
+  },
+  {
+    "french": "jeunesse",
+    "pronunciation": "죄네스",
+    "korean": "청소년"
+  },
+  {
+    "french": "cerise",
+    "pronunciation": "스리즈",
+    "korean": "체리"
+  },
+  {
+    "french": "gymnase",
+    "pronunciation": "짐나즈",
+    "korean": "체육관"
+  },
+  {
+    "french": "bougie",
+    "pronunciation": "부지",
+    "korean": "초"
+  },
+  {
+    "french": "seconde",
+    "pronunciation": "스공드",
+    "korean": "초(시간)"
+  },
+  {
+    "french": "invitation",
+    "pronunciation": "엥비타시옹",
+    "korean": "초대"
+  },
+  {
+    "french": "école primaire",
+    "pronunciation": "에꼴 프리메르",
+    "korean": "초등학교"
+  },
+  {
+    "french": "vert",
+    "pronunciation": "베르",
+    "korean": "초록색"
+  },
+  {
+    "french": "chocolat",
+    "pronunciation": "쇼콜라",
+    "korean": "초콜릿"
+  },
+  {
+    "french": "meilleur",
+    "pronunciation": "메이외르",
+    "korean": "최고의"
+  },
+  {
+    "french": "récent",
+    "pronunciation": "레셩",
+    "korean": "최근의"
+  },
+  {
+    "french": "maximum",
+    "pronunciation": "막시뭄",
+    "korean": "최대"
+  },
+  {
+    "french": "minimum",
+    "pronunciation": "미니뭄",
+    "korean": "최소"
+  },
+  {
+    "french": "souvenir",
+    "pronunciation": "수브니르",
+    "korean": "추억"
+  },
+  {
+    "french": "froid",
+    "pronunciation": "프루아",
+    "korean": "추운"
+  },
+  {
+    "french": "recommandation",
+    "pronunciation": "르코멍다시옹",
+    "korean": "추천"
+  },
+  {
+    "french": "football",
+    "pronunciation": "풋볼",
+    "korean": "축구"
+  },
+  {
+    "french": "fête",
+    "pronunciation": "페트",
+    "korean": "축제"
+  },
+  {
+    "french": "Noël",
+    "pronunciation": "노엘",
+    "korean": "축하"
+  },
+  {
+    "french": "sortie",
+    "pronunciation": "소르티",
+    "korean": "출구"
+  },
+  {
+    "french": "départ",
+    "pronunciation": "데파르",
+    "korean": "출발"
+  },
+  {
+    "french": "naissance",
+    "pronunciation": "네쌍스",
+    "korean": "출생"
+  },
+  {
+    "french": "danse",
+    "pronunciation": "덩스",
+    "korean": "춤"
+  },
+  {
+    "french": "suffisant",
+    "pronunciation": "쉬피정",
+    "korean": "충분한"
+  },
+  {
+    "french": "passe-temps",
+    "pronunciation": "파스 텅",
+    "korean": "취미"
+  },
+  {
+    "french": "couche",
+    "pronunciation": "쿠슈",
+    "korean": "층"
+  },
+  {
+    "french": "dentiste",
+    "pronunciation": "덩티스트",
+    "korean": "치과"
+  },
+  {
+    "french": "traitement",
+    "pronunciation": "트레트멍",
+    "korean": "치료"
+  },
+  {
+    "french": "jupe",
+    "pronunciation": "쥐프",
+    "korean": "치마"
+  },
+  {
+    "french": "fromage",
+    "pronunciation": "프로마주",
+    "korean": "치즈"
+  },
+  {
+    "french": "ami",
+    "pronunciation": "아미",
+    "korean": "친구"
+  },
+  {
+    "french": "parent",
+    "pronunciation": "파렁",
+    "korean": "친척"
+  },
+  {
+    "french": "sept",
+    "pronunciation": "세트",
+    "korean": "칠"
+  },
+  {
+    "french": "tableau noir",
+    "pronunciation": "타블로 누아르",
+    "korean": "칠판"
+  },
+  {
+    "french": "lit",
+    "pronunciation": "리",
+    "korean": "침대"
+  },
+  {
+    "french": "chambre à coucher",
+    "pronunciation": "셩브르 아 쿠셰",
+    "korean": "침실"
+  },
+  {
+    "french": "brosse à dents",
+    "pronunciation": "브로스 아 덩",
+    "korean": "칫솔"
+  },
+  {
+    "french": "compliment",
+    "pronunciation": "콩플리멍",
+    "korean": "칭찬"
+  },
+  {
+    "french": "caméra",
+    "pronunciation": "카메라",
+    "korean": "카메라"
+  },
+  {
+    "french": "café",
+    "pronunciation": "카페",
+    "korean": "카페"
+  },
+  {
+    "french": "couteau",
+    "pronunciation": "쿠또",
+    "korean": "칼"
+  },
+  {
+    "french": "campus",
+    "pronunciation": "캉퓌스",
+    "korean": "캠퍼스"
+  },
+  {
+    "french": "ordinateur",
+    "pronunciation": "오르디나퇴르",
+    "korean": "컴퓨터"
+  },
+  {
+    "french": "nez",
+    "pronunciation": "네",
+    "korean": "코"
+  },
+  {
+    "french": "éléphant",
+    "pronunciation": "엘레펑",
+    "korean": "코끼리"
+  },
+  {
+    "french": "concert",
+    "pronunciation": "콩세르",
+    "korean": "콘서트"
+  },
+  {
+    "french": "haricot",
+    "pronunciation": "아리코",
+    "korean": "콩"
+  },
+  {
+    "french": "croissant",
+    "pronunciation": "크루아상",
+    "korean": "크루아상"
+  },
+  {
+    "french": "crème",
+    "pronunciation": "크렘",
+    "korean": "크림"
+  },
+  {
+    "french": "clavier",
+    "pronunciation": "클라비에",
+    "korean": "키보드"
+  },
+  {
+    "french": "baiser",
+    "pronunciation": "베제",
+    "korean": "키스"
+  },
+  {
+    "french": "colis",
+    "pronunciation": "콜리",
+    "korean": "택배"
+  },
+  {
+    "french": "taxi",
+    "pronunciation": "탁시",
+    "korean": "택시"
+  },
+  {
+    "french": "tennis",
+    "pronunciation": "테니스",
+    "korean": "테니스"
+  },
+  {
+    "french": "terrasse",
+    "pronunciation": "테라스",
+    "korean": "테라스"
+  },
+  {
+    "french": "thème",
+    "pronunciation": "템",
+    "korean": "테마"
+  },
+  {
+    "french": "télévision",
+    "pronunciation": "텔레비지옹",
+    "korean": "텔레비전"
+  },
+  {
+    "french": "lapin",
+    "pronunciation": "라팽",
+    "korean": "토끼"
+  },
+  {
+    "french": "tomate",
+    "pronunciation": "토마트",
+    "korean": "토마토"
+  },
+  {
+    "french": "sol",
+    "pronunciation": "솔",
+    "korean": "토양"
+  },
+  {
+    "french": "samedi",
+    "pronunciation": "삼디",
+    "korean": "토요일"
+  },
+  {
+    "french": "statistique",
+    "pronunciation": "스타티스티크",
+    "korean": "통계"
+  },
+  {
+    "french": "communication",
+    "pronunciation": "코뮈니카시옹",
+    "korean": "통신"
+  },
+  {
+    "french": "spécial",
+    "pronunciation": "스페시알",
+    "korean": "특별한"
+  },
+  {
+    "french": "caractéristique",
+    "pronunciation": "카락테리스티크",
+    "korean": "특징"
+  },
+  {
+    "french": "équipe",
+    "pronunciation": "에키프",
+    "korean": "팀"
+  },
+  {
+    "french": "vague",
+    "pronunciation": "바그",
+    "korean": "파도"
+  },
+  {
+    "french": "bleu",
+    "pronunciation": "블뢰",
+    "korean": "파란색"
+  },
+  {
+    "french": "bras",
+    "pronunciation": "브라",
+    "korean": "팔"
+  },
+  {
+    "french": "vendre",
+    "pronunciation": "벙드르",
+    "korean": "팔다"
+  },
+  {
+    "french": "bracelet",
+    "pronunciation": "브라슬레",
+    "korean": "팔찌"
+  },
+  {
+    "french": "pop-corn",
+    "pronunciation": "팝콘",
+    "korean": "팝콘"
+  },
+  {
+    "french": "lettre",
+    "pronunciation": "레트르",
+    "korean": "편지"
+  },
+  {
+    "french": "confortable",
+    "pronunciation": "콩포르타블",
+    "korean": "편한"
+  },
+  {
+    "french": "évaluation",
+    "pronunciation": "에발뤼아시옹",
+    "korean": "평가"
+  },
+  {
+    "french": "ordinaire",
+    "pronunciation": "오르디네르",
+    "korean": "평범한"
+  },
+  {
+    "french": "paix",
+    "pronunciation": "페",
+    "korean": "평화"
+  },
+  {
+    "french": "raisin",
+    "pronunciation": "레쟁",
+    "korean": "포도"
+  },
+  {
+    "french": "billet",
+    "pronunciation": "비예",
+    "korean": "표"
+  },
+  {
+    "french": "signe",
+    "pronunciation": "시뉴",
+    "korean": "표시"
+  },
+  {
+    "french": "expression",
+    "pronunciation": "엑스프레시옹",
+    "korean": "표현"
+  },
+  {
+    "french": "herbe",
+    "pronunciation": "에르브",
+    "korean": "풀"
+  },
+  {
+    "french": "piscine",
+    "pronunciation": "피신",
+    "korean": "풀장"
+  },
+  {
+    "french": "programme",
+    "pronunciation": "프로그람",
+    "korean": "프로그램"
+  },
+  {
+    "french": "imprimante",
+    "pronunciation": "엥프리멍트",
+    "korean": "프린터"
+  },
+  {
+    "french": "peau",
+    "pronunciation": "포",
+    "korean": "피부"
+  },
+  {
+    "french": "piano",
+    "pronunciation": "피아노",
+    "korean": "피아노"
+  },
+  {
+    "french": "pizza",
+    "pronunciation": "피자",
+    "korean": "피자"
+  },
+  {
+    "french": "stylo",
+    "pronunciation": "스틸로",
+    "korean": "필기구"
+  },
+  {
+    "french": "nécessaire",
+    "pronunciation": "네세세르",
+    "korean": "필요한"
+  },
+  {
+    "french": "blanc",
+    "pronunciation": "블렁",
+    "korean": "하얀색"
+  },
+  {
+    "french": "mais",
+    "pronunciation": "메",
+    "korean": "하지만"
+  },
+  {
+    "french": "école",
+    "pronunciation": "에꼴",
+    "korean": "학교"
+  },
+  {
+    "french": "semestre",
+    "pronunciation": "스메스트르",
+    "korean": "학기"
+  },
+  {
+    "french": "étudiant",
+    "pronunciation": "에튀디엉",
+    "korean": "학생"
+  },
+  {
+    "french": "grand-mère",
+    "pronunciation": "그랑메르",
+    "korean": "할머니"
+  },
+  {
+    "french": "réduction",
+    "pronunciation": "레뒥시옹",
+    "korean": "할인"
+  },
+  {
+    "french": "ensemble",
+    "pronunciation": "엉셩블",
+    "korean": "함께"
+  },
+  {
+    "french": "hamburger",
+    "pronunciation": "엉부르게르",
+    "korean": "햄버거"
+  },
+  {
+    "french": "soleil",
+    "pronunciation": "솔레이유",
+    "korean": "햇빛"
+  },
+  {
+    "french": "action",
+    "pronunciation": "악시옹",
+    "korean": "행동"
+  },
+  {
+    "french": "bonheur",
+    "pronunciation": "보뇌르",
+    "korean": "행복"
+  },
+  {
+    "french": "événement",
+    "pronunciation": "에브네멍",
+    "korean": "행사"
+  },
+  {
+    "french": "parfum",
+    "pronunciation": "파르팽",
+    "korean": "향기"
+  },
+  {
+    "french": "vers",
+    "pronunciation": "베르",
+    "korean": "향해"
+  },
+  {
+    "french": "permission",
+    "pronunciation": "페르미시옹",
+    "korean": "허락"
+  },
+  {
+    "french": "taille",
+    "pronunciation": "타이유",
+    "korean": "허리"
+  },
+  {
+    "french": "ceinture",
+    "pronunciation": "셍튀르",
+    "korean": "허리띠"
+  },
+  {
+    "french": "langue",
+    "pronunciation": "렁그",
+    "korean": "혀"
+  },
+  {
+    "french": "espèces",
+    "pronunciation": "에스페스",
+    "korean": "현금"
+  },
+  {
+    "french": "sage",
+    "pronunciation": "사주",
+    "korean": "현명한"
+  },
+  {
+    "french": "réalité",
+    "pronunciation": "레알리테",
+    "korean": "현실"
+  },
+  {
+    "french": "présent",
+    "pronunciation": "프레정",
+    "korean": "현재"
+  },
+  {
+    "french": "coopération",
+    "pronunciation": "코오페라시옹",
+    "korean": "협력"
+  },
+  {
+    "french": "frère",
+    "pronunciation": "프레르",
+    "korean": "형제"
+  },
+  {
+    "french": "curiosité",
+    "pronunciation": "퀴리오지테",
+    "korean": "호기심"
+  },
+  {
+    "french": "noix",
+    "pronunciation": "누아",
+    "korean": "호두"
+  },
+  {
+    "french": "tigre",
+    "pronunciation": "티그르",
+    "korean": "호랑이"
+  },
+  {
+    "french": "citrouille",
+    "pronunciation": "시트루이유",
+    "korean": "호박"
+  },
+  {
+    "french": "lac",
+    "pronunciation": "락",
+    "korean": "호수"
+  },
+  {
+    "french": "hôtel",
+    "pronunciation": "오텔",
+    "korean": "호텔"
+  },
+  {
+    "french": "thé",
+    "pronunciation": "테",
+    "korean": "홍차"
+  },
+  {
+    "french": "mardi",
+    "pronunciation": "마르디",
+    "korean": "화요일"
+  },
+  {
+    "french": "certain",
+    "pronunciation": "세르탱",
+    "korean": "확실한"
+  },
+  {
+    "french": "confirmation",
+    "pronunciation": "콩피르마시옹",
+    "korean": "확인"
+  },
+  {
+    "french": "environnement",
+    "pronunciation": "엉비로느멍",
+    "korean": "환경"
+  },
+  {
+    "french": "bienvenue",
+    "pronunciation": "비엥브뉘",
+    "korean": "환영"
+  },
+  {
+    "french": "patient",
+    "pronunciation": "파시엉",
+    "korean": "환자"
+  },
+  {
+    "french": "activité",
+    "pronunciation": "악티비테",
+    "korean": "활동"
+  },
+  {
+    "french": "actif",
+    "pronunciation": "악티프",
+    "korean": "활발한"
+  },
+  {
+    "french": "entreprise",
+    "pronunciation": "엉트르프리즈",
+    "korean": "회사"
+  },
+  {
+    "french": "gris",
+    "pronunciation": "그리",
+    "korean": "회색"
+  }
+]

@@ -1,0 +1,5002 @@
+[
+  {
+    "chinese": "店",
+    "pinyin": "diàn",
+    "korean": "가게"
+  },
+  {
+    "chinese": "价格",
+    "pinyin": "jiàgé",
+    "korean": "가격"
+  },
+  {
+    "chinese": "家具",
+    "pinyin": "jiājù",
+    "korean": "가구"
+  },
+  {
+    "chinese": "近",
+    "pinyin": "jìn",
+    "korean": "가까운"
+  },
+  {
+    "chinese": "可能",
+    "pinyin": "kěnéng",
+    "korean": "가능한"
+  },
+  {
+    "chinese": "教",
+    "pinyin": "jiāo",
+    "korean": "가르치다"
+  },
+  {
+    "chinese": "指",
+    "pinyin": "zhǐ",
+    "korean": "가리키다"
+  },
+  {
+    "chinese": "包",
+    "pinyin": "bāo",
+    "korean": "가방"
+  },
+  {
+    "chinese": "轻",
+    "pinyin": "qīng",
+    "korean": "가벼운"
+  },
+  {
+    "chinese": "歌手",
+    "pinyin": "gēshǒu",
+    "korean": "가수"
+  },
+  {
+    "chinese": "胸",
+    "pinyin": "xiōng",
+    "korean": "가슴"
+  },
+  {
+    "chinese": "中间",
+    "pinyin": "zhōngjiān",
+    "korean": "가운데"
+  },
+  {
+    "chinese": "剪刀",
+    "pinyin": "jiǎndāo",
+    "korean": "가위"
+  },
+  {
+    "chinese": "秋天",
+    "pinyin": "qiūtiān",
+    "korean": "가을"
+  },
+  {
+    "chinese": "最",
+    "pinyin": "zuì",
+    "korean": "가장"
+  },
+  {
+    "chinese": "家庭",
+    "pinyin": "jiātíng",
+    "korean": "가정"
+  },
+  {
+    "chinese": "带",
+    "pinyin": "dài",
+    "korean": "가져가다"
+  },
+  {
+    "chinese": "种",
+    "pinyin": "zhǒng",
+    "korean": "가지"
+  },
+  {
+    "chinese": "感觉",
+    "pinyin": "gǎnjué",
+    "korean": "감각"
+  },
+  {
+    "chinese": "橘子",
+    "pinyin": "júzi",
+    "korean": "감귤"
+  },
+  {
+    "chinese": "感冒",
+    "pinyin": "gǎnmào",
+    "korean": "감기"
+  },
+  {
+    "chinese": "感动",
+    "pinyin": "gǎndòng",
+    "korean": "감동"
+  },
+  {
+    "chinese": "感谢",
+    "pinyin": "gǎnxiè",
+    "korean": "감사"
+  },
+  {
+    "chinese": "减少",
+    "pinyin": "jiǎnshǎo",
+    "korean": "감소"
+  },
+  {
+    "chinese": "土豆",
+    "pinyin": "tǔdòu",
+    "korean": "감자"
+  },
+  {
+    "chinese": "感情",
+    "pinyin": "gǎnqíng",
+    "korean": "감정"
+  },
+  {
+    "chinese": "河",
+    "pinyin": "hé",
+    "korean": "강"
+  },
+  {
+    "chinese": "小狗",
+    "pinyin": "xiǎogǒu",
+    "korean": "강아지"
+  },
+  {
+    "chinese": "讲义",
+    "pinyin": "jiǎngyì",
+    "korean": "강의"
+  },
+  {
+    "chinese": "强",
+    "pinyin": "qiáng",
+    "korean": "강한"
+  },
+  {
+    "chinese": "一样",
+    "pinyin": "yíyàng",
+    "korean": "같은"
+  },
+  {
+    "chinese": "一起",
+    "pinyin": "yìqǐ",
+    "korean": "같이"
+  },
+  {
+    "chinese": "开发",
+    "pinyin": "kāifā",
+    "korean": "개발"
+  },
+  {
+    "chinese": "改善",
+    "pinyin": "gǎishàn",
+    "korean": "개선"
+  },
+  {
+    "chinese": "个人",
+    "pinyin": "gèrén",
+    "korean": "개인"
+  },
+  {
+    "chinese": "街",
+    "pinyin": "jiē",
+    "korean": "거리"
+  },
+  {
+    "chinese": "客厅",
+    "pinyin": "kètīng",
+    "korean": "거실"
+  },
+  {
+    "chinese": "镜子",
+    "pinyin": "jìngzi",
+    "korean": "거울"
+  },
+  {
+    "chinese": "几乎",
+    "pinyin": "jīhū",
+    "korean": "거의"
+  },
+  {
+    "chinese": "拒绝",
+    "pinyin": "jùjué",
+    "korean": "거절"
+  },
+  {
+    "chinese": "健康",
+    "pinyin": "jiànkāng",
+    "korean": "건강"
+  },
+  {
+    "chinese": "建筑物",
+    "pinyin": "jiànzhùwù",
+    "korean": "건물"
+  },
+  {
+    "chinese": "建设",
+    "pinyin": "jiànshè",
+    "korean": "건설"
+  },
+  {
+    "chinese": "干燥",
+    "pinyin": "gānzào",
+    "korean": "건조한"
+  },
+  {
+    "chinese": "建筑",
+    "pinyin": "jiànzhù",
+    "korean": "건축"
+  },
+  {
+    "chinese": "走",
+    "pinyin": "zǒu",
+    "korean": "걷다"
+  },
+  {
+    "chinese": "东西",
+    "pinyin": "dōngxi",
+    "korean": "것"
+  },
+  {
+    "chinese": "螃蟹",
+    "pinyin": "pángxiè",
+    "korean": "게"
+  },
+  {
+    "chinese": "懒",
+    "pinyin": "lǎn",
+    "korean": "게으른"
+  },
+  {
+    "chinese": "游戏",
+    "pinyin": "yóuxì",
+    "korean": "게임"
+  },
+  {
+    "chinese": "冬天",
+    "pinyin": "dōngtiān",
+    "korean": "겨울"
+  },
+  {
+    "chinese": "结果",
+    "pinyin": "jiéguǒ",
+    "korean": "결과"
+  },
+  {
+    "chinese": "缺席",
+    "pinyin": "quēxí",
+    "korean": "결석"
+  },
+  {
+    "chinese": "决定",
+    "pinyin": "juédìng",
+    "korean": "결정"
+  },
+  {
+    "chinese": "结婚",
+    "pinyin": "jiéhūn",
+    "korean": "결혼"
+  },
+  {
+    "chinese": "谦虚",
+    "pinyin": "qiānxū",
+    "korean": "겸손한"
+  },
+  {
+    "chinese": "界",
+    "pinyin": "jiè",
+    "korean": "경계"
+  },
+  {
+    "chinese": "比赛",
+    "pinyin": "bǐsài",
+    "korean": "경기"
+  },
+  {
+    "chinese": "竞争",
+    "pinyin": "jìngzhēng",
+    "korean": "경쟁"
+  },
+  {
+    "chinese": "经济",
+    "pinyin": "jīngjì",
+    "korean": "경제"
+  },
+  {
+    "chinese": "警察",
+    "pinyin": "jǐngchá",
+    "korean": "경찰"
+  },
+  {
+    "chinese": "景色",
+    "pinyin": "jǐngsè",
+    "korean": "경치"
+  },
+  {
+    "chinese": "经验",
+    "pinyin": "jīngyàn",
+    "korean": "경험"
+  },
+  {
+    "chinese": "楼梯",
+    "pinyin": "lóutī",
+    "korean": "계단"
+  },
+  {
+    "chinese": "鸡蛋",
+    "pinyin": "jīdàn",
+    "korean": "계란"
+  },
+  {
+    "chinese": "计算",
+    "pinyin": "jìsuàn",
+    "korean": "계산"
+  },
+  {
+    "chinese": "继续",
+    "pinyin": "jìxù",
+    "korean": "계속"
+  },
+  {
+    "chinese": "季节",
+    "pinyin": "jìjié",
+    "korean": "계절"
+  },
+  {
+    "chinese": "账户",
+    "pinyin": "zhànghù",
+    "korean": "계좌"
+  },
+  {
+    "chinese": "计划",
+    "pinyin": "jìhuà",
+    "korean": "계획"
+  },
+  {
+    "chinese": "客户",
+    "pinyin": "kèhù",
+    "korean": "고객"
+  },
+  {
+    "chinese": "肉",
+    "pinyin": "ròu",
+    "korean": "고기"
+  },
+  {
+    "chinese": "古代",
+    "pinyin": "gǔdài",
+    "korean": "고대"
+  },
+  {
+    "chinese": "考虑",
+    "pinyin": "kǎolǜ",
+    "korean": "고려"
+  },
+  {
+    "chinese": "感谢",
+    "pinyin": "gǎnxiè",
+    "korean": "고마운"
+  },
+  {
+    "chinese": "高速公路",
+    "pinyin": "gāosùgōnglù",
+    "korean": "고속도로"
+  },
+  {
+    "chinese": "猫",
+    "pinyin": "māo",
+    "korean": "고양이"
+  },
+  {
+    "chinese": "辣椒",
+    "pinyin": "làjiāo",
+    "korean": "고추"
+  },
+  {
+    "chinese": "修理",
+    "pinyin": "xiūlǐ",
+    "korean": "고치다"
+  },
+  {
+    "chinese": "痛苦",
+    "pinyin": "tòngkǔ",
+    "korean": "고통"
+  },
+  {
+    "chinese": "故乡",
+    "pinyin": "gùxiāng",
+    "korean": "고향"
+  },
+  {
+    "chinese": "昆虫",
+    "pinyin": "kūnchóng",
+    "korean": "곤충"
+  },
+  {
+    "chinese": "马上",
+    "pinyin": "mǎshàng",
+    "korean": "곧"
+  },
+  {
+    "chinese": "地方",
+    "pinyin": "dìfang",
+    "korean": "곳"
+  },
+  {
+    "chinese": "球",
+    "pinyin": "qiú",
+    "korean": "공"
+  },
+  {
+    "chinese": "空间",
+    "pinyin": "kōngjiān",
+    "korean": "공간"
+  },
+  {
+    "chinese": "空气",
+    "pinyin": "kōngqì",
+    "korean": "공기"
+  },
+  {
+    "chinese": "共同",
+    "pinyin": "gòngtóng",
+    "korean": "공동"
+  },
+  {
+    "chinese": "学习",
+    "pinyin": "xuéxí",
+    "korean": "공부"
+  },
+  {
+    "chinese": "表演",
+    "pinyin": "biǎoyǎn",
+    "korean": "공연"
+  },
+  {
+    "chinese": "公园",
+    "pinyin": "gōngyuán",
+    "korean": "공원"
+  },
+  {
+    "chinese": "工厂",
+    "pinyin": "gōngchǎng",
+    "korean": "공장"
+  },
+  {
+    "chinese": "恐怖",
+    "pinyin": "kǒngbù",
+    "korean": "공포"
+  },
+  {
+    "chinese": "工程师",
+    "pinyin": "gōngchéngshī",
+    "korean": "공학자"
+  },
+  {
+    "chinese": "机场",
+    "pinyin": "jīchǎng",
+    "korean": "공항"
+  },
+  {
+    "chinese": "过去",
+    "pinyin": "guòqù",
+    "korean": "과거"
+  },
+  {
+    "chinese": "科目",
+    "pinyin": "kēmù",
+    "korean": "과목"
+  },
+  {
+    "chinese": "水果",
+    "pinyin": "shuǐguǒ",
+    "korean": "과일"
+  },
+  {
+    "chinese": "科学",
+    "pinyin": "kēxué",
+    "korean": "과학"
+  },
+  {
+    "chinese": "关系",
+    "pinyin": "guānxì",
+    "korean": "관계"
+  },
+  {
+    "chinese": "观光",
+    "pinyin": "guānguāng",
+    "korean": "관광"
+  },
+  {
+    "chinese": "管理",
+    "pinyin": "guǎnlǐ",
+    "korean": "관리"
+  },
+  {
+    "chinese": "关心",
+    "pinyin": "guānxīn",
+    "korean": "관심"
+  },
+  {
+    "chinese": "没关系",
+    "pinyin": "méiguānxi",
+    "korean": "괜찮다"
+  },
+  {
+    "chinese": "桥",
+    "pinyin": "qiáo",
+    "korean": "교량"
+  },
+  {
+    "chinese": "教师",
+    "pinyin": "jiàoshī",
+    "korean": "교사"
+  },
+  {
+    "chinese": "教授",
+    "pinyin": "jiàoshòu",
+    "korean": "교수"
+  },
+  {
+    "chinese": "教室",
+    "pinyin": "jiàoshì",
+    "korean": "교실"
+  },
+  {
+    "chinese": "教育",
+    "pinyin": "jiàoyù",
+    "korean": "교육"
+  },
+  {
+    "chinese": "交通",
+    "pinyin": "jiāotōng",
+    "korean": "교통"
+  },
+  {
+    "chinese": "教会",
+    "pinyin": "jiàohuì",
+    "korean": "교회"
+  },
+  {
+    "chinese": "鞋",
+    "pinyin": "xié",
+    "korean": "구두"
+  },
+  {
+    "chinese": "云",
+    "pinyin": "yún",
+    "korean": "구름"
+  },
+  {
+    "chinese": "区别",
+    "pinyin": "qūbié",
+    "korean": "구별"
+  },
+  {
+    "chinese": "具体",
+    "pinyin": "jùtǐ",
+    "korean": "구체적"
+  },
+  {
+    "chinese": "救",
+    "pinyin": "jiù",
+    "korean": "구하다"
+  },
+  {
+    "chinese": "国家",
+    "pinyin": "guójiā",
+    "korean": "국가"
+  },
+  {
+    "chinese": "面条",
+    "pinyin": "miàntiáo",
+    "korean": "국수"
+  },
+  {
+    "chinese": "国际",
+    "pinyin": "guójì",
+    "korean": "국제"
+  },
+  {
+    "chinese": "军人",
+    "pinyin": "jūnrén",
+    "korean": "군인"
+  },
+  {
+    "chinese": "粗",
+    "pinyin": "cū",
+    "korean": "굵은"
+  },
+  {
+    "chinese": "饿",
+    "pinyin": "è",
+    "korean": "굶주린"
+  },
+  {
+    "chinese": "权利",
+    "pinyin": "quánlì",
+    "korean": "권리"
+  },
+  {
+    "chinese": "耳朵",
+    "pinyin": "ěrduo",
+    "korean": "귀"
+  },
+  {
+    "chinese": "可爱",
+    "pinyin": "kě'ài",
+    "korean": "귀여운"
+  },
+  {
+    "chinese": "贵重",
+    "pinyin": "guìzhòng",
+    "korean": "귀중한"
+  },
+  {
+    "chinese": "规则",
+    "pinyin": "guīzé",
+    "korean": "규칙"
+  },
+  {
+    "chinese": "他",
+    "pinyin": "tā",
+    "korean": "그(남자)"
+  },
+  {
+    "chinese": "那个",
+    "pinyin": "nàge",
+    "korean": "그것"
+  },
+  {
+    "chinese": "那里",
+    "pinyin": "nàlǐ",
+    "korean": "그곳"
+  },
+  {
+    "chinese": "她",
+    "pinyin": "tā",
+    "korean": "그녀"
+  },
+  {
+    "chinese": "那时",
+    "pinyin": "nàshí",
+    "korean": "그때"
+  },
+  {
+    "chinese": "所以",
+    "pinyin": "suǒyǐ",
+    "korean": "그래서"
+  },
+  {
+    "chinese": "但是",
+    "pinyin": "dànshì",
+    "korean": "그러나"
+  },
+  {
+    "chinese": "是",
+    "pinyin": "shì",
+    "korean": "그렇다"
+  },
+  {
+    "chinese": "碗",
+    "pinyin": "wǎn",
+    "korean": "그릇"
+  },
+  {
+    "chinese": "而且",
+    "pinyin": "érqiě",
+    "korean": "그리고"
+  },
+  {
+    "chinese": "想念",
+    "pinyin": "xiǎngniàn",
+    "korean": "그리워하다"
+  },
+  {
+    "chinese": "画",
+    "pinyin": "huà",
+    "korean": "그림"
+  },
+  {
+    "chinese": "影子",
+    "pinyin": "yǐngzi",
+    "korean": "그림자"
+  },
+  {
+    "chinese": "停止",
+    "pinyin": "tíngzhǐ",
+    "korean": "그만두다"
+  },
+  {
+    "chinese": "极",
+    "pinyin": "jí",
+    "korean": "극"
+  },
+  {
+    "chinese": "根据",
+    "pinyin": "gēnjù",
+    "korean": "근거"
+  },
+  {
+    "chinese": "肌肉",
+    "pinyin": "jīròu",
+    "korean": "근육"
+  },
+  {
+    "chinese": "附近",
+    "pinyin": "fùjìn",
+    "korean": "근처"
+  },
+  {
+    "chinese": "文章",
+    "pinyin": "wénzhāng",
+    "korean": "글"
+  },
+  {
+    "chinese": "文字",
+    "pinyin": "wénzì",
+    "korean": "글자"
+  },
+  {
+    "chinese": "金",
+    "pinyin": "jīn",
+    "korean": "금"
+  },
+  {
+    "chinese": "金额",
+    "pinyin": "jīn'é",
+    "korean": "금액"
+  },
+  {
+    "chinese": "星期五",
+    "pinyin": "xīngqīwǔ",
+    "korean": "금요일"
+  },
+  {
+    "chinese": "禁止",
+    "pinyin": "jìnzhǐ",
+    "korean": "금지"
+  },
+  {
+    "chinese": "长",
+    "pinyin": "cháng",
+    "korean": "긴"
+  },
+  {
+    "chinese": "紧急",
+    "pinyin": "jǐnjí",
+    "korean": "긴급한"
+  },
+  {
+    "chinese": "路",
+    "pinyin": "lù",
+    "korean": "길"
+  },
+  {
+    "chinese": "深",
+    "pinyin": "shēn",
+    "korean": "깊은"
+  },
+  {
+    "chinese": "干净",
+    "pinyin": "gānjìng",
+    "korean": "깨끗한"
+  },
+  {
+    "chinese": "醒",
+    "pinyin": "xǐng",
+    "korean": "깨다"
+  },
+  {
+    "chinese": "尾巴",
+    "pinyin": "wěiba",
+    "korean": "꼬리"
+  },
+  {
+    "chinese": "必须",
+    "pinyin": "bìxū",
+    "korean": "꼭"
+  },
+  {
+    "chinese": "花",
+    "pinyin": "huā",
+    "korean": "꽃"
+  },
+  {
+    "chinese": "蜂蜜",
+    "pinyin": "fēngmì",
+    "korean": "꿀"
+  },
+  {
+    "chinese": "梦",
+    "pinyin": "mèng",
+    "korean": "꿈"
+  },
+  {
+    "chinese": "我",
+    "pinyin": "wǒ",
+    "korean": "나"
+  },
+  {
+    "chinese": "出去",
+    "pinyin": "chūqù",
+    "korean": "나가다"
+  },
+  {
+    "chinese": "国家",
+    "pinyin": "guójiā",
+    "korean": "나라"
+  },
+  {
+    "chinese": "拿",
+    "pinyin": "ná",
+    "korean": "나르다"
+  },
+  {
+    "chinese": "树",
+    "pinyin": "shù",
+    "korean": "나무"
+  },
+  {
+    "chinese": "蝴蝶",
+    "pinyin": "húdié",
+    "korean": "나비"
+  },
+  {
+    "chinese": "坏",
+    "pinyin": "huài",
+    "korean": "나쁜"
+  },
+  {
+    "chinese": "年龄",
+    "pinyin": "niánlíng",
+    "korean": "나이"
+  },
+  {
+    "chinese": "后来",
+    "pinyin": "hòulái",
+    "korean": "나중에"
+  },
+  {
+    "chinese": "出现",
+    "pinyin": "chūxiàn",
+    "korean": "나타나다"
+  },
+  {
+    "chinese": "天",
+    "pinyin": "tiān",
+    "korean": "날"
+  },
+  {
+    "chinese": "飞",
+    "pinyin": "fēi",
+    "korean": "날다"
+  },
+  {
+    "chinese": "天气",
+    "pinyin": "tiānqì",
+    "korean": "날씨"
+  },
+  {
+    "chinese": "日期",
+    "pinyin": "rìqī",
+    "korean": "날짜"
+  },
+  {
+    "chinese": "南",
+    "pinyin": "nán",
+    "korean": "남"
+  },
+  {
+    "chinese": "剩下",
+    "pinyin": "shèngxià",
+    "korean": "남다"
+  },
+  {
+    "chinese": "男人",
+    "pinyin": "nánrén",
+    "korean": "남자"
+  },
+  {
+    "chinese": "南方",
+    "pinyin": "nánfāng",
+    "korean": "남쪽"
+  },
+  {
+    "chinese": "丈夫",
+    "pinyin": "zhàngfu",
+    "korean": "남편"
+  },
+  {
+    "chinese": "白天",
+    "pinyin": "báitiān",
+    "korean": "낮"
+  },
+  {
+    "chinese": "低",
+    "pinyin": "dī",
+    "korean": "낮은"
+  },
+  {
+    "chinese": "下",
+    "pinyin": "xià",
+    "korean": "내리다"
+  },
+  {
+    "chinese": "内容",
+    "pinyin": "nèiróng",
+    "korean": "내용"
+  },
+  {
+    "chinese": "明天",
+    "pinyin": "míngtiān",
+    "korean": "내일"
+  },
+  {
+    "chinese": "味道",
+    "pinyin": "wèidào",
+    "korean": "냄새"
+  },
+  {
+    "chinese": "冰箱",
+    "pinyin": "bīngxiāng",
+    "korean": "냉장고"
+  },
+  {
+    "chinese": "你",
+    "pinyin": "nǐ",
+    "korean": "너"
+  },
+  {
+    "chinese": "太",
+    "pinyin": "tài",
+    "korean": "너무"
+  },
+  {
+    "chinese": "宽",
+    "pinyin": "kuān",
+    "korean": "넓은"
+  },
+  {
+    "chinese": "是",
+    "pinyin": "shì",
+    "korean": "네"
+  },
+  {
+    "chinese": "领带",
+    "pinyin": "lǐngdài",
+    "korean": "넥타이"
+  },
+  {
+    "chinese": "四",
+    "pinyin": "sì",
+    "korean": "넷"
+  },
+  {
+    "chinese": "年",
+    "pinyin": "nián",
+    "korean": "년"
+  },
+  {
+    "chinese": "黄色",
+    "pinyin": "huángsè",
+    "korean": "노란색"
+  },
+  {
+    "chinese": "歌",
+    "pinyin": "gē",
+    "korean": "노래"
+  },
+  {
+    "chinese": "努力",
+    "pinyin": "nǔlì",
+    "korean": "노력"
+  },
+  {
+    "chinese": "老人",
+    "pinyin": "lǎorén",
+    "korean": "노인"
+  },
+  {
+    "chinese": "笔记本",
+    "pinyin": "bǐjìběn",
+    "korean": "노트"
+  },
+  {
+    "chinese": "高",
+    "pinyin": "gāo",
+    "korean": "높은"
+  },
+  {
+    "chinese": "放",
+    "pinyin": "fàng",
+    "korean": "놓다"
+  },
+  {
+    "chinese": "谁",
+    "pinyin": "shéi",
+    "korean": "누구"
+  },
+  {
+    "chinese": "姐姐",
+    "pinyin": "jiějie",
+    "korean": "누나/언니"
+  },
+  {
+    "chinese": "眼睛",
+    "pinyin": "yǎnjing",
+    "korean": "눈"
+  },
+  {
+    "chinese": "雪",
+    "pinyin": "xuě",
+    "korean": "눈(雪)"
+  },
+  {
+    "chinese": "眼泪",
+    "pinyin": "yǎnlèi",
+    "korean": "눈물"
+  },
+  {
+    "chinese": "新闻",
+    "pinyin": "xīnwén",
+    "korean": "뉴스"
+  },
+  {
+    "chinese": "感觉",
+    "pinyin": "gǎnjué",
+    "korean": "느끼다"
+  },
+  {
+    "chinese": "慢",
+    "pinyin": "màn",
+    "korean": "느린"
+  },
+  {
+    "chinese": "能力",
+    "pinyin": "nénglì",
+    "korean": "능력"
+  },
+  {
+    "chinese": "全部",
+    "pinyin": "quánbù",
+    "korean": "다"
+  },
+  {
+    "chinese": "不同",
+    "pinyin": "bùtóng",
+    "korean": "다른"
+  },
+  {
+    "chinese": "腿",
+    "pinyin": "tuǐ",
+    "korean": "다리"
+  },
+  {
+    "chinese": "五",
+    "pinyin": "wǔ",
+    "korean": "다섯"
+  },
+  {
+    "chinese": "多样",
+    "pinyin": "duōyàng",
+    "korean": "다양한"
+  },
+  {
+    "chinese": "下次",
+    "pinyin": "xiàcì",
+    "korean": "다음"
+  },
+  {
+    "chinese": "受伤",
+    "pinyin": "shòushāng",
+    "korean": "다치다"
+  },
+  {
+    "chinese": "多幸",
+    "pinyin": "duōxìng",
+    "korean": "다행히"
+  },
+  {
+    "chinese": "甜",
+    "pinyin": "tián",
+    "korean": "단"
+  },
+  {
+    "chinese": "词",
+    "pinyin": "cí",
+    "korean": "단어"
+  },
+  {
+    "chinese": "只是",
+    "pinyin": "zhǐshì",
+    "korean": "단지"
+  },
+  {
+    "chinese": "枫叶",
+    "pinyin": "fēngyè",
+    "korean": "단풍"
+  },
+  {
+    "chinese": "月",
+    "pinyin": "yuè",
+    "korean": "달"
+  },
+  {
+    "chinese": "跑",
+    "pinyin": "pǎo",
+    "korean": "달리다"
+  },
+  {
+    "chinese": "鸡",
+    "pinyin": "jī",
+    "korean": "닭"
+  },
+  {
+    "chinese": "回答",
+    "pinyin": "huídá",
+    "korean": "답"
+  },
+  {
+    "chinese": "糖",
+    "pinyin": "táng",
+    "korean": "당"
+  },
+  {
+    "chinese": "胡萝卜",
+    "pinyin": "húluóbo",
+    "korean": "당근"
+  },
+  {
+    "chinese": "当然",
+    "pinyin": "dāngrán",
+    "korean": "당연히"
+  },
+  {
+    "chinese": "大",
+    "pinyin": "dà",
+    "korean": "대"
+  },
+  {
+    "chinese": "大约",
+    "pinyin": "dàyuē",
+    "korean": "대략"
+  },
+  {
+    "chinese": "大部分",
+    "pinyin": "dàbùfen",
+    "korean": "대부분"
+  },
+  {
+    "chinese": "代替",
+    "pinyin": "dàitì",
+    "korean": "대신"
+  },
+  {
+    "chinese": "代表",
+    "pinyin": "dàibiǎo",
+    "korean": "대표"
+  },
+  {
+    "chinese": "大学",
+    "pinyin": "dàxué",
+    "korean": "대학"
+  },
+  {
+    "chinese": "对话",
+    "pinyin": "duìhuà",
+    "korean": "대화"
+  },
+  {
+    "chinese": "更",
+    "pinyin": "gèng",
+    "korean": "더"
+  },
+  {
+    "chinese": "脏",
+    "pinyin": "zāng",
+    "korean": "더러운"
+  },
+  {
+    "chinese": "热",
+    "pinyin": "rè",
+    "korean": "더운"
+  },
+  {
+    "chinese": "扔",
+    "pinyin": "rēng",
+    "korean": "던지다"
+  },
+  {
+    "chinese": "少",
+    "pinyin": "shǎo",
+    "korean": "덜"
+  },
+  {
+    "chinese": "工具",
+    "pinyin": "gōngjù",
+    "korean": "도구"
+  },
+  {
+    "chinese": "道德",
+    "pinyin": "dàodé",
+    "korean": "도덕"
+  },
+  {
+    "chinese": "小偷",
+    "pinyin": "xiǎotōu",
+    "korean": "도둑"
+  },
+  {
+    "chinese": "道路",
+    "pinyin": "dàolù",
+    "korean": "도로"
+  },
+  {
+    "chinese": "图书馆",
+    "pinyin": "túshūguǎn",
+    "korean": "도서관"
+  },
+  {
+    "chinese": "城市",
+    "pinyin": "chéngshì",
+    "korean": "도시"
+  },
+  {
+    "chinese": "帮助",
+    "pinyin": "bāngzhù",
+    "korean": "도움"
+  },
+  {
+    "chinese": "挑战",
+    "pinyin": "tiǎozhàn",
+    "korean": "도전"
+  },
+  {
+    "chinese": "到达",
+    "pinyin": "dàodá",
+    "korean": "도착"
+  },
+  {
+    "chinese": "钱",
+    "pinyin": "qián",
+    "korean": "돈"
+  },
+  {
+    "chinese": "石头",
+    "pinyin": "shítou",
+    "korean": "돌"
+  },
+  {
+    "chinese": "照顾",
+    "pinyin": "zhàogù",
+    "korean": "돌보다"
+  },
+  {
+    "chinese": "回来",
+    "pinyin": "huílái",
+    "korean": "돌아오다"
+  },
+  {
+    "chinese": "猪",
+    "pinyin": "zhū",
+    "korean": "돼지"
+  },
+  {
+    "chinese": "厚",
+    "pinyin": "hòu",
+    "korean": "두꺼운"
+  },
+  {
+    "chinese": "害怕",
+    "pinyin": "hàipà",
+    "korean": "두려운"
+  },
+  {
+    "chinese": "豆腐",
+    "pinyin": "dòufu",
+    "korean": "두부"
+  },
+  {
+    "chinese": "两",
+    "pinyin": "liǎng",
+    "korean": "둘"
+  },
+  {
+    "chinese": "后面",
+    "pinyin": "hòumiàn",
+    "korean": "뒤"
+  },
+  {
+    "chinese": "听",
+    "pinyin": "tīng",
+    "korean": "듣다"
+  },
+  {
+    "chinese": "进来",
+    "pinyin": "jìnlái",
+    "korean": "들어오다"
+  },
+  {
+    "chinese": "田",
+    "pinyin": "tián",
+    "korean": "들판"
+  },
+  {
+    "chinese": "灯",
+    "pinyin": "dēng",
+    "korean": "등"
+  },
+  {
+    "chinese": "登山",
+    "pinyin": "dēngshān",
+    "korean": "등산"
+  },
+  {
+    "chinese": "温暖",
+    "pinyin": "wēnnuǎn",
+    "korean": "따뜻한"
+  },
+  {
+    "chinese": "热水",
+    "pinyin": "rèshuǐ",
+    "korean": "따뜻한 물"
+  },
+  {
+    "chinese": "女儿",
+    "pinyin": "nǚ'ér",
+    "korean": "딸"
+  },
+  {
+    "chinese": "草莓",
+    "pinyin": "cǎoméi",
+    "korean": "딸기"
+  },
+  {
+    "chinese": "汗",
+    "pinyin": "hàn",
+    "korean": "땀"
+  },
+  {
+    "chinese": "地",
+    "pinyin": "dì",
+    "korean": "땅"
+  },
+  {
+    "chinese": "时候",
+    "pinyin": "shíhou",
+    "korean": "때"
+  },
+  {
+    "chinese": "因为",
+    "pinyin": "yīnwèi",
+    "korean": "때문에"
+  },
+  {
+    "chinese": "又",
+    "pinyin": "yòu",
+    "korean": "또"
+  },
+  {
+    "chinese": "同样",
+    "pinyin": "tóngyàng",
+    "korean": "똑같은"
+  },
+  {
+    "chinese": "聪明",
+    "pinyin": "cōngming",
+    "korean": "똑똑한"
+  },
+  {
+    "chinese": "胖",
+    "pinyin": "pàng",
+    "korean": "뚱뚱한"
+  },
+  {
+    "chinese": "跑步",
+    "pinyin": "pǎobù",
+    "korean": "뛰다"
+  },
+  {
+    "chinese": "热",
+    "pinyin": "rè",
+    "korean": "뜨거운"
+  },
+  {
+    "chinese": "意思",
+    "pinyin": "yìsi",
+    "korean": "뜻"
+  },
+  {
+    "chinese": "收音机",
+    "pinyin": "shōuyīnjī",
+    "korean": "라디오"
+  },
+  {
+    "chinese": "拉面",
+    "pinyin": "lāmiàn",
+    "korean": "라면"
+  },
+  {
+    "chinese": "俄语",
+    "pinyin": "éyǔ",
+    "korean": "러시아어"
+  },
+  {
+    "chinese": "柠檬",
+    "pinyin": "níngméng",
+    "korean": "레몬"
+  },
+  {
+    "chinese": "餐厅",
+    "pinyin": "cāntīng",
+    "korean": "레스토랑"
+  },
+  {
+    "chinese": "机器人",
+    "pinyin": "jīqìrén",
+    "korean": "로봇"
+  },
+  {
+    "chinese": "六",
+    "pinyin": "liù",
+    "korean": "륙(여섯)"
+  },
+  {
+    "chinese": "院子",
+    "pinyin": "yuànzi",
+    "korean": "마당"
+  },
+  {
+    "chinese": "干",
+    "pinyin": "gān",
+    "korean": "마른"
+  },
+  {
+    "chinese": "喝",
+    "pinyin": "hē",
+    "korean": "마시다"
+  },
+  {
+    "chinese": "村庄",
+    "pinyin": "cūnzhuāng",
+    "korean": "마을"
+  },
+  {
+    "chinese": "心",
+    "pinyin": "xīn",
+    "korean": "마음"
+  },
+  {
+    "chinese": "最后",
+    "pinyin": "zuìhòu",
+    "korean": "마지막"
+  },
+  {
+    "chinese": "正好",
+    "pinyin": "zhènghǎo",
+    "korean": "마침"
+  },
+  {
+    "chinese": "超市",
+    "pinyin": "chāoshì",
+    "korean": "마트"
+  },
+  {
+    "chinese": "万",
+    "pinyin": "wàn",
+    "korean": "만"
+  },
+  {
+    "chinese": "见面",
+    "pinyin": "jiànmiàn",
+    "korean": "만나다"
+  },
+  {
+    "chinese": "做",
+    "pinyin": "zuò",
+    "korean": "만들다"
+  },
+  {
+    "chinese": "如果",
+    "pinyin": "rúguǒ",
+    "korean": "만약"
+  },
+  {
+    "chinese": "满足",
+    "pinyin": "mǎnzú",
+    "korean": "만족"
+  },
+  {
+    "chinese": "很多",
+    "pinyin": "hěnduō",
+    "korean": "많은"
+  },
+  {
+    "chinese": "话",
+    "pinyin": "huà",
+    "korean": "말"
+  },
+  {
+    "chinese": "马",
+    "pinyin": "mǎ",
+    "korean": "말(동물)"
+  },
+  {
+    "chinese": "味",
+    "pinyin": "wèi",
+    "korean": "맛"
+  },
+  {
+    "chinese": "好吃",
+    "pinyin": "hǎochī",
+    "korean": "맛있는"
+  },
+  {
+    "chinese": "对",
+    "pinyin": "duì",
+    "korean": "맞다"
+  },
+  {
+    "chinese": "对面",
+    "pinyin": "duìmiàn",
+    "korean": "맞은편"
+  },
+  {
+    "chinese": "非常",
+    "pinyin": "fēicháng",
+    "korean": "매우"
+  },
+  {
+    "chinese": "辣",
+    "pinyin": "là",
+    "korean": "매운"
+  },
+  {
+    "chinese": "每天",
+    "pinyin": "měitiān",
+    "korean": "매일"
+  },
+  {
+    "chinese": "啤酒",
+    "pinyin": "píjiǔ",
+    "korean": "맥주"
+  },
+  {
+    "chinese": "头",
+    "pinyin": "tóu",
+    "korean": "머리"
+  },
+  {
+    "chinese": "头发",
+    "pinyin": "tóufa",
+    "korean": "머리카락"
+  },
+  {
+    "chinese": "吃",
+    "pinyin": "chī",
+    "korean": "먹다"
+  },
+  {
+    "chinese": "远",
+    "pinyin": "yuǎn",
+    "korean": "먼"
+  },
+  {
+    "chinese": "先",
+    "pinyin": "xiān",
+    "korean": "먼저"
+  },
+  {
+    "chinese": "灰尘",
+    "pinyin": "huīchén",
+    "korean": "먼지"
+  },
+  {
+    "chinese": "漂亮",
+    "pinyin": "piàoliang",
+    "korean": "멋진"
+  },
+  {
+    "chinese": "菜单",
+    "pinyin": "càidān",
+    "korean": "메뉴"
+  },
+  {
+    "chinese": "信息",
+    "pinyin": "xìnxī",
+    "korean": "메시지"
+  },
+  {
+    "chinese": "面",
+    "pinyin": "miàn",
+    "korean": "면"
+  },
+  {
+    "chinese": "棉花",
+    "pinyin": "miánhua",
+    "korean": "면화"
+  },
+  {
+    "chinese": "几",
+    "pinyin": "jǐ",
+    "korean": "몇"
+  },
+  {
+    "chinese": "蚊子",
+    "pinyin": "wénzi",
+    "korean": "모기"
+  },
+  {
+    "chinese": "全部",
+    "pinyin": "quánbù",
+    "korean": "모두"
+  },
+  {
+    "chinese": "沙子",
+    "pinyin": "shāzi",
+    "korean": "모래"
+  },
+  {
+    "chinese": "不知道",
+    "pinyin": "bùzhīdào",
+    "korean": "모르다"
+  },
+  {
+    "chinese": "角",
+    "pinyin": "jiǎo",
+    "korean": "모서리"
+  },
+  {
+    "chinese": "形状",
+    "pinyin": "xíngzhuàng",
+    "korean": "모양"
+  },
+  {
+    "chinese": "帽子",
+    "pinyin": "màozi",
+    "korean": "모자"
+  },
+  {
+    "chinese": "嗓子",
+    "pinyin": "sǎngzi",
+    "korean": "목"
+  },
+  {
+    "chinese": "星期四",
+    "pinyin": "xīngqīsì",
+    "korean": "목요일"
+  },
+  {
+    "chinese": "洗澡",
+    "pinyin": "xǐzǎo",
+    "korean": "목욕"
+  },
+  {
+    "chinese": "木头",
+    "pinyin": "mùtou",
+    "korean": "목재"
+  },
+  {
+    "chinese": "目的",
+    "pinyin": "mùdì",
+    "korean": "목적"
+  },
+  {
+    "chinese": "身体",
+    "pinyin": "shēntǐ",
+    "korean": "몸"
+  },
+  {
+    "chinese": "钉子",
+    "pinyin": "dīngzi",
+    "korean": "못"
+  },
+  {
+    "chinese": "不能",
+    "pinyin": "bùnéng",
+    "korean": "못하다"
+  },
+  {
+    "chinese": "重",
+    "pinyin": "zhòng",
+    "korean": "무거운"
+  },
+  {
+    "chinese": "花纹",
+    "pinyin": "huāwén",
+    "korean": "무늬"
+  },
+  {
+    "chinese": "舞台",
+    "pinyin": "wǔtái",
+    "korean": "무대"
+  },
+  {
+    "chinese": "免费",
+    "pinyin": "miǎnfèi",
+    "korean": "무료"
+  },
+  {
+    "chinese": "膝盖",
+    "pinyin": "xīgài",
+    "korean": "무릎"
+  },
+  {
+    "chinese": "害怕",
+    "pinyin": "hàipà",
+    "korean": "무서운"
+  },
+  {
+    "chinese": "什么",
+    "pinyin": "shénme",
+    "korean": "무엇"
+  },
+  {
+    "chinese": "贸易",
+    "pinyin": "màoyì",
+    "korean": "무역"
+  },
+  {
+    "chinese": "很",
+    "pinyin": "hěn",
+    "korean": "무척"
+  },
+  {
+    "chinese": "门",
+    "pinyin": "mén",
+    "korean": "문"
+  },
+  {
+    "chinese": "问题",
+    "pinyin": "wèntí",
+    "korean": "문제"
+  },
+  {
+    "chinese": "文学",
+    "pinyin": "wénxué",
+    "korean": "문학"
+  },
+  {
+    "chinese": "文化",
+    "pinyin": "wénhuà",
+    "korean": "문화"
+  },
+  {
+    "chinese": "问",
+    "pinyin": "wèn",
+    "korean": "묻다"
+  },
+  {
+    "chinese": "水",
+    "pinyin": "shuǐ",
+    "korean": "물"
+  },
+  {
+    "chinese": "物价",
+    "pinyin": "wùjià",
+    "korean": "물가"
+  },
+  {
+    "chinese": "物件",
+    "pinyin": "wùjiàn",
+    "korean": "물건"
+  },
+  {
+    "chinese": "鱼",
+    "pinyin": "yú",
+    "korean": "물고기"
+  },
+  {
+    "chinese": "咬",
+    "pinyin": "yǎo",
+    "korean": "물다"
+  },
+  {
+    "chinese": "当然",
+    "pinyin": "dāngrán",
+    "korean": "물론"
+  },
+  {
+    "chinese": "物质",
+    "pinyin": "wùzhì",
+    "korean": "물질"
+  },
+  {
+    "chinese": "美国",
+    "pinyin": "měiguó",
+    "korean": "미국"
+  },
+  {
+    "chinese": "未来",
+    "pinyin": "wèilái",
+    "korean": "미래"
+  },
+  {
+    "chinese": "美术馆",
+    "pinyin": "měishùguǎn",
+    "korean": "미술관"
+  },
+  {
+    "chinese": "对不起",
+    "pinyin": "duìbuqǐ",
+    "korean": "미안하다"
+  },
+  {
+    "chinese": "信",
+    "pinyin": "xìn",
+    "korean": "믿다"
+  },
+  {
+    "chinese": "下面",
+    "pinyin": "xiàmiàn",
+    "korean": "밑"
+  },
+  {
+    "chinese": "针",
+    "pinyin": "zhēn",
+    "korean": "바늘"
+  },
+  {
+    "chinese": "海",
+    "pinyin": "hǎi",
+    "korean": "바다"
+  },
+  {
+    "chinese": "地板",
+    "pinyin": "dìbǎn",
+    "korean": "바닥"
+  },
+  {
+    "chinese": "风",
+    "pinyin": "fēng",
+    "korean": "바람"
+  },
+  {
+    "chinese": "马上",
+    "pinyin": "mǎshàng",
+    "korean": "바로"
+  },
+  {
+    "chinese": "正确",
+    "pinyin": "zhèngquè",
+    "korean": "바른"
+  },
+  {
+    "chinese": "忙",
+    "pinyin": "máng",
+    "korean": "바쁜"
+  },
+  {
+    "chinese": "岩石",
+    "pinyin": "yánshí",
+    "korean": "바위"
+  },
+  {
+    "chinese": "裤子",
+    "pinyin": "kùzi",
+    "korean": "바지"
+  },
+  {
+    "chinese": "外面",
+    "pinyin": "wàimiàn",
+    "korean": "밖"
+  },
+  {
+    "chinese": "接受",
+    "pinyin": "jiēshòu",
+    "korean": "받다"
+  },
+  {
+    "chinese": "脚",
+    "pinyin": "jiǎo",
+    "korean": "발"
+  },
+  {
+    "chinese": "脚趾",
+    "pinyin": "jiǎozhǐ",
+    "korean": "발가락"
+  },
+  {
+    "chinese": "发明",
+    "pinyin": "fāmíng",
+    "korean": "발명"
+  },
+  {
+    "chinese": "发音",
+    "pinyin": "fāyīn",
+    "korean": "발음"
+  },
+  {
+    "chinese": "发展",
+    "pinyin": "fāzhǎn",
+    "korean": "발전"
+  },
+  {
+    "chinese": "发表",
+    "pinyin": "fābiǎo",
+    "korean": "발표"
+  },
+  {
+    "chinese": "晚上",
+    "pinyin": "wǎnshang",
+    "korean": "밤"
+  },
+  {
+    "chinese": "米饭",
+    "pinyin": "mǐfàn",
+    "korean": "밥"
+  },
+  {
+    "chinese": "房间",
+    "pinyin": "fángjiān",
+    "korean": "방"
+  },
+  {
+    "chinese": "刚才",
+    "pinyin": "gāngcái",
+    "korean": "방금"
+  },
+  {
+    "chinese": "访问",
+    "pinyin": "fǎngwèn",
+    "korean": "방문"
+  },
+  {
+    "chinese": "方法",
+    "pinyin": "fāngfǎ",
+    "korean": "방법"
+  },
+  {
+    "chinese": "放送",
+    "pinyin": "fàngsòng",
+    "korean": "방송"
+  },
+  {
+    "chinese": "防止",
+    "pinyin": "fángzhǐ",
+    "korean": "방지"
+  },
+  {
+    "chinese": "假期",
+    "pinyin": "jiàqī",
+    "korean": "방학"
+  },
+  {
+    "chinese": "方向",
+    "pinyin": "fāngxiàng",
+    "korean": "방향"
+  },
+  {
+    "chinese": "肚子",
+    "pinyin": "dùzi",
+    "korean": "배"
+  },
+  {
+    "chinese": "梨",
+    "pinyin": "lí",
+    "korean": "배(梨)"
+  },
+  {
+    "chinese": "送",
+    "pinyin": "sòng",
+    "korean": "배달"
+  },
+  {
+    "chinese": "演员",
+    "pinyin": "yǎnyuán",
+    "korean": "배우"
+  },
+  {
+    "chinese": "学",
+    "pinyin": "xué",
+    "korean": "배우다"
+  },
+  {
+    "chinese": "白菜",
+    "pinyin": "báicài",
+    "korean": "배추"
+  },
+  {
+    "chinese": "百",
+    "pinyin": "bǎi",
+    "korean": "백"
+  },
+  {
+    "chinese": "百货店",
+    "pinyin": "bǎihuòdiàn",
+    "korean": "백화점"
+  },
+  {
+    "chinese": "蛇",
+    "pinyin": "shé",
+    "korean": "뱀"
+  },
+  {
+    "chinese": "习惯",
+    "pinyin": "xíguàn",
+    "korean": "버릇"
+  },
+  {
+    "chinese": "蘑菇",
+    "pinyin": "mógu",
+    "korean": "버섯"
+  },
+  {
+    "chinese": "公共汽车",
+    "pinyin": "gōnggòngqìchē",
+    "korean": "버스"
+  },
+  {
+    "chinese": "法",
+    "pinyin": "fǎ",
+    "korean": "법"
+  },
+  {
+    "chinese": "法律",
+    "pinyin": "fǎlǜ",
+    "korean": "법률"
+  },
+  {
+    "chinese": "墙",
+    "pinyin": "qiáng",
+    "korean": "벽"
+  },
+  {
+    "chinese": "变化",
+    "pinyin": "biànhuà",
+    "korean": "변화"
+  },
+  {
+    "chinese": "星星",
+    "pinyin": "xīngxing",
+    "korean": "별"
+  },
+  {
+    "chinese": "瓶子",
+    "pinyin": "píngzi",
+    "korean": "병"
+  },
+  {
+    "chinese": "军人",
+    "pinyin": "jūnrén",
+    "korean": "병사"
+  },
+  {
+    "chinese": "医院",
+    "pinyin": "yīyuàn",
+    "korean": "병원"
+  },
+  {
+    "chinese": "报告",
+    "pinyin": "bàogào",
+    "korean": "보고"
+  },
+  {
+    "chinese": "看",
+    "pinyin": "kàn",
+    "korean": "보다"
+  },
+  {
+    "chinese": "宝贝",
+    "pinyin": "bǎobèi",
+    "korean": "보배"
+  },
+  {
+    "chinese": "普通",
+    "pinyin": "pǔtōng",
+    "korean": "보통"
+  },
+  {
+    "chinese": "保护",
+    "pinyin": "bǎohù",
+    "korean": "보호"
+  },
+  {
+    "chinese": "复杂",
+    "pinyin": "fùzá",
+    "korean": "복잡한"
+  },
+  {
+    "chinese": "春天",
+    "pinyin": "chūntiān",
+    "korean": "봄"
+  },
+  {
+    "chinese": "信封",
+    "pinyin": "xìnfēng",
+    "korean": "봉투"
+  },
+  {
+    "chinese": "柔软",
+    "pinyin": "róuruǎn",
+    "korean": "부드러운"
+  },
+  {
+    "chinese": "嫉妒",
+    "pinyin": "jídù",
+    "korean": "부러운"
+  },
+  {
+    "chinese": "父母",
+    "pinyin": "fùmǔ",
+    "korean": "부모"
+  },
+  {
+    "chinese": "部分",
+    "pinyin": "bùfen",
+    "korean": "부분"
+  },
+  {
+    "chinese": "厨房",
+    "pinyin": "chúfáng",
+    "korean": "부엌"
+  },
+  {
+    "chinese": "有钱",
+    "pinyin": "yǒuqián",
+    "korean": "부자"
+  },
+  {
+    "chinese": "请求",
+    "pinyin": "qǐngqiú",
+    "korean": "부탁"
+  },
+  {
+    "chinese": "北",
+    "pinyin": "běi",
+    "korean": "북"
+  },
+  {
+    "chinese": "北方",
+    "pinyin": "běifāng",
+    "korean": "북쪽"
+  },
+  {
+    "chinese": "分",
+    "pinyin": "fēn",
+    "korean": "분"
+  },
+  {
+    "chinese": "明确",
+    "pinyin": "míngquè",
+    "korean": "분명한"
+  },
+  {
+    "chinese": "气氛",
+    "pinyin": "qìfēn",
+    "korean": "분위기"
+  },
+  {
+    "chinese": "火",
+    "pinyin": "huǒ",
+    "korean": "불"
+  },
+  {
+    "chinese": "不满",
+    "pinyin": "bùmǎn",
+    "korean": "불만"
+  },
+  {
+    "chinese": "不安",
+    "pinyin": "bù'ān",
+    "korean": "불안"
+  },
+  {
+    "chinese": "不便",
+    "pinyin": "búbiàn",
+    "korean": "불편"
+  },
+  {
+    "chinese": "雨",
+    "pinyin": "yǔ",
+    "korean": "비"
+  },
+  {
+    "chinese": "比较",
+    "pinyin": "bǐjiào",
+    "korean": "비교"
+  },
+  {
+    "chinese": "肥皂",
+    "pinyin": "féizào",
+    "korean": "비누"
+  },
+  {
+    "chinese": "秘密",
+    "pinyin": "mìmì",
+    "korean": "비밀"
+  },
+  {
+    "chinese": "贵",
+    "pinyin": "guì",
+    "korean": "비싼"
+  },
+  {
+    "chinese": "维生素",
+    "pinyin": "wéishēngsù",
+    "korean": "비타민"
+  },
+  {
+    "chinese": "飞机",
+    "pinyin": "fēijī",
+    "korean": "비행기"
+  },
+  {
+    "chinese": "空的",
+    "pinyin": "kōngde",
+    "korean": "빈"
+  },
+  {
+    "chinese": "借",
+    "pinyin": "jiè",
+    "korean": "빌리다"
+  },
+  {
+    "chinese": "债务",
+    "pinyin": "zhàiwù",
+    "korean": "빚"
+  },
+  {
+    "chinese": "光",
+    "pinyin": "guāng",
+    "korean": "빛"
+  },
+  {
+    "chinese": "快",
+    "pinyin": "kuài",
+    "korean": "빠른"
+  },
+  {
+    "chinese": "红色",
+    "pinyin": "hóngsè",
+    "korean": "빨간색"
+  },
+  {
+    "chinese": "洗衣服",
+    "pinyin": "xǐyīfu",
+    "korean": "빨래"
+  },
+  {
+    "chinese": "面包",
+    "pinyin": "miànbāo",
+    "korean": "빵"
+  },
+  {
+    "chinese": "骨头",
+    "pinyin": "gǔtou",
+    "korean": "뼈"
+  },
+  {
+    "chinese": "事件",
+    "pinyin": "shìjiàn",
+    "korean": "사건"
+  },
+  {
+    "chinese": "四季",
+    "pinyin": "sìjì",
+    "korean": "사계절"
+  },
+  {
+    "chinese": "事故",
+    "pinyin": "shìgù",
+    "korean": "사고"
+  },
+  {
+    "chinese": "苹果",
+    "pinyin": "píngguǒ",
+    "korean": "사과"
+  },
+  {
+    "chinese": "道歉",
+    "pinyin": "dàoqiàn",
+    "korean": "사과하다"
+  },
+  {
+    "chinese": "买",
+    "pinyin": "mǎi",
+    "korean": "사다"
+  },
+  {
+    "chinese": "人",
+    "pinyin": "rén",
+    "korean": "사람"
+  },
+  {
+    "chinese": "爱",
+    "pinyin": "ài",
+    "korean": "사랑"
+  },
+  {
+    "chinese": "办公室",
+    "pinyin": "bàngōngshì",
+    "korean": "사무실"
+  },
+  {
+    "chinese": "事实",
+    "pinyin": "shìshí",
+    "korean": "사실"
+  },
+  {
+    "chinese": "用",
+    "pinyin": "yòng",
+    "korean": "사용"
+  },
+  {
+    "chinese": "狮子",
+    "pinyin": "shīzi",
+    "korean": "사자"
+  },
+  {
+    "chinese": "词典",
+    "pinyin": "cídiǎn",
+    "korean": "사전"
+  },
+  {
+    "chinese": "照片",
+    "pinyin": "zhàopiàn",
+    "korean": "사진"
+  },
+  {
+    "chinese": "社会",
+    "pinyin": "shèhuì",
+    "korean": "사회"
+  },
+  {
+    "chinese": "山",
+    "pinyin": "shān",
+    "korean": "산"
+  },
+  {
+    "chinese": "产业",
+    "pinyin": "chǎnyè",
+    "korean": "산업"
+  },
+  {
+    "chinese": "散步",
+    "pinyin": "sànbù",
+    "korean": "산책"
+  },
+  {
+    "chinese": "活",
+    "pinyin": "huó",
+    "korean": "살다"
+  },
+  {
+    "chinese": "三",
+    "pinyin": "sān",
+    "korean": "삼"
+  },
+  {
+    "chinese": "叔叔",
+    "pinyin": "shūshu",
+    "korean": "삼촌"
+  },
+  {
+    "chinese": "上",
+    "pinyin": "shàng",
+    "korean": "상"
+  },
+  {
+    "chinese": "奖",
+    "pinyin": "jiǎng",
+    "korean": "상"
+  },
+  {
+    "chinese": "桌子",
+    "pinyin": "zhuōzi",
+    "korean": "상(탁자)"
+  },
+  {
+    "chinese": "想象",
+    "pinyin": "xiǎngxiàng",
+    "korean": "상상"
+  },
+  {
+    "chinese": "箱子",
+    "pinyin": "xiāngzi",
+    "korean": "상자"
+  },
+  {
+    "chinese": "商品",
+    "pinyin": "shāngpǐn",
+    "korean": "상품"
+  },
+  {
+    "chinese": "状况",
+    "pinyin": "zhuàngkuàng",
+    "korean": "상황"
+  },
+  {
+    "chinese": "新",
+    "pinyin": "xīn",
+    "korean": "새"
+  },
+  {
+    "chinese": "鸟",
+    "pinyin": "niǎo",
+    "korean": "새"
+  },
+  {
+    "chinese": "虾",
+    "pinyin": "xiā",
+    "korean": "새우"
+  },
+  {
+    "chinese": "颜色",
+    "pinyin": "yánsè",
+    "korean": "색"
+  },
+  {
+    "chinese": "三明治",
+    "pinyin": "sānmíngzhì",
+    "korean": "샌드위치"
+  },
+  {
+    "chinese": "想法",
+    "pinyin": "xiǎngfǎ",
+    "korean": "생각"
+  },
+  {
+    "chinese": "生产",
+    "pinyin": "shēngchǎn",
+    "korean": "생산"
+  },
+  {
+    "chinese": "生日",
+    "pinyin": "shēngrì",
+    "korean": "생일"
+  },
+  {
+    "chinese": "生活",
+    "pinyin": "shēnghuó",
+    "korean": "생활"
+  },
+  {
+    "chinese": "淋浴",
+    "pinyin": "línyù",
+    "korean": "샤워"
+  },
+  {
+    "chinese": "站",
+    "pinyin": "zhàn",
+    "korean": "서다"
+  },
+  {
+    "chinese": "互相",
+    "pinyin": "hùxiāng",
+    "korean": "서로"
+  },
+  {
+    "chinese": "书店",
+    "pinyin": "shūdiàn",
+    "korean": "서점"
+  },
+  {
+    "chinese": "西方",
+    "pinyin": "xīfāng",
+    "korean": "서쪽"
+  },
+  {
+    "chinese": "石",
+    "pinyin": "shí",
+    "korean": "석"
+  },
+  {
+    "chinese": "晚饭",
+    "pinyin": "wǎnfàn",
+    "korean": "석식"
+  },
+  {
+    "chinese": "礼物",
+    "pinyin": "lǐwù",
+    "korean": "선물"
+  },
+  {
+    "chinese": "船",
+    "pinyin": "chuán",
+    "korean": "선박"
+  },
+  {
+    "chinese": "老师",
+    "pinyin": "lǎoshī",
+    "korean": "선생님"
+  },
+  {
+    "chinese": "选择",
+    "pinyin": "xuǎnzé",
+    "korean": "선택"
+  },
+  {
+    "chinese": "风扇",
+    "pinyin": "fēngshàn",
+    "korean": "선풍기"
+  },
+  {
+    "chinese": "设明",
+    "pinyin": "shuōmíng",
+    "korean": "설명"
+  },
+  {
+    "chinese": "糖",
+    "pinyin": "táng",
+    "korean": "설탕"
+  },
+  {
+    "chinese": "岛",
+    "pinyin": "dǎo",
+    "korean": "섬"
+  },
+  {
+    "chinese": "性格",
+    "pinyin": "xìnggé",
+    "korean": "성격"
+  },
+  {
+    "chinese": "成功",
+    "pinyin": "chénggōng",
+    "korean": "성공"
+  },
+  {
+    "chinese": "姓名",
+    "pinyin": "xìngmíng",
+    "korean": "성명"
+  },
+  {
+    "chinese": "世界",
+    "pinyin": "shìjiè",
+    "korean": "세계"
+  },
+  {
+    "chinese": "洗",
+    "pinyin": "xǐ",
+    "korean": "세탁"
+  },
+  {
+    "chinese": "中心",
+    "pinyin": "zhōngxīn",
+    "korean": "센터"
+  },
+  {
+    "chinese": "衬衫",
+    "pinyin": "chènshān",
+    "korean": "셔츠"
+  },
+  {
+    "chinese": "牛",
+    "pinyin": "niú",
+    "korean": "소"
+  },
+  {
+    "chinese": "介绍",
+    "pinyin": "jièshào",
+    "korean": "소개"
+  },
+  {
+    "chinese": "盐",
+    "pinyin": "yán",
+    "korean": "소금"
+  },
+  {
+    "chinese": "声音",
+    "pinyin": "shēngyīn",
+    "korean": "소리"
+  },
+  {
+    "chinese": "小说",
+    "pinyin": "xiǎoshuō",
+    "korean": "소설"
+  },
+  {
+    "chinese": "新闻",
+    "pinyin": "xīnwén",
+    "korean": "소식"
+  },
+  {
+    "chinese": "愿望",
+    "pinyin": "yuànwàng",
+    "korean": "소원"
+  },
+  {
+    "chinese": "沙发",
+    "pinyin": "shāfā",
+    "korean": "소파"
+  },
+  {
+    "chinese": "包裹",
+    "pinyin": "bāoguǒ",
+    "korean": "소포"
+  },
+  {
+    "chinese": "里面",
+    "pinyin": "lǐmiàn",
+    "korean": "속"
+  },
+  {
+    "chinese": "速度",
+    "pinyin": "sùdù",
+    "korean": "속도"
+  },
+  {
+    "chinese": "手",
+    "pinyin": "shǒu",
+    "korean": "손"
+  },
+  {
+    "chinese": "手指",
+    "pinyin": "shǒuzhǐ",
+    "korean": "손가락"
+  },
+  {
+    "chinese": "客人",
+    "pinyin": "kèrén",
+    "korean": "손님"
+  },
+  {
+    "chinese": "手巾",
+    "pinyin": "shǒujīn",
+    "korean": "손수건"
+  },
+  {
+    "chinese": "孙子",
+    "pinyin": "sūnzi",
+    "korean": "손자"
+  },
+  {
+    "chinese": "铁",
+    "pinyin": "tiě",
+    "korean": "쇠"
+  },
+  {
+    "chinese": "购物",
+    "pinyin": "gòuwù",
+    "korean": "쇼핑"
+  },
+  {
+    "chinese": "作业",
+    "pinyin": "zuòyè",
+    "korean": "숙제"
+  },
+  {
+    "chinese": "顺序",
+    "pinyin": "shùnxù",
+    "korean": "순서"
+  },
+  {
+    "chinese": "纯",
+    "pinyin": "chún",
+    "korean": "순수한"
+  },
+  {
+    "chinese": "勺子",
+    "pinyin": "sháozi",
+    "korean": "숟가락"
+  },
+  {
+    "chinese": "藏",
+    "pinyin": "cáng",
+    "korean": "숨기다"
+  },
+  {
+    "chinese": "数字",
+    "pinyin": "shùzì",
+    "korean": "숫자"
+  },
+  {
+    "chinese": "森林",
+    "pinyin": "sēnlín",
+    "korean": "숲"
+  },
+  {
+    "chinese": "休息",
+    "pinyin": "xiūxi",
+    "korean": "쉬다"
+  },
+  {
+    "chinese": "容易",
+    "pinyin": "róngyì",
+    "korean": "쉬운"
+  },
+  {
+    "chinese": "五十",
+    "pinyin": "wǔshí",
+    "korean": "쉰"
+  },
+  {
+    "chinese": "超级市场",
+    "pinyin": "chāojíshìchǎng",
+    "korean": "슈퍼마켓"
+  },
+  {
+    "chinese": "自己",
+    "pinyin": "zìjǐ",
+    "korean": "스스로"
+  },
+  {
+    "chinese": "开关",
+    "pinyin": "kāiguān",
+    "korean": "스위치"
+  },
+  {
+    "chinese": "滑雪",
+    "pinyin": "huáxuě",
+    "korean": "스키"
+  },
+  {
+    "chinese": "压力",
+    "pinyin": "yālì",
+    "korean": "스트레스"
+  },
+  {
+    "chinese": "运动",
+    "pinyin": "yùndòng",
+    "korean": "스포츠"
+  },
+  {
+    "chinese": "习惯",
+    "pinyin": "xíguàn",
+    "korean": "습관"
+  },
+  {
+    "chinese": "湿",
+    "pinyin": "shī",
+    "korean": "습한"
+  },
+  {
+    "chinese": "胜利",
+    "pinyin": "shènglì",
+    "korean": "승리"
+  },
+  {
+    "chinese": "诗",
+    "pinyin": "shī",
+    "korean": "시"
+  },
+  {
+    "chinese": "时间",
+    "pinyin": "shíjiān",
+    "korean": "시간"
+  },
+  {
+    "chinese": "手表",
+    "pinyin": "shǒubiǎo",
+    "korean": "시계"
+  },
+  {
+    "chinese": "乡下",
+    "pinyin": "xiāngxià",
+    "korean": "시골"
+  },
+  {
+    "chinese": "时代",
+    "pinyin": "shídài",
+    "korean": "시대"
+  },
+  {
+    "chinese": "市民",
+    "pinyin": "shìmín",
+    "korean": "시민"
+  },
+  {
+    "chinese": "开始",
+    "pinyin": "kāishǐ",
+    "korean": "시작"
+  },
+  {
+    "chinese": "市场",
+    "pinyin": "shìchǎng",
+    "korean": "시장"
+  },
+  {
+    "chinese": "考试",
+    "pinyin": "kǎoshì",
+    "korean": "시험"
+  },
+  {
+    "chinese": "食堂",
+    "pinyin": "shítáng",
+    "korean": "식당"
+  },
+  {
+    "chinese": "食物",
+    "pinyin": "shíwù",
+    "korean": "식물"
+  },
+  {
+    "chinese": "醋",
+    "pinyin": "cù",
+    "korean": "식초"
+  },
+  {
+    "chinese": "餐桌",
+    "pinyin": "cānzhuō",
+    "korean": "식탁"
+  },
+  {
+    "chinese": "神",
+    "pinyin": "shén",
+    "korean": "신"
+  },
+  {
+    "chinese": "报纸",
+    "pinyin": "bàozhǐ",
+    "korean": "신문"
+  },
+  {
+    "chinese": "鞋子",
+    "pinyin": "xiézi",
+    "korean": "신발"
+  },
+  {
+    "chinese": "身份",
+    "pinyin": "shēnfèn",
+    "korean": "신분"
+  },
+  {
+    "chinese": "新鲜",
+    "pinyin": "xīnxiān",
+    "korean": "신선한"
+  },
+  {
+    "chinese": "信号",
+    "pinyin": "xìnhào",
+    "korean": "신호"
+  },
+  {
+    "chinese": "室内",
+    "pinyin": "shìnèi",
+    "korean": "실내"
+  },
+  {
+    "chinese": "实际",
+    "pinyin": "shíjì",
+    "korean": "실제"
+  },
+  {
+    "chinese": "失败",
+    "pinyin": "shībài",
+    "korean": "실패"
+  },
+  {
+    "chinese": "讨厌",
+    "pinyin": "tǎoyàn",
+    "korean": "싫다"
+  },
+  {
+    "chinese": "严重",
+    "pinyin": "yánzhòng",
+    "korean": "심각한"
+  },
+  {
+    "chinese": "十",
+    "pinyin": "shí",
+    "korean": "십"
+  },
+  {
+    "chinese": "包",
+    "pinyin": "bāo",
+    "korean": "싸다"
+  },
+  {
+    "chinese": "吵架",
+    "pinyin": "chǎojià",
+    "korean": "싸우다"
+  },
+  {
+    "chinese": "便宜",
+    "pinyin": "piányi",
+    "korean": "싼"
+  },
+  {
+    "chinese": "米",
+    "pinyin": "mǐ",
+    "korean": "쌀"
+  },
+  {
+    "chinese": "双胞胎",
+    "pinyin": "shuāngbāotāi",
+    "korean": "쌍둥이"
+  },
+  {
+    "chinese": "写",
+    "pinyin": "xiě",
+    "korean": "쓰다"
+  },
+  {
+    "chinese": "垃圾",
+    "pinyin": "lājī",
+    "korean": "쓰레기"
+  },
+  {
+    "chinese": "苦",
+    "pinyin": "kǔ",
+    "korean": "쓴"
+  },
+  {
+    "chinese": "儿子",
+    "pinyin": "érzi",
+    "korean": "아들"
+  },
+  {
+    "chinese": "下",
+    "pinyin": "xià",
+    "korean": "아래"
+  },
+  {
+    "chinese": "美丽",
+    "pinyin": "měilì",
+    "korean": "아름다운"
+  },
+  {
+    "chinese": "也许",
+    "pinyin": "yěxǔ",
+    "korean": "아마"
+  },
+  {
+    "chinese": "什么也不",
+    "pinyin": "shénme yě bù",
+    "korean": "아무것도 아닌"
+  },
+  {
+    "chinese": "爸爸",
+    "pinyin": "bàba",
+    "korean": "아빠"
+  },
+  {
+    "chinese": "孩子",
+    "pinyin": "háizi",
+    "korean": "아이"
+  },
+  {
+    "chinese": "阿姨",
+    "pinyin": "āyí",
+    "korean": "아주머니"
+  },
+  {
+    "chinese": "还",
+    "pinyin": "hái",
+    "korean": "아직"
+  },
+  {
+    "chinese": "早上",
+    "pinyin": "zǎoshang",
+    "korean": "아침"
+  },
+  {
+    "chinese": "公寓",
+    "pinyin": "gōngyù",
+    "korean": "아파트"
+  },
+  {
+    "chinese": "痛",
+    "pinyin": "tòng",
+    "korean": "아프다"
+  },
+  {
+    "chinese": "九",
+    "pinyin": "jiǔ",
+    "korean": "아홉"
+  },
+  {
+    "chinese": "乐器",
+    "pinyin": "yuèqì",
+    "korean": "악기"
+  },
+  {
+    "chinese": "握手",
+    "pinyin": "wòshǒu",
+    "korean": "악수"
+  },
+  {
+    "chinese": "里面",
+    "pinyin": "lǐmiàn",
+    "korean": "안"
+  },
+  {
+    "chinese": "雾",
+    "pinyin": "wù",
+    "korean": "안개"
+  },
+  {
+    "chinese": "眼镜",
+    "pinyin": "yǎnjìng",
+    "korean": "안경"
+  },
+  {
+    "chinese": "安全",
+    "pinyin": "ānquán",
+    "korean": "안전"
+  },
+  {
+    "chinese": "坐",
+    "pinyin": "zuò",
+    "korean": "앉다"
+  },
+  {
+    "chinese": "前面",
+    "pinyin": "qiánmiàn",
+    "korean": "앞"
+  },
+  {
+    "chinese": "药",
+    "pinyin": "yào",
+    "korean": "약"
+  },
+  {
+    "chinese": "药局",
+    "pinyin": "yàojú",
+    "korean": "약국"
+  },
+  {
+    "chinese": "约束",
+    "pinyin": "yuēshù",
+    "korean": "약속"
+  },
+  {
+    "chinese": "羊",
+    "pinyin": "yáng",
+    "korean": "양"
+  },
+  {
+    "chinese": "袜子",
+    "pinyin": "wàzi",
+    "korean": "양말"
+  },
+  {
+    "chinese": "洋葱",
+    "pinyin": "yángcōng",
+    "korean": "양파"
+  },
+  {
+    "chinese": "脸",
+    "pinyin": "liǎn",
+    "korean": "얼굴"
+  },
+  {
+    "chinese": "多少",
+    "pinyin": "duōshǎo",
+    "korean": "얼마"
+  },
+  {
+    "chinese": "冰",
+    "pinyin": "bīng",
+    "korean": "얼음"
+  },
+  {
+    "chinese": "严格",
+    "pinyin": "yángé",
+    "korean": "엄격한"
+  },
+  {
+    "chinese": "妈妈",
+    "pinyin": "māma",
+    "korean": "엄마"
+  },
+  {
+    "chinese": "没有",
+    "pinyin": "méiyǒu",
+    "korean": "없다"
+  },
+  {
+    "chinese": "车站",
+    "pinyin": "chēzhàn",
+    "korean": "역"
+  },
+  {
+    "chinese": "力量",
+    "pinyin": "lìliang",
+    "korean": "역량"
+  },
+  {
+    "chinese": "历史",
+    "pinyin": "lìshǐ",
+    "korean": "역사"
+  },
+  {
+    "chinese": "角色",
+    "pinyin": "juésè",
+    "korean": "역할"
+  },
+  {
+    "chinese": "研究",
+    "pinyin": "yánjiū",
+    "korean": "연구"
+  },
+  {
+    "chinese": "演出",
+    "pinyin": "yǎnchū",
+    "korean": "연극"
+  },
+  {
+    "chinese": "烟",
+    "pinyin": "yān",
+    "korean": "연기"
+  },
+  {
+    "chinese": "联系",
+    "pinyin": "liánxì",
+    "korean": "연락"
+  },
+  {
+    "chinese": "年龄",
+    "pinyin": "niánlíng",
+    "korean": "연령"
+  },
+  {
+    "chinese": "练习",
+    "pinyin": "liànxí",
+    "korean": "연습"
+  },
+  {
+    "chinese": "铅笔",
+    "pinyin": "qiānbǐ",
+    "korean": "연필"
+  },
+  {
+    "chinese": "发烧",
+    "pinyin": "fāshāo",
+    "korean": "열"
+  },
+  {
+    "chinese": "打开",
+    "pinyin": "dǎkāi",
+    "korean": "열다"
+  },
+  {
+    "chinese": "钥匙",
+    "pinyin": "yàoshi",
+    "korean": "열쇠"
+  },
+  {
+    "chinese": "热情",
+    "pinyin": "rèqíng",
+    "korean": "열정"
+  },
+  {
+    "chinese": "零",
+    "pinyin": "líng",
+    "korean": "영"
+  },
+  {
+    "chinese": "收据",
+    "pinyin": "shōujù",
+    "korean": "영수증"
+  },
+  {
+    "chinese": "营养",
+    "pinyin": "yíngyǎng",
+    "korean": "영양"
+  },
+  {
+    "chinese": "英语",
+    "pinyin": "yīngyǔ",
+    "korean": "영어"
+  },
+  {
+    "chinese": "影响",
+    "pinyin": "yǐngxiǎng",
+    "korean": "영향"
+  },
+  {
+    "chinese": "电影",
+    "pinyin": "diànyǐng",
+    "korean": "영화"
+  },
+  {
+    "chinese": "旁边",
+    "pinyin": "pángbiān",
+    "korean": "옆"
+  },
+  {
+    "chinese": "例子",
+    "pinyin": "lìzi",
+    "korean": "예"
+  },
+  {
+    "chinese": "漂亮",
+    "pinyin": "piàoliang",
+    "korean": "예쁜"
+  },
+  {
+    "chinese": "艺术",
+    "pinyin": "yìshù",
+    "korean": "예술"
+  },
+  {
+    "chinese": "预约",
+    "pinyin": "yùyuē",
+    "korean": "예약"
+  },
+  {
+    "chinese": "礼貌",
+    "pinyin": "lǐmào",
+    "korean": "예의"
+  },
+  {
+    "chinese": "以前",
+    "pinyin": "yǐqián",
+    "korean": "예전"
+  },
+  {
+    "chinese": "五",
+    "pinyin": "wǔ",
+    "korean": "오"
+  },
+  {
+    "chinese": "今天",
+    "pinyin": "jīntiān",
+    "korean": "오늘"
+  },
+  {
+    "chinese": "来",
+    "pinyin": "lái",
+    "korean": "오다"
+  },
+  {
+    "chinese": "长久",
+    "pinyin": "chángjiǔ",
+    "korean": "오래"
+  },
+  {
+    "chinese": "爬",
+    "pinyin": "pá",
+    "korean": "오르다"
+  },
+  {
+    "chinese": "右",
+    "pinyin": "yòu",
+    "korean": "오른쪽"
+  },
+  {
+    "chinese": "哥哥",
+    "pinyin": "gēge",
+    "korean": "오빠/형"
+  },
+  {
+    "chinese": "污染",
+    "pinyin": "wūrǎn",
+    "korean": "오염"
+  },
+  {
+    "chinese": "黄瓜",
+    "pinyin": "huángguā",
+    "korean": "오이"
+  },
+  {
+    "chinese": "误会",
+    "pinyin": "wùhuì",
+    "korean": "오해"
+  },
+  {
+    "chinese": "下午",
+    "pinyin": "xiàwǔ",
+    "korean": "오후"
+  },
+  {
+    "chinese": "全",
+    "pinyin": "quán",
+    "korean": "온"
+  },
+  {
+    "chinese": "温度",
+    "pinyin": "wēndù",
+    "korean": "온도"
+  },
+  {
+    "chinese": "衣服",
+    "pinyin": "yīfu",
+    "korean": "옷"
+  },
+  {
+    "chinese": "衣柜",
+    "pinyin": "yīguì",
+    "korean": "옷장"
+  },
+  {
+    "chinese": "完全",
+    "pinyin": "wánquán",
+    "korean": "완전히"
+  },
+  {
+    "chinese": "王",
+    "pinyin": "wáng",
+    "korean": "왕"
+  },
+  {
+    "chinese": "为什么",
+    "pinyin": "wèishénme",
+    "korean": "왜"
+  },
+  {
+    "chinese": "外国",
+    "pinyin": "wàiguó",
+    "korean": "외국"
+  },
+  {
+    "chinese": "孤独",
+    "pinyin": "gūdú",
+    "korean": "외로운"
+  },
+  {
+    "chinese": "外出",
+    "pinyin": "wàichū",
+    "korean": "외출"
+  },
+  {
+    "chinese": "左",
+    "pinyin": "zuǒ",
+    "korean": "왼쪽"
+  },
+  {
+    "chinese": "要求",
+    "pinyin": "yāoqiú",
+    "korean": "요구"
+  },
+  {
+    "chinese": "料理",
+    "pinyin": "liàolǐ",
+    "korean": "요리"
+  },
+  {
+    "chinese": "星期",
+    "pinyin": "xīngqī",
+    "korean": "요일"
+  },
+  {
+    "chinese": "最近",
+    "pinyin": "zuìjìn",
+    "korean": "요즘"
+  },
+  {
+    "chinese": "勇敢",
+    "pinyin": "yǒnggǎn",
+    "korean": "용감한"
+  },
+  {
+    "chinese": "我们",
+    "pinyin": "wǒmen",
+    "korean": "우리"
+  },
+  {
+    "chinese": "伞",
+    "pinyin": "sǎn",
+    "korean": "우산"
+  },
+  {
+    "chinese": "偶然",
+    "pinyin": "ǒurán",
+    "korean": "우연히"
+  },
+  {
+    "chinese": "牛奶",
+    "pinyin": "niúnǎi",
+    "korean": "우유"
+  },
+  {
+    "chinese": "友情",
+    "pinyin": "yǒuqíng",
+    "korean": "우정"
+  },
+  {
+    "chinese": "宇宙",
+    "pinyin": "yǔzhòu",
+    "korean": "우주"
+  },
+  {
+    "chinese": "邮局",
+    "pinyin": "yóujú",
+    "korean": "우체국"
+  },
+  {
+    "chinese": "运气",
+    "pinyin": "yùnqi",
+    "korean": "운"
+  },
+  {
+    "chinese": "运动",
+    "pinyin": "yùndòng",
+    "korean": "운동"
+  },
+  {
+    "chinese": "司机",
+    "pinyin": "sījī",
+    "korean": "운전사"
+  },
+  {
+    "chinese": "哭",
+    "pinyin": "kū",
+    "korean": "울다"
+  },
+  {
+    "chinese": "笑",
+    "pinyin": "xiào",
+    "korean": "웃다"
+  },
+  {
+    "chinese": "原来",
+    "pinyin": "yuánlái",
+    "korean": "원래"
+  },
+  {
+    "chinese": "猴子",
+    "pinyin": "hóuzi",
+    "korean": "원숭이"
+  },
+  {
+    "chinese": "原因",
+    "pinyin": "yuányīn",
+    "korean": "원인"
+  },
+  {
+    "chinese": "月",
+    "pinyin": "yuè",
+    "korean": "월"
+  },
+  {
+    "chinese": "月份",
+    "pinyin": "yuèfèn",
+    "korean": "월분"
+  },
+  {
+    "chinese": "星期一",
+    "pinyin": "xīngqīyī",
+    "korean": "월요일"
+  },
+  {
+    "chinese": "上面",
+    "pinyin": "shàngmiàn",
+    "korean": "위"
+  },
+  {
+    "chinese": "胃",
+    "pinyin": "wèi",
+    "korean": "위장"
+  },
+  {
+    "chinese": "位置",
+    "pinyin": "wèizhì",
+    "korean": "위치"
+  },
+  {
+    "chinese": "危险",
+    "pinyin": "wēixiǎn",
+    "korean": "위험"
+  },
+  {
+    "chinese": "银行",
+    "pinyin": "yínháng",
+    "korean": "은행"
+  },
+  {
+    "chinese": "恩惠",
+    "pinyin": "ēnhuì",
+    "korean": "은혜"
+  },
+  {
+    "chinese": "饮料",
+    "pinyin": "yǐnliào",
+    "korean": "음료"
+  },
+  {
+    "chinese": "食品",
+    "pinyin": "shípǐn",
+    "korean": "음식"
+  },
+  {
+    "chinese": "音乐",
+    "pinyin": "yīnyuè",
+    "korean": "음악"
+  },
+  {
+    "chinese": "意见",
+    "pinyin": "yìjiàn",
+    "korean": "의견"
+  },
+  {
+    "chinese": "意义",
+    "pinyin": "yìyì",
+    "korean": "의미"
+  },
+  {
+    "chinese": "医生",
+    "pinyin": "yīshēng",
+    "korean": "의사"
+  },
+  {
+    "chinese": "椅子",
+    "pinyin": "yǐzi",
+    "korean": "의자"
+  },
+  {
+    "chinese": "二",
+    "pinyin": "èr",
+    "korean": "이"
+  },
+  {
+    "chinese": "这个",
+    "pinyin": "zhège",
+    "korean": "이것"
+  },
+  {
+    "chinese": "这样",
+    "pinyin": "zhèyàng",
+    "korean": "이렇게"
+  },
+  {
+    "chinese": "名字",
+    "pinyin": "míngzi",
+    "korean": "이름"
+  },
+  {
+    "chinese": "额头",
+    "pinyin": "étóu",
+    "korean": "이마"
+  },
+  {
+    "chinese": "牙齿",
+    "pinyin": "yáchǐ",
+    "korean": "이빨"
+  },
+  {
+    "chinese": "搬",
+    "pinyin": "bān",
+    "korean": "이사"
+  },
+  {
+    "chinese": "故事",
+    "pinyin": "gùshi",
+    "korean": "이야기"
+  },
+  {
+    "chinese": "利用",
+    "pinyin": "lìyòng",
+    "korean": "이용"
+  },
+  {
+    "chinese": "邻居",
+    "pinyin": "línjū",
+    "korean": "이웃"
+  },
+  {
+    "chinese": "理由",
+    "pinyin": "lǐyóu",
+    "korean": "이유"
+  },
+  {
+    "chinese": "利益",
+    "pinyin": "lìyì",
+    "korean": "이익"
+  },
+  {
+    "chinese": "理解",
+    "pinyin": "lǐjiě",
+    "korean": "이해"
+  },
+  {
+    "chinese": "以后",
+    "pinyin": "yǐhòu",
+    "korean": "이후"
+  },
+  {
+    "chinese": "人口",
+    "pinyin": "rénkǒu",
+    "korean": "인구"
+  },
+  {
+    "chinese": "人气",
+    "pinyin": "rénqì",
+    "korean": "인기"
+  },
+  {
+    "chinese": "人类",
+    "pinyin": "rénlèi",
+    "korean": "인류"
+  },
+  {
+    "chinese": "人生",
+    "pinyin": "rénshēng",
+    "korean": "인생"
+  },
+  {
+    "chinese": "互联网",
+    "pinyin": "hùliánwǎng",
+    "korean": "인터넷"
+  },
+  {
+    "chinese": "工作",
+    "pinyin": "gōngzuò",
+    "korean": "일"
+  },
+  {
+    "chinese": "七",
+    "pinyin": "qī",
+    "korean": "일곱"
+  },
+  {
+    "chinese": "日记",
+    "pinyin": "rìjì",
+    "korean": "일기"
+  },
+  {
+    "chinese": "一般",
+    "pinyin": "yìbān",
+    "korean": "일반"
+  },
+  {
+    "chinese": "日本",
+    "pinyin": "rìběn",
+    "korean": "일본"
+  },
+  {
+    "chinese": "星期日",
+    "pinyin": "xīngqīrì",
+    "korean": "일요일"
+  },
+  {
+    "chinese": "早",
+    "pinyin": "zǎo",
+    "korean": "일찍"
+  },
+  {
+    "chinese": "读",
+    "pinyin": "dú",
+    "korean": "읽다"
+  },
+  {
+    "chinese": "失去",
+    "pinyin": "shīqù",
+    "korean": "잃다"
+  },
+  {
+    "chinese": "嘴",
+    "pinyin": "zuǐ",
+    "korean": "입"
+  },
+  {
+    "chinese": "穿",
+    "pinyin": "chuān",
+    "korean": "입다"
+  },
+  {
+    "chinese": "入场",
+    "pinyin": "rùchǎng",
+    "korean": "입장"
+  },
+  {
+    "chinese": "有",
+    "pinyin": "yǒu",
+    "korean": "있다"
+  },
+  {
+    "chinese": "忘记",
+    "pinyin": "wàngjì",
+    "korean": "잊다"
+  },
+  {
+    "chinese": "叶子",
+    "pinyin": "yèzi",
+    "korean": "잎"
+  },
+  {
+    "chinese": "资料",
+    "pinyin": "zīliào",
+    "korean": "자료"
+  },
+  {
+    "chinese": "位子",
+    "pinyin": "wèizi",
+    "korean": "자리"
+  },
+  {
+    "chinese": "自信",
+    "pinyin": "zìxìn",
+    "korean": "자신감"
+  },
+  {
+    "chinese": "自然",
+    "pinyin": "zìrán",
+    "korean": "자연"
+  },
+  {
+    "chinese": "自由",
+    "pinyin": "zìyóu",
+    "korean": "자유"
+  },
+  {
+    "chinese": "自行车",
+    "pinyin": "zìxíngchē",
+    "korean": "자전거"
+  },
+  {
+    "chinese": "常常",
+    "pinyin": "chángcháng",
+    "korean": "자주"
+  },
+  {
+    "chinese": "作家",
+    "pinyin": "zuòjiā",
+    "korean": "작가"
+  },
+  {
+    "chinese": "去年",
+    "pinyin": "qùnián",
+    "korean": "작년"
+  },
+  {
+    "chinese": "小",
+    "pinyin": "xiǎo",
+    "korean": "작은"
+  },
+  {
+    "chinese": "作品",
+    "pinyin": "zuòpǐn",
+    "korean": "작품"
+  },
+  {
+    "chinese": "杯子",
+    "pinyin": "bēizi",
+    "korean": "잔"
+  },
+  {
+    "chinese": "草坪",
+    "pinyin": "cǎopíng",
+    "korean": "잔디"
+  },
+  {
+    "chinese": "睡觉",
+    "pinyin": "shuìjiào",
+    "korean": "잠"
+  },
+  {
+    "chinese": "一会儿",
+    "pinyin": "yíhuìr",
+    "korean": "잠깐"
+  },
+  {
+    "chinese": "抓",
+    "pinyin": "zhuā",
+    "korean": "잡다"
+  },
+  {
+    "chinese": "杂志",
+    "pinyin": "zázhì",
+    "korean": "잡지"
+  },
+  {
+    "chinese": "手套",
+    "pinyin": "shǒutào",
+    "korean": "장갑"
+  },
+  {
+    "chinese": "将来",
+    "pinyin": "jiānglái",
+    "korean": "장래"
+  },
+  {
+    "chinese": "地方",
+    "pinyin": "dìfang",
+    "korean": "장소"
+  },
+  {
+    "chinese": "长处",
+    "pinyin": "chángchù",
+    "korean": "장점"
+  },
+  {
+    "chinese": "奖学金",
+    "pinyin": "jiǎngxuéjīn",
+    "korean": "장학금"
+  },
+  {
+    "chinese": "才能",
+    "pinyin": "cáinéng",
+    "korean": "재능"
+  },
+  {
+    "chinese": "材料",
+    "pinyin": "cáiliào",
+    "korean": "재료"
+  },
+  {
+    "chinese": "有趣",
+    "pinyin": "yǒuqù",
+    "korean": "재미있는"
+  },
+  {
+    "chinese": "财产",
+    "pinyin": "cáichǎn",
+    "korean": "재산"
+  },
+  {
+    "chinese": "灾害",
+    "pinyin": "zāihài",
+    "korean": "재해"
+  },
+  {
+    "chinese": "那",
+    "pinyin": "nà",
+    "korean": "저"
+  },
+  {
+    "chinese": "晚上",
+    "pinyin": "wǎnshang",
+    "korean": "저녁"
+  },
+  {
+    "chinese": "那边",
+    "pinyin": "nàbiān",
+    "korean": "저쪽"
+  },
+  {
+    "chinese": "储蓄",
+    "pinyin": "chǔxù",
+    "korean": "저축"
+  },
+  {
+    "chinese": "敌人",
+    "pinyin": "dírén",
+    "korean": "적"
+  },
+  {
+    "chinese": "适当",
+    "pinyin": "shìdàng",
+    "korean": "적당한"
+  },
+  {
+    "chinese": "少",
+    "pinyin": "shǎo",
+    "korean": "적은"
+  },
+  {
+    "chinese": "电",
+    "pinyin": "diàn",
+    "korean": "전기"
+  },
+  {
+    "chinese": "专家",
+    "pinyin": "zhuānjiā",
+    "korean": "전문가"
+  },
+  {
+    "chinese": "全部",
+    "pinyin": "quánbù",
+    "korean": "전부"
+  },
+  {
+    "chinese": "传说",
+    "pinyin": "chuánshuō",
+    "korean": "전설"
+  },
+  {
+    "chinese": "战争",
+    "pinyin": "zhànzhēng",
+    "korean": "전쟁"
+  },
+  {
+    "chinese": "传统",
+    "pinyin": "chuántǒng",
+    "korean": "전통"
+  },
+  {
+    "chinese": "电话",
+    "pinyin": "diànhuà",
+    "korean": "전화"
+  },
+  {
+    "chinese": "年轻",
+    "pinyin": "niánqīng",
+    "korean": "젊은"
+  },
+  {
+    "chinese": "点",
+    "pinyin": "diǎn",
+    "korean": "점"
+  },
+  {
+    "chinese": "分数",
+    "pinyin": "fēnshù",
+    "korean": "점수"
+  },
+  {
+    "chinese": "午饭",
+    "pinyin": "wǔfàn",
+    "korean": "점심"
+  },
+  {
+    "chinese": "盘子",
+    "pinyin": "pánzi",
+    "korean": "접시"
+  },
+  {
+    "chinese": "接触",
+    "pinyin": "jiēchù",
+    "korean": "접촉"
+  },
+  {
+    "chinese": "整理",
+    "pinyin": "zhěnglǐ",
+    "korean": "정리"
+  },
+  {
+    "chinese": "确实",
+    "pinyin": "quèshí",
+    "korean": "정말"
+  },
+  {
+    "chinese": "信息",
+    "pinyin": "xìnxī",
+    "korean": "정보"
+  },
+  {
+    "chinese": "政府",
+    "pinyin": "zhèngfǔ",
+    "korean": "정부"
+  },
+  {
+    "chinese": "正式",
+    "pinyin": "zhèngshì",
+    "korean": "정식"
+  },
+  {
+    "chinese": "精神",
+    "pinyin": "jīngshén",
+    "korean": "정신"
+  },
+  {
+    "chinese": "政治",
+    "pinyin": "zhèngzhì",
+    "korean": "정치"
+  },
+  {
+    "chinese": "条件",
+    "pinyin": "tiáojiàn",
+    "korean": "조건"
+  },
+  {
+    "chinese": "祖先",
+    "pinyin": "zǔxiān",
+    "korean": "조상"
+  },
+  {
+    "chinese": "小心",
+    "pinyin": "xiǎoxīn",
+    "korean": "조심"
+  },
+  {
+    "chinese": "安静",
+    "pinyin": "ānjìng",
+    "korean": "조용한"
+  },
+  {
+    "chinese": "尊重",
+    "pinyin": "zūnzhòng",
+    "korean": "존경"
+  },
+  {
+    "chinese": "存在",
+    "pinyin": "cúnzài",
+    "korean": "존재"
+  },
+  {
+    "chinese": "毕业",
+    "pinyin": "bìyè",
+    "korean": "졸업"
+  },
+  {
+    "chinese": "宗教",
+    "pinyin": "zōngjiào",
+    "korean": "종교"
+  },
+  {
+    "chinese": "种类",
+    "pinyin": "zhǒnglèi",
+    "korean": "종류"
+  },
+  {
+    "chinese": "纸",
+    "pinyin": "zhǐ",
+    "korean": "종이"
+  },
+  {
+    "chinese": "喜欢",
+    "pinyin": "xǐhuan",
+    "korean": "좋아하다"
+  },
+  {
+    "chinese": "好",
+    "pinyin": "hǎo",
+    "korean": "좋은"
+  },
+  {
+    "chinese": "座位",
+    "pinyin": "zuòwèi",
+    "korean": "좌석"
+  },
+  {
+    "chinese": "左右",
+    "pinyin": "zuǒyòu",
+    "korean": "좌우"
+  },
+  {
+    "chinese": "星期",
+    "pinyin": "xīngqī",
+    "korean": "주"
+  },
+  {
+    "chinese": "给",
+    "pinyin": "gěi",
+    "korean": "주다"
+  },
+  {
+    "chinese": "厨房",
+    "pinyin": "chúfáng",
+    "korean": "주방"
+  },
+  {
+    "chinese": "地址",
+    "pinyin": "dìzhǐ",
+    "korean": "주소"
+  },
+  {
+    "chinese": "果汁",
+    "pinyin": "guǒzhī",
+    "korean": "주스"
+  },
+  {
+    "chinese": "股票",
+    "pinyin": "gǔpiào",
+    "korean": "주식"
+  },
+  {
+    "chinese": "主要",
+    "pinyin": "zhǔyào",
+    "korean": "주요"
+  },
+  {
+    "chinese": "周围",
+    "pinyin": "zhōuwéi",
+    "korean": "주위"
+  },
+  {
+    "chinese": "注意",
+    "pinyin": "zhùyì",
+    "korean": "주의"
+  },
+  {
+    "chinese": "主人",
+    "pinyin": "zhǔrén",
+    "korean": "주인"
+  },
+  {
+    "chinese": "停车场",
+    "pinyin": "tíngchēchǎng",
+    "korean": "주차장"
+  },
+  {
+    "chinese": "死",
+    "pinyin": "sǐ",
+    "korean": "죽다"
+  },
+  {
+    "chinese": "准备",
+    "pinyin": "zhǔnbèi",
+    "korean": "준비"
+  },
+  {
+    "chinese": "减少",
+    "pinyin": "jiǎnshǎo",
+    "korean": "줄다"
+  },
+  {
+    "chinese": "中国",
+    "pinyin": "zhōngguó",
+    "korean": "중국"
+  },
+  {
+    "chinese": "重要",
+    "pinyin": "zhòngyào",
+    "korean": "중요한"
+  },
+  {
+    "chinese": "中学",
+    "pinyin": "zhōngxué",
+    "korean": "중학교"
+  },
+  {
+    "chinese": "老鼠",
+    "pinyin": "lǎoshǔ",
+    "korean": "쥐"
+  },
+  {
+    "chinese": "高兴",
+    "pinyin": "gāoxìng",
+    "korean": "즐거운"
+  },
+  {
+    "chinese": "增加",
+    "pinyin": "zēngjiā",
+    "korean": "증가"
+  },
+  {
+    "chinese": "证据",
+    "pinyin": "zhèngjù",
+    "korean": "증거"
+  },
+  {
+    "chinese": "迟到",
+    "pinyin": "chídào",
+    "korean": "지각"
+  },
+  {
+    "chinese": "钱包",
+    "pinyin": "qiánbāo",
+    "korean": "지갑"
+  },
+  {
+    "chinese": "地球",
+    "pinyin": "dìqiú",
+    "korean": "지구"
+  },
+  {
+    "chinese": "现在",
+    "pinyin": "xiànzài",
+    "korean": "지금"
+  },
+  {
+    "chinese": "过去",
+    "pinyin": "guòqù",
+    "korean": "지나다"
+  },
+  {
+    "chinese": "输",
+    "pinyin": "shū",
+    "korean": "지다"
+  },
+  {
+    "chinese": "地图",
+    "pinyin": "dìtú",
+    "korean": "지도"
+  },
+  {
+    "chinese": "知识",
+    "pinyin": "zhīshi",
+    "korean": "지식"
+  },
+  {
+    "chinese": "地区",
+    "pinyin": "dìqū",
+    "korean": "지역"
+  },
+  {
+    "chinese": "支持",
+    "pinyin": "zhīchí",
+    "korean": "지지"
+  },
+  {
+    "chinese": "保护",
+    "pinyin": "bǎohù",
+    "korean": "지키다"
+  },
+  {
+    "chinese": "地下铁",
+    "pinyin": "dìxiàtiě",
+    "korean": "지하철"
+  },
+  {
+    "chinese": "职业",
+    "pinyin": "zhíyè",
+    "korean": "직업"
+  },
+  {
+    "chinese": "员工",
+    "pinyin": "yuángōng",
+    "korean": "직원"
+  },
+  {
+    "chinese": "直接",
+    "pinyin": "zhíjiē",
+    "korean": "직접"
+  },
+  {
+    "chinese": "进步",
+    "pinyin": "jìnbù",
+    "korean": "진보"
+  },
+  {
+    "chinese": "认真",
+    "pinyin": "rènzhēn",
+    "korean": "진지한"
+  },
+  {
+    "chinese": "真",
+    "pinyin": "zhēn",
+    "korean": "진짜"
+  },
+  {
+    "chinese": "行李",
+    "pinyin": "xíngli",
+    "korean": "짐"
+  },
+  {
+    "chinese": "集",
+    "pinyin": "jí",
+    "korean": "집"
+  },
+  {
+    "chinese": "咸",
+    "pinyin": "xián",
+    "korean": "짠"
+  },
+  {
+    "chinese": "短",
+    "pinyin": "duǎn",
+    "korean": "짧다"
+  },
+  {
+    "chinese": "窗户",
+    "pinyin": "chuānghu",
+    "korean": "창문"
+  },
+  {
+    "chinese": "创造",
+    "pinyin": "chuàngzào",
+    "korean": "창조"
+  },
+  {
+    "chinese": "找",
+    "pinyin": "zhǎo",
+    "korean": "찾다"
+  },
+  {
+    "chinese": "书",
+    "pinyin": "shū",
+    "korean": "책"
+  },
+  {
+    "chinese": "书桌",
+    "pinyin": "shūzhuō",
+    "korean": "책상"
+  },
+  {
+    "chinese": "责任",
+    "pinyin": "zérèn",
+    "korean": "책임"
+  },
+  {
+    "chinese": "书架",
+    "pinyin": "shūjià",
+    "korean": "책장"
+  },
+  {
+    "chinese": "千",
+    "pinyin": "qiān",
+    "korean": "천"
+  },
+  {
+    "chinese": "天花板",
+    "pinyin": "tiānhuābǎn",
+    "korean": "천장"
+  },
+  {
+    "chinese": "慢慢",
+    "pinyin": "mànmàn",
+    "korean": "천천히"
+  },
+  {
+    "chinese": "清洁",
+    "pinyin": "qīngjié",
+    "korean": "청소"
+  },
+  {
+    "chinese": "青少年",
+    "pinyin": "qīngshàonián",
+    "korean": "청소년"
+  },
+  {
+    "chinese": "体力",
+    "pinyin": "tǐlì",
+    "korean": "체력"
+  },
+  {
+    "chinese": "体温",
+    "pinyin": "tǐwēn",
+    "korean": "체온"
+  },
+  {
+    "chinese": "体育",
+    "pinyin": "tǐyù",
+    "korean": "체육"
+  },
+  {
+    "chinese": "最高",
+    "pinyin": "zuìgāo",
+    "korean": "최고"
+  },
+  {
+    "chinese": "最近",
+    "pinyin": "zuìjìn",
+    "korean": "최근"
+  },
+  {
+    "chinese": "最小",
+    "pinyin": "zuìxiǎo",
+    "korean": "최소"
+  },
+  {
+    "chinese": "最初",
+    "pinyin": "zuìchū",
+    "korean": "최초"
+  },
+  {
+    "chinese": "足球",
+    "pinyin": "zúqiú",
+    "korean": "축구"
+  },
+  {
+    "chinese": "祝贺",
+    "pinyin": "zhùhè",
+    "korean": "축하"
+  },
+  {
+    "chinese": "出口",
+    "pinyin": "chūkǒu",
+    "korean": "출구"
+  },
+  {
+    "chinese": "出发",
+    "pinyin": "chūfā",
+    "korean": "출발"
+  },
+  {
+    "chinese": "出生",
+    "pinyin": "chūshēng",
+    "korean": "출생"
+  },
+  {
+    "chinese": "跳舞",
+    "pinyin": "tiàowǔ",
+    "korean": "춤"
+  },
+  {
+    "chinese": "冷",
+    "pinyin": "lěng",
+    "korean": "춥다"
+  },
+  {
+    "chinese": "充分",
+    "pinyin": "chōngfèn",
+    "korean": "충분한"
+  },
+  {
+    "chinese": "兴趣",
+    "pinyin": "xìngqù",
+    "korean": "취미"
+  },
+  {
+    "chinese": "层",
+    "pinyin": "céng",
+    "korean": "층"
+  },
+  {
+    "chinese": "治疗",
+    "pinyin": "zhìliáo",
+    "korean": "치료"
+  },
+  {
+    "chinese": "裙子",
+    "pinyin": "qúnzi",
+    "korean": "치마"
+  },
+  {
+    "chinese": "牙",
+    "pinyin": "yá",
+    "korean": "치아"
+  },
+  {
+    "chinese": "朋友",
+    "pinyin": "péngyou",
+    "korean": "친구"
+  },
+  {
+    "chinese": "亲切",
+    "pinyin": "qīnqiè",
+    "korean": "친절한"
+  },
+  {
+    "chinese": "亲戚",
+    "pinyin": "qīnqi",
+    "korean": "친척"
+  },
+  {
+    "chinese": "黑板",
+    "pinyin": "hēibǎn",
+    "korean": "칠판"
+  },
+  {
+    "chinese": "床",
+    "pinyin": "chuáng",
+    "korean": "침대"
+  },
+  {
+    "chinese": "卧室",
+    "pinyin": "wòshì",
+    "korean": "침실"
+  },
+  {
+    "chinese": "称赞",
+    "pinyin": "chēngzàn",
+    "korean": "칭찬"
+  },
+  {
+    "chinese": "卡片",
+    "pinyin": "kǎpiàn",
+    "korean": "카드"
+  },
+  {
+    "chinese": "照相机",
+    "pinyin": "zhàoxiàngjī",
+    "korean": "카메라"
+  },
+  {
+    "chinese": "刀",
+    "pinyin": "dāo",
+    "korean": "칼"
+  },
+  {
+    "chinese": "窗帘",
+    "pinyin": "chuānglián",
+    "korean": "커튼"
+  },
+  {
+    "chinese": "咖啡",
+    "pinyin": "kāfēi",
+    "korean": "커피"
+  },
+  {
+    "chinese": "大的",
+    "pinyin": "dàde",
+    "korean": "큰"
+  },
+  {
+    "chinese": "个子",
+    "pinyin": "gèzi",
+    "korean": "키"
+  },
+  {
+    "chinese": "出租车",
+    "pinyin": "chūzūchē",
+    "korean": "택시"
+  },
+  {
+    "chinese": "电视",
+    "pinyin": "diànshì",
+    "korean": "텔레비전"
+  },
+  {
+    "chinese": "兔子",
+    "pinyin": "tùzi",
+    "korean": "토끼"
+  },
+  {
+    "chinese": "番茄",
+    "pinyin": "fānqié",
+    "korean": "토마토"
+  },
+  {
+    "chinese": "星期六",
+    "pinyin": "xīngqīliù",
+    "korean": "토요일"
+  },
+  {
+    "chinese": "土地",
+    "pinyin": "tǔdì",
+    "korean": "토지"
+  },
+  {
+    "chinese": "特别",
+    "pinyin": "tèbié",
+    "korean": "특별한"
+  },
+  {
+    "chinese": "特征",
+    "pinyin": "tèzhēng",
+    "korean": "특징"
+  },
+  {
+    "chinese": "结实",
+    "pinyin": "jiēshi",
+    "korean": "튼튼한"
+  },
+  {
+    "chinese": "队",
+    "pinyin": "duì",
+    "korean": "팀"
+  },
+  {
+    "chinese": "波浪",
+    "pinyin": "bōlàng",
+    "korean": "파도"
+  },
+  {
+    "chinese": "蓝色",
+    "pinyin": "lánsè",
+    "korean": "파란색"
+  },
+  {
+    "chinese": "派对",
+    "pinyin": "pàiduì",
+    "korean": "파티"
+  },
+  {
+    "chinese": "手臂",
+    "pinyin": "shǒubì",
+    "korean": "팔"
+  },
+  {
+    "chinese": "八",
+    "pinyin": "bā",
+    "korean": "팔(여덟)"
+  },
+  {
+    "chinese": "卖",
+    "pinyin": "mài",
+    "korean": "팔다"
+  },
+  {
+    "chinese": "便利",
+    "pinyin": "biànlì",
+    "korean": "편리한"
+  },
+  {
+    "chinese": "信",
+    "pinyin": "xìn",
+    "korean": "편지"
+  },
+  {
+    "chinese": "方便",
+    "pinyin": "fāngbiàn",
+    "korean": "편한"
+  },
+  {
+    "chinese": "平均",
+    "pinyin": "píngjūn",
+    "korean": "평균"
+  },
+  {
+    "chinese": "平常",
+    "pinyin": "píngcháng",
+    "korean": "평소"
+  },
+  {
+    "chinese": "和平",
+    "pinyin": "hépíng",
+    "korean": "평화"
+  },
+  {
+    "chinese": "葡萄",
+    "pinyin": "pútao",
+    "korean": "포도"
+  },
+  {
+    "chinese": "暴力",
+    "pinyin": "bàolì",
+    "korean": "폭력"
+  },
+  {
+    "chinese": "暴风",
+    "pinyin": "bàofēng",
+    "korean": "폭풍"
+  },
+  {
+    "chinese": "票",
+    "pinyin": "piào",
+    "korean": "표"
+  },
+  {
+    "chinese": "表面",
+    "pinyin": "biǎomiàn",
+    "korean": "표면"
+  },
+  {
+    "chinese": "表情",
+    "pinyin": "biǎoqíng",
+    "korean": "표정"
+  },
+  {
+    "chinese": "表现",
+    "pinyin": "biǎoxiàn",
+    "korean": "표현"
+  },
+  {
+    "chinese": "草",
+    "pinyin": "cǎo",
+    "korean": "풀"
+  },
+  {
+    "chinese": "风景",
+    "pinyin": "fēngjǐng",
+    "korean": "풍경"
+  },
+  {
+    "chinese": "丰富",
+    "pinyin": "fēngfù",
+    "korean": "풍부한"
+  },
+  {
+    "chinese": "节目",
+    "pinyin": "jiémù",
+    "korean": "프로그램"
+  },
+  {
+    "chinese": "必须",
+    "pinyin": "bìxū",
+    "korean": "필수"
+  },
+  {
+    "chinese": "需要",
+    "pinyin": "xūyào",
+    "korean": "필요"
+  },
+  {
+    "chinese": "一",
+    "pinyin": "yī",
+    "korean": "하나"
+  },
+  {
+    "chinese": "天空",
+    "pinyin": "tiānkōng",
+    "korean": "하늘"
+  },
+  {
+    "chinese": "做",
+    "pinyin": "zuò",
+    "korean": "하다"
+  },
+  {
+    "chinese": "河马",
+    "pinyin": "hémǎ",
+    "korean": "하마"
+  },
+  {
+    "chinese": "但是",
+    "pinyin": "dànshì",
+    "korean": "하지만"
+  },
+  {
+    "chinese": "学校",
+    "pinyin": "xuéxiào",
+    "korean": "학교"
+  },
+  {
+    "chinese": "学期",
+    "pinyin": "xuéqī",
+    "korean": "학기"
+  },
+  {
+    "chinese": "学生",
+    "pinyin": "xuéshēng",
+    "korean": "학생"
+  },
+  {
+    "chinese": "韩国",
+    "pinyin": "hánguó",
+    "korean": "한국"
+  },
+  {
+    "chinese": "汉字",
+    "pinyin": "hànzì",
+    "korean": "한자"
+  },
+  {
+    "chinese": "祖母",
+    "pinyin": "zǔmǔ",
+    "korean": "할머니"
+  },
+  {
+    "chinese": "祖父",
+    "pinyin": "zǔfù",
+    "korean": "할아버지"
+  },
+  {
+    "chinese": "折扣",
+    "pinyin": "zhékòu",
+    "korean": "할인"
+  },
+  {
+    "chinese": "合格",
+    "pinyin": "hégé",
+    "korean": "합격"
+  },
+  {
+    "chinese": "一共",
+    "pinyin": "yígòng",
+    "korean": "합계"
+  },
+  {
+    "chinese": "航空",
+    "pinyin": "hángkōng",
+    "korean": "항공"
+  },
+  {
+    "chinese": "港口",
+    "pinyin": "gǎngkǒu",
+    "korean": "항구"
+  },
+  {
+    "chinese": "总是",
+    "pinyin": "zǒngshì",
+    "korean": "항상"
+  },
+  {
+    "chinese": "太阳",
+    "pinyin": "tàiyáng",
+    "korean": "해"
+  },
+  {
+    "chinese": "解决",
+    "pinyin": "jiějué",
+    "korean": "해결"
+  },
+  {
+    "chinese": "海鲜",
+    "pinyin": "hǎixiān",
+    "korean": "해산물"
+  },
+  {
+    "chinese": "海外",
+    "pinyin": "hǎiwài",
+    "korean": "해외"
+  },
+  {
+    "chinese": "核心",
+    "pinyin": "héxīn",
+    "korean": "핵심"
+  },
+  {
+    "chinese": "手机",
+    "pinyin": "shǒujī",
+    "korean": "핸드폰"
+  },
+  {
+    "chinese": "行动",
+    "pinyin": "xíngdòng",
+    "korean": "행동"
+  },
+  {
+    "chinese": "幸福",
+    "pinyin": "xìngfú",
+    "korean": "행복"
+  },
+  {
+    "chinese": "幸运",
+    "pinyin": "xìngyùn",
+    "korean": "행운"
+  },
+  {
+    "chinese": "向",
+    "pinyin": "xiàng",
+    "korean": "향"
+  },
+  {
+    "chinese": "允许",
+    "pinyin": "yǔnxǔ",
+    "korean": "허락"
+  },
+  {
+    "chinese": "腰",
+    "pinyin": "yāo",
+    "korean": "허리"
+  },
+  {
+    "chinese": "现金",
+    "pinyin": "xiànjīn",
+    "korean": "현금"
+  },
+  {
+    "chinese": "现代",
+    "pinyin": "xiàndài",
+    "korean": "현대"
+  },
+  {
+    "chinese": "现实",
+    "pinyin": "xiànshí",
+    "korean": "현실"
+  },
+  {
+    "chinese": "现在",
+    "pinyin": "xiànzài",
+    "korean": "현재"
+  },
+  {
+    "chinese": "血液",
+    "pinyin": "xuèyè",
+    "korean": "혈액"
+  },
+  {
+    "chinese": "合作",
+    "pinyin": "hézuò",
+    "korean": "협력"
+  },
+  {
+    "chinese": "形式",
+    "pinyin": "xíngshì",
+    "korean": "형식"
+  },
+  {
+    "chinese": "兄弟",
+    "pinyin": "xiōngdì",
+    "korean": "형제"
+  },
+  {
+    "chinese": "形态",
+    "pinyin": "xíngtài",
+    "korean": "형태"
+  },
+  {
+    "chinese": "好奇",
+    "pinyin": "hàoqí",
+    "korean": "호기심"
+  },
+  {
+    "chinese": "老虎",
+    "pinyin": "lǎohǔ",
+    "korean": "호랑이"
+  },
+  {
+    "chinese": "湖",
+    "pinyin": "hú",
+    "korean": "호수"
+  },
+  {
+    "chinese": "酒店",
+    "pinyin": "jiǔdiàn",
+    "korean": "호텔"
+  },
+  {
+    "chinese": "也许",
+    "pinyin": "yěxǔ",
+    "korean": "혹시"
+  },
+  {
+    "chinese": "单独",
+    "pinyin": "dāndú",
+    "korean": "혼자"
+  },
+  {
+    "chinese": "红茶",
+    "pinyin": "hóngchá",
+    "korean": "홍차"
+  },
+  {
+    "chinese": "生气",
+    "pinyin": "shēngqì",
+    "korean": "화나다"
+  },
+  {
+    "chinese": "星期二",
+    "pinyin": "xīngqīèr",
+    "korean": "화요일"
+  },
+  {
+    "chinese": "厕所",
+    "pinyin": "cèsuǒ",
+    "korean": "화장실"
+  },
+  {
+    "chinese": "化妆品",
+    "pinyin": "huàzhuāngpǐn",
+    "korean": "화장품"
+  },
+  {
+    "chinese": "火灾",
+    "pinyin": "huǒzāi",
+    "korean": "화재"
+  },
+  {
+    "chinese": "确实",
+    "pinyin": "quèshí",
+    "korean": "확실한"
+  },
+  {
+    "chinese": "确认",
+    "pinyin": "quèrèn",
+    "korean": "확인"
+  },
+  {
+    "chinese": "环境",
+    "pinyin": "huánjìng",
+    "korean": "환경"
+  },
+  {
+    "chinese": "欢迎",
+    "pinyin": "huānyíng",
+    "korean": "환영"
+  },
+  {
+    "chinese": "患者",
+    "pinyin": "huànzhě",
+    "korean": "환자"
+  },
+  {
+    "chinese": "活动",
+    "pinyin": "huódòng",
+    "korean": "활동"
+  },
+  {
+    "chinese": "活泼",
+    "pinyin": "huópo",
+    "korean": "활발한"
+  },
+  {
+    "chinese": "公司",
+    "pinyin": "gōngsī",
+    "korean": "회사"
+  },
+  {
+    "chinese": "回忆",
+    "pinyin": "huíyì",
+    "korean": "회상"
+  },
+  {
+    "chinese": "会议",
+    "pinyin": "huìyì",
+    "korean": "회의"
+  },
+  {
+    "chinese": "会话",
+    "pinyin": "huìhuà",
+    "korean": "회화"
+  },
+  {
+    "chinese": "效果",
+    "pinyin": "xiàoguǒ",
+    "korean": "효과"
+  },
+  {
+    "chinese": "后辈",
+    "pinyin": "hòubèi",
+    "korean": "후배"
+  },
+  {
+    "chinese": "胡椒",
+    "pinyin": "hújiāo",
+    "korean": "후추"
+  },
+  {
+    "chinese": "后悔",
+    "pinyin": "hòuhuǐ",
+    "korean": "후회"
+  },
+  {
+    "chinese": "训练",
+    "pinyin": "xùnliàn",
+    "korean": "훈련"
+  },
+  {
+    "chinese": "伟大",
+    "pinyin": "wěidà",
+    "korean": "훌륭한"
+  },
+  {
+    "chinese": "休假",
+    "pinyin": "xiūjià",
+    "korean": "휴가"
+  },
+  {
+    "chinese": "手机",
+    "pinyin": "shǒujī",
+    "korean": "휴대폰"
+  },
+  {
+    "chinese": "休息日",
+    "pinyin": "xiūxirì",
+    "korean": "휴일"
+  },
+  {
+    "chinese": "稀少",
+    "pinyin": "xīshǎo",
+    "korean": "희귀한"
+  },
+  {
+    "chinese": "喜剧",
+    "pinyin": "xǐjù",
+    "korean": "희극"
+  }
+]

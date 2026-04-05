@@ -1,0 +1,5002 @@
+[
+  {
+    "arabic": "دكان",
+    "romanization": "dukkān",
+    "korean": "가게"
+  },
+  {
+    "arabic": "سعر",
+    "romanization": "siʿr",
+    "korean": "가격"
+  },
+  {
+    "arabic": "أثاث",
+    "romanization": "athāth",
+    "korean": "가구"
+  },
+  {
+    "arabic": "قريب",
+    "romanization": "qarīb",
+    "korean": "가까운"
+  },
+  {
+    "arabic": "رقيق",
+    "romanization": "raqīq",
+    "korean": "가는"
+  },
+  {
+    "arabic": "ممكن",
+    "romanization": "mumkin",
+    "korean": "가능한"
+  },
+  {
+    "arabic": "يذهب",
+    "romanization": "yadh-hab",
+    "korean": "가다"
+  },
+  {
+    "arabic": "مسحوق",
+    "romanization": "masḥūq",
+    "korean": "가루"
+  },
+  {
+    "arabic": "يعلّم",
+    "romanization": "yuʿallim",
+    "korean": "가르치다"
+  },
+  {
+    "arabic": "يشير",
+    "romanization": "yushīr",
+    "korean": "가리키다"
+  },
+  {
+    "arabic": "حقيبة",
+    "romanization": "ḥaqība",
+    "korean": "가방"
+  },
+  {
+    "arabic": "خفيف",
+    "romanization": "khafīf",
+    "korean": "가벼운"
+  },
+  {
+    "arabic": "يغني",
+    "romanization": "yughanī",
+    "korean": "가수"
+  },
+  {
+    "arabic": "غاز",
+    "romanization": "ghāz",
+    "korean": "가스"
+  },
+  {
+    "arabic": "صدر",
+    "romanization": "ṣadr",
+    "korean": "가슴"
+  },
+  {
+    "arabic": "مقصّ",
+    "romanization": "miqaṣṣ",
+    "korean": "가위"
+  },
+  {
+    "arabic": "خريف",
+    "romanization": "kharīf",
+    "korean": "가을"
+  },
+  {
+    "arabic": "مُرشد",
+    "romanization": "murshid",
+    "korean": "가이드"
+  },
+  {
+    "arabic": "أكثر",
+    "romanization": "akthar",
+    "korean": "가장"
+  },
+  {
+    "arabic": "عائلة",
+    "romanization": "ʿā'ila",
+    "korean": "가족"
+  },
+  {
+    "arabic": "فرع",
+    "romanization": "farʿ",
+    "korean": "가지"
+  },
+  {
+    "arabic": "برتقال",
+    "romanization": "burtuqāl",
+    "korean": "감귤"
+  },
+  {
+    "arabic": "نزلة برد",
+    "romanization": "nazlat bard",
+    "korean": "감기"
+  },
+  {
+    "arabic": "شكراً",
+    "romanization": "shukran",
+    "korean": "감사"
+  },
+  {
+    "arabic": "سجن",
+    "romanization": "sijn",
+    "korean": "감옥"
+  },
+  {
+    "arabic": "بطاطا",
+    "romanization": "baṭāṭā",
+    "korean": "감자"
+  },
+  {
+    "arabic": "عاطفة",
+    "romanization": "ʿāṭifa",
+    "korean": "감정"
+  },
+  {
+    "arabic": "نهر",
+    "romanization": "nahr",
+    "korean": "강"
+  },
+  {
+    "arabic": "قوي",
+    "romanization": "qawī",
+    "korean": "강한"
+  },
+  {
+    "arabic": "كلب",
+    "romanization": "kalb",
+    "korean": "개"
+  },
+  {
+    "arabic": "ضفدع",
+    "romanization": "ḍifdaʿ",
+    "korean": "개구리"
+  },
+  {
+    "arabic": "مفهوم",
+    "romanization": "mafhūm",
+    "korean": "개념"
+  },
+  {
+    "arabic": "افتتاح",
+    "romanization": "iftitāḥ",
+    "korean": "개막"
+  },
+  {
+    "arabic": "يفتح",
+    "romanization": "yaftaḥ",
+    "korean": "개방하다"
+  },
+  {
+    "arabic": "تحسين",
+    "romanization": "taḥsīn",
+    "korean": "개선"
+  },
+  {
+    "arabic": "شخصية",
+    "romanization": "shakhṣiyya",
+    "korean": "개성"
+  },
+  {
+    "arabic": "فردي",
+    "romanization": "fardī",
+    "korean": "개인의"
+  },
+  {
+    "arabic": "كبير",
+    "romanization": "kabīr",
+    "korean": "거대한"
+  },
+  {
+    "arabic": "شارع",
+    "romanization": "shāriʿ",
+    "korean": "거리"
+  },
+  {
+    "arabic": "يرفض",
+    "romanization": "yarfuḍ",
+    "korean": "거부하다"
+  },
+  {
+    "arabic": "مرآة",
+    "romanization": "mir'āh",
+    "korean": "거울"
+  },
+  {
+    "arabic": "كذب",
+    "romanization": "kadhib",
+    "korean": "거짓말"
+  },
+  {
+    "arabic": "صحة",
+    "romanization": "ṣiḥḥa",
+    "korean": "건강"
+  },
+  {
+    "arabic": "يعبر",
+    "romanization": "yaʿbur",
+    "korean": "건너다"
+  },
+  {
+    "arabic": "مبنى",
+    "romanization": "mabnā",
+    "korean": "건물"
+  },
+  {
+    "arabic": "بناء",
+    "romanization": "binā'",
+    "korean": "건설"
+  },
+  {
+    "arabic": "جاف",
+    "romanization": "jāff",
+    "korean": "건조한"
+  },
+  {
+    "arabic": "يمشي",
+    "romanization": "yamshī",
+    "korean": "걷다"
+  },
+  {
+    "arabic": "سيف",
+    "romanization": "sayf",
+    "korean": "검"
+  },
+  {
+    "arabic": "فحص",
+    "romanization": "faḥṣ",
+    "korean": "검사"
+  },
+  {
+    "arabic": "أسود",
+    "romanization": "aswad",
+    "korean": "검은색"
+  },
+  {
+    "arabic": "سلطعون",
+    "romanization": "sarṭaʿūn",
+    "korean": "게"
+  },
+  {
+    "arabic": "لوحة إعلانات",
+    "romanization": "lawḥat iʿlānāt",
+    "korean": "게시판"
+  },
+  {
+    "arabic": "كسول",
+    "romanization": "kasūl",
+    "korean": "게으른"
+  },
+  {
+    "arabic": "لعبة",
+    "romanization": "luʿba",
+    "korean": "게임"
+  },
+  {
+    "arabic": "شتاء",
+    "romanization": "shitā'",
+    "korean": "겨울"
+  },
+  {
+    "arabic": "خردل",
+    "romanization": "khardal",
+    "korean": "겨자"
+  },
+  {
+    "arabic": "حدود",
+    "romanization": "ḥudūd",
+    "korean": "경계"
+  },
+  {
+    "arabic": "مسابقة",
+    "romanization": "musābaqa",
+    "korean": "경기"
+  },
+  {
+    "arabic": "منافسة",
+    "romanization": "munāfasa",
+    "korean": "경쟁"
+  },
+  {
+    "arabic": "اقتصاد",
+    "romanization": "iqtiṣād",
+    "korean": "경제"
+  },
+  {
+    "arabic": "شرطة",
+    "romanization": "shurṭa",
+    "korean": "경찰"
+  },
+  {
+    "arabic": "مشهد",
+    "romanization": "mashhad",
+    "korean": "경치"
+  },
+  {
+    "arabic": "تجربة",
+    "romanization": "tajriba",
+    "korean": "경험"
+  },
+  {
+    "arabic": "درج",
+    "romanization": "daraj",
+    "korean": "계단"
+  },
+  {
+    "arabic": "بيضة",
+    "romanization": "bayḍa",
+    "korean": "계란"
+  },
+  {
+    "arabic": "حساب",
+    "romanization": "ḥisāb",
+    "korean": "계산"
+  },
+  {
+    "arabic": "عقد",
+    "romanization": "ʿaqd",
+    "korean": "계약"
+  },
+  {
+    "arabic": "فصل",
+    "romanization": "faṣl",
+    "korean": "계절"
+  },
+  {
+    "arabic": "خطة",
+    "romanization": "khiṭṭa",
+    "korean": "계획"
+  },
+  {
+    "arabic": "زبون",
+    "romanization": "zabūn",
+    "korean": "고객"
+  },
+  {
+    "arabic": "عالي",
+    "romanization": "ʿālī",
+    "korean": "고급"
+  },
+  {
+    "arabic": "لحم بقر",
+    "romanization": "laḥm baqar",
+    "korean": "고기"
+  },
+  {
+    "arabic": "قديم",
+    "romanization": "qadīm",
+    "korean": "고대의"
+  },
+  {
+    "arabic": "وحيد",
+    "romanization": "waḥīd",
+    "korean": "고독한"
+  },
+  {
+    "arabic": "حوت",
+    "romanization": "ḥūt",
+    "korean": "고래"
+  },
+  {
+    "arabic": "يختار",
+    "romanization": "yakhtār",
+    "korean": "고르다"
+  },
+  {
+    "arabic": "عمة",
+    "romanization": "ʿamma",
+    "korean": "고모"
+  },
+  {
+    "arabic": "مطاط",
+    "romanization": "maṭṭāṭ",
+    "korean": "고무"
+  },
+  {
+    "arabic": "قطة",
+    "romanization": "qiṭṭa",
+    "korean": "고양이"
+  },
+  {
+    "arabic": "فلفل حار",
+    "romanization": "fulful ḥārr",
+    "korean": "고추"
+  },
+  {
+    "arabic": "يصلح",
+    "romanization": "yuṣliḥ",
+    "korean": "고치다"
+  },
+  {
+    "arabic": "ألم",
+    "romanization": "alam",
+    "korean": "고통"
+  },
+  {
+    "arabic": "وطن",
+    "romanization": "waṭan",
+    "korean": "고향"
+  },
+  {
+    "arabic": "حشرة",
+    "romanization": "ḥashara",
+    "korean": "곤충"
+  },
+  {
+    "arabic": "دبّ",
+    "romanization": "dubb",
+    "korean": "곰"
+  },
+  {
+    "arabic": "مكان",
+    "romanization": "makān",
+    "korean": "곳"
+  },
+  {
+    "arabic": "كرة",
+    "romanization": "kura",
+    "korean": "공"
+  },
+  {
+    "arabic": "فضاء",
+    "romanization": "faḍā'",
+    "korean": "공간"
+  },
+  {
+    "arabic": "هجوم",
+    "romanization": "hujūm",
+    "korean": "공격"
+  },
+  {
+    "arabic": "إعلان",
+    "romanization": "iʿlān",
+    "korean": "공고"
+  },
+  {
+    "arabic": "هواء",
+    "romanization": "hawā'",
+    "korean": "공기"
+  },
+  {
+    "arabic": "دراسة",
+    "romanization": "dirāsa",
+    "korean": "공부"
+  },
+  {
+    "arabic": "رسمي",
+    "romanization": "rasmī",
+    "korean": "공식적인"
+  },
+  {
+    "arabic": "حديقة",
+    "romanization": "ḥadīqa",
+    "korean": "공원"
+  },
+  {
+    "arabic": "مصنع",
+    "romanization": "maṣnaʿ",
+    "korean": "공장"
+  },
+  {
+    "arabic": "عادل",
+    "romanization": "ʿādil",
+    "korean": "공정한"
+  },
+  {
+    "arabic": "دفتر",
+    "romanization": "daftar",
+    "korean": "공책"
+  },
+  {
+    "arabic": "مشترك",
+    "romanization": "mushtarak",
+    "korean": "공통의"
+  },
+  {
+    "arabic": "مطار",
+    "romanization": "maṭār",
+    "korean": "공항"
+  },
+  {
+    "arabic": "زائد",
+    "romanization": "zā'id",
+    "korean": "과도한"
+  },
+  {
+    "arabic": "مادة دراسية",
+    "romanization": "mādda dirāsiyya",
+    "korean": "과목"
+  },
+  {
+    "arabic": "فاكهة",
+    "romanization": "fākiha",
+    "korean": "과일"
+  },
+  {
+    "arabic": "عملية",
+    "romanization": "ʿamaliyya",
+    "korean": "과정"
+  },
+  {
+    "arabic": "علم",
+    "romanization": "ʿilm",
+    "korean": "과학"
+  },
+  {
+    "arabic": "علاقة",
+    "romanization": "ʿalāqa",
+    "korean": "관계"
+  },
+  {
+    "arabic": "سياحة",
+    "romanization": "siyāḥa",
+    "korean": "관광"
+  },
+  {
+    "arabic": "إدارة",
+    "romanization": "idāra",
+    "korean": "관리"
+  },
+  {
+    "arabic": "عرف",
+    "romanization": "ʿurf",
+    "korean": "관습"
+  },
+  {
+    "arabic": "اهتمام",
+    "romanization": "ihtimām",
+    "korean": "관심"
+  },
+  {
+    "arabic": "جمهور",
+    "romanization": "jumhūr",
+    "korean": "관중"
+  },
+  {
+    "arabic": "حسناً",
+    "romanization": "ḥasanan",
+    "korean": "괜찮은"
+  },
+  {
+    "arabic": "جسر",
+    "romanization": "jisr",
+    "korean": "교량"
+  },
+  {
+    "arabic": "معلم",
+    "romanization": "muʿallim",
+    "korean": "교사"
+  },
+  {
+    "arabic": "مدرسة",
+    "romanization": "madrasa",
+    "korean": "교실"
+  },
+  {
+    "arabic": "ضاحية",
+    "romanization": "ḍāḥiya",
+    "korean": "교외"
+  },
+  {
+    "arabic": "تعليم",
+    "romanization": "taʿlīm",
+    "korean": "교육"
+  },
+  {
+    "arabic": "مواصلات",
+    "romanization": "muwāṣalāt",
+    "korean": "교통"
+  },
+  {
+    "arabic": "تبادل",
+    "romanization": "tabādul",
+    "korean": "교환"
+  },
+  {
+    "arabic": "كنيسة",
+    "romanization": "kanīsa",
+    "korean": "교회"
+  },
+  {
+    "arabic": "تسعة",
+    "romanization": "tisʿa",
+    "korean": "구(숫자)"
+  },
+  {
+    "arabic": "حذاء",
+    "romanization": "ḥidhā'",
+    "korean": "구두"
+  },
+  {
+    "arabic": "سحابة",
+    "romanization": "saḥāba",
+    "korean": "구름"
+  },
+  {
+    "arabic": "منطقة",
+    "romanization": "minṭaqa",
+    "korean": "구역"
+  },
+  {
+    "arabic": "هيكل",
+    "romanization": "haykal",
+    "korean": "구조"
+  },
+  {
+    "arabic": "جيش",
+    "romanization": "jaysh",
+    "korean": "군대"
+  },
+  {
+    "arabic": "محار",
+    "romanization": "maḥār",
+    "korean": "굴"
+  },
+  {
+    "arabic": "سميك",
+    "romanization": "samīk",
+    "korean": "굵은"
+  },
+  {
+    "arabic": "جوع",
+    "romanization": "jūʿ",
+    "korean": "굶주림"
+  },
+  {
+    "arabic": "قصر",
+    "romanization": "qaṣr",
+    "korean": "궁전"
+  },
+  {
+    "arabic": "سلطة",
+    "romanization": "sulṭa",
+    "korean": "권력"
+  },
+  {
+    "arabic": "حق",
+    "romanization": "ḥaqq",
+    "korean": "권리"
+  },
+  {
+    "arabic": "أذن",
+    "romanization": "udhun",
+    "korean": "귀"
+  },
+  {
+    "arabic": "يعود",
+    "romanization": "yaʿūd",
+    "korean": "귀국하다"
+  },
+  {
+    "arabic": "ثمين",
+    "romanization": "thamīn",
+    "korean": "귀중한"
+  },
+  {
+    "arabic": "قاعدة",
+    "romanization": "qāʿida",
+    "korean": "규칙"
+  },
+  {
+    "arabic": "هو",
+    "romanization": "huwa",
+    "korean": "그(남성)"
+  },
+  {
+    "arabic": "ذلك",
+    "romanization": "dhālika",
+    "korean": "그것"
+  },
+  {
+    "arabic": "ظل",
+    "romanization": "ẓill",
+    "korean": "그늘"
+  },
+  {
+    "arabic": "لكن",
+    "romanization": "lākin",
+    "korean": "그러나"
+  },
+  {
+    "arabic": "هكذا",
+    "romanization": "hākadhā",
+    "korean": "그렇게"
+  },
+  {
+    "arabic": "وعاء",
+    "romanization": "wiʿā'",
+    "korean": "그릇"
+  },
+  {
+    "arabic": "صورة",
+    "romanization": "ṣūra",
+    "korean": "그림"
+  },
+  {
+    "arabic": "مسرح",
+    "romanization": "masraḥ",
+    "korean": "극장"
+  },
+  {
+    "arabic": "حديث",
+    "romanization": "ḥadīth",
+    "korean": "근대의"
+  },
+  {
+    "arabic": "عامل",
+    "romanization": "ʿāmil",
+    "korean": "근로자"
+  },
+  {
+    "arabic": "قلق",
+    "romanization": "qalaq",
+    "korean": "근심"
+  },
+  {
+    "arabic": "عضلة",
+    "romanization": "ʿaḍala",
+    "korean": "근육"
+  },
+  {
+    "arabic": "ذهب",
+    "romanization": "dhahab",
+    "korean": "금"
+  },
+  {
+    "arabic": "يوم الجمعة",
+    "romanization": "yawm al-jumʿa",
+    "korean": "금요일"
+  },
+  {
+    "arabic": "يمنع",
+    "romanization": "yamnaʿ",
+    "korean": "금지하다"
+  },
+  {
+    "arabic": "سريع",
+    "romanization": "sarīʿ",
+    "korean": "급한"
+  },
+  {
+    "arabic": "إيجابي",
+    "romanization": "ījābī",
+    "korean": "긍정적인"
+  },
+  {
+    "arabic": "تكنولوجيا",
+    "romanization": "tiknūlūjiyā",
+    "korean": "기술(테크)"
+  },
+  {
+    "arabic": "طويل",
+    "romanization": "ṭawīl",
+    "korean": "긴"
+  },
+  {
+    "arabic": "طريق",
+    "romanization": "ṭarīq",
+    "korean": "길"
+  },
+  {
+    "arabic": "عميق",
+    "romanization": "ʿamīq",
+    "korean": "깊은"
+  },
+  {
+    "arabic": "نظيف",
+    "romanization": "naẓīf",
+    "korean": "깨끗한"
+  },
+  {
+    "arabic": "ذيل",
+    "romanization": "dhayl",
+    "korean": "꼬리"
+  },
+  {
+    "arabic": "أعلى",
+    "romanization": "aʿlā",
+    "korean": "꼭대기"
+  },
+  {
+    "arabic": "زهرة",
+    "romanization": "zahra",
+    "korean": "꽃"
+  },
+  {
+    "arabic": "عسل",
+    "romanization": "ʿasal",
+    "korean": "꿀"
+  },
+  {
+    "arabic": "حلم",
+    "romanization": "ḥulm",
+    "korean": "꿈"
+  },
+  {
+    "arabic": "يطفئ",
+    "romanization": "yuṭfi'",
+    "korean": "끄다"
+  },
+  {
+    "arabic": "خيط",
+    "romanization": "khayṭ",
+    "korean": "끈"
+  },
+  {
+    "arabic": "يقطع",
+    "romanization": "yaqṭaʿ",
+    "korean": "끊다"
+  },
+  {
+    "arabic": "نهاية",
+    "romanization": "nihāya",
+    "korean": "끝"
+  },
+  {
+    "arabic": "وجبة",
+    "romanization": "wajba",
+    "korean": "끼니"
+  },
+  {
+    "arabic": "أنا",
+    "romanization": "anā",
+    "korean": "나"
+  },
+  {
+    "arabic": "بلد",
+    "romanization": "balad",
+    "korean": "나라"
+  },
+  {
+    "arabic": "شجرة",
+    "romanization": "shajara",
+    "korean": "나무"
+  },
+  {
+    "arabic": "فراشة",
+    "romanization": "farāsha",
+    "korean": "나비"
+  },
+  {
+    "arabic": "سيئ",
+    "romanization": "sayyi'",
+    "korean": "나쁜"
+  },
+  {
+    "arabic": "عمر",
+    "romanization": "ʿumr",
+    "korean": "나이"
+  },
+  {
+    "arabic": "بعد ذلك",
+    "romanization": "baʿda dhālika",
+    "korean": "나중에"
+  },
+  {
+    "arabic": "يوم",
+    "romanization": "yawm",
+    "korean": "날"
+  },
+  {
+    "arabic": "جناح",
+    "romanization": "janāḥ",
+    "korean": "날개"
+  },
+  {
+    "arabic": "طقس",
+    "romanization": "ṭaqs",
+    "korean": "날씨"
+  },
+  {
+    "arabic": "تاريخ",
+    "romanization": "tārīkh",
+    "korean": "날짜"
+  },
+  {
+    "arabic": "حاد",
+    "romanization": "ḥādd",
+    "korean": "날카로운"
+  },
+  {
+    "arabic": "متبقي",
+    "romanization": "mutabaqī",
+    "korean": "남은"
+  },
+  {
+    "arabic": "رجل",
+    "romanization": "rajul",
+    "korean": "남자"
+  },
+  {
+    "arabic": "جنوب",
+    "romanization": "janūb",
+    "korean": "남쪽"
+  },
+  {
+    "arabic": "زوج",
+    "romanization": "zawj",
+    "korean": "남편"
+  },
+  {
+    "arabic": "نهار",
+    "romanization": "nahār",
+    "korean": "낮"
+  },
+  {
+    "arabic": "منخفض",
+    "romanization": "munkhafiḍ",
+    "korean": "낮은"
+  },
+  {
+    "arabic": "غريب",
+    "romanization": "gharīb",
+    "korean": "낯선"
+  },
+  {
+    "arabic": "داخلي",
+    "romanization": "dākhilī",
+    "korean": "내부의"
+  },
+  {
+    "arabic": "محتوى",
+    "romanization": "muḥtawā",
+    "korean": "내용"
+  },
+  {
+    "arabic": "غداً",
+    "romanization": "ghadan",
+    "korean": "내일"
+  },
+  {
+    "arabic": "رائحة",
+    "romanization": "rā'iḥa",
+    "korean": "냄새"
+  },
+  {
+    "arabic": "ثلاجة",
+    "romanization": "thallāja",
+    "korean": "냉장고"
+  },
+  {
+    "arabic": "واسع",
+    "romanization": "wāsiʿ",
+    "korean": "넓은"
+  },
+  {
+    "arabic": "نعم",
+    "romanization": "naʿam",
+    "korean": "네"
+  },
+  {
+    "arabic": "ربطة عنق",
+    "romanization": "rabṭat ʿunuq",
+    "korean": "넥타이"
+  },
+  {
+    "arabic": "أربعة",
+    "romanization": "arbaʿa",
+    "korean": "넷"
+  },
+  {
+    "arabic": "أصفر",
+    "romanization": "aṣfar",
+    "korean": "노란색"
+  },
+  {
+    "arabic": "أغنية",
+    "romanization": "ughniya",
+    "korean": "노래"
+  },
+  {
+    "arabic": "جهد",
+    "romanization": "juhd",
+    "korean": "노력"
+  },
+  {
+    "arabic": "عجوز",
+    "romanization": "ʿajūz",
+    "korean": "노인"
+  },
+  {
+    "arabic": "دفتر ملاحظات",
+    "romanization": "daftar mulāḥaẓāt",
+    "korean": "노트"
+  },
+  {
+    "arabic": "ملعب",
+    "romanization": "malʿab",
+    "korean": "놀이터"
+  },
+  {
+    "arabic": "مزاح",
+    "romanization": "muzāḥ",
+    "korean": "농담"
+  },
+  {
+    "arabic": "عامل زراعي",
+    "romanization": "ʿāmil zirāʿī",
+    "korean": "농부"
+  },
+  {
+    "arabic": "زراعة",
+    "romanization": "zirāʿa",
+    "korean": "농업"
+  },
+  {
+    "arabic": "مرتفع",
+    "romanization": "murtafiʿ",
+    "korean": "높은"
+  },
+  {
+    "arabic": "يضع",
+    "romanization": "yaḍaʿ",
+    "korean": "놓다"
+  },
+  {
+    "arabic": "من",
+    "romanization": "man",
+    "korean": "누구"
+  },
+  {
+    "arabic": "أخت كبرى",
+    "romanization": "ukht kubrā",
+    "korean": "누나"
+  },
+  {
+    "arabic": "ثلج",
+    "romanization": "thalj",
+    "korean": "눈(날씨)"
+  },
+  {
+    "arabic": "عين",
+    "romanization": "ʿayn",
+    "korean": "눈(신체)"
+  },
+  {
+    "arabic": "أخبار",
+    "romanization": "akhbār",
+    "korean": "뉴스"
+  },
+  {
+    "arabic": "يشعر",
+    "romanization": "yashʿur",
+    "korean": "느끼다"
+  },
+  {
+    "arabic": "بطيء",
+    "romanization": "baṭī'",
+    "korean": "느린"
+  },
+  {
+    "arabic": "دائماً",
+    "romanization": "dā'iman",
+    "korean": "늘"
+  },
+  {
+    "arabic": "يزيد",
+    "romanization": "yazīd",
+    "korean": "늘리다"
+  },
+  {
+    "arabic": "قدرة",
+    "romanization": "qudra",
+    "korean": "능력"
+  },
+  {
+    "arabic": "متأخر",
+    "romanization": "muta'akhkhir",
+    "korean": "늦은"
+  },
+  {
+    "arabic": "قمر",
+    "romanization": "qamar",
+    "korean": "달"
+  },
+  {
+    "arabic": "حلو",
+    "romanization": "ḥulw",
+    "korean": "달콤한"
+  },
+  {
+    "arabic": "دجاج",
+    "romanization": "dajāj",
+    "korean": "닭"
+  },
+  {
+    "arabic": "سور",
+    "romanization": "sūr",
+    "korean": "담"
+  },
+  {
+    "arabic": "سجائر",
+    "romanization": "sajā'ir",
+    "korean": "담배"
+  },
+  {
+    "arabic": "سكّر",
+    "romanization": "sukkar",
+    "korean": "당"
+  },
+  {
+    "arabic": "جزر",
+    "romanization": "jazar",
+    "korean": "당근"
+  },
+  {
+    "arabic": "فوراً",
+    "romanization": "fawran",
+    "korean": "당장"
+  },
+  {
+    "arabic": "جواب",
+    "romanization": "jawāb",
+    "korean": "대답"
+  },
+  {
+    "arabic": "قارة",
+    "romanization": "qārra",
+    "korean": "대륙"
+  },
+  {
+    "arabic": "معظم",
+    "romanization": "muʿẓam",
+    "korean": "대부분"
+  },
+  {
+    "arabic": "سفير",
+    "romanization": "safīr",
+    "korean": "대사"
+  },
+  {
+    "arabic": "بدلاً من",
+    "romanization": "badalan min",
+    "korean": "대신"
+  },
+  {
+    "arabic": "رئيس",
+    "romanization": "ra'īs",
+    "korean": "대통령"
+  },
+  {
+    "arabic": "ممثل",
+    "romanization": "mumaththil",
+    "korean": "대표"
+  },
+  {
+    "arabic": "جامعة",
+    "romanization": "jāmiʿa",
+    "korean": "대학교"
+  },
+  {
+    "arabic": "محادثة",
+    "romanization": "muḥādatha",
+    "korean": "대화"
+  },
+  {
+    "arabic": "أكثر",
+    "romanization": "akthar",
+    "korean": "더"
+  },
+  {
+    "arabic": "حار",
+    "romanization": "ḥārr",
+    "korean": "더운"
+  },
+  {
+    "arabic": "فضيلة",
+    "romanization": "faḍīla",
+    "korean": "덕"
+  },
+  {
+    "arabic": "أقل",
+    "romanization": "aqall",
+    "korean": "덜"
+  },
+  {
+    "arabic": "بيانات",
+    "romanization": "bayānāt",
+    "korean": "데이터"
+  },
+  {
+    "arabic": "أيضاً",
+    "romanization": "ayḍan",
+    "korean": "도"
+  },
+  {
+    "arabic": "أداة",
+    "romanization": "adāh",
+    "korean": "도구"
+  },
+  {
+    "arabic": "سرقة",
+    "romanization": "sariqa",
+    "korean": "도둑질"
+  },
+  {
+    "arabic": "طريق سريع",
+    "romanization": "ṭarīq sarīʿ",
+    "korean": "도로"
+  },
+  {
+    "arabic": "مكتبة",
+    "romanization": "maktaba",
+    "korean": "도서관"
+  },
+  {
+    "arabic": "مدينة",
+    "romanization": "madīna",
+    "korean": "도시"
+  },
+  {
+    "arabic": "مساعدة",
+    "romanization": "musāʿada",
+    "korean": "도움"
+  },
+  {
+    "arabic": "تحدي",
+    "romanization": "taḥaddī",
+    "korean": "도전"
+  },
+  {
+    "arabic": "وصول",
+    "romanization": "wuṣūl",
+    "korean": "도착"
+  },
+  {
+    "arabic": "مال",
+    "romanization": "māl",
+    "korean": "돈"
+  },
+  {
+    "arabic": "حجر",
+    "romanization": "ḥajar",
+    "korean": "돌"
+  },
+  {
+    "arabic": "يعتني",
+    "romanization": "yaʿtanī",
+    "korean": "돌보다"
+  },
+  {
+    "arabic": "يعود",
+    "romanization": "yaʿūd",
+    "korean": "돌아오다"
+  },
+  {
+    "arabic": "كهف",
+    "romanization": "kahf",
+    "korean": "동굴"
+  },
+  {
+    "arabic": "زميل",
+    "romanization": "zamīl",
+    "korean": "동료"
+  },
+  {
+    "arabic": "حيوان",
+    "romanization": "ḥayawān",
+    "korean": "동물"
+  },
+  {
+    "arabic": "أخ صغير",
+    "romanization": "akh ṣaghīr",
+    "korean": "동생"
+  },
+  {
+    "arabic": "اتفاق",
+    "romanization": "ittifāq",
+    "korean": "동의"
+  },
+  {
+    "arabic": "حركة",
+    "romanization": "ḥaraka",
+    "korean": "동작"
+  },
+  {
+    "arabic": "عملة معدنية",
+    "romanization": "ʿumla maʿdaniyya",
+    "korean": "동전"
+  },
+  {
+    "arabic": "شرق",
+    "romanization": "sharq",
+    "korean": "동쪽"
+  },
+  {
+    "arabic": "خنزير",
+    "romanization": "khinzīr",
+    "korean": "돼지"
+  },
+  {
+    "arabic": "يصبح",
+    "romanization": "yuṣbiḥ",
+    "korean": "되다"
+  },
+  {
+    "arabic": "اثنان",
+    "romanization": "ithnān",
+    "korean": "둘"
+  },
+  {
+    "arabic": "مستدير",
+    "romanization": "mustadīr",
+    "korean": "둥근"
+  },
+  {
+    "arabic": "خلف",
+    "romanization": "khalf",
+    "korean": "뒤"
+  },
+  {
+    "arabic": "دراما",
+    "romanization": "drāmā",
+    "korean": "드라마"
+  },
+  {
+    "arabic": "فستان",
+    "romanization": "fustān",
+    "korean": "드레스"
+  },
+  {
+    "arabic": "يسمع",
+    "romanization": "yasmaʿ",
+    "korean": "듣다"
+  },
+  {
+    "arabic": "يدخل",
+    "romanization": "yadkhul",
+    "korean": "들어가다"
+  },
+  {
+    "arabic": "حقل",
+    "romanization": "ḥaql",
+    "korean": "들판"
+  },
+  {
+    "arabic": "ظهر",
+    "romanization": "ẓahr",
+    "korean": "등"
+  },
+  {
+    "arabic": "تسجيل",
+    "romanization": "tasjīl",
+    "korean": "등록"
+  },
+  {
+    "arabic": "مصباح",
+    "romanization": "miṣbāḥ",
+    "korean": "등불"
+  },
+  {
+    "arabic": "ابنة",
+    "romanization": "ibna",
+    "korean": "딸"
+  },
+  {
+    "arabic": "فراولة",
+    "romanization": "farāwila",
+    "korean": "딸기"
+  },
+  {
+    "arabic": "عرق",
+    "romanization": "ʿaraq",
+    "korean": "땀"
+  },
+  {
+    "arabic": "أرض",
+    "romanization": "arḍ",
+    "korean": "땅"
+  },
+  {
+    "arabic": "وقت",
+    "romanization": "waqt",
+    "korean": "때"
+  },
+  {
+    "arabic": "بسبب",
+    "romanization": "bisabab",
+    "korean": "때문에"
+  },
+  {
+    "arabic": "غطاء",
+    "romanization": "ghiṭā'",
+    "korean": "뚜껑"
+  },
+  {
+    "arabic": "سمين",
+    "romanization": "samīn",
+    "korean": "뚱뚱한"
+  },
+  {
+    "arabic": "يجري",
+    "romanization": "yajrī",
+    "korean": "뛰다"
+  },
+  {
+    "arabic": "ساخن",
+    "romanization": "sākhin",
+    "korean": "뜨거운"
+  },
+  {
+    "arabic": "معنى",
+    "romanization": "maʿnā",
+    "korean": "뜻"
+  },
+  {
+    "arabic": "راديو",
+    "romanization": "rādiyū",
+    "korean": "라디오"
+  },
+  {
+    "arabic": "ولاعة",
+    "romanization": "wallāʿa",
+    "korean": "라이터"
+  },
+  {
+    "arabic": "روسيا",
+    "romanization": "rūsiyā",
+    "korean": "러시아"
+  },
+  {
+    "arabic": "ليمون",
+    "romanization": "laymūn",
+    "korean": "레몬"
+  },
+  {
+    "arabic": "مستوى",
+    "romanization": "mustawā",
+    "korean": "레벨"
+  },
+  {
+    "arabic": "مطعم",
+    "romanization": "maṭʿam",
+    "korean": "레스토랑"
+  },
+  {
+    "arabic": "درس",
+    "romanization": "dars",
+    "korean": "레슨"
+  },
+  {
+    "arabic": "وصفة",
+    "romanization": "waṣfa",
+    "korean": "레시피"
+  },
+  {
+    "arabic": "روبوت",
+    "romanization": "rūbūt",
+    "korean": "로봇"
+  },
+  {
+    "arabic": "صاروخ",
+    "romanization": "ṣārūkh",
+    "korean": "로켓"
+  },
+  {
+    "arabic": "أرضية",
+    "romanization": "arḍiyya",
+    "korean": "마루"
+  },
+  {
+    "arabic": "شمعة",
+    "romanization": "shamʿa",
+    "korean": "마른"
+  },
+  {
+    "arabic": "سحر",
+    "romanization": "siḥr",
+    "korean": "마법"
+  },
+  {
+    "arabic": "يشرب",
+    "romanization": "yashrab",
+    "korean": "마시다"
+  },
+  {
+    "arabic": "قرية",
+    "romanization": "qarya",
+    "korean": "마을"
+  },
+  {
+    "arabic": "قلب",
+    "romanization": "qalb",
+    "korean": "마음"
+  },
+  {
+    "arabic": "أخيراً",
+    "romanization": "akhīran",
+    "korean": "마지막"
+  },
+  {
+    "arabic": "سوبرماركت",
+    "romanization": "sūbarmarkīt",
+    "korean": "마트"
+  },
+  {
+    "arabic": "يقابل",
+    "romanization": "yuqābil",
+    "korean": "만나다"
+  },
+  {
+    "arabic": "رضا",
+    "romanization": "riḍā",
+    "korean": "만족"
+  },
+  {
+    "arabic": "كثير",
+    "romanization": "kathīr",
+    "korean": "많은"
+  },
+  {
+    "arabic": "حصان",
+    "romanization": "ḥiṣān",
+    "korean": "말"
+  },
+  {
+    "arabic": "كلام",
+    "romanization": "kalām",
+    "korean": "말(언어)"
+  },
+  {
+    "arabic": "يتكلم",
+    "romanization": "yatakallam",
+    "korean": "말하다"
+  },
+  {
+    "arabic": "صاف",
+    "romanization": "ṣāfī",
+    "korean": "맑은"
+  },
+  {
+    "arabic": "طعم",
+    "romanization": "ṭaʿm",
+    "korean": "맛"
+  },
+  {
+    "arabic": "لذيذ",
+    "romanization": "ladhīdh",
+    "korean": "맛있는"
+  },
+  {
+    "arabic": "رأس",
+    "romanization": "ra's",
+    "korean": "머리"
+  },
+  {
+    "arabic": "شعر",
+    "romanization": "shaʿr",
+    "korean": "머리카락"
+  },
+  {
+    "arabic": "يأكل",
+    "romanization": "ya'kul",
+    "korean": "먹다"
+  },
+  {
+    "arabic": "بعيد",
+    "romanization": "baʿīd",
+    "korean": "먼"
+  },
+  {
+    "arabic": "أولاً",
+    "romanization": "awwalan",
+    "korean": "먼저"
+  },
+  {
+    "arabic": "غبار",
+    "romanization": "ghubār",
+    "korean": "먼지"
+  },
+  {
+    "arabic": "قائمة طعام",
+    "romanization": "qā'imat ṭaʿām",
+    "korean": "메뉴"
+  },
+  {
+    "arabic": "ميدالية",
+    "romanization": "mīdāliyya",
+    "korean": "메달"
+  },
+  {
+    "arabic": "جراد",
+    "romanization": "jarād",
+    "korean": "메뚜기"
+  },
+  {
+    "arabic": "ذاكرة",
+    "romanization": "dhākira",
+    "korean": "메모리"
+  },
+  {
+    "arabic": "رسالة",
+    "romanization": "risāla",
+    "korean": "메시지"
+  },
+  {
+    "arabic": "كم",
+    "romanization": "kam",
+    "korean": "몇"
+  },
+  {
+    "arabic": "رقبة",
+    "romanization": "raqaba",
+    "korean": "목"
+  },
+  {
+    "arabic": "قلادة",
+    "romanization": "qilāda",
+    "korean": "목걸이"
+  },
+  {
+    "arabic": "صوت",
+    "romanization": "ṣawt",
+    "korean": "목소리"
+  },
+  {
+    "arabic": "يوم الخميس",
+    "romanization": "yawm al-khamīs",
+    "korean": "목요일"
+  },
+  {
+    "arabic": "حمّام",
+    "romanization": "ḥammām",
+    "korean": "목욕"
+  },
+  {
+    "arabic": "خشب",
+    "romanization": "khashab",
+    "korean": "목재"
+  },
+  {
+    "arabic": "هدف",
+    "romanization": "hadaf",
+    "korean": "목표"
+  },
+  {
+    "arabic": "جسم",
+    "romanization": "jism",
+    "korean": "몸"
+  },
+  {
+    "arabic": "وزن",
+    "romanization": "wazn",
+    "korean": "몸무게"
+  },
+  {
+    "arabic": "مسمار",
+    "romanization": "mismār",
+    "korean": "못"
+  },
+  {
+    "arabic": "قبيح",
+    "romanization": "qabīḥ",
+    "korean": "못생긴"
+  },
+  {
+    "arabic": "ثقيل",
+    "romanization": "thaqīl",
+    "korean": "무거운"
+  },
+  {
+    "arabic": "سلاح",
+    "romanization": "silāḥ",
+    "korean": "무기"
+  },
+  {
+    "arabic": "نمط",
+    "romanization": "namaṭ",
+    "korean": "무늬"
+  },
+  {
+    "arabic": "قبر",
+    "romanization": "qabr",
+    "korean": "무덤"
+  },
+  {
+    "arabic": "مجاني",
+    "romanization": "majjānī",
+    "korean": "무료의"
+  },
+  {
+    "arabic": "ركبة",
+    "romanization": "rukba",
+    "korean": "무릎"
+  },
+  {
+    "arabic": "مخيف",
+    "romanization": "mukhīf",
+    "korean": "무서운"
+  },
+  {
+    "arabic": "أي",
+    "romanization": "ayy",
+    "korean": "무슨"
+  },
+  {
+    "arabic": "ماذا",
+    "romanization": "mādhā",
+    "korean": "무엇"
+  },
+  {
+    "arabic": "تجارة",
+    "romanization": "tijāra",
+    "korean": "무역"
+  },
+  {
+    "arabic": "باب",
+    "romanization": "bāb",
+    "korean": "문"
+  },
+  {
+    "arabic": "جملة",
+    "romanization": "jumla",
+    "korean": "문장"
+  },
+  {
+    "arabic": "مشكلة",
+    "romanization": "mushkila",
+    "korean": "문제"
+  },
+  {
+    "arabic": "أدب",
+    "romanization": "adab",
+    "korean": "문학"
+  },
+  {
+    "arabic": "ثقافة",
+    "romanization": "thaqāfa",
+    "korean": "문화"
+  },
+  {
+    "arabic": "يسأل",
+    "romanization": "yas'al",
+    "korean": "묻다"
+  },
+  {
+    "arabic": "ماء",
+    "romanization": "mā'",
+    "korean": "물"
+  },
+  {
+    "arabic": "شيء",
+    "romanization": "shay'",
+    "korean": "물건"
+  },
+  {
+    "arabic": "سمك",
+    "romanization": "samak",
+    "korean": "물고기"
+  },
+  {
+    "arabic": "بالطبع",
+    "romanization": "biṭ-ṭabʿ",
+    "korean": "물론"
+  },
+  {
+    "arabic": "مادة",
+    "romanization": "mādda",
+    "korean": "물질"
+  },
+  {
+    "arabic": "مستقبل",
+    "romanization": "mustaqbal",
+    "korean": "미래"
+  },
+  {
+    "arabic": "ابتسامة",
+    "romanization": "ibtisāma",
+    "korean": "미소"
+  },
+  {
+    "arabic": "فن",
+    "romanization": "fann",
+    "korean": "미술"
+  },
+  {
+    "arabic": "آسف",
+    "romanization": "āsif",
+    "korean": "미안한"
+  },
+  {
+    "arabic": "جميل",
+    "romanization": "jamīl",
+    "korean": "미인"
+  },
+  {
+    "arabic": "مجهول",
+    "romanization": "majhūl",
+    "korean": "미지의"
+  },
+  {
+    "arabic": "يؤمن",
+    "romanization": "yu'min",
+    "korean": "믿다"
+  },
+  {
+    "arabic": "قمح",
+    "romanization": "qamḥ",
+    "korean": "밀"
+  },
+  {
+    "arabic": "حليب",
+    "romanization": "ḥalīb",
+    "korean": "밀크"
+  },
+  {
+    "arabic": "تحت",
+    "romanization": "taḥt",
+    "korean": "밑"
+  },
+  {
+    "arabic": "ليلة",
+    "romanization": "layla",
+    "korean": "밤"
+  },
+  {
+    "arabic": "أرز",
+    "romanization": "aruzz",
+    "korean": "밥"
+  },
+  {
+    "arabic": "غرفة",
+    "romanization": "ghurfa",
+    "korean": "방"
+  },
+  {
+    "arabic": "زيارة",
+    "romanization": "ziyāra",
+    "korean": "방문"
+  },
+  {
+    "arabic": "طريقة",
+    "romanization": "ṭarīqa",
+    "korean": "방법"
+  },
+  {
+    "arabic": "إذاعة",
+    "romanization": "idhāʿa",
+    "korean": "방송"
+  },
+  {
+    "arabic": "دفاع",
+    "romanization": "difāʿ",
+    "korean": "방어"
+  },
+  {
+    "arabic": "عطلة",
+    "romanization": "ʿuṭla",
+    "korean": "방학"
+  },
+  {
+    "arabic": "اتجاه",
+    "romanization": "ittijāh",
+    "korean": "방향"
+  },
+  {
+    "arabic": "بطن",
+    "romanization": "baṭn",
+    "korean": "배"
+  },
+  {
+    "arabic": "إجاصة",
+    "romanization": "ijāṣa",
+    "korean": "배(과일)"
+  },
+  {
+    "arabic": "سفينة",
+    "romanization": "safīna",
+    "korean": "배(탈것)"
+  },
+  {
+    "arabic": "خلفية",
+    "romanization": "khalfiyya",
+    "korean": "배경"
+  },
+  {
+    "arabic": "توصيل",
+    "romanization": "tawṣīl",
+    "korean": "배달"
+  },
+  {
+    "arabic": "ممثل",
+    "romanization": "mumaththil",
+    "korean": "배우"
+  },
+  {
+    "arabic": "يتعلم",
+    "romanization": "yataʿallam",
+    "korean": "배우다"
+  },
+  {
+    "arabic": "ثعبان",
+    "romanization": "thuʿbān",
+    "korean": "뱀"
+  },
+  {
+    "arabic": "عادة",
+    "romanization": "ʿāda",
+    "korean": "버릇"
+  },
+  {
+    "arabic": "يرمي",
+    "romanization": "yarmī",
+    "korean": "버리다"
+  },
+  {
+    "arabic": "فطر",
+    "romanization": "fuṭr",
+    "korean": "버섯"
+  },
+  {
+    "arabic": "حافلة",
+    "romanization": "ḥāfila",
+    "korean": "버스"
+  },
+  {
+    "arabic": "زبدة",
+    "romanization": "zubda",
+    "korean": "버터"
+  },
+  {
+    "arabic": "ترجمة",
+    "romanization": "tarjama",
+    "korean": "번역"
+  },
+  {
+    "arabic": "رقم",
+    "romanization": "raqam",
+    "korean": "번호"
+  },
+  {
+    "arabic": "نحلة",
+    "romanization": "naḥla",
+    "korean": "벌"
+  },
+  {
+    "arabic": "قانون",
+    "romanization": "qānūn",
+    "korean": "법"
+  },
+  {
+    "arabic": "محكمة",
+    "romanization": "maḥkama",
+    "korean": "법원"
+  },
+  {
+    "arabic": "حائط",
+    "romanization": "ḥā'iṭ",
+    "korean": "벽"
+  },
+  {
+    "arabic": "محامي",
+    "romanization": "muḥāmī",
+    "korean": "변호사"
+  },
+  {
+    "arabic": "تغيير",
+    "romanization": "taghyīr",
+    "korean": "변화"
+  },
+  {
+    "arabic": "نجمة",
+    "romanization": "najma",
+    "korean": "별"
+  },
+  {
+    "arabic": "زجاجة",
+    "romanization": "zujāja",
+    "korean": "병"
+  },
+  {
+    "arabic": "جندي",
+    "romanization": "jundī",
+    "korean": "병사"
+  },
+  {
+    "arabic": "مستشفى",
+    "romanization": "mustashfā",
+    "korean": "병원"
+  },
+  {
+    "arabic": "تقرير",
+    "romanization": "taqrīr",
+    "korean": "보고서"
+  },
+  {
+    "arabic": "يحفظ",
+    "romanization": "yaḥfaẓ",
+    "korean": "보관하다"
+  },
+  {
+    "arabic": "يرسل",
+    "romanization": "yursil",
+    "korean": "보내다"
+  },
+  {
+    "arabic": "ينظر",
+    "romanization": "yanẓur",
+    "korean": "보다"
+  },
+  {
+    "arabic": "كنز",
+    "romanization": "kanz",
+    "korean": "보물"
+  },
+  {
+    "arabic": "أمن",
+    "romanization": "amn",
+    "korean": "보안"
+  },
+  {
+    "arabic": "عادةً",
+    "romanization": "ʿādatan",
+    "korean": "보통"
+  },
+  {
+    "arabic": "ربيع",
+    "romanization": "rabīʿ",
+    "korean": "봄"
+  },
+  {
+    "arabic": "راتب",
+    "romanization": "rātib",
+    "korean": "봉급"
+  },
+  {
+    "arabic": "ظرف",
+    "romanization": "ẓarf",
+    "korean": "봉투"
+  },
+  {
+    "arabic": "ناعم",
+    "romanization": "nāʿim",
+    "korean": "부드러운"
+  },
+  {
+    "arabic": "أبوان",
+    "romanization": "abawān",
+    "korean": "부모"
+  },
+  {
+    "arabic": "جزء",
+    "romanization": "juz'",
+    "korean": "부분"
+  },
+  {
+    "arabic": "مطبخ",
+    "romanization": "maṭbakh",
+    "korean": "부엌"
+  },
+  {
+    "arabic": "غني",
+    "romanization": "ghanī",
+    "korean": "부유한"
+  },
+  {
+    "arabic": "سلبي",
+    "romanization": "salbī",
+    "korean": "부정적인"
+  },
+  {
+    "arabic": "بوذا",
+    "romanization": "būdhā",
+    "korean": "부처"
+  },
+  {
+    "arabic": "أب",
+    "romanization": "ab",
+    "korean": "부친"
+  },
+  {
+    "arabic": "شمال",
+    "romanization": "shamāl",
+    "korean": "북쪽"
+  },
+  {
+    "arabic": "دقيقة",
+    "romanization": "daqīqa",
+    "korean": "분"
+  },
+  {
+    "arabic": "غضب",
+    "romanization": "ghaḍab",
+    "korean": "분노"
+  },
+  {
+    "arabic": "واضح",
+    "romanization": "wāḍiḥ",
+    "korean": "분명한"
+  },
+  {
+    "arabic": "تحليل",
+    "romanization": "taḥlīl",
+    "korean": "분석"
+  },
+  {
+    "arabic": "جو",
+    "romanization": "jaww",
+    "korean": "분위기"
+  },
+  {
+    "arabic": "نار",
+    "romanization": "nār",
+    "korean": "불"
+  },
+  {
+    "arabic": "ممنوع",
+    "romanization": "mamnūʿ",
+    "korean": "불법의"
+  },
+  {
+    "arabic": "غير مريح",
+    "romanization": "ghayr murīḥ",
+    "korean": "불편한"
+  },
+  {
+    "arabic": "أحمر",
+    "romanization": "aḥmar",
+    "korean": "빨간색"
+  },
+  {
+    "arabic": "يغسل",
+    "romanization": "yaghsil",
+    "korean": "빨다"
+  },
+  {
+    "arabic": "سريعاً",
+    "romanization": "sarīʿan",
+    "korean": "빨리"
+  },
+  {
+    "arabic": "خبز",
+    "romanization": "khubz",
+    "korean": "빵"
+  },
+  {
+    "arabic": "خدّ",
+    "romanization": "khadd",
+    "korean": "뺨"
+  },
+  {
+    "arabic": "عظم",
+    "romanization": "ʿaẓm",
+    "korean": "뼈"
+  },
+  {
+    "arabic": "أربعة",
+    "romanization": "arbaʿa",
+    "korean": "사(숫자)"
+  },
+  {
+    "arabic": "حادثة",
+    "romanization": "ḥāditha",
+    "korean": "사건"
+  },
+  {
+    "arabic": "تفاحة",
+    "romanization": "tuffāḥa",
+    "korean": "사과"
+  },
+  {
+    "arabic": "شخص",
+    "romanization": "shakhs",
+    "korean": "사람"
+  },
+  {
+    "arabic": "حب",
+    "romanization": "ḥubb",
+    "korean": "사랑"
+  },
+  {
+    "arabic": "صحراء",
+    "romanization": "ṣaḥrā'",
+    "korean": "사막"
+  },
+  {
+    "arabic": "مكتب",
+    "romanization": "maktab",
+    "korean": "사무실"
+  },
+  {
+    "arabic": "حقيقة",
+    "romanization": "ḥaqīqa",
+    "korean": "사실"
+  },
+  {
+    "arabic": "استخدام",
+    "romanization": "istikhdām",
+    "korean": "사용"
+  },
+  {
+    "arabic": "بين",
+    "romanization": "bayna",
+    "korean": "사이"
+  },
+  {
+    "arabic": "أسد",
+    "romanization": "asad",
+    "korean": "사자"
+  },
+  {
+    "arabic": "قاموس",
+    "romanization": "qāmūs",
+    "korean": "사전"
+  },
+  {
+    "arabic": "صورة فوتوغرافية",
+    "romanization": "ṣūra fūtūghrāfiyya",
+    "korean": "사진"
+  },
+  {
+    "arabic": "مجتمع",
+    "romanization": "mujtamaʿ",
+    "korean": "사회"
+  },
+  {
+    "arabic": "جبل",
+    "romanization": "jabal",
+    "korean": "산"
+  },
+  {
+    "arabic": "صناعة",
+    "romanization": "ṣināʿa",
+    "korean": "산업"
+  },
+  {
+    "arabic": "جلد",
+    "romanization": "jild",
+    "korean": "살"
+  },
+  {
+    "arabic": "يعيش",
+    "romanization": "yaʿīsh",
+    "korean": "살다"
+  },
+  {
+    "arabic": "حياة",
+    "romanization": "ḥayāh",
+    "korean": "삶"
+  },
+  {
+    "arabic": "ثلاثة",
+    "romanization": "thalātha",
+    "korean": "삼(숫자)"
+  },
+  {
+    "arabic": "عمّ",
+    "romanization": "ʿamm",
+    "korean": "삼촌"
+  },
+  {
+    "arabic": "جائزة",
+    "romanization": "jā'iza",
+    "korean": "상"
+  },
+  {
+    "arabic": "خيال",
+    "romanization": "khayāl",
+    "korean": "상상"
+  },
+  {
+    "arabic": "صندوق",
+    "romanization": "ṣundūq",
+    "korean": "상자"
+  },
+  {
+    "arabic": "متجر",
+    "romanization": "matjar",
+    "korean": "상점"
+  },
+  {
+    "arabic": "رمز",
+    "romanization": "ramz",
+    "korean": "상징"
+  },
+  {
+    "arabic": "جرح",
+    "romanization": "jurḥ",
+    "korean": "상처"
+  },
+  {
+    "arabic": "حالة",
+    "romanization": "ḥāla",
+    "korean": "상태"
+  },
+  {
+    "arabic": "منتج",
+    "romanization": "muntaj",
+    "korean": "상품"
+  },
+  {
+    "arabic": "طائر",
+    "romanization": "ṭā'ir",
+    "korean": "새"
+  },
+  {
+    "arabic": "جديد",
+    "romanization": "jadīd",
+    "korean": "새로운"
+  },
+  {
+    "arabic": "فجر",
+    "romanization": "fajr",
+    "korean": "새벽"
+  },
+  {
+    "arabic": "لون",
+    "romanization": "lawn",
+    "korean": "색"
+  },
+  {
+    "arabic": "شطيرة",
+    "romanization": "shaṭīra",
+    "korean": "샌드위치"
+  },
+  {
+    "arabic": "سلطة",
+    "romanization": "salaṭa",
+    "korean": "샐러드"
+  },
+  {
+    "arabic": "عينة",
+    "romanization": "ʿayyina",
+    "korean": "샘플"
+  },
+  {
+    "arabic": "تفكير",
+    "romanization": "tafkīr",
+    "korean": "생각"
+  },
+  {
+    "arabic": "إنتاج",
+    "romanization": "intāj",
+    "korean": "생산"
+  },
+  {
+    "arabic": "سمكة نيئة",
+    "romanization": "samaka nay'a",
+    "korean": "생선"
+  },
+  {
+    "arabic": "عيد ميلاد",
+    "romanization": "ʿīd mīlād",
+    "korean": "생일"
+  },
+  {
+    "arabic": "حياة",
+    "romanization": "ḥayāt",
+    "korean": "생활"
+  },
+  {
+    "arabic": "شاور",
+    "romanization": "shāwar",
+    "korean": "샤워"
+  },
+  {
+    "arabic": "رف كتب",
+    "romanization": "raff kutub",
+    "korean": "서가"
+  },
+  {
+    "arabic": "يقف",
+    "romanization": "yaqif",
+    "korean": "서다"
+  },
+  {
+    "arabic": "وثيقة",
+    "romanization": "wathīqa",
+    "korean": "서류"
+  },
+  {
+    "arabic": "خدمة",
+    "romanization": "khidma",
+    "korean": "서비스"
+  },
+  {
+    "arabic": "مكتبة",
+    "romanization": "maktaba",
+    "korean": "서점"
+  },
+  {
+    "arabic": "غرب",
+    "romanization": "gharb",
+    "korean": "서쪽"
+  },
+  {
+    "arabic": "جزيرة",
+    "romanization": "jazīra",
+    "korean": "섬"
+  },
+  {
+    "arabic": "عالم",
+    "romanization": "ʿālam",
+    "korean": "세계"
+  },
+  {
+    "arabic": "ضريبة",
+    "romanization": "ḍarība",
+    "korean": "세금"
+  },
+  {
+    "arabic": "قرن",
+    "romanization": "qarn",
+    "korean": "세기"
+  },
+  {
+    "arabic": "جيل",
+    "romanization": "jīl",
+    "korean": "세대"
+  },
+  {
+    "arabic": "تفصيل",
+    "romanization": "tafṣīl",
+    "korean": "세부"
+  },
+  {
+    "arabic": "غسيل",
+    "romanization": "ghasīl",
+    "korean": "세탁"
+  },
+  {
+    "arabic": "خلية",
+    "romanization": "khaliyya",
+    "korean": "세포"
+  },
+  {
+    "arabic": "مركز",
+    "romanization": "markaz",
+    "korean": "센터"
+  },
+  {
+    "arabic": "ثلاثة",
+    "romanization": "thalātha",
+    "korean": "셋"
+  },
+  {
+    "arabic": "قميص",
+    "romanization": "qamīṣ",
+    "korean": "셔츠"
+  },
+  {
+    "arabic": "بقرة",
+    "romanization": "baqara",
+    "korean": "소"
+  },
+  {
+    "arabic": "ملح",
+    "romanization": "milḥ",
+    "korean": "소금"
+  },
+  {
+    "arabic": "صوت",
+    "romanization": "ṣawt",
+    "korean": "소리"
+  },
+  {
+    "arabic": "رواية",
+    "romanization": "riwāya",
+    "korean": "소설"
+  },
+  {
+    "arabic": "أخبار",
+    "romanization": "akhbār",
+    "korean": "소식"
+  },
+  {
+    "arabic": "أريكة",
+    "romanization": "arīka",
+    "korean": "소파"
+  },
+  {
+    "arabic": "يد",
+    "romanization": "yad",
+    "korean": "손"
+  },
+  {
+    "arabic": "ضيف",
+    "romanization": "ḍayf",
+    "korean": "손님"
+  },
+  {
+    "arabic": "حفيد",
+    "romanization": "ḥafīd",
+    "korean": "손자"
+  },
+  {
+    "arabic": "ظفر",
+    "romanization": "ẓufr",
+    "korean": "손톱"
+  },
+  {
+    "arabic": "فرشاة",
+    "romanization": "furshāh",
+    "korean": "솔"
+  },
+  {
+    "arabic": "مهارة",
+    "romanization": "mahāra",
+    "korean": "솜씨"
+  },
+  {
+    "arabic": "تسوق",
+    "romanization": "tasawwuq",
+    "korean": "쇼핑"
+  },
+  {
+    "arabic": "عدد",
+    "romanization": "ʿadad",
+    "korean": "수"
+  },
+  {
+    "arabic": "منشفة",
+    "romanization": "minshafa",
+    "korean": "수건"
+  },
+  {
+    "arabic": "إصلاح",
+    "romanization": "iṣlāḥ",
+    "korean": "수리"
+  },
+  {
+    "arabic": "بطيخ",
+    "romanization": "biṭṭīkh",
+    "korean": "수박"
+  },
+  {
+    "arabic": "سباحة",
+    "romanization": "sibāḥa",
+    "korean": "수영"
+  },
+  {
+    "arabic": "يوم الأربعاء",
+    "romanization": "yawm al-arbiʿā'",
+    "korean": "수요일"
+  },
+  {
+    "arabic": "دخل",
+    "romanization": "dakhl",
+    "korean": "수입"
+  },
+  {
+    "arabic": "مستوى",
+    "romanization": "mustawā",
+    "korean": "수준"
+  },
+  {
+    "arabic": "تصدير",
+    "romanization": "taṣdīr",
+    "korean": "수출"
+  },
+  {
+    "arabic": "ذكر",
+    "romanization": "dhakar",
+    "korean": "수컷"
+  },
+  {
+    "arabic": "رياضيات",
+    "romanization": "riyāḍiyyāt",
+    "korean": "수학"
+  },
+  {
+    "arabic": "واجب منزلي",
+    "romanization": "wājib manzilī",
+    "korean": "숙제"
+  },
+  {
+    "arabic": "ملعقة",
+    "romanization": "milʿaqa",
+    "korean": "숟가락"
+  },
+  {
+    "arabic": "نفس",
+    "romanization": "nafas",
+    "korean": "숨"
+  },
+  {
+    "arabic": "يختبئ",
+    "romanization": "yakhtabi'",
+    "korean": "숨다"
+  },
+  {
+    "arabic": "غابة",
+    "romanization": "ghāba",
+    "korean": "숲"
+  },
+  {
+    "arabic": "يستريح",
+    "romanization": "yastarīḥ",
+    "korean": "쉬다"
+  },
+  {
+    "arabic": "سهل",
+    "romanization": "sahl",
+    "korean": "쉬운"
+  },
+  {
+    "arabic": "خمسون",
+    "romanization": "khamsūn",
+    "korean": "쉰"
+  },
+  {
+    "arabic": "سوبرماركت",
+    "romanization": "sūbarmarkīt",
+    "korean": "슈퍼마켓"
+  },
+  {
+    "arabic": "هاتف ذكي",
+    "romanization": "hātif dhakī",
+    "korean": "스마트폰"
+  },
+  {
+    "arabic": "عشرون",
+    "romanization": "ʿishrūn",
+    "korean": "스무"
+  },
+  {
+    "arabic": "نفسه",
+    "romanization": "nafsahu",
+    "korean": "스스로"
+  },
+  {
+    "arabic": "معلم",
+    "romanization": "muʿallim",
+    "korean": "스승"
+  },
+  {
+    "arabic": "شاشة",
+    "romanization": "shāsha",
+    "korean": "스크린"
+  },
+  {
+    "arabic": "تزلج",
+    "romanization": "tazalluj",
+    "korean": "스키"
+  },
+  {
+    "arabic": "أسلوب",
+    "romanization": "uslūb",
+    "korean": "스타일"
+  },
+  {
+    "arabic": "ضغط",
+    "romanization": "ḍaghṭ",
+    "korean": "스트레스"
+  },
+  {
+    "arabic": "رياضة",
+    "romanization": "riyāḍa",
+    "korean": "스포츠"
+  },
+  {
+    "arabic": "مكبر صوت",
+    "romanization": "mukabbir ṣawt",
+    "korean": "스피커"
+  },
+  {
+    "arabic": "حزين",
+    "romanization": "ḥazīn",
+    "korean": "슬픈"
+  },
+  {
+    "arabic": "حزن",
+    "romanization": "ḥuzn",
+    "korean": "슬픔"
+  },
+  {
+    "arabic": "عادة",
+    "romanization": "ʿāda",
+    "korean": "습관"
+  },
+  {
+    "arabic": "رطوبة",
+    "romanization": "ruṭūba",
+    "korean": "습기"
+  },
+  {
+    "arabic": "ركاب",
+    "romanization": "rukkāb",
+    "korean": "승객"
+  },
+  {
+    "arabic": "فوز",
+    "romanization": "fawz",
+    "korean": "승리"
+  },
+  {
+    "arabic": "قصيدة",
+    "romanization": "qaṣīda",
+    "korean": "시"
+  },
+  {
+    "arabic": "رؤية",
+    "romanization": "ru'ya",
+    "korean": "시각"
+  },
+  {
+    "arabic": "ساعة",
+    "romanization": "sāʿa",
+    "korean": "시간"
+  },
+  {
+    "arabic": "عصر",
+    "romanization": "ʿaṣr",
+    "korean": "시대"
+  },
+  {
+    "arabic": "مواطن",
+    "romanization": "muwāṭin",
+    "korean": "시민"
+  },
+  {
+    "arabic": "نظام",
+    "romanization": "niẓām",
+    "korean": "시스템"
+  },
+  {
+    "arabic": "يبدأ",
+    "romanization": "yabda'",
+    "korean": "시작하다"
+  },
+  {
+    "arabic": "سوق",
+    "romanization": "sūq",
+    "korean": "시장"
+  },
+  {
+    "arabic": "مشاهد",
+    "romanization": "mushāhid",
+    "korean": "시청자"
+  },
+  {
+    "arabic": "امتحان",
+    "romanization": "imtiḥān",
+    "korean": "시험"
+  },
+  {
+    "arabic": "نبات",
+    "romanization": "nabāt",
+    "korean": "식물"
+  },
+  {
+    "arabic": "طعام",
+    "romanization": "ṭaʿām",
+    "korean": "식사"
+  },
+  {
+    "arabic": "خل",
+    "romanization": "khall",
+    "korean": "식초"
+  },
+  {
+    "arabic": "مائدة",
+    "romanization": "mā'ida",
+    "korean": "식탁"
+  },
+  {
+    "arabic": "إله",
+    "romanization": "ilāh",
+    "korean": "신"
+  },
+  {
+    "arabic": "عريس",
+    "romanization": "ʿarīs",
+    "korean": "신랑"
+  },
+  {
+    "arabic": "ثقة",
+    "romanization": "thiqa",
+    "korean": "신뢰"
+  },
+  {
+    "arabic": "حامض",
+    "romanization": "ḥāmiḍ",
+    "korean": "신맛"
+  },
+  {
+    "arabic": "جريدة",
+    "romanization": "jarīda",
+    "korean": "신문"
+  },
+  {
+    "arabic": "حذاء رياضي",
+    "romanization": "ḥidhā' riyāḍī",
+    "korean": "신발"
+  },
+  {
+    "arabic": "بطاقة ائتمان",
+    "romanization": "biṭāqat i'timān",
+    "korean": "신용카드"
+  },
+  {
+    "arabic": "إشارة",
+    "romanization": "ishāra",
+    "korean": "신호"
+  },
+  {
+    "arabic": "يحمل",
+    "romanization": "yaḥmil",
+    "korean": "싣다"
+  },
+  {
+    "arabic": "خيط",
+    "romanization": "khayṭ",
+    "korean": "실"
+  },
+  {
+    "arabic": "داخل",
+    "romanization": "dākhil",
+    "korean": "실내"
+  },
+  {
+    "arabic": "حقيقي",
+    "romanization": "ḥaqīqī",
+    "korean": "실제의"
+  },
+  {
+    "arabic": "ممارسة",
+    "romanization": "mumārasa",
+    "korean": "실천"
+  },
+  {
+    "arabic": "فشل",
+    "romanization": "fashal",
+    "korean": "실패"
+  },
+  {
+    "arabic": "كراهية",
+    "romanization": "karāhiya",
+    "korean": "싫음"
+  },
+  {
+    "arabic": "عشرة",
+    "romanization": "ʿashara",
+    "korean": "십"
+  },
+  {
+    "arabic": "رخيص",
+    "romanization": "rakhīṣ",
+    "korean": "싼"
+  },
+  {
+    "arabic": "يكتب",
+    "romanization": "yaktub",
+    "korean": "쓰다"
+  },
+  {
+    "arabic": "قمامة",
+    "romanization": "qumāma",
+    "korean": "쓰레기"
+  },
+  {
+    "arabic": "مرّ",
+    "romanization": "murr",
+    "korean": "쓴"
+  },
+  {
+    "arabic": "بذرة",
+    "romanization": "badhra",
+    "korean": "씨"
+  },
+  {
+    "arabic": "يغسل",
+    "romanization": "yaghsil",
+    "korean": "씻다"
+  },
+  {
+    "arabic": "زوجة",
+    "romanization": "zawja",
+    "korean": "아내"
+  },
+  {
+    "arabic": "لا",
+    "romanization": "lā",
+    "korean": "아니오"
+  },
+  {
+    "arabic": "ابن",
+    "romanization": "ibn",
+    "korean": "아들"
+  },
+  {
+    "arabic": "سفلي",
+    "romanization": "suflī",
+    "korean": "아래"
+  },
+  {
+    "arabic": "جميل",
+    "romanization": "jamīl",
+    "korean": "아름다운"
+  },
+  {
+    "arabic": "ربما",
+    "romanization": "rubbamā",
+    "korean": "아마"
+  },
+  {
+    "arabic": "أب",
+    "romanization": "ab",
+    "korean": "아버지"
+  },
+  {
+    "arabic": "طفل",
+    "romanization": "ṭifl",
+    "korean": "아이"
+  },
+  {
+    "arabic": "فكرة",
+    "romanization": "fikra",
+    "korean": "아이디어"
+  },
+  {
+    "arabic": "آيس كريم",
+    "romanization": "āys krīm",
+    "korean": "아이스크림"
+  },
+  {
+    "arabic": "عم",
+    "romanization": "ʿamm",
+    "korean": "아저씨"
+  },
+  {
+    "arabic": "بعد",
+    "romanization": "baʿd",
+    "korean": "아직"
+  },
+  {
+    "arabic": "صباح",
+    "romanization": "ṣabāḥ",
+    "korean": "아침"
+  },
+  {
+    "arabic": "شقة",
+    "romanization": "shaqqa",
+    "korean": "아파트"
+  },
+  {
+    "arabic": "مريض",
+    "romanization": "marīḍ",
+    "korean": "아픈"
+  },
+  {
+    "arabic": "تسعة",
+    "romanization": "tisʿa",
+    "korean": "아홉"
+  },
+  {
+    "arabic": "آلة موسيقية",
+    "romanization": "āla mūsīqiyya",
+    "korean": "악기"
+  },
+  {
+    "arabic": "شرير",
+    "romanization": "shirrīr",
+    "korean": "악한"
+  },
+  {
+    "arabic": "داخل",
+    "romanization": "dākhil",
+    "korean": "안"
+  },
+  {
+    "arabic": "ضباب",
+    "romanization": "ḍabāb",
+    "korean": "안개"
+  },
+  {
+    "arabic": "نظارة",
+    "romanization": "naẓẓāra",
+    "korean": "안경"
+  },
+  {
+    "arabic": "مرحباً",
+    "romanization": "marḥaban",
+    "korean": "안녕"
+  },
+  {
+    "arabic": "أمان",
+    "romanization": "amān",
+    "korean": "안전"
+  },
+  {
+    "arabic": "يجلس",
+    "romanization": "yajlis",
+    "korean": "앉다"
+  },
+  {
+    "arabic": "أمام",
+    "romanization": "amām",
+    "korean": "앞"
+  },
+  {
+    "arabic": "مستقبل",
+    "romanization": "mustaqbal",
+    "korean": "앞날"
+  },
+  {
+    "arabic": "دواء",
+    "romanization": "dawā'",
+    "korean": "약"
+  },
+  {
+    "arabic": "حلوى",
+    "romanization": "ḥalwā",
+    "korean": "약과"
+  },
+  {
+    "arabic": "صيدلية",
+    "romanization": "ṣaydaliyya",
+    "korean": "약국"
+  },
+  {
+    "arabic": "موعد",
+    "romanization": "mawʿid",
+    "korean": "약속"
+  },
+  {
+    "arabic": "ضعيف",
+    "romanization": "ḍaʿīf",
+    "korean": "약한"
+  },
+  {
+    "arabic": "خروف",
+    "romanization": "kharūf",
+    "korean": "양"
+  },
+  {
+    "arabic": "جورب",
+    "romanization": "jawrab",
+    "korean": "양말"
+  },
+  {
+    "arabic": "بصل",
+    "romanization": "baṣal",
+    "korean": "양파"
+  },
+  {
+    "arabic": "كتف",
+    "romanization": "katif",
+    "korean": "어깨"
+  },
+  {
+    "arabic": "مظلم",
+    "romanization": "muẓlim",
+    "korean": "어두운"
+  },
+  {
+    "arabic": "أين",
+    "romanization": "ayna",
+    "korean": "어디"
+  },
+  {
+    "arabic": "صعب",
+    "romanization": "ṣaʿb",
+    "korean": "어려운"
+  },
+  {
+    "arabic": "أمّ",
+    "romanization": "umm",
+    "korean": "어머니"
+  },
+  {
+    "arabic": "لغة",
+    "romanization": "lugha",
+    "korean": "언어"
+  },
+  {
+    "arabic": "متى",
+    "romanization": "matā",
+    "korean": "언제"
+  },
+  {
+    "arabic": "وجه",
+    "romanization": "wajh",
+    "korean": "얼굴"
+  },
+  {
+    "arabic": "كم",
+    "romanization": "kam",
+    "korean": "얼마"
+  },
+  {
+    "arabic": "جليد",
+    "romanization": "jalīd",
+    "korean": "얼음"
+  },
+  {
+    "arabic": "إنجاز",
+    "romanization": "injāz",
+    "korean": "업적"
+  },
+  {
+    "arabic": "صناعة",
+    "romanization": "ṣināʿa",
+    "korean": "업종"
+  },
+  {
+    "arabic": "بدون",
+    "romanization": "bidūn",
+    "korean": "없이"
+  },
+  {
+    "arabic": "طاقة",
+    "romanization": "ṭāqa",
+    "korean": "에너지"
+  },
+  {
+    "arabic": "مصعد",
+    "romanization": "miṣʿad",
+    "korean": "엘리베이터"
+  },
+  {
+    "arabic": "جواز سفر",
+    "romanization": "jawāz safar",
+    "korean": "여권"
+  },
+  {
+    "arabic": "هنا",
+    "romanization": "hunā",
+    "korean": "여기"
+  },
+  {
+    "arabic": "فتح",
+    "romanization": "fatḥ",
+    "korean": "여는"
+  },
+  {
+    "arabic": "ثمانية",
+    "romanization": "thamāniya",
+    "korean": "여덟"
+  },
+  {
+    "arabic": "عدة",
+    "romanization": "ʿidda",
+    "korean": "여러"
+  },
+  {
+    "arabic": "صيف",
+    "romanization": "ṣayf",
+    "korean": "여름"
+  },
+  {
+    "arabic": "أنثى",
+    "romanization": "unthā",
+    "korean": "여성"
+  },
+  {
+    "arabic": "سفر",
+    "romanization": "safar",
+    "korean": "여행"
+  },
+  {
+    "arabic": "محطة",
+    "romanization": "maḥaṭṭa",
+    "korean": "역"
+  },
+  {
+    "arabic": "تاريخ",
+    "romanization": "tārīkh",
+    "korean": "역사"
+  },
+  {
+    "arabic": "دور",
+    "romanization": "dawr",
+    "korean": "역할"
+  },
+  {
+    "arabic": "سنة",
+    "romanization": "sana",
+    "korean": "연(해)"
+  },
+  {
+    "arabic": "اتصال",
+    "romanization": "ittiṣāl",
+    "korean": "연결"
+  },
+  {
+    "arabic": "بحث",
+    "romanization": "baḥth",
+    "korean": "연구"
+  },
+  {
+    "arabic": "دخان",
+    "romanization": "dukhān",
+    "korean": "연기"
+  },
+  {
+    "arabic": "خطاب",
+    "romanization": "khiṭāb",
+    "korean": "연설"
+  },
+  {
+    "arabic": "تمرين",
+    "romanization": "tamrīn",
+    "korean": "연습"
+  },
+  {
+    "arabic": "قلم رصاص",
+    "romanization": "qalam raṣāṣ",
+    "korean": "연필"
+  },
+  {
+    "arabic": "حمى",
+    "romanization": "ḥummā",
+    "korean": "열"
+  },
+  {
+    "arabic": "عشرة",
+    "romanization": "ʿashara",
+    "korean": "열(숫자)"
+  },
+  {
+    "arabic": "يفتح",
+    "romanization": "yaftaḥ",
+    "korean": "열다"
+  },
+  {
+    "arabic": "ثمرة",
+    "romanization": "thamara",
+    "korean": "열매"
+  },
+  {
+    "arabic": "مفتاح",
+    "romanization": "miftāḥ",
+    "korean": "열쇠"
+  },
+  {
+    "arabic": "حماس",
+    "romanization": "ḥamās",
+    "korean": "열정"
+  },
+  {
+    "arabic": "صفر",
+    "romanization": "ṣifr",
+    "korean": "영(숫자)"
+  },
+  {
+    "arabic": "إنجليزية",
+    "romanization": "injilīziyya",
+    "korean": "영어"
+  },
+  {
+    "arabic": "أبدي",
+    "romanization": "abadī",
+    "korean": "영원한"
+  },
+  {
+    "arabic": "تأثير",
+    "romanization": "ta'thīr",
+    "korean": "영향"
+  },
+  {
+    "arabic": "فيلم",
+    "romanization": "fīlm",
+    "korean": "영화"
+  },
+  {
+    "arabic": "بجانب",
+    "romanization": "bijānib",
+    "korean": "옆에"
+  },
+  {
+    "arabic": "مثال",
+    "romanization": "mithāl",
+    "korean": "예"
+  },
+  {
+    "arabic": "جميل",
+    "romanization": "jamīl",
+    "korean": "예쁜"
+  },
+  {
+    "arabic": "ميزانية",
+    "romanization": "mīzāniyya",
+    "korean": "예산"
+  },
+  {
+    "arabic": "فن",
+    "romanization": "fann",
+    "korean": "예술"
+  },
+  {
+    "arabic": "حجز",
+    "romanization": "ḥajz",
+    "korean": "예약"
+  },
+  {
+    "arabic": "قديماً",
+    "romanization": "qadīman",
+    "korean": "옛날"
+  },
+  {
+    "arabic": "خمسة",
+    "romanization": "khamsa",
+    "korean": "오(숫자)"
+  },
+  {
+    "arabic": "اليوم",
+    "romanization": "al-yawm",
+    "korean": "오늘"
+  },
+  {
+    "arabic": "طويلاً",
+    "romanization": "ṭawīlan",
+    "korean": "오래"
+  },
+  {
+    "arabic": "خطأ",
+    "romanization": "khaṭa'",
+    "korean": "오류"
+  },
+  {
+    "arabic": "يصعد",
+    "romanization": "yaṣʿad",
+    "korean": "오르다"
+  },
+  {
+    "arabic": "يمين",
+    "romanization": "yamīn",
+    "korean": "오른쪽"
+  },
+  {
+    "arabic": "بطة",
+    "romanization": "baṭṭa",
+    "korean": "오리"
+  },
+  {
+    "arabic": "أخ كبير",
+    "romanization": "akh kabīr",
+    "korean": "오빠"
+  },
+  {
+    "arabic": "تلوث",
+    "romanization": "talawwuth",
+    "korean": "오염"
+  },
+  {
+    "arabic": "خيار",
+    "romanization": "khiyār",
+    "korean": "오이"
+  },
+  {
+    "arabic": "بعد الظهر",
+    "romanization": "baʿd aẓ-ẓuhr",
+    "korean": "오후"
+  },
+  {
+    "arabic": "سطح",
+    "romanization": "saṭḥ",
+    "korean": "옥상"
+  },
+  {
+    "arabic": "ذرة",
+    "romanization": "dhura",
+    "korean": "옥수수"
+  },
+  {
+    "arabic": "درجة حرارة",
+    "romanization": "darajat ḥarāra",
+    "korean": "온도"
+  },
+  {
+    "arabic": "ملابس",
+    "romanization": "malābis",
+    "korean": "옷"
+  },
+  {
+    "arabic": "خزانة ملابس",
+    "romanization": "khizānat malābis",
+    "korean": "옷장"
+  },
+  {
+    "arabic": "كامل",
+    "romanization": "kāmil",
+    "korean": "완전한"
+  },
+  {
+    "arabic": "ملك",
+    "romanization": "malik",
+    "korean": "왕"
+  },
+  {
+    "arabic": "لماذا",
+    "romanization": "limādhā",
+    "korean": "왜"
+  },
+  {
+    "arabic": "خارجي",
+    "romanization": "khārijī",
+    "korean": "외국의"
+  },
+  {
+    "arabic": "يسار",
+    "romanization": "yasār",
+    "korean": "왼쪽"
+  },
+  {
+    "arabic": "طلب",
+    "romanization": "ṭalab",
+    "korean": "요구"
+  },
+  {
+    "arabic": "طبخ",
+    "romanization": "ṭabkh",
+    "korean": "요리"
+  },
+  {
+    "arabic": "يوم",
+    "romanization": "yawm",
+    "korean": "요일"
+  },
+  {
+    "arabic": "حمام",
+    "romanization": "ḥammām",
+    "korean": "욕실"
+  },
+  {
+    "arabic": "تنين",
+    "romanization": "tinnīn",
+    "korean": "용"
+  },
+  {
+    "arabic": "شجاعة",
+    "romanization": "shajāʿa",
+    "korean": "용기"
+  },
+  {
+    "arabic": "يغفر",
+    "romanization": "yaghfir",
+    "korean": "용서하다"
+  },
+  {
+    "arabic": "مظلة",
+    "romanization": "miẓalla",
+    "korean": "우산"
+  },
+  {
+    "arabic": "فائز",
+    "romanization": "fā'iz",
+    "korean": "우승자"
+  },
+  {
+    "arabic": "حليب",
+    "romanization": "ḥalīb",
+    "korean": "우유"
+  },
+  {
+    "arabic": "صديق",
+    "romanization": "ṣadīq",
+    "korean": "우정"
+  },
+  {
+    "arabic": "فضاء",
+    "romanization": "faḍā'",
+    "korean": "우주"
+  },
+  {
+    "arabic": "بريد",
+    "romanization": "barīd",
+    "korean": "우편"
+  },
+  {
+    "arabic": "يتحرك",
+    "romanization": "yataḥarrak",
+    "korean": "움직이다"
+  },
+  {
+    "arabic": "يضحك",
+    "romanization": "yaḍḥak",
+    "korean": "웃다"
+  },
+  {
+    "arabic": "أصلي",
+    "romanization": "aṣlī",
+    "korean": "원래의"
+  },
+  {
+    "arabic": "سبب",
+    "romanization": "sabab",
+    "korean": "원인"
+  },
+  {
+    "arabic": "مبدأ",
+    "romanization": "mabda'",
+    "korean": "원칙"
+  },
+  {
+    "arabic": "شهر",
+    "romanization": "shahr",
+    "korean": "월"
+  },
+  {
+    "arabic": "يوم الاثنين",
+    "romanization": "yawm al-ithnān",
+    "korean": "월요일"
+  },
+  {
+    "arabic": "موقع إلكتروني",
+    "romanization": "mawqiʿ iliktrūnī",
+    "korean": "웹사이트"
+  },
+  {
+    "arabic": "فوق",
+    "romanization": "fawq",
+    "korean": "위"
+  },
+  {
+    "arabic": "عظيم",
+    "romanization": "ʿaẓīm",
+    "korean": "위대한"
+  },
+  {
+    "arabic": "لجنة",
+    "romanization": "lajna",
+    "korean": "위원회"
+  },
+  {
+    "arabic": "معدة",
+    "romanization": "maʿida",
+    "korean": "위장"
+  },
+  {
+    "arabic": "موقع",
+    "romanization": "mawqiʿ",
+    "korean": "위치"
+  },
+  {
+    "arabic": "خطر",
+    "romanization": "khaṭar",
+    "korean": "위험"
+  },
+  {
+    "arabic": "ستة",
+    "romanization": "sitta",
+    "korean": "육(숫자)"
+  },
+  {
+    "arabic": "لحم",
+    "romanization": "laḥm",
+    "korean": "육류"
+  },
+  {
+    "arabic": "فضة",
+    "romanization": "fiḍḍa",
+    "korean": "은"
+  },
+  {
+    "arabic": "بنك",
+    "romanization": "bank",
+    "korean": "은행"
+  },
+  {
+    "arabic": "مشروب",
+    "romanization": "mashrūb",
+    "korean": "음료"
+  },
+  {
+    "arabic": "طعام",
+    "romanization": "ṭaʿām",
+    "korean": "음식"
+  },
+  {
+    "arabic": "موسيقى",
+    "romanization": "mūsīqā",
+    "korean": "음악"
+  },
+  {
+    "arabic": "رأي",
+    "romanization": "ra'y",
+    "korean": "의견"
+  },
+  {
+    "arabic": "واجب",
+    "romanization": "wājib",
+    "korean": "의무"
+  },
+  {
+    "arabic": "معنى",
+    "romanization": "maʿnā",
+    "korean": "의미"
+  },
+  {
+    "arabic": "ملابس",
+    "romanization": "malābis",
+    "korean": "의복"
+  },
+  {
+    "arabic": "طبيب",
+    "romanization": "ṭabīb",
+    "korean": "의사"
+  },
+  {
+    "arabic": "كرسي",
+    "romanization": "kursī",
+    "korean": "의자"
+  },
+  {
+    "arabic": "أسنان",
+    "romanization": "asnān",
+    "korean": "이"
+  },
+  {
+    "arabic": "اثنان",
+    "romanization": "ithnān",
+    "korean": "이(숫자)"
+  },
+  {
+    "arabic": "هذا",
+    "romanization": "hādhā",
+    "korean": "이것"
+  },
+  {
+    "arabic": "اسم",
+    "romanization": "ism",
+    "korean": "이름"
+  },
+  {
+    "arabic": "بريد إلكتروني",
+    "romanization": "barīd iliktrūnī",
+    "korean": "이메일"
+  },
+  {
+    "arabic": "قصة",
+    "romanization": "qiṣṣa",
+    "korean": "이야기"
+  },
+  {
+    "arabic": "جار",
+    "romanization": "jār",
+    "korean": "이웃"
+  },
+  {
+    "arabic": "سبب",
+    "romanization": "sabab",
+    "korean": "이유"
+  },
+  {
+    "arabic": "فائدة",
+    "romanization": "fā'ida",
+    "korean": "이익"
+  },
+  {
+    "arabic": "فهم",
+    "romanization": "fahm",
+    "korean": "이해"
+  },
+  {
+    "arabic": "إنسان",
+    "romanization": "insān",
+    "korean": "인간"
+  },
+  {
+    "arabic": "سكان",
+    "romanization": "sukkān",
+    "korean": "인구"
+  },
+  {
+    "arabic": "شعبي",
+    "romanization": "shaʿbī",
+    "korean": "인기 있는"
+  },
+  {
+    "arabic": "صبر",
+    "romanization": "ṣabr",
+    "korean": "인내"
+  },
+  {
+    "arabic": "انطباع",
+    "romanization": "inṭibāʿ",
+    "korean": "인상"
+  },
+  {
+    "arabic": "إنترنت",
+    "romanization": "intarnit",
+    "korean": "인터넷"
+  },
+  {
+    "arabic": "عمل",
+    "romanization": "ʿamal",
+    "korean": "일"
+  },
+  {
+    "arabic": "واحد",
+    "romanization": "wāḥid",
+    "korean": "일(숫자)"
+  },
+  {
+    "arabic": "عام",
+    "romanization": "ʿāmm",
+    "korean": "일반적인"
+  },
+  {
+    "arabic": "يومي",
+    "romanization": "yawmī",
+    "korean": "일상의"
+  },
+  {
+    "arabic": "يوم الأحد",
+    "romanization": "yawm al-aḥad",
+    "korean": "일요일"
+  },
+  {
+    "arabic": "مبكر",
+    "romanization": "mubakkir",
+    "korean": "일찍"
+  },
+  {
+    "arabic": "يقرأ",
+    "romanization": "yaqra'",
+    "korean": "읽다"
+  },
+  {
+    "arabic": "فم",
+    "romanization": "fam",
+    "korean": "입"
+  },
+  {
+    "arabic": "مدخل",
+    "romanization": "madkhal",
+    "korean": "입구"
+  },
+  {
+    "arabic": "يوجد",
+    "romanization": "yūjad",
+    "korean": "있다"
+  },
+  {
+    "arabic": "ينسى",
+    "romanization": "yansā",
+    "korean": "잊다"
+  },
+  {
+    "arabic": "ورقة",
+    "romanization": "waraqa",
+    "korean": "잎"
+  },
+  {
+    "arabic": "مسطرة",
+    "romanization": "masṭara",
+    "korean": "자"
+  },
+  {
+    "arabic": "مؤهل",
+    "romanization": "mu'ahhal",
+    "korean": "자격"
+  },
+  {
+    "arabic": "نفس",
+    "romanization": "nafs",
+    "korean": "자기"
+  },
+  {
+    "arabic": "موقف",
+    "romanization": "mawqif",
+    "korean": "자리"
+  },
+  {
+    "arabic": "طبيعة",
+    "romanization": "ṭabīʿa",
+    "korean": "자연"
+  },
+  {
+    "arabic": "مصدر",
+    "romanization": "maṣdar",
+    "korean": "자원"
+  },
+  {
+    "arabic": "حرية",
+    "romanization": "ḥurriyya",
+    "korean": "자유"
+  },
+  {
+    "arabic": "دراجة",
+    "romanization": "darrāja",
+    "korean": "자전거"
+  },
+  {
+    "arabic": "صغير",
+    "romanization": "ṣaghīr",
+    "korean": "작은"
+  },
+  {
+    "arabic": "كوب",
+    "romanization": "kūb",
+    "korean": "잔"
+  },
+  {
+    "arabic": "عشب",
+    "romanization": "ʿushb",
+    "korean": "잔디"
+  },
+  {
+    "arabic": "مهرجان",
+    "romanization": "mahrajān",
+    "korean": "잔치"
+  },
+  {
+    "arabic": "ينام",
+    "romanization": "yanām",
+    "korean": "잠"
+  },
+  {
+    "arabic": "يمسك",
+    "romanization": "yumsik",
+    "korean": "잡다"
+  },
+  {
+    "arabic": "مجلة",
+    "romanization": "majalla",
+    "korean": "잡지"
+  },
+  {
+    "arabic": "قفاز",
+    "romanization": "quffāz",
+    "korean": "장갑"
+  },
+  {
+    "arabic": "مستقبل",
+    "romanization": "mustaqbal",
+    "korean": "장래"
+  },
+  {
+    "arabic": "مكان",
+    "romanization": "makān",
+    "korean": "장소"
+  },
+  {
+    "arabic": "تزيين",
+    "romanization": "tazyīn",
+    "korean": "장식"
+  },
+  {
+    "arabic": "ميزة",
+    "romanization": "mīza",
+    "korean": "장점"
+  },
+  {
+    "arabic": "سوق",
+    "romanization": "sūq",
+    "korean": "장터"
+  },
+  {
+    "arabic": "منحة",
+    "romanization": "minḥa",
+    "korean": "장학금"
+  },
+  {
+    "arabic": "كارثة",
+    "romanization": "kāritha",
+    "korean": "재난"
+  },
+  {
+    "arabic": "موهبة",
+    "romanization": "mawhiba",
+    "korean": "재능"
+  },
+  {
+    "arabic": "مادة",
+    "romanization": "mādda",
+    "korean": "재료"
+  },
+  {
+    "arabic": "ممتع",
+    "romanization": "mumtiʿ",
+    "korean": "재미있는"
+  },
+  {
+    "arabic": "ثروة",
+    "romanization": "tharwa",
+    "korean": "재산"
+  },
+  {
+    "arabic": "ذاك",
+    "romanization": "dhāka",
+    "korean": "저것"
+  },
+  {
+    "arabic": "هناك",
+    "romanization": "hunāka",
+    "korean": "저기"
+  },
+  {
+    "arabic": "مساء",
+    "romanization": "masā'",
+    "korean": "저녁"
+  },
+  {
+    "arabic": "يوفر",
+    "romanization": "yuwaffir",
+    "korean": "저축하다"
+  },
+  {
+    "arabic": "عدو",
+    "romanization": "ʿaduww",
+    "korean": "적"
+  },
+  {
+    "arabic": "مناسب",
+    "romanization": "munāsib",
+    "korean": "적절한"
+  },
+  {
+    "arabic": "كهرباء",
+    "romanization": "kahrabā'",
+    "korean": "전기"
+  },
+  {
+    "arabic": "خبير",
+    "romanization": "khabīr",
+    "korean": "전문가"
+  },
+  {
+    "arabic": "معرض",
+    "romanization": "maʿriḍ",
+    "korean": "전시회"
+  },
+  {
+    "arabic": "قبل",
+    "romanization": "qabl",
+    "korean": "전에"
+  },
+  {
+    "arabic": "حرب",
+    "romanization": "ḥarb",
+    "korean": "전쟁"
+  },
+  {
+    "arabic": "كل",
+    "romanization": "kull",
+    "korean": "전체"
+  },
+  {
+    "arabic": "تقليد",
+    "romanization": "taqlīd",
+    "korean": "전통"
+  },
+  {
+    "arabic": "هاتف",
+    "romanization": "hātif",
+    "korean": "전화"
+  },
+  {
+    "arabic": "شاب",
+    "romanization": "shābb",
+    "korean": "젊은"
+  },
+  {
+    "arabic": "نقطة",
+    "romanization": "nuqṭa",
+    "korean": "점"
+  },
+  {
+    "arabic": "غداء",
+    "romanization": "ghadā'",
+    "korean": "점심"
+  },
+  {
+    "arabic": "طبق",
+    "romanization": "ṭabaq",
+    "korean": "접시"
+  },
+  {
+    "arabic": "لصق",
+    "romanization": "laṣq",
+    "korean": "접착"
+  },
+  {
+    "arabic": "محطة",
+    "romanization": "maḥaṭṭa",
+    "korean": "정거장"
+  },
+  {
+    "arabic": "معلومات",
+    "romanization": "maʿlūmāt",
+    "korean": "정보"
+  },
+  {
+    "arabic": "حكومة",
+    "romanization": "ḥukūma",
+    "korean": "정부"
+  },
+  {
+    "arabic": "عادي",
+    "romanization": "ʿādī",
+    "korean": "정상적인"
+  },
+  {
+    "arabic": "سياسة",
+    "romanization": "siyāsa",
+    "korean": "정치"
+  },
+  {
+    "arabic": "بالضبط",
+    "romanization": "biḍ-ḍabṭ",
+    "korean": "정확한"
+  },
+  {
+    "arabic": "يقدم",
+    "romanization": "yuqaddim",
+    "korean": "제공하다"
+  },
+  {
+    "arabic": "أخت صغرى",
+    "romanization": "ukht ṣughrā",
+    "korean": "제목"
+  },
+  {
+    "arabic": "اقتراح",
+    "romanization": "iqtirāḥ",
+    "korean": "제안"
+  },
+  {
+    "arabic": "منتج",
+    "romanization": "muntaj",
+    "korean": "제품"
+  },
+  {
+    "arabic": "محدود",
+    "romanization": "maḥdūd",
+    "korean": "제한된"
+  },
+  {
+    "arabic": "شرط",
+    "romanization": "sharṭ",
+    "korean": "조건"
+  },
+  {
+    "arabic": "قليلاً",
+    "romanization": "qalīlan",
+    "korean": "조금"
+  },
+  {
+    "arabic": "جد",
+    "romanization": "jadd",
+    "korean": "조부"
+  },
+  {
+    "arabic": "حذر",
+    "romanization": "ḥadhar",
+    "korean": "조심"
+  },
+  {
+    "arabic": "نصيحة",
+    "romanization": "naṣīḥa",
+    "korean": "조언"
+  },
+  {
+    "arabic": "هادئ",
+    "romanization": "hādi'",
+    "korean": "조용한"
+  },
+  {
+    "arabic": "تنظيم",
+    "romanization": "tanẓīm",
+    "korean": "조직"
+  },
+  {
+    "arabic": "احترام",
+    "romanization": "iḥtirām",
+    "korean": "존경"
+  },
+  {
+    "arabic": "يوجد",
+    "romanization": "yūjad",
+    "korean": "존재하다"
+  },
+  {
+    "arabic": "جيد",
+    "romanization": "jayyid",
+    "korean": "좋은"
+  },
+  {
+    "arabic": "مقعد",
+    "romanization": "maqʿad",
+    "korean": "좌석"
+  },
+  {
+    "arabic": "أسبوع",
+    "romanization": "usbūʿ",
+    "korean": "주"
+  },
+  {
+    "arabic": "يعطي",
+    "romanization": "yuʿṭī",
+    "korean": "주다"
+  },
+  {
+    "arabic": "مطبخ",
+    "romanization": "maṭbakh",
+    "korean": "주방"
+  },
+  {
+    "arabic": "عنوان",
+    "romanization": "ʿunwān",
+    "korean": "주소"
+  },
+  {
+    "arabic": "عصير",
+    "romanization": "ʿaṣīr",
+    "korean": "주스"
+  },
+  {
+    "arabic": "رئيسي",
+    "romanization": "ra'īsī",
+    "korean": "주요한"
+  },
+  {
+    "arabic": "اهتمام",
+    "romanization": "ihtimām",
+    "korean": "주의"
+  },
+  {
+    "arabic": "موضوع",
+    "romanization": "mawḍūʿ",
+    "korean": "주제"
+  },
+  {
+    "arabic": "موت",
+    "romanization": "mawt",
+    "korean": "죽음"
+  },
+  {
+    "arabic": "تحضير",
+    "romanization": "taḥḍīr",
+    "korean": "준비"
+  },
+  {
+    "arabic": "خط",
+    "romanization": "khaṭṭ",
+    "korean": "줄"
+  },
+  {
+    "arabic": "ينقص",
+    "romanization": "yanquṣ",
+    "korean": "줄다"
+  },
+  {
+    "arabic": "وسط",
+    "romanization": "wasaṭ",
+    "korean": "중간"
+  },
+  {
+    "arabic": "الصين",
+    "romanization": "aṣ-ṣīn",
+    "korean": "중국"
+  },
+  {
+    "arabic": "أهمية",
+    "romanization": "ahammiyya",
+    "korean": "중요"
+  },
+  {
+    "arabic": "فأر",
+    "romanization": "fa'r",
+    "korean": "쥐"
+  },
+  {
+    "arabic": "ممتع",
+    "romanization": "mumtiʿ",
+    "korean": "즐거운"
+  },
+  {
+    "arabic": "زيادة",
+    "romanization": "ziyāda",
+    "korean": "증가"
+  },
+  {
+    "arabic": "دليل",
+    "romanization": "dalīl",
+    "korean": "증거"
+  },
+  {
+    "arabic": "أعراض",
+    "romanization": "aʿrāḍ",
+    "korean": "증상"
+  },
+  {
+    "arabic": "محفظة",
+    "romanization": "miḥfaẓa",
+    "korean": "지갑"
+  },
+  {
+    "arabic": "أرض",
+    "romanization": "arḍ",
+    "korean": "지구"
+  },
+  {
+    "arabic": "الآن",
+    "romanization": "al-ān",
+    "korean": "지금"
+  },
+  {
+    "arabic": "ذكاء",
+    "romanization": "dhakā'",
+    "korean": "지능"
+  },
+  {
+    "arabic": "خريطة",
+    "romanization": "kharīṭa",
+    "korean": "지도"
+  },
+  {
+    "arabic": "قائد",
+    "romanization": "qā'id",
+    "korean": "지도자"
+  },
+  {
+    "arabic": "سقف",
+    "romanization": "saqf",
+    "korean": "지붕"
+  },
+  {
+    "arabic": "معرفة",
+    "romanization": "maʿrifa",
+    "korean": "지식"
+  },
+  {
+    "arabic": "منطقة",
+    "romanization": "minṭaqa",
+    "korean": "지역"
+  },
+  {
+    "arabic": "دعم",
+    "romanization": "daʿm",
+    "korean": "지원"
+  },
+  {
+    "arabic": "زلزال",
+    "romanization": "zilzāl",
+    "korean": "지진"
+  },
+  {
+    "arabic": "منصب",
+    "romanization": "manṣib",
+    "korean": "직업"
+  },
+  {
+    "arabic": "موظف",
+    "romanization": "muwaẓẓaf",
+    "korean": "직원"
+  },
+  {
+    "arabic": "مباشر",
+    "romanization": "mubāshir",
+    "korean": "직접"
+  },
+  {
+    "arabic": "تقدم",
+    "romanization": "taqaddum",
+    "korean": "진보"
+  },
+  {
+    "arabic": "حقيقي",
+    "romanization": "ḥaqīqī",
+    "korean": "진짜의"
+  },
+  {
+    "arabic": "نوعية",
+    "romanization": "nawʿiyya",
+    "korean": "질"
+  },
+  {
+    "arabic": "سؤال",
+    "romanization": "su'āl",
+    "korean": "질문"
+  },
+  {
+    "arabic": "مرض",
+    "romanization": "maraḍ",
+    "korean": "질병"
+  },
+  {
+    "arabic": "حمل",
+    "romanization": "ḥaml",
+    "korean": "짐"
+  },
+  {
+    "arabic": "منزل",
+    "romanization": "manzil",
+    "korean": "집"
+  },
+  {
+    "arabic": "زوج",
+    "romanization": "zawj",
+    "korean": "짝"
+  },
+  {
+    "arabic": "مالح",
+    "romanization": "māliḥ",
+    "korean": "짠"
+  },
+  {
+    "arabic": "قصير",
+    "romanization": "qaṣīr",
+    "korean": "짧은"
+  },
+  {
+    "arabic": "جانب",
+    "romanization": "jānib",
+    "korean": "쪽"
+  },
+  {
+    "arabic": "سيارة",
+    "romanization": "sayyāra",
+    "korean": "차"
+  },
+  {
+    "arabic": "شاي",
+    "romanization": "shāy",
+    "korean": "차(음료)"
+  },
+  {
+    "arabic": "بارد",
+    "romanization": "bārid",
+    "korean": "차가운"
+  },
+  {
+    "arabic": "مرآب",
+    "romanization": "mir'āb",
+    "korean": "차고"
+  },
+  {
+    "arabic": "فرق",
+    "romanization": "farq",
+    "korean": "차이"
+  },
+  {
+    "arabic": "نافذة",
+    "romanization": "nāfidha",
+    "korean": "창문"
+  },
+  {
+    "arabic": "إبداع",
+    "romanization": "ibdāʿ",
+    "korean": "창의성"
+  },
+  {
+    "arabic": "كتاب",
+    "romanization": "kitāb",
+    "korean": "책"
+  },
+  {
+    "arabic": "مسؤولية",
+    "romanization": "mas'ūliyya",
+    "korean": "책임"
+  },
+  {
+    "arabic": "رف",
+    "romanization": "raff",
+    "korean": "책장"
+  },
+  {
+    "arabic": "أول",
+    "romanization": "awwal",
+    "korean": "처음"
+  },
+  {
+    "arabic": "ألف",
+    "romanization": "alf",
+    "korean": "천"
+  },
+  {
+    "arabic": "سماء",
+    "romanization": "samā'",
+    "korean": "천(하늘)"
+  },
+  {
+    "arabic": "ببطء",
+    "romanization": "bibuṭ'",
+    "korean": "천천히"
+  },
+  {
+    "arabic": "حديد",
+    "romanization": "ḥadīd",
+    "korean": "철"
+  },
+  {
+    "arabic": "فلسفة",
+    "romanization": "falsafa",
+    "korean": "철학"
+  },
+  {
+    "arabic": "بنطلون جينز",
+    "romanization": "banṭalūn jīnz",
+    "korean": "청바지"
+  },
+  {
+    "arabic": "تنظيف",
+    "romanization": "tanẓīf",
+    "korean": "청소"
+  },
+  {
+    "arabic": "شباب",
+    "romanization": "shabāb",
+    "korean": "청소년"
+  },
+  {
+    "arabic": "جسم",
+    "romanization": "jism",
+    "korean": "체"
+  },
+  {
+    "arabic": "نظام",
+    "romanization": "niẓām",
+    "korean": "체계"
+  },
+  {
+    "arabic": "تجربة",
+    "romanization": "tajriba",
+    "korean": "체험"
+  },
+  {
+    "arabic": "أرضية",
+    "romanization": "arḍiyya",
+    "korean": "초"
+  },
+  {
+    "arabic": "دعوة",
+    "romanization": "daʿwa",
+    "korean": "초대"
+  },
+  {
+    "arabic": "أخضر",
+    "romanization": "akhḍar",
+    "korean": "초록색"
+  },
+  {
+    "arabic": "شوكولاتة",
+    "romanization": "shūkūlāta",
+    "korean": "초콜릿"
+  },
+  {
+    "arabic": "أفضل",
+    "romanization": "afḍal",
+    "korean": "최고의"
+  },
+  {
+    "arabic": "أصغر",
+    "romanization": "aṣghar",
+    "korean": "최소"
+  },
+  {
+    "arabic": "أحدث",
+    "romanization": "aḥdath",
+    "korean": "최신의"
+  },
+  {
+    "arabic": "نهائي",
+    "romanization": "nihā'ī",
+    "korean": "최종의"
+  },
+  {
+    "arabic": "كرة القدم",
+    "romanization": "kurat al-qadam",
+    "korean": "축구"
+  },
+  {
+    "arabic": "تهنئة",
+    "romanization": "tahni'a",
+    "korean": "축하"
+  },
+  {
+    "arabic": "خروج",
+    "romanization": "khurūj",
+    "korean": "출구"
+  },
+  {
+    "arabic": "مخرج",
+    "romanization": "makhraj",
+    "korean": "출발"
+  },
+  {
+    "arabic": "يرقص",
+    "romanization": "yarquṣ",
+    "korean": "춤추다"
+  },
+  {
+    "arabic": "نصيحة",
+    "romanization": "naṣīḥa",
+    "korean": "충고"
+  },
+  {
+    "arabic": "كاف",
+    "romanization": "kāfī",
+    "korean": "충분한"
+  },
+  {
+    "arabic": "وفاء",
+    "romanization": "wafā'",
+    "korean": "충성"
+  },
+  {
+    "arabic": "هواية",
+    "romanization": "hiwāya",
+    "korean": "취미"
+  },
+  {
+    "arabic": "طابق",
+    "romanization": "ṭābiq",
+    "korean": "층"
+  },
+  {
+    "arabic": "تنورة",
+    "romanization": "tannūra",
+    "korean": "치마"
+  },
+  {
+    "arabic": "معجون أسنان",
+    "romanization": "maʿjūn asnān",
+    "korean": "치약"
+  },
+  {
+    "arabic": "جبن",
+    "romanization": "jubn",
+    "korean": "치즈"
+  },
+  {
+    "arabic": "صديق",
+    "romanization": "ṣadīq",
+    "korean": "친구"
+  },
+  {
+    "arabic": "لطيف",
+    "romanization": "laṭīf",
+    "korean": "친절한"
+  },
+  {
+    "arabic": "قريب",
+    "romanization": "qarīb",
+    "korean": "친척"
+  },
+  {
+    "arabic": "سبعة",
+    "romanization": "sabʿa",
+    "korean": "칠(숫자)"
+  },
+  {
+    "arabic": "لوحة",
+    "romanization": "lawḥa",
+    "korean": "칠판"
+  },
+  {
+    "arabic": "سرير",
+    "romanization": "sarīr",
+    "korean": "침대"
+  },
+  {
+    "arabic": "غرفة نوم",
+    "romanization": "ghurfat nawm",
+    "korean": "침실"
+  },
+  {
+    "arabic": "بطاقة",
+    "romanization": "biṭāqa",
+    "korean": "카드"
+  },
+  {
+    "arabic": "كاميرا",
+    "romanization": "kāmīrā",
+    "korean": "카메라"
+  },
+  {
+    "arabic": "مقهى",
+    "romanization": "maqhā",
+    "korean": "카페"
+  },
+  {
+    "arabic": "سكين",
+    "romanization": "sikkīn",
+    "korean": "칼"
+  },
+  {
+    "arabic": "ستارة",
+    "romanization": "sitāra",
+    "korean": "커튼"
+  },
+  {
+    "arabic": "قهوة",
+    "romanization": "qahwa",
+    "korean": "커피"
+  },
+  {
+    "arabic": "حاسوب",
+    "romanization": "ḥāsūb",
+    "korean": "컴퓨터"
+  },
+  {
+    "arabic": "أنف",
+    "romanization": "anf",
+    "korean": "코"
+  },
+  {
+    "arabic": "معطف",
+    "romanization": "miʿṭaf",
+    "korean": "코트"
+  },
+  {
+    "arabic": "فاصولياء",
+    "romanization": "fāṣūliyā'",
+    "korean": "콩"
+  },
+  {
+    "arabic": "عيد الميلاد",
+    "romanization": "ʿīd al-mīlād",
+    "korean": "크리스마스"
+  },
+  {
+    "arabic": "كبير",
+    "romanization": "kabīr",
+    "korean": "큰"
+  },
+  {
+    "arabic": "نفق",
+    "romanization": "nafaq",
+    "korean": "터널"
+  },
+  {
+    "arabic": "تنس",
+    "romanization": "tinis",
+    "korean": "테니스"
+  },
+  {
+    "arabic": "إرهاب",
+    "romanization": "irhāb",
+    "korean": "테러"
+  },
+  {
+    "arabic": "تلفزيون",
+    "romanization": "tilifīzyūn",
+    "korean": "텔레비전"
+  },
+  {
+    "arabic": "أرنب",
+    "romanization": "arnab",
+    "korean": "토끼"
+  },
+  {
+    "arabic": "نقاش",
+    "romanization": "niqāsh",
+    "korean": "토론"
+  },
+  {
+    "arabic": "طماطم",
+    "romanization": "ṭamāṭim",
+    "korean": "토마토"
+  },
+  {
+    "arabic": "تراب",
+    "romanization": "turāb",
+    "korean": "토양"
+  },
+  {
+    "arabic": "يوم السبت",
+    "romanization": "yawm as-sabt",
+    "korean": "토요일"
+  },
+  {
+    "arabic": "خاص",
+    "romanization": "khāṣṣ",
+    "korean": "특별한"
+  },
+  {
+    "arabic": "ميزة",
+    "romanization": "mīza",
+    "korean": "특징"
+  },
+  {
+    "arabic": "فريق",
+    "romanization": "farīq",
+    "korean": "팀"
+  },
+  {
+    "arabic": "موجة",
+    "romanization": "mawja",
+    "korean": "파도"
+  },
+  {
+    "arabic": "أزرق",
+    "romanization": "azraq",
+    "korean": "파란색"
+  },
+  {
+    "arabic": "ذبابة",
+    "romanization": "dhubāba",
+    "korean": "파리"
+  },
+  {
+    "arabic": "معكرونة",
+    "romanization": "maʿkarūna",
+    "korean": "파스타"
+  },
+  {
+    "arabic": "حفلة",
+    "romanization": "ḥafla",
+    "korean": "파티"
+  },
+  {
+    "arabic": "ذراع",
+    "romanization": "dhirāʿ",
+    "korean": "팔"
+  },
+  {
+    "arabic": "ثمانية",
+    "romanization": "thamāniya",
+    "korean": "팔(숫자)"
+  },
+  {
+    "arabic": "يبيع",
+    "romanization": "yabīʿ",
+    "korean": "팔다"
+  },
+  {
+    "arabic": "مروحة",
+    "romanization": "mirwaḥa",
+    "korean": "팬"
+  },
+  {
+    "arabic": "سراويل",
+    "romanization": "sarāwīl",
+    "korean": "팬츠"
+  },
+  {
+    "arabic": "صفحة",
+    "romanization": "ṣafḥa",
+    "korean": "페이지"
+  },
+  {
+    "arabic": "قلم",
+    "romanization": "qalam",
+    "korean": "펜"
+  },
+  {
+    "arabic": "تقييم",
+    "romanization": "taqyīm",
+    "korean": "평가"
+  },
+  {
+    "arabic": "متوسط",
+    "romanization": "mutawassiṭ",
+    "korean": "평균"
+  },
+  {
+    "arabic": "مسطح",
+    "romanization": "musaṭṭaḥ",
+    "korean": "평평한"
+  },
+  {
+    "arabic": "سلام",
+    "romanization": "salām",
+    "korean": "평화"
+  },
+  {
+    "arabic": "عنب",
+    "romanization": "ʿinab",
+    "korean": "포도"
+  },
+  {
+    "arabic": "شوكة",
+    "romanization": "shawka",
+    "korean": "포크"
+  },
+  {
+    "arabic": "يتضمن",
+    "romanization": "yataḍamman",
+    "korean": "포함하다"
+  },
+  {
+    "arabic": "عنف",
+    "romanization": "ʿunf",
+    "korean": "폭력"
+  },
+  {
+    "arabic": "شلال",
+    "romanization": "shallāl",
+    "korean": "폭포"
+  },
+  {
+    "arabic": "عاصفة",
+    "romanization": "ʿāṣifa",
+    "korean": "폭풍"
+  },
+  {
+    "arabic": "تذكرة",
+    "romanization": "tadhkira",
+    "korean": "표"
+  },
+  {
+    "arabic": "سطح",
+    "romanization": "saṭḥ",
+    "korean": "표면"
+  },
+  {
+    "arabic": "علامة",
+    "romanization": "ʿalāma",
+    "korean": "표시"
+  },
+  {
+    "arabic": "تعبير",
+    "romanization": "taʿbīr",
+    "korean": "표현"
+  },
+  {
+    "arabic": "أخضر",
+    "romanization": "akhḍar",
+    "korean": "풀"
+  },
+  {
+    "arabic": "كبار",
+    "romanization": "kibār",
+    "korean": "풍부한"
+  },
+  {
+    "arabic": "برنامج",
+    "romanization": "barnāmaj",
+    "korean": "프로그램"
+  },
+  {
+    "arabic": "مشروع",
+    "romanization": "mashrūʿ",
+    "korean": "프로젝트"
+  },
+  {
+    "arabic": "طابعة",
+    "romanization": "ṭābiʿa",
+    "korean": "프린터"
+  },
+  {
+    "arabic": "دم",
+    "romanization": "dam",
+    "korean": "피"
+  },
+  {
+    "arabic": "متعب",
+    "romanization": "mutʿab",
+    "korean": "피곤한"
+  },
+  {
+    "arabic": "جلد",
+    "romanization": "jild",
+    "korean": "피부"
+  },
+  {
+    "arabic": "بيانو",
+    "romanization": "biyānū",
+    "korean": "피아노"
+  },
+  {
+    "arabic": "بيتزا",
+    "romanization": "bītzā",
+    "korean": "피자"
+  },
+  {
+    "arabic": "ضروري",
+    "romanization": "ḍarūrī",
+    "korean": "필수적인"
+  },
+  {
+    "arabic": "يحتاج",
+    "romanization": "yaḥtāj",
+    "korean": "필요하다"
+  },
+  {
+    "arabic": "واحد",
+    "romanization": "wāḥid",
+    "korean": "하나"
+  },
+  {
+    "arabic": "سماء",
+    "romanization": "samā'",
+    "korean": "하늘"
+  },
+  {
+    "arabic": "يفعل",
+    "romanization": "yafʿal",
+    "korean": "하다"
+  },
+  {
+    "arabic": "أبيض",
+    "romanization": "abyaḍ",
+    "korean": "하얀색"
+  },
+  {
+    "arabic": "نصف",
+    "romanization": "niṣf",
+    "korean": "하프"
+  },
+  {
+    "arabic": "مدرسة",
+    "romanization": "madrasa",
+    "korean": "학교"
+  },
+  {
+    "arabic": "فصل دراسي",
+    "romanization": "faṣl dirāsī",
+    "korean": "학기"
+  },
+  {
+    "arabic": "علم",
+    "romanization": "ʿilm",
+    "korean": "학문"
+  },
+  {
+    "arabic": "طالب",
+    "romanization": "ṭālib",
+    "korean": "학생"
+  },
+  {
+    "arabic": "أكاديمي",
+    "romanization": "akādīmī",
+    "korean": "학술적인"
+  },
+  {
+    "arabic": "واحد",
+    "romanization": "wāḥid",
+    "korean": "한"
+  },
+  {
+    "arabic": "كوري",
+    "romanization": "kūrī",
+    "korean": "한국의"
+  },
+  {
+    "arabic": "جدة",
+    "romanization": "jadda",
+    "korean": "할머니"
+  },
+  {
+    "arabic": "جد",
+    "romanization": "jadd",
+    "korean": "할아버지"
+  },
+  {
+    "arabic": "خصم",
+    "romanization": "khaṣm",
+    "korean": "할인"
+  },
+  {
+    "arabic": "صندوق",
+    "romanization": "ṣundūq",
+    "korean": "함"
+  },
+  {
+    "arabic": "معاً",
+    "romanization": "maʿan",
+    "korean": "함께"
+  },
+  {
+    "arabic": "طيران",
+    "romanization": "ṭayarān",
+    "korean": "항공"
+  },
+  {
+    "arabic": "ميناء",
+    "romanization": "mīnā'",
+    "korean": "항구"
+  },
+  {
+    "arabic": "دائماً",
+    "romanization": "dā'iman",
+    "korean": "항상"
+  },
+  {
+    "arabic": "احتجاج",
+    "romanization": "iḥtijāj",
+    "korean": "항의"
+  },
+  {
+    "arabic": "بحر",
+    "romanization": "baḥr",
+    "korean": "해"
+  },
+  {
+    "arabic": "حل",
+    "romanization": "ḥall",
+    "korean": "해결"
+  },
+  {
+    "arabic": "ضار",
+    "romanization": "ḍārr",
+    "korean": "해로운"
+  }
+]

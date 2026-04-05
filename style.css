@@ -1846,11 +1846,18 @@ html { scrollbar-width: thin; scrollbar-color: rgba(34,34,34,0.15) transparent; 
 .vocab-header {
   margin-bottom: 1.5rem;
 }
+.vocab-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin: 0.5rem 0 0.25rem;
+}
 .vocab-title {
   font-size: 1.5rem;
   font-weight: 800;
   color: var(--text-primary);
-  margin: 0.5rem 0 0.25rem;
+  margin: 0;
 }
 .vocab-count {
   font-size: 0.9rem;
@@ -1865,7 +1872,7 @@ html { scrollbar-width: thin; scrollbar-color: rgba(34,34,34,0.15) transparent; 
 .vocab-card {
   perspective: 600px;
   cursor: pointer;
-  height: 130px;
+  height: 80px;
 }
 .vocab-card-inner {
   position: relative;
@@ -1887,7 +1894,7 @@ html { scrollbar-width: thin; scrollbar-color: rgba(34,34,34,0.15) transparent; 
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 0.75rem 0.5rem;
+  padding: 0.5rem 0.4rem;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 .vocab-card-front {
@@ -1900,43 +1907,12 @@ html { scrollbar-width: thin; scrollbar-color: rgba(34,34,34,0.15) transparent; 
   transform: rotateY(180deg);
 }
 .vocab-korean {
-  font-size: 1.15rem;
+  font-size: 0.95rem;
   font-weight: 700;
-}
-.vocab-hint {
-  font-size: 0.7rem;
-  opacity: 0.45;
-  margin-top: 0.5rem;
 }
 .vocab-foreign {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: 700;
-}
-.vocab-pron {
-  font-size: 0.85rem;
-  opacity: 0.85;
-  margin-top: 0.15rem;
-}
-.vocab-korean-small {
-  font-size: 0.8rem;
-  opacity: 0.75;
-  margin-top: 0.25rem;
-}
-.vocab-tts-btn {
-  background: rgba(255,255,255,0.25);
-  border: none;
-  border-radius: 50%;
-  width: 32px;
-  height: 32px;
-  font-size: 1rem;
-  cursor: pointer;
-  margin-top: 0.35rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.vocab-tts-btn:hover {
-  background: rgba(255,255,255,0.4);
 }
 
 /* ---- Grammar Page ---- */

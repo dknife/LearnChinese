@@ -1,0 +1,5002 @@
+[
+  {
+    "swahili": "hadi",
+    "pronunciation": "하디",
+    "korean": "~까지"
+  },
+  {
+    "swahili": "wala",
+    "pronunciation": "왈라",
+    "korean": "~도 아닌"
+  },
+  {
+    "swahili": "kuhusu",
+    "pronunciation": "쿠후수",
+    "korean": "~에 대해"
+  },
+  {
+    "swahili": "kwa",
+    "pronunciation": "콰",
+    "korean": "~을 위해"
+  },
+  {
+    "swahili": "tangu",
+    "pronunciation": "탕구",
+    "korean": "~이래로"
+  },
+  {
+    "swahili": "wakati",
+    "pronunciation": "와카티",
+    "korean": "~할 때"
+  },
+  {
+    "swahili": "duka",
+    "pronunciation": "두카",
+    "korean": "가게"
+  },
+  {
+    "swahili": "bei",
+    "pronunciation": "베이",
+    "korean": "가격"
+  },
+  {
+    "swahili": "familia",
+    "pronunciation": "파밀리아",
+    "korean": "가계"
+  },
+  {
+    "swahili": "samani",
+    "pronunciation": "사마니",
+    "korean": "가구"
+  },
+  {
+    "swahili": "karibu",
+    "pronunciation": "카리부",
+    "korean": "가까운"
+  },
+  {
+    "swahili": "umaskini",
+    "pronunciation": "우마스키니",
+    "korean": "가난"
+  },
+  {
+    "swahili": "enda",
+    "pronunciation": "엔다",
+    "korean": "가다"
+  },
+  {
+    "swahili": "unga",
+    "pronunciation": "웅가",
+    "korean": "가루"
+  },
+  {
+    "swahili": "fundisha",
+    "pronunciation": "푼디샤",
+    "korean": "가르치다"
+  },
+  {
+    "swahili": "jifunza",
+    "pronunciation": "지푼자",
+    "korean": "가르침 받다"
+  },
+  {
+    "swahili": "ishara",
+    "pronunciation": "이샤라",
+    "korean": "가리키다"
+  },
+  {
+    "swahili": "ukame",
+    "pronunciation": "우카메",
+    "korean": "가뭄"
+  },
+  {
+    "swahili": "mfuko",
+    "pronunciation": "음푸코",
+    "korean": "가방"
+  },
+  {
+    "swahili": "nyota",
+    "pronunciation": "뇨타",
+    "korean": "가수"
+  },
+  {
+    "swahili": "kifua",
+    "pronunciation": "키푸아",
+    "korean": "가슴"
+  },
+  {
+    "swahili": "mkasi",
+    "pronunciation": "음카시",
+    "korean": "가위"
+  },
+  {
+    "swahili": "vuli",
+    "pronunciation": "불리",
+    "korean": "가을"
+  },
+  {
+    "swahili": "nyumbani",
+    "pronunciation": "뉴음바니",
+    "korean": "가정"
+  },
+  {
+    "swahili": "samani ya nyumbani",
+    "pronunciation": "사마니 야 뉴음바니",
+    "korean": "가정용품"
+  },
+  {
+    "swahili": "kaya",
+    "pronunciation": "카야",
+    "korean": "가정집"
+  },
+  {
+    "swahili": "kuchukua",
+    "pronunciation": "쿠추쿠아",
+    "korean": "가져가다"
+  },
+  {
+    "swahili": "ngozi",
+    "pronunciation": "응고지",
+    "korean": "가죽"
+  },
+  {
+    "swahili": "nesi",
+    "pronunciation": "네시",
+    "korean": "간호사"
+  },
+  {
+    "swahili": "parachichi",
+    "pronunciation": "파라치치",
+    "korean": "감"
+  },
+  {
+    "swahili": "hisia",
+    "pronunciation": "히시아",
+    "korean": "감각"
+  },
+  {
+    "swahili": "ganzi",
+    "pronunciation": "간지",
+    "korean": "감각없음"
+  },
+  {
+    "swahili": "mafua",
+    "pronunciation": "마푸아",
+    "korean": "감기"
+  },
+  {
+    "swahili": "hali ya hewa",
+    "pronunciation": "할리 야 헤와",
+    "korean": "감기 기운"
+  },
+  {
+    "swahili": "mkaguzi",
+    "pronunciation": "음카구지",
+    "korean": "감독관"
+  },
+  {
+    "swahili": "msukumo",
+    "pronunciation": "음수쿠모",
+    "korean": "감동"
+  },
+  {
+    "swahili": "shukrani",
+    "pronunciation": "슈크라니",
+    "korean": "감사"
+  },
+  {
+    "swahili": "asante",
+    "pronunciation": "아산테",
+    "korean": "감사합니다"
+  },
+  {
+    "swahili": "kupunguza",
+    "pronunciation": "쿠풍구자",
+    "korean": "감소시키다"
+  },
+  {
+    "swahili": "gerezani",
+    "pronunciation": "게레자니",
+    "korean": "감옥"
+  },
+  {
+    "swahili": "viazi",
+    "pronunciation": "비아지",
+    "korean": "감자"
+  },
+  {
+    "swahili": "mto",
+    "pronunciation": "음토",
+    "korean": "강"
+  },
+  {
+    "swahili": "mbwa",
+    "pronunciation": "음브와",
+    "korean": "개"
+  },
+  {
+    "swahili": "chura",
+    "pronunciation": "추라",
+    "korean": "개구리"
+  },
+  {
+    "swahili": "ufunguzi",
+    "pronunciation": "우풍구지",
+    "korean": "개막"
+  },
+  {
+    "swahili": "mchwa",
+    "pronunciation": "음치와",
+    "korean": "개미"
+  },
+  {
+    "swahili": "funua",
+    "pronunciation": "푸누아",
+    "korean": "개봉하다"
+  },
+  {
+    "swahili": "marekebisho",
+    "pronunciation": "마레케비쇼",
+    "korean": "개선"
+  },
+  {
+    "swahili": "kibiashara",
+    "pronunciation": "키비아샤라",
+    "korean": "개인 사업"
+  },
+  {
+    "swahili": "binafsi",
+    "pronunciation": "비납시",
+    "korean": "개인의"
+  },
+  {
+    "swahili": "mtaa",
+    "pronunciation": "음타",
+    "korean": "거리"
+  },
+  {
+    "swahili": "buibui",
+    "pronunciation": "부이부이",
+    "korean": "거미"
+  },
+  {
+    "swahili": "kobe",
+    "pronunciation": "코베",
+    "korean": "거북이"
+  },
+  {
+    "swahili": "wasiwasi",
+    "pronunciation": "와시와시",
+    "korean": "걱정"
+  },
+  {
+    "swahili": "tukio",
+    "pronunciation": "투키오",
+    "korean": "건"
+  },
+  {
+    "swahili": "afya",
+    "pronunciation": "아피아",
+    "korean": "건강"
+  },
+  {
+    "swahili": "vuka",
+    "pronunciation": "부카",
+    "korean": "건너다"
+  },
+  {
+    "swahili": "jengo",
+    "pronunciation": "젱고",
+    "korean": "건물"
+  },
+  {
+    "swahili": "jenga",
+    "pronunciation": "젱가",
+    "korean": "건설하다"
+  },
+  {
+    "swahili": "kavu",
+    "pronunciation": "카부",
+    "korean": "건조한"
+  },
+  {
+    "swahili": "mbunifu",
+    "pronunciation": "음부니푸",
+    "korean": "건축가"
+  },
+  {
+    "swahili": "kutembea",
+    "pronunciation": "쿠템베아",
+    "korean": "걷기"
+  },
+  {
+    "swahili": "tembea",
+    "pronunciation": "템베아",
+    "korean": "걷다"
+  },
+  {
+    "swahili": "kitu",
+    "pronunciation": "키투",
+    "korean": "것"
+  },
+  {
+    "swahili": "kaa",
+    "pronunciation": "카",
+    "korean": "게"
+  },
+  {
+    "swahili": "nyumba ya wageni",
+    "pronunciation": "뉴음바 야 와게니",
+    "korean": "게스트하우스"
+  },
+  {
+    "swahili": "ndoa",
+    "pronunciation": "은도아",
+    "korean": "결혼"
+  },
+  {
+    "swahili": "arusi",
+    "pronunciation": "아루시",
+    "korean": "결혼식"
+  },
+  {
+    "swahili": "mipaka",
+    "pronunciation": "미파카",
+    "korean": "경계"
+  },
+  {
+    "swahili": "tahadhari",
+    "pronunciation": "타하다리",
+    "korean": "경고"
+  },
+  {
+    "swahili": "mchezo",
+    "pronunciation": "음체조",
+    "korean": "경기"
+  },
+  {
+    "swahili": "uwanja",
+    "pronunciation": "우완자",
+    "korean": "경기장"
+  },
+  {
+    "swahili": "kucheza",
+    "pronunciation": "쿠체자",
+    "korean": "경기하다"
+  },
+  {
+    "swahili": "mashindano",
+    "pronunciation": "마신다노",
+    "korean": "경쟁"
+  },
+  {
+    "swahili": "uchumi",
+    "pronunciation": "우추미",
+    "korean": "경제"
+  },
+  {
+    "swahili": "polisi",
+    "pronunciation": "폴리시",
+    "korean": "경찰"
+  },
+  {
+    "swahili": "sherehe",
+    "pronunciation": "셰레헤",
+    "korean": "경축"
+  },
+  {
+    "swahili": "uzoefu",
+    "pronunciation": "우조에푸",
+    "korean": "경험"
+  },
+  {
+    "swahili": "ngazi",
+    "pronunciation": "응가지",
+    "korean": "계단"
+  },
+  {
+    "swahili": "msimu",
+    "pronunciation": "음시무",
+    "korean": "계절"
+  },
+  {
+    "swahili": "akaunti",
+    "pronunciation": "아카운티",
+    "korean": "계좌"
+  },
+  {
+    "swahili": "mpango",
+    "pronunciation": "음팡고",
+    "korean": "계획"
+  },
+  {
+    "swahili": "panga",
+    "pronunciation": "팡가",
+    "korean": "계획하다"
+  },
+  {
+    "swahili": "nyangumi",
+    "pronunciation": "냥구미",
+    "korean": "고래"
+  },
+  {
+    "swahili": "chagua",
+    "pronunciation": "차구아",
+    "korean": "고르다"
+  },
+  {
+    "swahili": "paka",
+    "pronunciation": "파카",
+    "korean": "고양이"
+  },
+  {
+    "swahili": "pilipili",
+    "pronunciation": "필리필리",
+    "korean": "고추"
+  },
+  {
+    "swahili": "kurekebisha",
+    "pronunciation": "쿠레케비샤",
+    "korean": "고치다"
+  },
+  {
+    "swahili": "mfupa uliovunjika",
+    "pronunciation": "음푸파 울리오분지카",
+    "korean": "골절"
+  },
+  {
+    "swahili": "korongo",
+    "pronunciation": "코롱고",
+    "korean": "골짜기"
+  },
+  {
+    "swahili": "gofu",
+    "pronunciation": "고푸",
+    "korean": "골프"
+  },
+  {
+    "swahili": "dubu",
+    "pronunciation": "두부",
+    "korean": "곰"
+  },
+  {
+    "swahili": "mahali",
+    "pronunciation": "마할리",
+    "korean": "곳"
+  },
+  {
+    "swahili": "mpira",
+    "pronunciation": "음피라",
+    "korean": "공"
+  },
+  {
+    "swahili": "hewa",
+    "pronunciation": "헤와",
+    "korean": "공기"
+  },
+  {
+    "swahili": "masomo",
+    "pronunciation": "마소모",
+    "korean": "공부"
+  },
+  {
+    "swahili": "soma",
+    "pronunciation": "소마",
+    "korean": "공부하다"
+  },
+  {
+    "swahili": "rasmi",
+    "pronunciation": "라스미",
+    "korean": "공식적인"
+  },
+  {
+    "swahili": "bustani",
+    "pronunciation": "부스타니",
+    "korean": "공원"
+  },
+  {
+    "swahili": "kiwanda",
+    "pronunciation": "키완다",
+    "korean": "공장"
+  },
+  {
+    "swahili": "bure",
+    "pronunciation": "부레",
+    "korean": "공짜의"
+  },
+  {
+    "swahili": "hofu",
+    "pronunciation": "호푸",
+    "korean": "공포"
+  },
+  {
+    "swahili": "ufundi",
+    "pronunciation": "우푼디",
+    "korean": "공학"
+  },
+  {
+    "swahili": "uwanja wa ndege",
+    "pronunciation": "우완자 와 은데게",
+    "korean": "공항"
+  },
+  {
+    "swahili": "rasi",
+    "pronunciation": "라시",
+    "korean": "곶"
+  },
+  {
+    "swahili": "matunda",
+    "pronunciation": "마툰다",
+    "korean": "과일"
+  },
+  {
+    "swahili": "sayansi",
+    "pronunciation": "사얀시",
+    "korean": "과학"
+  },
+  {
+    "swahili": "mwanasayansi",
+    "pronunciation": "므와나사얀시",
+    "korean": "과학자"
+  },
+  {
+    "swahili": "jeneza",
+    "pronunciation": "제네자",
+    "korean": "관"
+  },
+  {
+    "swahili": "ukarimu",
+    "pronunciation": "우카리무",
+    "korean": "관대함"
+  },
+  {
+    "swahili": "mwalimu",
+    "pronunciation": "므왈리무",
+    "korean": "교사"
+  },
+  {
+    "swahili": "darasani",
+    "pronunciation": "다라사니",
+    "korean": "교실"
+  },
+  {
+    "swahili": "elimu",
+    "pronunciation": "엘리무",
+    "korean": "교육"
+  },
+  {
+    "swahili": "mwalimu mkuu",
+    "pronunciation": "므왈리무 음쿠",
+    "korean": "교장"
+  },
+  {
+    "swahili": "njia panda",
+    "pronunciation": "은지아 판다",
+    "korean": "교차로"
+  },
+  {
+    "swahili": "kiwango cha usafiri",
+    "pronunciation": "키왕고 차 우사피리",
+    "korean": "교통"
+  },
+  {
+    "swahili": "taa ya barabarani",
+    "pronunciation": "타 야 바라바라니",
+    "korean": "교통신호"
+  },
+  {
+    "swahili": "msongamano",
+    "pronunciation": "음송가마노",
+    "korean": "교통체증"
+  },
+  {
+    "swahili": "kanisa",
+    "pronunciation": "카니사",
+    "korean": "교회"
+  },
+  {
+    "swahili": "tisa",
+    "pronunciation": "티사",
+    "korean": "구(9)"
+  },
+  {
+    "swahili": "ambulensi",
+    "pronunciation": "암불렌시",
+    "korean": "구급차"
+  },
+  {
+    "swahili": "kiatu",
+    "pronunciation": "키아투",
+    "korean": "구두"
+  },
+  {
+    "swahili": "wingu",
+    "pronunciation": "윙구",
+    "korean": "구름"
+  },
+  {
+    "swahili": "okoa",
+    "pronunciation": "오코아",
+    "korean": "구하다"
+  },
+  {
+    "swahili": "nchi",
+    "pronunciation": "은치",
+    "korean": "국가"
+  },
+  {
+    "swahili": "bendera",
+    "pronunciation": "벤데라",
+    "korean": "국기"
+  },
+  {
+    "swahili": "supu",
+    "pronunciation": "수푸",
+    "korean": "국물"
+  },
+  {
+    "swahili": "kimataifa",
+    "pronunciation": "키마타이파",
+    "korean": "국제적인"
+  },
+  {
+    "swahili": "jeshi",
+    "pronunciation": "제시",
+    "korean": "군대"
+  },
+  {
+    "swahili": "nguvu",
+    "pronunciation": "응구부",
+    "korean": "권력"
+  },
+  {
+    "swahili": "haki",
+    "pronunciation": "하키",
+    "korean": "권리"
+  },
+  {
+    "swahili": "sikio",
+    "pronunciation": "시키오",
+    "korean": "귀"
+  },
+  {
+    "swahili": "hereni",
+    "pronunciation": "헤레니",
+    "korean": "귀걸이"
+  },
+  {
+    "swahili": "mtukufu",
+    "pronunciation": "음투쿠푸",
+    "korean": "귀한"
+  },
+  {
+    "swahili": "kanuni",
+    "pronunciation": "카누니",
+    "korean": "규칙"
+  },
+  {
+    "swahili": "machungwa",
+    "pronunciation": "마춍과",
+    "korean": "귤"
+  },
+  {
+    "swahili": "halafu",
+    "pronunciation": "할라푸",
+    "korean": "그 다음에"
+  },
+  {
+    "swahili": "yeye",
+    "pronunciation": "예예",
+    "korean": "그/그녀"
+  },
+  {
+    "swahili": "lakini",
+    "pronunciation": "라키니",
+    "korean": "그러나"
+  },
+  {
+    "swahili": "sahani",
+    "pronunciation": "사하니",
+    "korean": "그릇"
+  },
+  {
+    "swahili": "na",
+    "pronunciation": "나",
+    "korean": "그리고"
+  },
+  {
+    "swahili": "theluji",
+    "pronunciation": "텔루지",
+    "korean": "그리고 눈"
+  },
+  {
+    "swahili": "kuchora",
+    "pronunciation": "쿠초라",
+    "korean": "그리다"
+  },
+  {
+    "swahili": "picha",
+    "pronunciation": "피차",
+    "korean": "그림"
+  },
+  {
+    "swahili": "kivuli",
+    "pronunciation": "키불리",
+    "korean": "그림자"
+  },
+  {
+    "swahili": "dhahabu",
+    "pronunciation": "다하부",
+    "korean": "금"
+  },
+  {
+    "swahili": "metali",
+    "pronunciation": "메탈리",
+    "korean": "금속"
+  },
+  {
+    "swahili": "ijumaa",
+    "pronunciation": "이주마",
+    "korean": "금요일"
+  },
+  {
+    "swahili": "fedha",
+    "pronunciation": "페다",
+    "korean": "금전"
+  },
+  {
+    "swahili": "haraka",
+    "pronunciation": "하라카",
+    "korean": "급한"
+  },
+  {
+    "swahili": "chanya",
+    "pronunciation": "찬야",
+    "korean": "긍정적인"
+  },
+  {
+    "swahili": "muda",
+    "pronunciation": "무다",
+    "korean": "기간"
+  },
+  {
+    "swahili": "mashine",
+    "pronunciation": "마시네",
+    "korean": "기계"
+  },
+  {
+    "swahili": "taasisi",
+    "pronunciation": "타아시시",
+    "korean": "기관"
+  },
+  {
+    "swahili": "subiri",
+    "pronunciation": "수비리",
+    "korean": "기다리다"
+  },
+  {
+    "swahili": "sala",
+    "pronunciation": "살라",
+    "korean": "기도"
+  },
+  {
+    "swahili": "twiga",
+    "pronunciation": "트위가",
+    "korean": "기린"
+  },
+  {
+    "swahili": "furaha",
+    "pronunciation": "푸라하",
+    "korean": "기쁨"
+  },
+  {
+    "swahili": "teknolojia",
+    "pronunciation": "테크놀로지아",
+    "korean": "기술"
+  },
+  {
+    "swahili": "kumbukumbu",
+    "pronunciation": "쿰부쿰부",
+    "korean": "기억"
+  },
+  {
+    "swahili": "waandishi wa habari",
+    "pronunciation": "와안디시 와 하바리",
+    "korean": "기자"
+  },
+  {
+    "swahili": "treni",
+    "pronunciation": "트레니",
+    "korean": "기차"
+  },
+  {
+    "swahili": "kituo cha treni",
+    "pronunciation": "키투오 차 트레니",
+    "korean": "기차역"
+  },
+  {
+    "swahili": "msingi",
+    "pronunciation": "음싱기",
+    "korean": "기초"
+  },
+  {
+    "swahili": "gita",
+    "pronunciation": "기타",
+    "korean": "기타(악기)"
+  },
+  {
+    "swahili": "nafasi",
+    "pronunciation": "나파시",
+    "korean": "기회"
+  },
+  {
+    "swahili": "mabadiliko ya hali ya hewa",
+    "pronunciation": "마바딜리코 야 할리 야 헤와",
+    "korean": "기후 변화"
+  },
+  {
+    "swahili": "ndefu",
+    "pronunciation": "은데푸",
+    "korean": "긴"
+  },
+  {
+    "swahili": "barabara",
+    "pronunciation": "바라바라",
+    "korean": "길"
+  },
+  {
+    "swahili": "kirefu",
+    "pronunciation": "키레푸",
+    "korean": "길이"
+  },
+  {
+    "swahili": "maua",
+    "pronunciation": "마우아",
+    "korean": "꽃"
+  },
+  {
+    "swahili": "ndoto",
+    "pronunciation": "은도토",
+    "korean": "꿈"
+  },
+  {
+    "swahili": "kamba",
+    "pronunciation": "캄바",
+    "korean": "끈"
+  },
+  {
+    "swahili": "mwisho",
+    "pronunciation": "므위쇼",
+    "korean": "끝"
+  },
+  {
+    "swahili": "kumaliza",
+    "pronunciation": "쿠말리자",
+    "korean": "끝내다"
+  },
+  {
+    "swahili": "chakula",
+    "pronunciation": "차쿨라",
+    "korean": "나"
+  },
+  {
+    "swahili": "mimi",
+    "pronunciation": "미미",
+    "korean": "나"
+  },
+  {
+    "swahili": "mti",
+    "pronunciation": "음티",
+    "korean": "나무"
+  },
+  {
+    "swahili": "kipepeo",
+    "pronunciation": "키페페오",
+    "korean": "나비"
+  },
+  {
+    "swahili": "umri",
+    "pronunciation": "움리",
+    "korean": "나이"
+  },
+  {
+    "swahili": "baadaye",
+    "pronunciation": "바아다예",
+    "korean": "나중에"
+  },
+  {
+    "swahili": "ngamia",
+    "pronunciation": "응가미아",
+    "korean": "낙타"
+  },
+  {
+    "swahili": "siku",
+    "pronunciation": "시쿠",
+    "korean": "날"
+  },
+  {
+    "swahili": "tarehe",
+    "pronunciation": "타레헤",
+    "korean": "날짜"
+  },
+  {
+    "swahili": "nje",
+    "pronunciation": "은제",
+    "korean": "남"
+  },
+  {
+    "swahili": "mwanamume",
+    "pronunciation": "므와나무메",
+    "korean": "남자"
+  },
+  {
+    "swahili": "kaka",
+    "pronunciation": "카카",
+    "korean": "남자 형제"
+  },
+  {
+    "swahili": "mchumba",
+    "pronunciation": "음춤바",
+    "korean": "남자친구"
+  },
+  {
+    "swahili": "kusini",
+    "pronunciation": "쿠시니",
+    "korean": "남쪽"
+  },
+  {
+    "swahili": "mume",
+    "pronunciation": "무메",
+    "korean": "남편"
+  },
+  {
+    "swahili": "mchana",
+    "pronunciation": "음차나",
+    "korean": "낮"
+  },
+  {
+    "swahili": "chini",
+    "pronunciation": "치니",
+    "korean": "낮은"
+  },
+  {
+    "swahili": "neno",
+    "pronunciation": "네노",
+    "korean": "낱말"
+  },
+  {
+    "swahili": "ndani",
+    "pronunciation": "은다니",
+    "korean": "내부"
+  },
+  {
+    "swahili": "kesho",
+    "pronunciation": "케쇼",
+    "korean": "내일"
+  },
+  {
+    "swahili": "harufu",
+    "pronunciation": "하루푸",
+    "korean": "냄새"
+  },
+  {
+    "swahili": "kunusa",
+    "pronunciation": "쿠누사",
+    "korean": "냄새 맡다"
+  },
+  {
+    "swahili": "jokofu",
+    "pronunciation": "조코푸",
+    "korean": "냉장고"
+  },
+  {
+    "swahili": "pana",
+    "pronunciation": "파나",
+    "korean": "넓은"
+  },
+  {
+    "swahili": "ndiyo",
+    "pronunciation": "은디요",
+    "korean": "네"
+  },
+  {
+    "swahili": "tai",
+    "pronunciation": "타이",
+    "korean": "넥타이"
+  },
+  {
+    "swahili": "nne",
+    "pronunciation": "은네",
+    "korean": "넷(4)"
+  },
+  {
+    "swahili": "njano",
+    "pronunciation": "은자노",
+    "korean": "노란색"
+  },
+  {
+    "swahili": "wimbo",
+    "pronunciation": "윔보",
+    "korean": "노래"
+  },
+  {
+    "swahili": "imba",
+    "pronunciation": "임바",
+    "korean": "노래하다"
+  },
+  {
+    "swahili": "juhudi",
+    "pronunciation": "주후디",
+    "korean": "노력"
+  },
+  {
+    "swahili": "hasira",
+    "pronunciation": "하시라",
+    "korean": "노여움"
+  },
+  {
+    "swahili": "mzee",
+    "pronunciation": "음제",
+    "korean": "노인"
+  },
+  {
+    "swahili": "daftari",
+    "pronunciation": "답타리",
+    "korean": "노트"
+  },
+  {
+    "swahili": "cheza",
+    "pronunciation": "체자",
+    "korean": "놀다"
+  },
+  {
+    "swahili": "mshangao",
+    "pronunciation": "음샹가오",
+    "korean": "놀라움"
+  },
+  {
+    "swahili": "mpira wa kikapu",
+    "pronunciation": "음피라 와 키카푸",
+    "korean": "농구"
+  },
+  {
+    "swahili": "mkulima",
+    "pronunciation": "음쿨리마",
+    "korean": "농부"
+  },
+  {
+    "swahili": "kilimo",
+    "pronunciation": "킬리모",
+    "korean": "농업"
+  },
+  {
+    "swahili": "shamba",
+    "pronunciation": "샴바",
+    "korean": "농장"
+  },
+  {
+    "swahili": "juu",
+    "pronunciation": "주",
+    "korean": "높은"
+  },
+  {
+    "swahili": "nani",
+    "pronunciation": "나니",
+    "korean": "누구"
+  },
+  {
+    "swahili": "jicho",
+    "pronunciation": "지초",
+    "korean": "눈(신체)"
+  },
+  {
+    "swahili": "habari",
+    "pronunciation": "하바리",
+    "korean": "뉴스"
+  },
+  {
+    "swahili": "ongeza",
+    "pronunciation": "옹게자",
+    "korean": "늘리다"
+  },
+  {
+    "swahili": "uzee",
+    "pronunciation": "우제",
+    "korean": "늙음"
+  },
+  {
+    "swahili": "uwezo",
+    "pronunciation": "우웨조",
+    "korean": "능력"
+  },
+  {
+    "swahili": "kuchelewa",
+    "pronunciation": "쿠첼레와",
+    "korean": "늦다"
+  },
+  {
+    "swahili": "tofauti",
+    "pronunciation": "토파우티",
+    "korean": "다른"
+  },
+  {
+    "swahili": "mguu",
+    "pronunciation": "음구",
+    "korean": "다리"
+  },
+  {
+    "swahili": "daraja",
+    "pronunciation": "다라자",
+    "korean": "다리(건축)"
+  },
+  {
+    "swahili": "tano",
+    "pronunciation": "타노",
+    "korean": "다섯(5)"
+  },
+  {
+    "swahili": "tena",
+    "pronunciation": "테나",
+    "korean": "다시"
+  },
+  {
+    "swahili": "kupakua",
+    "pronunciation": "쿠파쿠아",
+    "korean": "다운로드"
+  },
+  {
+    "swahili": "ijayo",
+    "pronunciation": "이자요",
+    "korean": "다음"
+  },
+  {
+    "swahili": "kupiga mbizi",
+    "pronunciation": "쿠피가 음비지",
+    "korean": "다이빙"
+  },
+  {
+    "swahili": "kwa bahati nzuri",
+    "pronunciation": "콰 바하티 은주리",
+    "korean": "다행히"
+  },
+  {
+    "swahili": "funga",
+    "pronunciation": "풍가",
+    "korean": "닫다"
+  },
+  {
+    "swahili": "mwezi",
+    "pronunciation": "므웨지",
+    "korean": "달"
+  },
+  {
+    "swahili": "yai",
+    "pronunciation": "야이",
+    "korean": "달걀"
+  },
+  {
+    "swahili": "mbio",
+    "pronunciation": "음비오",
+    "korean": "달리기"
+  },
+  {
+    "swahili": "kimbia",
+    "pronunciation": "킴비아",
+    "korean": "달리다"
+  },
+  {
+    "swahili": "tamu",
+    "pronunciation": "타무",
+    "korean": "달콤한"
+  },
+  {
+    "swahili": "konokono",
+    "pronunciation": "코노코노",
+    "korean": "달팽이"
+  },
+  {
+    "swahili": "kuku",
+    "pronunciation": "쿠쿠",
+    "korean": "닭"
+  },
+  {
+    "swahili": "nyama ya kuku",
+    "pronunciation": "냐마 야 쿠쿠",
+    "korean": "닭고기"
+  },
+  {
+    "swahili": "sigara",
+    "pronunciation": "시가라",
+    "korean": "담배"
+  },
+  {
+    "swahili": "ukuta",
+    "pronunciation": "우쿠타",
+    "korean": "담벼락"
+  },
+  {
+    "swahili": "jibu",
+    "pronunciation": "지부",
+    "korean": "답변"
+  },
+  {
+    "swahili": "karoti",
+    "pronunciation": "카로티",
+    "korean": "당근"
+  },
+  {
+    "swahili": "punda",
+    "pronunciation": "푼다",
+    "korean": "당나귀"
+  },
+  {
+    "swahili": "kisukari",
+    "pronunciation": "키수카리",
+    "korean": "당뇨"
+  },
+  {
+    "swahili": "kubwa",
+    "pronunciation": "쿠브와",
+    "korean": "대단한"
+  },
+  {
+    "swahili": "balozi",
+    "pronunciation": "발로지",
+    "korean": "대사관"
+  },
+  {
+    "swahili": "ubalozi",
+    "pronunciation": "우발로지",
+    "korean": "대사관"
+  },
+  {
+    "swahili": "badala ya",
+    "pronunciation": "바달라 야",
+    "korean": "대신에"
+  },
+  {
+    "swahili": "beseni",
+    "pronunciation": "베세니",
+    "korean": "대야"
+  },
+  {
+    "swahili": "bahari",
+    "pronunciation": "바하리",
+    "korean": "대양"
+  },
+  {
+    "swahili": "rais",
+    "pronunciation": "라이스",
+    "korean": "대통령"
+  },
+  {
+    "swahili": "chuo kikuu",
+    "pronunciation": "추오 키쿠",
+    "korean": "대학교"
+  },
+  {
+    "swahili": "mazungumzo",
+    "pronunciation": "마중굼조",
+    "korean": "대화"
+  },
+  {
+    "swahili": "bwawa",
+    "pronunciation": "브와와",
+    "korean": "댐"
+  },
+  {
+    "swahili": "zaidi",
+    "pronunciation": "자이디",
+    "korean": "더"
+  },
+  {
+    "swahili": "pupa",
+    "pronunciation": "푸파",
+    "korean": "더듬다"
+  },
+  {
+    "swahili": "mchafu",
+    "pronunciation": "음차푸",
+    "korean": "더러운"
+  },
+  {
+    "swahili": "joto",
+    "pronunciation": "조토",
+    "korean": "더운"
+  },
+  {
+    "swahili": "shukuru",
+    "pronunciation": "슈쿠루",
+    "korean": "덕분에"
+  },
+  {
+    "swahili": "tupa",
+    "pronunciation": "투파",
+    "korean": "던지다"
+  },
+  {
+    "swahili": "moto",
+    "pronunciation": "모토",
+    "korean": "덥다"
+  },
+  {
+    "swahili": "data",
+    "pronunciation": "다타",
+    "korean": "데이터"
+  },
+  {
+    "swahili": "mwizi",
+    "pronunciation": "므위지",
+    "korean": "도둑"
+  },
+  {
+    "swahili": "wizi",
+    "pronunciation": "위지",
+    "korean": "도둑질"
+  },
+  {
+    "swahili": "maktaba",
+    "pronunciation": "막타바",
+    "korean": "도서관"
+  },
+  {
+    "swahili": "jiji",
+    "pronunciation": "지지",
+    "korean": "도시"
+  },
+  {
+    "swahili": "mji",
+    "pronunciation": "음지",
+    "korean": "도시"
+  },
+  {
+    "swahili": "msaada",
+    "pronunciation": "음사아다",
+    "korean": "도움"
+  },
+  {
+    "swahili": "fika",
+    "pronunciation": "피카",
+    "korean": "도착하다"
+  },
+  {
+    "swahili": "sumu",
+    "pronunciation": "수무",
+    "korean": "독"
+  },
+  {
+    "swahili": "pesa",
+    "pronunciation": "페사",
+    "korean": "돈"
+  },
+  {
+    "swahili": "jiwe",
+    "pronunciation": "지웨",
+    "korean": "돌"
+  },
+  {
+    "swahili": "pomboo",
+    "pronunciation": "폼보",
+    "korean": "돌고래"
+  },
+  {
+    "swahili": "kurudisha",
+    "pronunciation": "쿠루디샤",
+    "korean": "돌려주다"
+  },
+  {
+    "swahili": "rudi",
+    "pronunciation": "루디",
+    "korean": "돌아오다"
+  },
+  {
+    "swahili": "saidia",
+    "pronunciation": "사이디아",
+    "korean": "돕다"
+  },
+  {
+    "swahili": "pango",
+    "pronunciation": "팡고",
+    "korean": "동굴"
+  },
+  {
+    "swahili": "mnyama",
+    "pronunciation": "음냐마",
+    "korean": "동물"
+  },
+  {
+    "swahili": "hifadhi ya wanyama",
+    "pronunciation": "히파디 야 와냐마",
+    "korean": "동물 보호"
+  },
+  {
+    "swahili": "dada mdogo",
+    "pronunciation": "다다 음도고",
+    "korean": "동생(여)"
+  },
+  {
+    "swahili": "sarafu",
+    "pronunciation": "사라푸",
+    "korean": "동전"
+  },
+  {
+    "swahili": "mashariki",
+    "pronunciation": "마샤리키",
+    "korean": "동쪽"
+  },
+  {
+    "swahili": "nyama ya nguruwe",
+    "pronunciation": "냐마 야 응구루웨",
+    "korean": "돼지고기"
+  },
+  {
+    "swahili": "maumivu ya kichwa",
+    "pronunciation": "마우미부 야 키치와",
+    "korean": "두통"
+  },
+  {
+    "swahili": "mbili",
+    "pronunciation": "음빌리",
+    "korean": "둘(2)"
+  },
+  {
+    "swahili": "nyuma ya",
+    "pronunciation": "뉴마 야",
+    "korean": "뒤에"
+  },
+  {
+    "swahili": "gauni",
+    "pronunciation": "가우니",
+    "korean": "드레스"
+  },
+  {
+    "swahili": "kusikiliza",
+    "pronunciation": "쿠시킬리자",
+    "korean": "듣다"
+  },
+  {
+    "swahili": "mgongo",
+    "pronunciation": "음공고",
+    "korean": "등"
+  },
+  {
+    "swahili": "dizeli",
+    "pronunciation": "디젤리",
+    "korean": "디젤"
+  },
+  {
+    "swahili": "binti",
+    "pronunciation": "빈티",
+    "korean": "딸"
+  },
+  {
+    "swahili": "jordiberi",
+    "pronunciation": "조르디베리",
+    "korean": "딸기"
+  },
+  {
+    "swahili": "jasho",
+    "pronunciation": "자쇼",
+    "korean": "땀"
+  },
+  {
+    "swahili": "ardhi",
+    "pronunciation": "아르디",
+    "korean": "땅"
+  },
+  {
+    "swahili": "karanga",
+    "pronunciation": "카랑가",
+    "korean": "땅콩"
+  },
+  {
+    "swahili": "tutaonana",
+    "pronunciation": "투타오나나",
+    "korean": "또 만나요"
+  },
+  {
+    "swahili": "au",
+    "pronunciation": "아우",
+    "korean": "또는"
+  },
+  {
+    "swahili": "pia",
+    "pronunciation": "피아",
+    "korean": "또한"
+  },
+  {
+    "swahili": "kukimbia",
+    "pronunciation": "쿠킴비아",
+    "korean": "뛰기"
+  },
+  {
+    "swahili": "kuruka",
+    "pronunciation": "쿠루카",
+    "korean": "뛰다"
+  },
+  {
+    "swahili": "maana",
+    "pronunciation": "마아나",
+    "korean": "뜻"
+  },
+  {
+    "swahili": "redio",
+    "pronunciation": "레디오",
+    "korean": "라디오"
+  },
+  {
+    "swahili": "laini",
+    "pronunciation": "라이니",
+    "korean": "라인"
+  },
+  {
+    "swahili": "Kirusi",
+    "pronunciation": "키루시",
+    "korean": "러시아어"
+  },
+  {
+    "swahili": "mpira wa miguu",
+    "pronunciation": "음피라 와 미구",
+    "korean": "럭비"
+  },
+  {
+    "swahili": "limau",
+    "pronunciation": "리마우",
+    "korean": "레몬"
+  },
+  {
+    "swahili": "mkahawa",
+    "pronunciation": "음카하와",
+    "korean": "레스토랑"
+  },
+  {
+    "swahili": "rekoди",
+    "pronunciation": "레코디",
+    "korean": "레코드"
+  },
+  {
+    "swahili": "ufunguo",
+    "pronunciation": "우풍구오",
+    "korean": "렌치"
+  },
+  {
+    "swahili": "roboti",
+    "pronunciation": "로보티",
+    "korean": "로봇"
+  },
+  {
+    "swahili": "kitunguu saumu",
+    "pronunciation": "키퉁구 사우무",
+    "korean": "마늘"
+  },
+  {
+    "swahili": "kipanya",
+    "pronunciation": "키판야",
+    "korean": "마우스(컴퓨터)"
+  },
+  {
+    "swahili": "kijiji",
+    "pronunciation": "키지지",
+    "korean": "마을"
+  },
+  {
+    "swahili": "amani ya moyo",
+    "pronunciation": "아마니 야 모요",
+    "korean": "마음의 평화"
+  },
+  {
+    "swahili": "ghuba",
+    "pronunciation": "구바",
+    "korean": "만"
+  },
+  {
+    "swahili": "kama",
+    "pronunciation": "카마",
+    "korean": "만약"
+  },
+  {
+    "swahili": "kugusa",
+    "pronunciation": "쿠구사",
+    "korean": "만지다"
+  },
+  {
+    "swahili": "mengi",
+    "pronunciation": "멩기",
+    "korean": "많이"
+  },
+  {
+    "swahili": "farasi",
+    "pronunciation": "파라시",
+    "korean": "말"
+  },
+  {
+    "swahili": "kuonja",
+    "pronunciation": "쿠온자",
+    "korean": "맛보다"
+  },
+  {
+    "swahili": "embe",
+    "pronunciation": "엠베",
+    "korean": "망고"
+  },
+  {
+    "swahili": "nyundo",
+    "pronunciation": "뉴운도",
+    "korean": "망치"
+  },
+  {
+    "swahili": "kila",
+    "pronunciation": "킬라",
+    "korean": "매"
+  },
+  {
+    "swahili": "sana",
+    "pronunciation": "사나",
+    "korean": "매우"
+  },
+  {
+    "swahili": "pole sana",
+    "pronunciation": "폴레 사나",
+    "korean": "매우 죄송합니다"
+  },
+  {
+    "swahili": "mapigo ya moyo",
+    "pronunciation": "마피고 야 모요",
+    "korean": "맥박"
+  },
+  {
+    "swahili": "kichwa",
+    "pronunciation": "키치와",
+    "korean": "머리"
+  },
+  {
+    "swahili": "nywele",
+    "pronunciation": "니웰레",
+    "korean": "머리카락"
+  },
+  {
+    "swahili": "kula",
+    "pronunciation": "쿨라",
+    "korean": "먹다"
+  },
+  {
+    "swahili": "mbali",
+    "pronunciation": "음발리",
+    "korean": "먼"
+  },
+  {
+    "swahili": "kwanza",
+    "pronunciation": "콴자",
+    "korean": "먼저"
+  },
+  {
+    "swahili": "vumbi",
+    "pronunciation": "붐비",
+    "korean": "먼지"
+  },
+  {
+    "swahili": "acha",
+    "pronunciation": "아차",
+    "korean": "멈추다"
+  },
+  {
+    "swahili": "menyu",
+    "pronunciation": "메뉴",
+    "korean": "메뉴"
+  },
+  {
+    "swahili": "panzi",
+    "pronunciation": "판지",
+    "korean": "메뚜기"
+  },
+  {
+    "swahili": "kumbuka",
+    "pronunciation": "쿰부카",
+    "korean": "메모하다"
+  },
+  {
+    "swahili": "ujumbe",
+    "pronunciation": "우줌베",
+    "korean": "메시지"
+  },
+  {
+    "swahili": "barua pepe",
+    "pronunciation": "바루아 페페",
+    "korean": "메일"
+  },
+  {
+    "swahili": "leseni",
+    "pronunciation": "레세니",
+    "korean": "면허증"
+  },
+  {
+    "swahili": "mbu",
+    "pronunciation": "음부",
+    "korean": "모기"
+  },
+  {
+    "swahili": "yote",
+    "pronunciation": "요테",
+    "korean": "모두"
+  },
+  {
+    "swahili": "mchanga",
+    "pronunciation": "음창가",
+    "korean": "모래"
+  },
+  {
+    "swahili": "msikiti",
+    "pronunciation": "음시키티",
+    "korean": "모스크"
+  },
+  {
+    "swahili": "kofia",
+    "pronunciation": "코피아",
+    "korean": "모자"
+  },
+  {
+    "swahili": "shingo",
+    "pronunciation": "싱고",
+    "korean": "목"
+  },
+  {
+    "swahili": "mkufu",
+    "pronunciation": "음쿠푸",
+    "korean": "목걸이"
+  },
+  {
+    "swahili": "kiu",
+    "pronunciation": "키우",
+    "korean": "목마름"
+  },
+  {
+    "swahili": "sauti",
+    "pronunciation": "사우티",
+    "korean": "목소리"
+  },
+  {
+    "swahili": "alhamisi",
+    "pronunciation": "알하미시",
+    "korean": "목요일"
+  },
+  {
+    "swahili": "lengo",
+    "pronunciation": "렝고",
+    "korean": "목표"
+  },
+  {
+    "swahili": "mwili",
+    "pronunciation": "므윌리",
+    "korean": "몸"
+  },
+  {
+    "swahili": "uzito",
+    "pronunciation": "우지토",
+    "korean": "몸무게"
+  },
+  {
+    "swahili": "msumari",
+    "pronunciation": "음수마리",
+    "korean": "못"
+  },
+  {
+    "swahili": "makaburi",
+    "pronunciation": "마카부리",
+    "korean": "묘지"
+  },
+  {
+    "swahili": "nzito",
+    "pronunciation": "은지토",
+    "korean": "무거운"
+  },
+  {
+    "swahili": "silaha",
+    "pronunciation": "실라하",
+    "korean": "무기"
+  },
+  {
+    "swahili": "goti",
+    "pronunciation": "고티",
+    "korean": "무릎"
+  },
+  {
+    "swahili": "nini",
+    "pronunciation": "니니",
+    "korean": "무엇"
+  },
+  {
+    "swahili": "hatia",
+    "pronunciation": "하티아",
+    "korean": "무죄"
+  },
+  {
+    "swahili": "upinde wa mvua",
+    "pronunciation": "우핀데 와 음부아",
+    "korean": "무지개"
+  },
+  {
+    "swahili": "mlango",
+    "pronunciation": "음랑고",
+    "korean": "문"
+  },
+  {
+    "swahili": "pweza",
+    "pronunciation": "프웨자",
+    "korean": "문어"
+  },
+  {
+    "swahili": "sentensi",
+    "pronunciation": "센텐시",
+    "korean": "문장"
+  },
+  {
+    "swahili": "tatizo",
+    "pronunciation": "타티조",
+    "korean": "문제"
+  },
+  {
+    "swahili": "fasihi",
+    "pronunciation": "파시히",
+    "korean": "문학"
+  },
+  {
+    "swahili": "utamaduni",
+    "pronunciation": "우타마두니",
+    "korean": "문화"
+  },
+  {
+    "swahili": "uliza",
+    "pronunciation": "울리자",
+    "korean": "묻다"
+  },
+  {
+    "swahili": "maji",
+    "pronunciation": "마지",
+    "korean": "물"
+  },
+  {
+    "swahili": "samaki",
+    "pronunciation": "사마키",
+    "korean": "물고기"
+  },
+  {
+    "swahili": "kuuma",
+    "pronunciation": "쿠우마",
+    "korean": "물다"
+  },
+  {
+    "swahili": "fizikia",
+    "pronunciation": "피지키아",
+    "korean": "물리학"
+  },
+  {
+    "swahili": "kumwagilia",
+    "pronunciation": "쿠므와길리아",
+    "korean": "물주다"
+  },
+  {
+    "swahili": "uzuri",
+    "pronunciation": "우주리",
+    "korean": "미"
+  },
+  {
+    "swahili": "mustakabali",
+    "pronunciation": "무스타카발리",
+    "korean": "미래"
+  },
+  {
+    "swahili": "sanaa",
+    "pronunciation": "사나",
+    "korean": "미술"
+  },
+  {
+    "swahili": "samahani",
+    "pronunciation": "사마하니",
+    "korean": "미안합니다"
+  },
+  {
+    "swahili": "chuki",
+    "pronunciation": "추키",
+    "korean": "미움"
+  },
+  {
+    "swahili": "demokrasia",
+    "pronunciation": "데모크라시아",
+    "korean": "민주주의"
+  },
+  {
+    "swahili": "amini",
+    "pronunciation": "아미니",
+    "korean": "믿다"
+  },
+  {
+    "swahili": "imani",
+    "pronunciation": "이마니",
+    "korean": "믿음"
+  },
+  {
+    "swahili": "ngano",
+    "pronunciation": "응가노",
+    "korean": "밀"
+  },
+  {
+    "swahili": "watu",
+    "pronunciation": "와투",
+    "korean": "밀집"
+  },
+  {
+    "swahili": "kubadilisha",
+    "pronunciation": "쿠바딜리샤",
+    "korean": "바꾸다"
+  },
+  {
+    "swahili": "ndizi",
+    "pronunciation": "은디지",
+    "korean": "바나나"
+  },
+  {
+    "swahili": "kushona",
+    "pronunciation": "쿠쇼나",
+    "korean": "바느질하다"
+  },
+  {
+    "swahili": "upepo",
+    "pronunciation": "우페포",
+    "korean": "바람"
+  },
+  {
+    "swahili": "virusi",
+    "pronunciation": "비루시",
+    "korean": "바이러스"
+  },
+  {
+    "swahili": "suruali",
+    "pronunciation": "수루알리",
+    "korean": "바지"
+  },
+  {
+    "swahili": "popo",
+    "pronunciation": "포포",
+    "korean": "박쥐"
+  },
+  {
+    "swahili": "bakteria",
+    "pronunciation": "박테리아",
+    "korean": "박테리아"
+  },
+  {
+    "swahili": "nje ya",
+    "pronunciation": "은제 야",
+    "korean": "밖에"
+  },
+  {
+    "swahili": "pete",
+    "pronunciation": "페테",
+    "korean": "반지"
+  },
+  {
+    "swahili": "maendeleo",
+    "pronunciation": "마엔델레오",
+    "korean": "발전"
+  },
+  {
+    "swahili": "mwangaza",
+    "pronunciation": "므왕가자",
+    "korean": "밝음"
+  },
+  {
+    "swahili": "usiku",
+    "pronunciation": "우시쿠",
+    "korean": "밤"
+  },
+  {
+    "swahili": "wali",
+    "pronunciation": "왈리",
+    "korean": "밥"
+  },
+  {
+    "swahili": "chumba",
+    "pronunciation": "춤바",
+    "korean": "방"
+  },
+  {
+    "swahili": "tembeleo",
+    "pronunciation": "템벨레오",
+    "korean": "방문"
+  },
+  {
+    "swahili": "njia",
+    "pronunciation": "은지아",
+    "korean": "방법"
+  },
+  {
+    "swahili": "tumbo",
+    "pronunciation": "툼보",
+    "korean": "배(신체)"
+  },
+  {
+    "swahili": "meli",
+    "pronunciation": "멜리",
+    "korean": "배(탈것)"
+  },
+  {
+    "swahili": "mpira wa pete",
+    "pronunciation": "음피라 와 페테",
+    "korean": "배구"
+  },
+  {
+    "swahili": "mwigizaji",
+    "pronunciation": "므위기자지",
+    "korean": "배우(연기)"
+  },
+  {
+    "swahili": "jifunze",
+    "pronunciation": "지푼제",
+    "korean": "배우다"
+  },
+  {
+    "swahili": "chanjo",
+    "pronunciation": "찬조",
+    "korean": "백신"
+  },
+  {
+    "swahili": "nyoka",
+    "pronunciation": "뇨카",
+    "korean": "뱀"
+  },
+  {
+    "swahili": "kuacha",
+    "pronunciation": "쿠아차",
+    "korean": "버리다"
+  },
+  {
+    "swahili": "uyoga",
+    "pronunciation": "우요가",
+    "korean": "버섯"
+  },
+  {
+    "swahili": "basi",
+    "pronunciation": "바시",
+    "korean": "버스"
+  },
+  {
+    "swahili": "kituo cha basi",
+    "pronunciation": "키투오 차 바시",
+    "korean": "버스정류장"
+  },
+  {
+    "swahili": "nyati",
+    "pronunciation": "냐티",
+    "korean": "버팔로"
+  },
+  {
+    "swahili": "mara",
+    "pronunciation": "마라",
+    "korean": "번"
+  },
+  {
+    "swahili": "umeme wa radi",
+    "pronunciation": "우메메 와 라디",
+    "korean": "번개"
+  },
+  {
+    "swahili": "tafsiri",
+    "pronunciation": "탑시리",
+    "korean": "번역"
+  },
+  {
+    "swahili": "nyuki",
+    "pronunciation": "뉴키",
+    "korean": "벌"
+  },
+  {
+    "swahili": "adhabu",
+    "pronunciation": "아다부",
+    "korean": "벌"
+  },
+  {
+    "swahili": "tayari",
+    "pronunciation": "타야리",
+    "korean": "벌써"
+  },
+  {
+    "swahili": "uhalifu",
+    "pronunciation": "우할리푸",
+    "korean": "범죄"
+  },
+  {
+    "swahili": "sheria",
+    "pronunciation": "셰리아",
+    "korean": "법"
+  },
+  {
+    "swahili": "mahakama",
+    "pronunciation": "마하카마",
+    "korean": "법원"
+  },
+  {
+    "swahili": "rafiki",
+    "pronunciation": "라피키",
+    "korean": "벗"
+  },
+  {
+    "swahili": "ukanda",
+    "pronunciation": "우칸다",
+    "korean": "벨트"
+  },
+  {
+    "swahili": "mwanasheria",
+    "pronunciation": "므와나셰리아",
+    "korean": "변호사"
+  },
+  {
+    "swahili": "jina",
+    "pronunciation": "지나",
+    "korean": "별명"
+  },
+  {
+    "swahili": "chupa",
+    "pronunciation": "추파",
+    "korean": "병"
+  },
+  {
+    "swahili": "ugonjwa",
+    "pronunciation": "우곤지와",
+    "korean": "병(질환)"
+  },
+  {
+    "swahili": "askari",
+    "pronunciation": "아스카리",
+    "korean": "병사"
+  },
+  {
+    "swahili": "hospitali",
+    "pronunciation": "호스피탈리",
+    "korean": "병원"
+  },
+  {
+    "swahili": "kituo cha afya",
+    "pronunciation": "키투오 차 아피아",
+    "korean": "보건소"
+  },
+  {
+    "swahili": "ripoti",
+    "pronunciation": "리포티",
+    "korean": "보고서"
+  },
+  {
+    "swahili": "tazama",
+    "pronunciation": "타자마",
+    "korean": "보다"
+  },
+  {
+    "swahili": "mchezo wa bodi",
+    "pronunciation": "음체조 와 보디",
+    "korean": "보드게임"
+  },
+  {
+    "swahili": "zawadi",
+    "pronunciation": "자와디",
+    "korean": "보물"
+  },
+  {
+    "swahili": "usalama",
+    "pronunciation": "우살라마",
+    "korean": "보안"
+  },
+  {
+    "swahili": "onyesha",
+    "pronunciation": "오녜샤",
+    "korean": "보여주다"
+  },
+  {
+    "swahili": "kawaida",
+    "pronunciation": "카와이다",
+    "korean": "보통의"
+  },
+  {
+    "swahili": "boti",
+    "pronunciation": "보티",
+    "korean": "보트"
+  },
+  {
+    "swahili": "bima",
+    "pronunciation": "비마",
+    "korean": "보험"
+  },
+  {
+    "swahili": "ngumi",
+    "pronunciation": "응구미",
+    "korean": "복싱"
+  },
+  {
+    "swahili": "mchemraba",
+    "pronunciation": "음쳄라바",
+    "korean": "복잡한"
+  },
+  {
+    "swahili": "maumivu ya tumbo",
+    "pronunciation": "마우미부 야 툼보",
+    "korean": "복통"
+  },
+  {
+    "swahili": "chemchemi",
+    "pronunciation": "쳄쳄이",
+    "korean": "봄"
+  },
+  {
+    "swahili": "bahasha",
+    "pronunciation": "바하샤",
+    "korean": "봉투"
+  },
+  {
+    "swahili": "haya",
+    "pronunciation": "하야",
+    "korean": "부끄러움"
+  },
+  {
+    "swahili": "wazazi",
+    "pronunciation": "와자지",
+    "korean": "부모"
+  },
+  {
+    "swahili": "sehemu",
+    "pronunciation": "세헤무",
+    "korean": "부분"
+  },
+  {
+    "swahili": "kuvunja",
+    "pronunciation": "쿠분자",
+    "korean": "부수다"
+  },
+  {
+    "swahili": "jikoni",
+    "pronunciation": "지코니",
+    "korean": "부엌"
+  },
+  {
+    "swahili": "tajiri",
+    "pronunciation": "타지리",
+    "korean": "부유한"
+  },
+  {
+    "swahili": "baba",
+    "pronunciation": "바바",
+    "korean": "부친"
+  },
+  {
+    "swahili": "tafadhali",
+    "pronunciation": "타파달리",
+    "korean": "부탁합니다"
+  },
+  {
+    "swahili": "kaskazini",
+    "pronunciation": "카스카지니",
+    "korean": "북쪽"
+  },
+  {
+    "swahili": "dakika",
+    "pronunciation": "다키카",
+    "korean": "분"
+  },
+  {
+    "swahili": "chaki",
+    "pronunciation": "차키",
+    "korean": "분필"
+  },
+  {
+    "swahili": "Kibuddha",
+    "pronunciation": "키붓다",
+    "korean": "불교"
+  },
+  {
+    "swahili": "buluu",
+    "pronunciation": "불루",
+    "korean": "불루"
+  },
+  {
+    "swahili": "malalamiko",
+    "pronunciation": "말라라미코",
+    "korean": "불만"
+  },
+  {
+    "swahili": "kwa bahati mbaya",
+    "pronunciation": "콰 바하티 음바야",
+    "korean": "불행히"
+  },
+  {
+    "swahili": "bandeji",
+    "pronunciation": "반데지",
+    "korean": "붕대"
+  },
+  {
+    "swahili": "breki",
+    "pronunciation": "브레키",
+    "korean": "브레이크"
+  },
+  {
+    "swahili": "shuka",
+    "pronunciation": "슈카",
+    "korean": "블랭킷"
+  },
+  {
+    "swahili": "mvua",
+    "pronunciation": "음부아",
+    "korean": "비"
+  },
+  {
+    "swahili": "sabuni",
+    "pronunciation": "사부니",
+    "korean": "비누"
+  },
+  {
+    "swahili": "hariri",
+    "pronunciation": "하리리",
+    "korean": "비단"
+  },
+  {
+    "swahili": "video",
+    "pronunciation": "비데오",
+    "korean": "비디오"
+  },
+  {
+    "swahili": "ingawa",
+    "pronunciation": "잉가와",
+    "korean": "비록"
+  },
+  {
+    "swahili": "siri",
+    "pronunciation": "시리",
+    "korean": "비밀"
+  },
+  {
+    "swahili": "nenosiri",
+    "pronunciation": "네노시리",
+    "korean": "비밀번호"
+  },
+  {
+    "swahili": "ghali",
+    "pronunciation": "갈리",
+    "korean": "비싼"
+  },
+  {
+    "swahili": "biashara",
+    "pronunciation": "비아샤라",
+    "korean": "비즈니스"
+  },
+  {
+    "swahili": "ndege",
+    "pronunciation": "은데게",
+    "korean": "비행기"
+  },
+  {
+    "swahili": "tupu",
+    "pronunciation": "투푸",
+    "korean": "빈"
+  },
+  {
+    "swahili": "chetezo",
+    "pronunciation": "체테조",
+    "korean": "빗자루"
+  },
+  {
+    "swahili": "deni",
+    "pronunciation": "데니",
+    "korean": "빚"
+  },
+  {
+    "swahili": "nuru",
+    "pronunciation": "누루",
+    "korean": "빛"
+  },
+  {
+    "swahili": "mwanga",
+    "pronunciation": "므왕가",
+    "korean": "빛"
+  },
+  {
+    "swahili": "nyekundu",
+    "pronunciation": "녜쿤두",
+    "korean": "빨간색"
+  },
+  {
+    "swahili": "mkate",
+    "pronunciation": "음카테",
+    "korean": "빵"
+  },
+  {
+    "swahili": "mfupa",
+    "pronunciation": "음푸파",
+    "korean": "뼈"
+  },
+  {
+    "swahili": "ajali",
+    "pronunciation": "아잘리",
+    "korean": "사고"
+  },
+  {
+    "swahili": "tufaha",
+    "pronunciation": "투파하",
+    "korean": "사과"
+  },
+  {
+    "swahili": "binadamu",
+    "pronunciation": "비나다무",
+    "korean": "사람"
+  },
+  {
+    "swahili": "upendo",
+    "pronunciation": "우펜도",
+    "korean": "사랑"
+  },
+  {
+    "swahili": "penda",
+    "pronunciation": "펜다",
+    "korean": "사랑하다"
+  },
+  {
+    "swahili": "jangwa",
+    "pronunciation": "장과",
+    "korean": "사막"
+  },
+  {
+    "swahili": "samosa",
+    "pronunciation": "사모사",
+    "korean": "사모사"
+  },
+  {
+    "swahili": "ofisi",
+    "pronunciation": "오피시",
+    "korean": "사무실"
+  },
+  {
+    "swahili": "kwa kweli",
+    "pronunciation": "콰 크웰리",
+    "korean": "사실"
+  },
+  {
+    "swahili": "matumizi",
+    "pronunciation": "마투미지",
+    "korean": "사용"
+  },
+  {
+    "swahili": "tumia",
+    "pronunciation": "투미아",
+    "korean": "사용하다"
+  },
+  {
+    "swahili": "kati ya",
+    "pronunciation": "카티 야",
+    "korean": "사이에"
+  },
+  {
+    "swahili": "simba",
+    "pronunciation": "심바",
+    "korean": "사자"
+  },
+  {
+    "swahili": "mpiga picha",
+    "pronunciation": "음피가 피차",
+    "korean": "사진사"
+  },
+  {
+    "swahili": "binamu",
+    "pronunciation": "비나무",
+    "korean": "사촌"
+  },
+  {
+    "swahili": "jamii",
+    "pronunciation": "자미",
+    "korean": "사회"
+  },
+  {
+    "swahili": "mlima",
+    "pronunciation": "음리마",
+    "korean": "산"
+  },
+  {
+    "swahili": "msitu",
+    "pronunciation": "음시투",
+    "korean": "산림"
+  },
+  {
+    "swahili": "misitu",
+    "pronunciation": "미시투",
+    "korean": "산림"
+  },
+  {
+    "swahili": "mteremko",
+    "pronunciation": "음테렘코",
+    "korean": "산사태"
+  },
+  {
+    "swahili": "oksijeni",
+    "pronunciation": "옥시제니",
+    "korean": "산소"
+  },
+  {
+    "swahili": "kuishi",
+    "pronunciation": "쿠이시",
+    "korean": "살기"
+  },
+  {
+    "swahili": "ishi",
+    "pronunciation": "이시",
+    "korean": "살다"
+  },
+  {
+    "swahili": "hai",
+    "pronunciation": "하이",
+    "korean": "살아있는"
+  },
+  {
+    "swahili": "tatu",
+    "pronunciation": "타투",
+    "korean": "삼(3)"
+  },
+  {
+    "swahili": "mjomba",
+    "pronunciation": "음좀바",
+    "korean": "삼촌"
+  },
+  {
+    "swahili": "tuzo",
+    "pronunciation": "투조",
+    "korean": "상"
+  },
+  {
+    "swahili": "papa",
+    "pronunciation": "파파",
+    "korean": "상어"
+  },
+  {
+    "swahili": "mfanyabiashara",
+    "pronunciation": "음판야비아샤라",
+    "korean": "상인"
+  },
+  {
+    "swahili": "sanduku",
+    "pronunciation": "산두쿠",
+    "korean": "상자"
+  },
+  {
+    "swahili": "jeraha",
+    "pronunciation": "제라하",
+    "korean": "상처"
+  },
+  {
+    "swahili": "hali",
+    "pronunciation": "할리",
+    "korean": "상태"
+  },
+  {
+    "swahili": "mpya",
+    "pronunciation": "음피아",
+    "korean": "새로운"
+  },
+  {
+    "swahili": "rangi",
+    "pronunciation": "랑기",
+    "korean": "색"
+  },
+  {
+    "swahili": "sandwich",
+    "pronunciation": "샌드위치",
+    "korean": "샌드위치"
+  },
+  {
+    "swahili": "wazo",
+    "pronunciation": "와조",
+    "korean": "생각"
+  },
+  {
+    "swahili": "fikiria",
+    "pronunciation": "피키리아",
+    "korean": "생각하다"
+  },
+  {
+    "swahili": "biolojia",
+    "pronunciation": "비올로지아",
+    "korean": "생물학"
+  },
+  {
+    "swahili": "uzalishaji",
+    "pronunciation": "우잘리샤지",
+    "korean": "생산"
+  },
+  {
+    "swahili": "siku ya kuzaliwa",
+    "pronunciation": "시쿠 야 쿠잘리와",
+    "korean": "생일"
+  },
+  {
+    "swahili": "maisha",
+    "pronunciation": "마이샤",
+    "korean": "생활"
+  },
+  {
+    "swahili": "kusimama",
+    "pronunciation": "쿠시마마",
+    "korean": "서기"
+  },
+  {
+    "swahili": "simama",
+    "pronunciation": "시마마",
+    "korean": "서다"
+  },
+  {
+    "swahili": "haraka haraka",
+    "pronunciation": "하라카 하라카",
+    "korean": "서둘러"
+  },
+  {
+    "swahili": "kitabu",
+    "pronunciation": "키타부",
+    "korean": "서적"
+  },
+  {
+    "swahili": "magharibi",
+    "pronunciation": "마가리비",
+    "korean": "서쪽"
+  },
+  {
+    "swahili": "uchaguzi",
+    "pronunciation": "우차구지",
+    "korean": "선거"
+  },
+  {
+    "swahili": "miwani ya jua",
+    "pronunciation": "미와니 야 주아",
+    "korean": "선글라스"
+  },
+  {
+    "swahili": "baharia",
+    "pronunciation": "바하리아",
+    "korean": "선원"
+  },
+  {
+    "swahili": "wema",
+    "pronunciation": "웨마",
+    "korean": "선함"
+  },
+  {
+    "swahili": "sukari",
+    "pronunciation": "수카리",
+    "korean": "설탕"
+  },
+  {
+    "swahili": "kisiwa",
+    "pronunciation": "키시와",
+    "korean": "섬"
+  },
+  {
+    "swahili": "ulimwengu",
+    "pronunciation": "울림웽구",
+    "korean": "세계"
+  },
+  {
+    "swahili": "kodi",
+    "pronunciation": "코디",
+    "korean": "세금"
+  },
+  {
+    "swahili": "karne",
+    "pronunciation": "카르네",
+    "korean": "세기"
+  },
+  {
+    "swahili": "kuosha",
+    "pronunciation": "쿠오샤",
+    "korean": "세탁하다"
+  },
+  {
+    "swahili": "kituo",
+    "pronunciation": "키투오",
+    "korean": "센터"
+  },
+  {
+    "swahili": "shati",
+    "pronunciation": "샤티",
+    "korean": "셔츠"
+  },
+  {
+    "swahili": "ng'ombe",
+    "pronunciation": "응옴베",
+    "korean": "소"
+  },
+  {
+    "swahili": "nyama ya ng'ombe",
+    "pronunciation": "냐마 야 응옴베",
+    "korean": "소고기"
+  },
+  {
+    "swahili": "chumvi",
+    "pronunciation": "춤비",
+    "korean": "소금"
+  },
+  {
+    "swahili": "mtoto wa kike",
+    "pronunciation": "음토토 와 키케",
+    "korean": "소녀"
+  },
+  {
+    "swahili": "mtoto wa kiume",
+    "pronunciation": "음토토 와 키우메",
+    "korean": "소년"
+  },
+  {
+    "swahili": "kupiga kelele",
+    "pronunciation": "쿠피가 켈렐레",
+    "korean": "소리 지르다"
+  },
+  {
+    "swahili": "askari wa zima moto",
+    "pronunciation": "아스카리 와 지마 모토",
+    "korean": "소방관"
+  },
+  {
+    "swahili": "riwaya",
+    "pronunciation": "리와야",
+    "korean": "소설"
+  },
+  {
+    "swahili": "mitandao ya kijamii",
+    "pronunciation": "미탄다오 야 키자미",
+    "korean": "소셜미디어"
+  },
+  {
+    "swahili": "mchuzi",
+    "pronunciation": "음추지",
+    "korean": "소스"
+  },
+  {
+    "swahili": "kelele",
+    "pronunciation": "켈렐레",
+    "korean": "소음"
+  },
+  {
+    "swahili": "sofaa",
+    "pronunciation": "소파",
+    "korean": "소파"
+  },
+  {
+    "swahili": "mwendo",
+    "pronunciation": "므웬도",
+    "korean": "속도"
+  },
+  {
+    "swahili": "kunong'ona",
+    "pronunciation": "쿠농오나",
+    "korean": "속삭이다"
+  },
+  {
+    "swahili": "mkono",
+    "pronunciation": "음코노",
+    "korean": "손"
+  },
+  {
+    "swahili": "kidole",
+    "pronunciation": "키돌레",
+    "korean": "손가락"
+  },
+  {
+    "swahili": "mgeni",
+    "pronunciation": "음게니",
+    "korean": "손님"
+  },
+  {
+    "swahili": "saa",
+    "pronunciation": "사",
+    "korean": "손목시계"
+  },
+  {
+    "swahili": "ununuzi",
+    "pronunciation": "우누누지",
+    "korean": "쇼핑"
+  },
+  {
+    "swahili": "msumeno",
+    "pronunciation": "음수메노",
+    "korean": "수건"
+  },
+  {
+    "swahili": "tikiti maji",
+    "pronunciation": "티키티 마지",
+    "korean": "수박"
+  },
+  {
+    "swahili": "mtama",
+    "pronunciation": "음타마",
+    "korean": "수수"
+  },
+  {
+    "swahili": "upasuaji",
+    "pronunciation": "우파수아지",
+    "korean": "수술"
+  },
+  {
+    "swahili": "kuogelea",
+    "pronunciation": "쿠오겔레아",
+    "korean": "수영"
+  },
+  {
+    "swahili": "kiwango",
+    "pronunciation": "키왕고",
+    "korean": "수준"
+  },
+  {
+    "swahili": "aibu",
+    "pronunciation": "아이부",
+    "korean": "수치"
+  },
+  {
+    "swahili": "hesabu",
+    "pronunciation": "헤사부",
+    "korean": "수학"
+  },
+  {
+    "swahili": "kuvuna",
+    "pronunciation": "쿠부나",
+    "korean": "수확하다"
+  },
+  {
+    "swahili": "kijiko",
+    "pronunciation": "키지코",
+    "korean": "숟가락"
+  },
+  {
+    "swahili": "nambari",
+    "pronunciation": "남바리",
+    "korean": "숫자"
+  },
+  {
+    "swahili": "mapumziko",
+    "pronunciation": "마품지코",
+    "korean": "쉬는 시간"
+  },
+  {
+    "swahili": "pumzika",
+    "pronunciation": "품지카",
+    "korean": "쉬다"
+  },
+  {
+    "swahili": "rahisi",
+    "pronunciation": "라히시",
+    "korean": "쉬운"
+  },
+  {
+    "swahili": "hamsini",
+    "pronunciation": "함시니",
+    "korean": "쉰(50)"
+  },
+  {
+    "swahili": "Kiswahili",
+    "pronunciation": "키스와힐리",
+    "korean": "스와힐리어"
+  },
+  {
+    "swahili": "skrini",
+    "pronunciation": "스크리니",
+    "korean": "스크린"
+  },
+  {
+    "swahili": "huzuni",
+    "pronunciation": "후주니",
+    "korean": "슬픔"
+  },
+  {
+    "swahili": "ushindi",
+    "pronunciation": "우신디",
+    "korean": "승리"
+  },
+  {
+    "swahili": "shairi",
+    "pronunciation": "샤이리",
+    "korean": "시"
+  },
+  {
+    "swahili": "kuona",
+    "pronunciation": "쿠오나",
+    "korean": "시력"
+  },
+  {
+    "swahili": "mfumo",
+    "pronunciation": "음푸모",
+    "korean": "시스템"
+  },
+  {
+    "swahili": "mwanzo",
+    "pronunciation": "므완조",
+    "korean": "시작"
+  },
+  {
+    "swahili": "anza",
+    "pronunciation": "안자",
+    "korean": "시작하다"
+  },
+  {
+    "swahili": "soko",
+    "pronunciation": "소코",
+    "korean": "시장"
+  },
+  {
+    "swahili": "mtihani",
+    "pronunciation": "음티하니",
+    "korean": "시험"
+  },
+  {
+    "swahili": "mmea",
+    "pronunciation": "음메아",
+    "korean": "식물"
+  },
+  {
+    "swahili": "meza",
+    "pronunciation": "메자",
+    "korean": "식탁"
+  },
+  {
+    "swahili": "Mungu",
+    "pronunciation": "뭉구",
+    "korean": "신"
+  },
+  {
+    "swahili": "bwana arusi",
+    "pronunciation": "브와나 아루시",
+    "korean": "신랑"
+  },
+  {
+    "swahili": "viatu",
+    "pronunciation": "비아투",
+    "korean": "신발"
+  },
+  {
+    "swahili": "bibi arusi",
+    "pronunciation": "비비 아루시",
+    "korean": "신부"
+  },
+  {
+    "swahili": "taa",
+    "pronunciation": "타",
+    "korean": "신호등"
+  },
+  {
+    "swahili": "uzi",
+    "pronunciation": "우지",
+    "korean": "실"
+  },
+  {
+    "swahili": "hodi",
+    "pronunciation": "호디",
+    "korean": "실례합니다"
+  },
+  {
+    "swahili": "halisi",
+    "pronunciation": "할리시",
+    "korean": "실제의"
+  },
+  {
+    "swahili": "maabara",
+    "pronunciation": "마아바라",
+    "korean": "실험실"
+  },
+  {
+    "swahili": "moyo",
+    "pronunciation": "모요",
+    "korean": "심장"
+  },
+  {
+    "swahili": "ugonjwa wa moyo",
+    "pronunciation": "우곤지와 와 모요",
+    "korean": "심장병"
+  },
+  {
+    "swahili": "hata",
+    "pronunciation": "하타",
+    "korean": "심지어"
+  },
+  {
+    "swahili": "kumi",
+    "pronunciation": "쿠미",
+    "korean": "십(10)"
+  },
+  {
+    "swahili": "taka",
+    "pronunciation": "타카",
+    "korean": "싸다"
+  },
+  {
+    "swahili": "wachana",
+    "pronunciation": "와차나",
+    "korean": "싸우다"
+  },
+  {
+    "swahili": "mchele",
+    "pronunciation": "음첼레",
+    "korean": "쌀"
+  },
+  {
+    "swahili": "kuandika",
+    "pronunciation": "쿠안디카",
+    "korean": "쓰기"
+  },
+  {
+    "swahili": "tsunami",
+    "pronunciation": "쓰나미",
+    "korean": "쓰나미"
+  },
+  {
+    "swahili": "andika",
+    "pronunciation": "안디카",
+    "korean": "쓰다"
+  },
+  {
+    "swahili": "taka taka",
+    "pronunciation": "타카 타카",
+    "korean": "쓰레기"
+  },
+  {
+    "swahili": "chungu",
+    "pronunciation": "충구",
+    "korean": "쓴"
+  },
+  {
+    "swahili": "mtoto mchanga",
+    "pronunciation": "음토토 음창가",
+    "korean": "아기"
+  },
+  {
+    "swahili": "mke",
+    "pronunciation": "음케",
+    "korean": "아내"
+  },
+  {
+    "swahili": "mwana",
+    "pronunciation": "므와나",
+    "korean": "아들"
+  },
+  {
+    "swahili": "chini ya",
+    "pronunciation": "치니 야",
+    "korean": "아래"
+  },
+  {
+    "swahili": "labda",
+    "pronunciation": "랍다",
+    "korean": "아마"
+  },
+  {
+    "swahili": "mtoto",
+    "pronunciation": "음토토",
+    "korean": "아이"
+  },
+  {
+    "swahili": "watoto",
+    "pronunciation": "와토토",
+    "korean": "아이들"
+  },
+  {
+    "swahili": "bado",
+    "pronunciation": "바도",
+    "korean": "아직"
+  },
+  {
+    "swahili": "asubuhi",
+    "pronunciation": "아수부히",
+    "korean": "아침"
+  },
+  {
+    "swahili": "mamba",
+    "pronunciation": "맘바",
+    "korean": "악어"
+  },
+  {
+    "swahili": "ukungu",
+    "pronunciation": "우쿵구",
+    "korean": "안개"
+  },
+  {
+    "swahili": "miwani",
+    "pronunciation": "미와니",
+    "korean": "안경"
+  },
+  {
+    "swahili": "habari yako",
+    "pronunciation": "하바리 야코",
+    "korean": "안녕하세요"
+  },
+  {
+    "swahili": "kwaheri",
+    "pronunciation": "콰헤리",
+    "korean": "안녕히"
+  },
+  {
+    "swahili": "ndani ya",
+    "pronunciation": "은다니 야",
+    "korean": "안에"
+  },
+  {
+    "swahili": "kukaa",
+    "pronunciation": "쿠카",
+    "korean": "앉다"
+  },
+  {
+    "swahili": "allerji",
+    "pronunciation": "알레르지",
+    "korean": "알레르기"
+  },
+  {
+    "swahili": "tembe",
+    "pronunciation": "템베",
+    "korean": "알약"
+  },
+  {
+    "swahili": "saratani",
+    "pronunciation": "사라타니",
+    "korean": "암"
+  },
+  {
+    "swahili": "mbele ya",
+    "pronunciation": "음벨레 야",
+    "korean": "앞에"
+  },
+  {
+    "swahili": "kiwavi",
+    "pronunciation": "키와비",
+    "korean": "애벌레"
+  },
+  {
+    "swahili": "timu ya mpira",
+    "pronunciation": "티무 야 음피라",
+    "korean": "야구"
+  },
+  {
+    "swahili": "kondoo",
+    "pronunciation": "콘도",
+    "korean": "양"
+  },
+  {
+    "swahili": "ndoo",
+    "pronunciation": "은도",
+    "korean": "양동이"
+  },
+  {
+    "swahili": "soksi",
+    "pronunciation": "속시",
+    "korean": "양말"
+  },
+  {
+    "swahili": "kitunguu",
+    "pronunciation": "키퉁구",
+    "korean": "양파"
+  },
+  {
+    "swahili": "giza",
+    "pronunciation": "기자",
+    "korean": "어둠"
+  },
+  {
+    "swahili": "wapi",
+    "pronunciation": "와피",
+    "korean": "어디"
+  },
+  {
+    "swahili": "mama",
+    "pronunciation": "마마",
+    "korean": "어머니"
+  },
+  {
+    "swahili": "uvuvi",
+    "pronunciation": "우부비",
+    "korean": "어업"
+  },
+  {
+    "swahili": "milima",
+    "pronunciation": "밀리마",
+    "korean": "언덕"
+  },
+  {
+    "swahili": "lini",
+    "pronunciation": "리니",
+    "korean": "언제"
+  },
+  {
+    "swahili": "kupata",
+    "pronunciation": "쿠파타",
+    "korean": "얻다"
+  },
+  {
+    "swahili": "kiasi gani",
+    "pronunciation": "키아시 가니",
+    "korean": "얼마"
+  },
+  {
+    "swahili": "barafu",
+    "pronunciation": "바라푸",
+    "korean": "얼음"
+  },
+  {
+    "swahili": "kupakia",
+    "pronunciation": "쿠파키아",
+    "korean": "업로드"
+  },
+  {
+    "swahili": "hapana",
+    "pronunciation": "하파나",
+    "korean": "없다"
+  },
+  {
+    "swahili": "hakuna",
+    "pronunciation": "하쿠나",
+    "korean": "없음"
+  },
+  {
+    "swahili": "bila",
+    "pronunciation": "빌라",
+    "korean": "없이"
+  },
+  {
+    "swahili": "nishati",
+    "pronunciation": "니샤티",
+    "korean": "에너지"
+  },
+  {
+    "swahili": "mhandisi",
+    "pronunciation": "음한디시",
+    "korean": "엔지니어"
+  },
+  {
+    "swahili": "injini",
+    "pronunciation": "인지니",
+    "korean": "엔진"
+  },
+  {
+    "swahili": "lifti",
+    "pronunciation": "립티",
+    "korean": "엘리베이터"
+  },
+  {
+    "swahili": "pasipoti",
+    "pronunciation": "파시포티",
+    "korean": "여권"
+  },
+  {
+    "swahili": "hapa",
+    "pronunciation": "하파",
+    "korean": "여기"
+  },
+  {
+    "swahili": "nane",
+    "pronunciation": "나네",
+    "korean": "여덟(8)"
+  },
+  {
+    "swahili": "kiangazi",
+    "pronunciation": "키앙가지",
+    "korean": "여름"
+  },
+  {
+    "swahili": "mwanamke",
+    "pronunciation": "므와남케",
+    "korean": "여자"
+  },
+  {
+    "swahili": "wanawake",
+    "pronunciation": "와나와케",
+    "korean": "여자들"
+  },
+  {
+    "swahili": "safari",
+    "pronunciation": "사파리",
+    "korean": "여행"
+  },
+  {
+    "swahili": "msafiri",
+    "pronunciation": "음사피리",
+    "korean": "여행자"
+  },
+  {
+    "swahili": "historia",
+    "pronunciation": "히스토리아",
+    "korean": "역사"
+  },
+  {
+    "swahili": "utafiti",
+    "pronunciation": "우타피티",
+    "korean": "연구"
+  },
+  {
+    "swahili": "huruma",
+    "pronunciation": "후루마",
+    "korean": "연민"
+  },
+  {
+    "swahili": "penseli",
+    "pronunciation": "펜셀리",
+    "korean": "연필"
+  },
+  {
+    "swahili": "homa",
+    "pronunciation": "호마",
+    "korean": "열"
+  },
+  {
+    "swahili": "kufungua",
+    "pronunciation": "쿠풍구아",
+    "korean": "열기"
+  },
+  {
+    "swahili": "fungua",
+    "pronunciation": "풍구아",
+    "korean": "열다"
+  },
+  {
+    "swahili": "funguo",
+    "pronunciation": "풍구오",
+    "korean": "열쇠"
+  },
+  {
+    "swahili": "pochi",
+    "pronunciation": "포치",
+    "korean": "열쇠고리"
+  },
+  {
+    "swahili": "shauku",
+    "pronunciation": "샤우쿠",
+    "korean": "열정"
+  },
+  {
+    "swahili": "mbuzi",
+    "pronunciation": "음부지",
+    "korean": "염소"
+  },
+  {
+    "swahili": "nyama ya mbuzi",
+    "pronunciation": "냐마 야 음부지",
+    "korean": "염소고기"
+  },
+  {
+    "swahili": "posta",
+    "pronunciation": "포스타",
+    "korean": "엽서"
+  },
+  {
+    "swahili": "sifuri",
+    "pronunciation": "시푸리",
+    "korean": "영(0)"
+  },
+  {
+    "swahili": "swala",
+    "pronunciation": "스왈라",
+    "korean": "영양"
+  },
+  {
+    "swahili": "Kiingereza",
+    "pronunciation": "키잉게레자",
+    "korean": "영어"
+  },
+  {
+    "swahili": "filamu",
+    "pronunciation": "필라무",
+    "korean": "영화"
+  },
+  {
+    "swahili": "sinema",
+    "pronunciation": "시네마",
+    "korean": "영화관"
+  },
+  {
+    "swahili": "kando ya",
+    "pronunciation": "칸도 야",
+    "korean": "옆에"
+  },
+  {
+    "swahili": "ibada",
+    "pronunciation": "이바다",
+    "korean": "예배"
+  },
+  {
+    "swahili": "msanii",
+    "pronunciation": "음사니",
+    "korean": "예술가"
+  },
+  {
+    "swahili": "mfano",
+    "pronunciation": "음파노",
+    "korean": "예시"
+  },
+  {
+    "swahili": "zamani",
+    "pronunciation": "자마니",
+    "korean": "옛날"
+  },
+  {
+    "swahili": "leo",
+    "pronunciation": "레오",
+    "korean": "오늘"
+  },
+  {
+    "swahili": "kuja",
+    "pronunciation": "쿠자",
+    "korean": "오다"
+  },
+  {
+    "swahili": "chungwa",
+    "pronunciation": "춍과",
+    "korean": "오렌지"
+  },
+  {
+    "swahili": "kupanda",
+    "pronunciation": "쿠판다",
+    "korean": "오르다"
+  },
+  {
+    "swahili": "kulia",
+    "pronunciation": "쿨리아",
+    "korean": "오른쪽"
+  },
+  {
+    "swahili": "tanuri",
+    "pronunciation": "타누리",
+    "korean": "오븐"
+  },
+  {
+    "swahili": "uchafuzi",
+    "pronunciation": "우차푸지",
+    "korean": "오염"
+  },
+  {
+    "swahili": "pikipiki",
+    "pronunciation": "피키피키",
+    "korean": "오토바이"
+  },
+  {
+    "swahili": "alasiri",
+    "pronunciation": "알라시리",
+    "korean": "오후"
+  },
+  {
+    "swahili": "bali",
+    "pronunciation": "발리",
+    "korean": "오히려"
+  },
+  {
+    "swahili": "mahindi",
+    "pronunciation": "마힌디",
+    "korean": "옥수수"
+  },
+  {
+    "swahili": "nguo",
+    "pronunciation": "응구오",
+    "korean": "옷"
+  },
+  {
+    "swahili": "kabati",
+    "pronunciation": "카바티",
+    "korean": "옷장"
+  },
+  {
+    "swahili": "kwa nini",
+    "pronunciation": "콰 니니",
+    "korean": "왜"
+  },
+  {
+    "swahili": "kwa sababu",
+    "pronunciation": "콰 사바부",
+    "korean": "왜냐하면"
+  },
+  {
+    "swahili": "upweke",
+    "pronunciation": "우프웨케",
+    "korean": "외로움"
+  },
+  {
+    "swahili": "kushoto",
+    "pronunciation": "쿠쇼토",
+    "korean": "왼쪽"
+  },
+  {
+    "swahili": "yogati",
+    "pronunciation": "요가티",
+    "korean": "요거트"
+  },
+  {
+    "swahili": "mpishi",
+    "pronunciation": "음피시",
+    "korean": "요리사"
+  },
+  {
+    "swahili": "pika",
+    "pronunciation": "피카",
+    "korean": "요리하다"
+  },
+  {
+    "swahili": "siku ya Jumapili",
+    "pronunciation": "시쿠 야 주마필리",
+    "korean": "요일"
+  },
+  {
+    "swahili": "omba",
+    "pronunciation": "옴바",
+    "korean": "요청하다"
+  },
+  {
+    "swahili": "maumivu ya mgongo",
+    "pronunciation": "마우미부 야 음공고",
+    "korean": "요통"
+  },
+  {
+    "swahili": "kuoga",
+    "pronunciation": "쿠오가",
+    "korean": "욕실"
+  },
+  {
+    "swahili": "tamaa",
+    "pronunciation": "타마",
+    "korean": "욕심"
+  },
+  {
+    "swahili": "ujasiri",
+    "pronunciation": "우자시리",
+    "korean": "용기"
+  },
+  {
+    "swahili": "samehe",
+    "pronunciation": "사메헤",
+    "korean": "용서"
+  },
+  {
+    "swahili": "ugali",
+    "pronunciation": "우갈리",
+    "korean": "우갈리"
+  },
+  {
+    "swahili": "simu",
+    "pronunciation": "시무",
+    "korean": "우리"
+  },
+  {
+    "swahili": "kisima",
+    "pronunciation": "키시마",
+    "korean": "우물"
+  },
+  {
+    "swahili": "mvua ya mawe",
+    "pronunciation": "음부아 야 마웨",
+    "korean": "우박"
+  },
+  {
+    "swahili": "mwavuli",
+    "pronunciation": "므와불리",
+    "korean": "우산"
+  },
+  {
+    "swahili": "mshindi",
+    "pronunciation": "음신디",
+    "korean": "우승자"
+  },
+  {
+    "swahili": "maziwa",
+    "pronunciation": "마지와",
+    "korean": "우유"
+  },
+  {
+    "swahili": "urafiki",
+    "pronunciation": "우라피키",
+    "korean": "우정"
+  },
+  {
+    "swahili": "anga",
+    "pronunciation": "앙가",
+    "korean": "우주"
+  },
+  {
+    "swahili": "bahati",
+    "pronunciation": "바하티",
+    "korean": "운"
+  },
+  {
+    "swahili": "michezo",
+    "pronunciation": "미체조",
+    "korean": "운동"
+  },
+  {
+    "swahili": "harakati",
+    "pronunciation": "하라카티",
+    "korean": "운동(사회적)"
+  },
+  {
+    "swahili": "dereva",
+    "pronunciation": "데레바",
+    "korean": "운전사"
+  },
+  {
+    "swahili": "endesha",
+    "pronunciation": "엔데샤",
+    "korean": "운전하다"
+  },
+  {
+    "swahili": "lia",
+    "pronunciation": "리아",
+    "korean": "울다"
+  },
+  {
+    "swahili": "kucheka",
+    "pronunciation": "쿠체카",
+    "korean": "웃다"
+  },
+  {
+    "swahili": "tumbili",
+    "pronunciation": "툼빌리",
+    "korean": "원숭이"
+  },
+  {
+    "swahili": "jumatatu",
+    "pronunciation": "주마타투",
+    "korean": "월요일"
+  },
+  {
+    "swahili": "wavuti",
+    "pronunciation": "와부티",
+    "korean": "웹사이트"
+  },
+  {
+    "swahili": "pole",
+    "pronunciation": "폴레",
+    "korean": "위로"
+  },
+  {
+    "swahili": "juu ya",
+    "pronunciation": "주 야",
+    "korean": "위에"
+  },
+  {
+    "swahili": "hatari",
+    "pronunciation": "하타리",
+    "korean": "위험"
+  },
+  {
+    "swahili": "mafuta",
+    "pronunciation": "마푸타",
+    "korean": "유류"
+  },
+  {
+    "swahili": "kioo",
+    "pronunciation": "키오",
+    "korean": "유리"
+  },
+  {
+    "swahili": "ucheshi",
+    "pronunciation": "우체시",
+    "korean": "유머"
+  },
+  {
+    "swahili": "maarufu",
+    "pronunciation": "마아루푸",
+    "korean": "유명한"
+  },
+  {
+    "swahili": "faida",
+    "pronunciation": "파이다",
+    "korean": "유익"
+  },
+  {
+    "swahili": "sita",
+    "pronunciation": "시타",
+    "korean": "육(6)"
+  },
+  {
+    "swahili": "nyama",
+    "pronunciation": "냐마",
+    "korean": "육류"
+  },
+  {
+    "swahili": "riadha",
+    "pronunciation": "리아다",
+    "korean": "육상"
+  },
+  {
+    "swahili": "galaksi",
+    "pronunciation": "갈락시",
+    "korean": "은하"
+  },
+  {
+    "swahili": "benki",
+    "pronunciation": "벵키",
+    "korean": "은행"
+  },
+  {
+    "swahili": "kinywaji",
+    "pronunciation": "킨야지",
+    "korean": "음료"
+  },
+  {
+    "swahili": "muziki",
+    "pronunciation": "무지키",
+    "korean": "음악"
+  },
+  {
+    "swahili": "muziki wa",
+    "pronunciation": "무지키 와",
+    "korean": "음악(과목)"
+  },
+  {
+    "swahili": "hali ya dharura",
+    "pronunciation": "할리 야 다루라",
+    "korean": "응급상황"
+  },
+  {
+    "swahili": "maoni",
+    "pronunciation": "마오니",
+    "korean": "의견"
+  },
+  {
+    "swahili": "tabibu",
+    "pronunciation": "타비부",
+    "korean": "의료인"
+  },
+  {
+    "swahili": "daktari",
+    "pronunciation": "닥타리",
+    "korean": "의사"
+  },
+  {
+    "swahili": "dawa",
+    "pronunciation": "다와",
+    "korean": "의약품"
+  },
+  {
+    "swahili": "kiti",
+    "pronunciation": "키티",
+    "korean": "의자"
+  },
+  {
+    "swahili": "bunge",
+    "pronunciation": "붕게",
+    "korean": "의회"
+  },
+  {
+    "swahili": "hii",
+    "pronunciation": "히",
+    "korean": "이것"
+  },
+  {
+    "swahili": "ubinafsi",
+    "pronunciation": "우비납시",
+    "korean": "이기심"
+  },
+  {
+    "swahili": "jina lako nani",
+    "pronunciation": "지나 라코 나니",
+    "korean": "이름이 뭐예요"
+  },
+  {
+    "swahili": "wiki",
+    "pronunciation": "위키",
+    "korean": "이번 주"
+  },
+  {
+    "swahili": "meno",
+    "pronunciation": "메노",
+    "korean": "이빨"
+  },
+  {
+    "swahili": "umande",
+    "pronunciation": "우만데",
+    "korean": "이슬"
+  },
+  {
+    "swahili": "hadithi",
+    "pronunciation": "하디티",
+    "korean": "이야기"
+  },
+  {
+    "swahili": "jirani",
+    "pronunciation": "지라니",
+    "korean": "이웃"
+  },
+  {
+    "swahili": "sababu",
+    "pronunciation": "사바부",
+    "korean": "이유"
+  },
+  {
+    "swahili": "elewa",
+    "pronunciation": "엘레와",
+    "korean": "이해하다"
+  },
+  {
+    "swahili": "talaka",
+    "pronunciation": "탈라카",
+    "korean": "이혼"
+  },
+  {
+    "swahili": "mtu maarufu",
+    "pronunciation": "음투 마아루푸",
+    "korean": "인기인"
+  },
+  {
+    "swahili": "uvumilivu",
+    "pronunciation": "우부밀리부",
+    "korean": "인내"
+  },
+  {
+    "swahili": "uchapishaji",
+    "pronunciation": "우차피샤지",
+    "korean": "인쇄"
+  },
+  {
+    "swahili": "intaneti",
+    "pronunciation": "인타네티",
+    "korean": "인터넷"
+  },
+  {
+    "swahili": "bibi",
+    "pronunciation": "비비",
+    "korean": "인형"
+  },
+  {
+    "swahili": "kazi",
+    "pronunciation": "카지",
+    "korean": "일"
+  },
+  {
+    "swahili": "moja",
+    "pronunciation": "모자",
+    "korean": "일(1)"
+  },
+  {
+    "swahili": "kuamka",
+    "pronunciation": "쿠암카",
+    "korean": "일어나다"
+  },
+  {
+    "swahili": "jumapili",
+    "pronunciation": "주마필리",
+    "korean": "일요일"
+  },
+  {
+    "swahili": "mapema",
+    "pronunciation": "마페마",
+    "korean": "일찍"
+  },
+  {
+    "swahili": "kusoma",
+    "pronunciation": "쿠소마",
+    "korean": "읽기"
+  },
+  {
+    "swahili": "kupoteza",
+    "pronunciation": "쿠포테자",
+    "korean": "잃다"
+  },
+  {
+    "swahili": "mdomo",
+    "pronunciation": "음도모",
+    "korean": "입"
+  },
+  {
+    "swahili": "vaa",
+    "pronunciation": "바",
+    "korean": "입다"
+  },
+  {
+    "swahili": "kuingia",
+    "pronunciation": "쿠잉기아",
+    "korean": "입장"
+  },
+  {
+    "swahili": "kuna",
+    "pronunciation": "쿠나",
+    "korean": "있다"
+  },
+  {
+    "swahili": "wino",
+    "pronunciation": "위노",
+    "korean": "잉크"
+  },
+  {
+    "swahili": "sahau",
+    "pronunciation": "사하우",
+    "korean": "잊다"
+  },
+  {
+    "swahili": "majani",
+    "pronunciation": "마자니",
+    "korean": "잎"
+  },
+  {
+    "swahili": "kulala",
+    "pronunciation": "쿠랄라",
+    "korean": "자기"
+  },
+  {
+    "swahili": "lala",
+    "pronunciation": "랄라",
+    "korean": "자다"
+  },
+  {
+    "swahili": "bima ya gari",
+    "pronunciation": "비마 야 가리",
+    "korean": "자동차보험"
+  },
+  {
+    "swahili": "fahari",
+    "pronunciation": "파하리",
+    "korean": "자랑"
+  },
+  {
+    "swahili": "kukata",
+    "pronunciation": "쿠카타",
+    "korean": "자르다"
+  },
+  {
+    "swahili": "dada",
+    "pronunciation": "다다",
+    "korean": "자매"
+  },
+  {
+    "swahili": "msimamo",
+    "pronunciation": "음시마모",
+    "korean": "자세"
+  },
+  {
+    "swahili": "asili",
+    "pronunciation": "아실리",
+    "korean": "자연"
+  },
+  {
+    "swahili": "uhuru",
+    "pronunciation": "우후루",
+    "korean": "자유"
+  },
+  {
+    "swahili": "baiskeli",
+    "pronunciation": "바이스켈리",
+    "korean": "자전거"
+  },
+  {
+    "swahili": "mwandishi",
+    "pronunciation": "므완디시",
+    "korean": "작가"
+  },
+  {
+    "swahili": "kidogo",
+    "pronunciation": "키도고",
+    "korean": "작은"
+  },
+  {
+    "swahili": "kikombe",
+    "pronunciation": "키콤베",
+    "korean": "잔"
+  },
+  {
+    "swahili": "vizuri",
+    "pronunciation": "비주리",
+    "korean": "잘"
+  },
+  {
+    "swahili": "lala salama",
+    "pronunciation": "랄라 살라마",
+    "korean": "잘 자요"
+  },
+  {
+    "swahili": "kosa",
+    "pronunciation": "코사",
+    "korean": "잘못"
+  },
+  {
+    "swahili": "usingizi",
+    "pronunciation": "우싱기지",
+    "korean": "잠"
+  },
+  {
+    "swahili": "kufunga",
+    "pronunciation": "쿠풍가",
+    "korean": "잠그다"
+  },
+  {
+    "swahili": "shika",
+    "pronunciation": "시카",
+    "korean": "잡다"
+  },
+  {
+    "swahili": "jarida",
+    "pronunciation": "자리다",
+    "korean": "잡지"
+  },
+  {
+    "swahili": "glovu",
+    "pronunciation": "글로부",
+    "korean": "장갑"
+  },
+  {
+    "swahili": "waziri",
+    "pronunciation": "와지리",
+    "korean": "장관"
+  },
+  {
+    "swahili": "mazishi",
+    "pronunciation": "마지시",
+    "korean": "장례"
+  },
+  {
+    "swahili": "kizuizi",
+    "pronunciation": "키주이지",
+    "korean": "장벽"
+  },
+  {
+    "swahili": "vipaji",
+    "pronunciation": "비파지",
+    "korean": "재능"
+  },
+  {
+    "swahili": "vifaa",
+    "pronunciation": "비파",
+    "korean": "재료"
+  },
+  {
+    "swahili": "paji la uso",
+    "pronunciation": "파지 라 우소",
+    "korean": "재킷"
+  },
+  {
+    "swahili": "kuchakata tena",
+    "pronunciation": "쿠차카타 테나",
+    "korean": "재활용"
+  },
+  {
+    "swahili": "huko",
+    "pronunciation": "후코",
+    "korean": "저기"
+  },
+  {
+    "swahili": "nyumba ya sanaa",
+    "pronunciation": "뉴음바 야 사나",
+    "korean": "저녁"
+  },
+  {
+    "swahili": "jioni",
+    "pronunciation": "지오니",
+    "korean": "저녁 시간"
+  },
+  {
+    "swahili": "ninatoka",
+    "pronunciation": "니나토카",
+    "korean": "저는 ~에서 왔어요"
+  },
+  {
+    "swahili": "ninasema",
+    "pronunciation": "니나세마",
+    "korean": "저는 말합니다"
+  },
+  {
+    "swahili": "hifadhi",
+    "pronunciation": "히파디",
+    "korean": "저장"
+  },
+  {
+    "swahili": "akiba",
+    "pronunciation": "아키바",
+    "korean": "저축"
+  },
+  {
+    "swahili": "chache",
+    "pronunciation": "차체",
+    "korean": "적은"
+  },
+  {
+    "swahili": "umeme",
+    "pronunciation": "우메메",
+    "korean": "전기"
+  },
+  {
+    "swahili": "mtaalamu",
+    "pronunciation": "음타알라무",
+    "korean": "전문가"
+  },
+  {
+    "swahili": "kabla",
+    "pronunciation": "카블라",
+    "korean": "전에"
+  },
+  {
+    "swahili": "vita",
+    "pronunciation": "비타",
+    "korean": "전쟁"
+  },
+  {
+    "swahili": "jadi",
+    "pronunciation": "자디",
+    "korean": "전통"
+  },
+  {
+    "swahili": "piga simu",
+    "pronunciation": "피가 시무",
+    "korean": "전화하다"
+  },
+  {
+    "swahili": "hekalu",
+    "pronunciation": "헤칼루",
+    "korean": "절"
+  },
+  {
+    "swahili": "nusu",
+    "pronunciation": "누수",
+    "korean": "절반"
+  },
+  {
+    "swahili": "kijana",
+    "pronunciation": "키자나",
+    "korean": "젊은"
+  },
+  {
+    "swahili": "vijana",
+    "pronunciation": "비자나",
+    "korean": "젊은이"
+  },
+  {
+    "swahili": "chakula cha mchana",
+    "pronunciation": "차쿨라 차 음차나",
+    "korean": "점심"
+  },
+  {
+    "swahili": "kidole cha mguu",
+    "pronunciation": "키돌레 차 음구",
+    "korean": "정강이"
+  },
+  {
+    "swahili": "chama",
+    "pronunciation": "차마",
+    "korean": "정당"
+  },
+  {
+    "swahili": "serikali",
+    "pronunciation": "세리칼리",
+    "korean": "정부"
+  },
+  {
+    "swahili": "uaminifu",
+    "pronunciation": "우아미니푸",
+    "korean": "정직"
+  },
+  {
+    "swahili": "siasa",
+    "pronunciation": "시아사",
+    "korean": "정치"
+  },
+  {
+    "swahili": "sawa sawa",
+    "pronunciation": "사와 사와",
+    "korean": "정확히"
+  },
+  {
+    "swahili": "toa",
+    "pronunciation": "토아",
+    "korean": "제공하다"
+  },
+  {
+    "swahili": "mazingira",
+    "pronunciation": "마징기라",
+    "korean": "조건"
+  },
+  {
+    "swahili": "babu",
+    "pronunciation": "바부",
+    "korean": "조부"
+  },
+  {
+    "swahili": "uchunguzi",
+    "pronunciation": "우충구지",
+    "korean": "조사"
+  },
+  {
+    "swahili": "rubani",
+    "pronunciation": "루바니",
+    "korean": "조종사"
+  },
+  {
+    "swahili": "shangazi",
+    "pronunciation": "상가지",
+    "korean": "조카"
+  },
+  {
+    "swahili": "heshima",
+    "pronunciation": "헤시마",
+    "korean": "존경"
+  },
+  {
+    "swahili": "kengele",
+    "pronunciation": "켕겔레",
+    "korean": "종"
+  },
+  {
+    "swahili": "dini",
+    "pronunciation": "디니",
+    "korean": "종교"
+  },
+  {
+    "swahili": "aina",
+    "pronunciation": "아이나",
+    "korean": "종류"
+  },
+  {
+    "swahili": "karatasi",
+    "pronunciation": "카라타시",
+    "korean": "종이"
+  },
+  {
+    "swahili": "sawa",
+    "pronunciation": "사와",
+    "korean": "좋아요"
+  },
+  {
+    "swahili": "nzuri",
+    "pronunciation": "은주리",
+    "korean": "좋은"
+  },
+  {
+    "swahili": "usiku mwema",
+    "pronunciation": "우시쿠 므웨마",
+    "korean": "좋은 밤"
+  },
+  {
+    "swahili": "habari za asubuhi",
+    "pronunciation": "하바리 자 아수부히",
+    "korean": "좋은 아침"
+  },
+  {
+    "swahili": "jimbo",
+    "pronunciation": "짐보",
+    "korean": "주(州)"
+  },
+  {
+    "swahili": "upe",
+    "pronunciation": "우페",
+    "korean": "주다"
+  },
+  {
+    "swahili": "mifuko",
+    "pronunciation": "미푸코",
+    "korean": "주머니"
+  },
+  {
+    "swahili": "sindano",
+    "pronunciation": "신다노",
+    "korean": "주사"
+  },
+  {
+    "swahili": "anwani",
+    "pronunciation": "안와니",
+    "korean": "주소"
+  },
+  {
+    "swahili": "juisi",
+    "pronunciation": "주이시",
+    "korean": "주스"
+  },
+  {
+    "swahili": "mada",
+    "pronunciation": "마다",
+    "korean": "주제"
+  },
+  {
+    "swahili": "kufa",
+    "pronunciation": "쿠파",
+    "korean": "죽다"
+  },
+  {
+    "swahili": "andaa",
+    "pronunciation": "안다",
+    "korean": "준비하다"
+  },
+  {
+    "swahili": "kati",
+    "pronunciation": "카티",
+    "korean": "중간"
+  },
+  {
+    "swahili": "Kichina",
+    "pronunciation": "키치나",
+    "korean": "중국어"
+  },
+  {
+    "swahili": "muhimu",
+    "pronunciation": "무히무",
+    "korean": "중요한"
+  },
+  {
+    "swahili": "panya",
+    "pronunciation": "판야",
+    "korean": "쥐"
+  },
+  {
+    "swahili": "mara moja",
+    "pronunciation": "마라 모자",
+    "korean": "즉시"
+  },
+  {
+    "swahili": "furahia",
+    "pronunciation": "푸라히아",
+    "korean": "즐기다"
+  },
+  {
+    "swahili": "ushahidi",
+    "pronunciation": "우샤히디",
+    "korean": "증거"
+  },
+  {
+    "swahili": "dunia",
+    "pronunciation": "두니아",
+    "korean": "지구"
+  },
+  {
+    "swahili": "ongezeko la joto",
+    "pronunciation": "옹게제코 라 조토",
+    "korean": "지구 온난화"
+  },
+  {
+    "swahili": "sasa",
+    "pronunciation": "사사",
+    "korean": "지금"
+  },
+  {
+    "swahili": "ramani",
+    "pronunciation": "라마니",
+    "korean": "지도"
+  },
+  {
+    "swahili": "jiografia",
+    "pronunciation": "지오그라피아",
+    "korean": "지리"
+  },
+  {
+    "swahili": "mkoa",
+    "pronunciation": "음코아",
+    "korean": "지방"
+  },
+  {
+    "swahili": "paa",
+    "pronunciation": "파",
+    "korean": "지붕"
+  },
+  {
+    "swahili": "ujuzi",
+    "pronunciation": "우주지",
+    "korean": "지식"
+  },
+  {
+    "swahili": "eneo",
+    "pronunciation": "에네오",
+    "korean": "지역"
+  },
+  {
+    "swahili": "ucheleweshaji",
+    "pronunciation": "우첼레웨샤지",
+    "korean": "지연"
+  },
+  {
+    "swahili": "raba",
+    "pronunciation": "라바",
+    "korean": "지우개"
+  },
+  {
+    "swahili": "tetemeko",
+    "pronunciation": "테테메코",
+    "korean": "지진"
+  },
+  {
+    "swahili": "chini ya ardhi",
+    "pronunciation": "치니 야 아르디",
+    "korean": "지하"
+  },
+  {
+    "swahili": "mfanyakazi",
+    "pronunciation": "음판야카지",
+    "korean": "직원"
+  },
+  {
+    "swahili": "moja kwa moja",
+    "pronunciation": "모자 콰 모자",
+    "korean": "직접"
+  },
+  {
+    "swahili": "wivu",
+    "pronunciation": "위부",
+    "korean": "질투"
+  },
+  {
+    "swahili": "mzigo",
+    "pronunciation": "음지고",
+    "korean": "짐"
+  },
+  {
+    "swahili": "nyumba",
+    "pronunciation": "뉴음바",
+    "korean": "집"
+  },
+  {
+    "swahili": "koleo",
+    "pronunciation": "콜레오",
+    "korean": "집게"
+  },
+  {
+    "swahili": "kujenga",
+    "pronunciation": "쿠젱가",
+    "korean": "짓다"
+  },
+  {
+    "swahili": "fupi",
+    "pronunciation": "푸피",
+    "korean": "짧은"
+  },
+  {
+    "swahili": "gari",
+    "pronunciation": "가리",
+    "korean": "차"
+  },
+  {
+    "swahili": "chai",
+    "pronunciation": "차이",
+    "korean": "차(음료)"
+  },
+  {
+    "swahili": "baridi",
+    "pronunciation": "바리디",
+    "korean": "차가운"
+  },
+  {
+    "swahili": "garaji",
+    "pronunciation": "가라지",
+    "korean": "차고"
+  },
+  {
+    "swahili": "ubaguzi",
+    "pronunciation": "우바구지",
+    "korean": "차별"
+  },
+  {
+    "swahili": "chapati",
+    "pronunciation": "차파티",
+    "korean": "차파티"
+  },
+  {
+    "swahili": "mshiriki",
+    "pronunciation": "음시리키",
+    "korean": "참가자"
+  },
+  {
+    "swahili": "dirisha",
+    "pronunciation": "디리샤",
+    "korean": "창문"
+  },
+  {
+    "swahili": "jukumu",
+    "pronunciation": "주쿠무",
+    "korean": "책임"
+  },
+  {
+    "swahili": "rafu",
+    "pronunciation": "라푸",
+    "korean": "책장"
+  },
+  {
+    "swahili": "wa kwanza",
+    "pronunciation": "와 콴자",
+    "korean": "처음의"
+  },
+  {
+    "swahili": "elfu",
+    "pronunciation": "엘푸",
+    "korean": "천(1000)"
+  },
+  {
+    "swahili": "ngurumo",
+    "pronunciation": "응구루모",
+    "korean": "천둥"
+  },
+  {
+    "swahili": "dari",
+    "pronunciation": "다리",
+    "korean": "천장"
+  },
+  {
+    "swahili": "polepole",
+    "pronunciation": "폴레폴레",
+    "korean": "천천히"
+  },
+  {
+    "swahili": "chuma",
+    "pronunciation": "추마",
+    "korean": "철"
+  },
+  {
+    "swahili": "kusafisha",
+    "pronunciation": "쿠사피샤",
+    "korean": "청소"
+  },
+  {
+    "swahili": "safisha",
+    "pronunciation": "사피샤",
+    "korean": "청소하다"
+  },
+  {
+    "swahili": "mwanga wa mshumaa",
+    "pronunciation": "므왕가 와 음슈마",
+    "korean": "초"
+  },
+  {
+    "swahili": "kukaribisha",
+    "pronunciation": "쿠카리비샤",
+    "korean": "초대하다"
+  },
+  {
+    "swahili": "kijani",
+    "pronunciation": "키자니",
+    "korean": "초록색"
+  },
+  {
+    "swahili": "chokoleti",
+    "pronunciation": "초콜레티",
+    "korean": "초콜릿"
+  },
+  {
+    "swahili": "jumla",
+    "pronunciation": "줌라",
+    "korean": "총"
+  },
+  {
+    "swahili": "hongera",
+    "pronunciation": "홍게라",
+    "korean": "축하"
+  },
+  {
+    "swahili": "kutoka",
+    "pronunciation": "쿠토카",
+    "korean": "출발하다"
+  },
+  {
+    "swahili": "densi",
+    "pronunciation": "덴시",
+    "korean": "춤"
+  },
+  {
+    "swahili": "cheza densi",
+    "pronunciation": "체자 덴시",
+    "korean": "춤추다"
+  },
+  {
+    "swahili": "tosha",
+    "pronunciation": "토샤",
+    "korean": "충분한"
+  },
+  {
+    "swahili": "burudani",
+    "pronunciation": "부루다니",
+    "korean": "취미"
+  },
+  {
+    "swahili": "tabaka",
+    "pronunciation": "타바카",
+    "korean": "층"
+  },
+  {
+    "swahili": "sketi",
+    "pronunciation": "스케티",
+    "korean": "치마"
+  },
+  {
+    "swahili": "dawa ya meno",
+    "pronunciation": "다와 야 메노",
+    "korean": "치약"
+  },
+  {
+    "swahili": "jibini",
+    "pronunciation": "지비니",
+    "korean": "치즈"
+  },
+  {
+    "swahili": "fadhili",
+    "pronunciation": "파딜리",
+    "korean": "친절"
+  },
+  {
+    "swahili": "jamaa",
+    "pronunciation": "자마",
+    "korean": "친척"
+  },
+  {
+    "swahili": "saba",
+    "pronunciation": "사바",
+    "korean": "칠(7)"
+  },
+  {
+    "swahili": "bodi",
+    "pronunciation": "보디",
+    "korean": "칠판"
+  },
+  {
+    "swahili": "kupaka rangi",
+    "pronunciation": "쿠파카 랑기",
+    "korean": "칠하다"
+  },
+  {
+    "swahili": "kitanda",
+    "pronunciation": "키탄다",
+    "korean": "침대"
+  },
+  {
+    "swahili": "kimya",
+    "pronunciation": "킴야",
+    "korean": "침묵"
+  },
+  {
+    "swahili": "sokwe",
+    "pronunciation": "소크웨",
+    "korean": "침팬지"
+  },
+  {
+    "swahili": "mswaki",
+    "pronunciation": "음스와키",
+    "korean": "칫솔"
+  },
+  {
+    "swahili": "sifa",
+    "pronunciation": "시파",
+    "korean": "칭찬"
+  },
+  {
+    "swahili": "kadi",
+    "pronunciation": "카디",
+    "korean": "카드"
+  },
+  {
+    "swahili": "kamera",
+    "pronunciation": "카메라",
+    "korean": "카메라"
+  },
+  {
+    "swahili": "muhogo",
+    "pronunciation": "무호고",
+    "korean": "카사바"
+  },
+  {
+    "swahili": "zulia",
+    "pronunciation": "줄리아",
+    "korean": "카펫"
+  },
+  {
+    "swahili": "kisu",
+    "pronunciation": "키수",
+    "korean": "칼"
+  },
+  {
+    "swahili": "kahawa",
+    "pronunciation": "카하와",
+    "korean": "커피"
+  },
+  {
+    "swahili": "kompyuta",
+    "pronunciation": "콤퓨타",
+    "korean": "컴퓨터"
+  },
+  {
+    "swahili": "pua",
+    "pronunciation": "푸아",
+    "korean": "코"
+  },
+  {
+    "swahili": "tembo",
+    "pronunciation": "템보",
+    "korean": "코끼리"
+  },
+  {
+    "swahili": "kifaru",
+    "pronunciation": "키파루",
+    "korean": "코뿔소"
+  },
+  {
+    "swahili": "kocha",
+    "pronunciation": "코차",
+    "korean": "코치"
+  },
+  {
+    "swahili": "nazi",
+    "pronunciation": "나지",
+    "korean": "코코넛"
+  },
+  {
+    "swahili": "koti",
+    "pronunciation": "코티",
+    "korean": "코트"
+  },
+  {
+    "swahili": "pamba",
+    "pronunciation": "팜바",
+    "korean": "코튼"
+  },
+  {
+    "swahili": "mto mkubwa",
+    "pronunciation": "음토 음쿠브와",
+    "korean": "큰 강"
+  },
+  {
+    "swahili": "kidole kikubwa",
+    "pronunciation": "키돌레 키쿠브와",
+    "korean": "큰 발가락"
+  },
+  {
+    "swahili": "darasa",
+    "pronunciation": "다라사",
+    "korean": "클래스"
+  },
+  {
+    "swahili": "refu",
+    "pronunciation": "레푸",
+    "korean": "키가 큰"
+  },
+  {
+    "swahili": "kibodi",
+    "pronunciation": "키보디",
+    "korean": "키보드"
+  },
+  {
+    "swahili": "tairi",
+    "pronunciation": "타이리",
+    "korean": "타이어"
+  },
+  {
+    "swahili": "matairi",
+    "pronunciation": "마타이리",
+    "korean": "타이어들"
+  },
+  {
+    "swahili": "meza ya kula",
+    "pronunciation": "메자 야 쿨라",
+    "korean": "탁자"
+  },
+  {
+    "swahili": "kuzaliwa",
+    "pronunciation": "쿠잘리와",
+    "korean": "탄생"
+  },
+  {
+    "swahili": "kaboni",
+    "pronunciation": "카보니",
+    "korean": "탄소"
+  },
+  {
+    "swahili": "jua",
+    "pronunciation": "주아",
+    "korean": "태양"
+  },
+  {
+    "swahili": "nishati ya jua",
+    "pronunciation": "니샤티 야 주아",
+    "korean": "태양 에너지"
+  },
+  {
+    "swahili": "kimbunga",
+    "pronunciation": "킴붕가",
+    "korean": "태풍"
+  },
+  {
+    "swahili": "teksi",
+    "pronunciation": "텍시",
+    "korean": "택시"
+  },
+  {
+    "swahili": "tenisi",
+    "pronunciation": "테니시",
+    "korean": "테니스"
+  },
+  {
+    "swahili": "hema",
+    "pronunciation": "헤마",
+    "korean": "텐트"
+  },
+  {
+    "swahili": "televisheni",
+    "pronunciation": "텔레비셰니",
+    "korean": "텔레비전"
+  },
+  {
+    "swahili": "sungura",
+    "pronunciation": "숭구라",
+    "korean": "토끼"
+  },
+  {
+    "swahili": "nyanya",
+    "pronunciation": "냐냐",
+    "korean": "토마토"
+  },
+  {
+    "swahili": "udongo",
+    "pronunciation": "우동고",
+    "korean": "토양"
+  },
+  {
+    "swahili": "jumamosi",
+    "pronunciation": "주마모시",
+    "korean": "토요일"
+  },
+  {
+    "swahili": "usafiri",
+    "pronunciation": "우사피리",
+    "korean": "통근"
+  },
+  {
+    "swahili": "maumivu",
+    "pronunciation": "마우미부",
+    "korean": "통증"
+  },
+  {
+    "swahili": "kura",
+    "pronunciation": "쿠라",
+    "korean": "투표"
+  },
+  {
+    "swahili": "lori",
+    "pronunciation": "로리",
+    "korean": "트럭"
+  },
+  {
+    "swahili": "maalum",
+    "pronunciation": "마알룸",
+    "korean": "특별한"
+  },
+  {
+    "swahili": "hasa",
+    "pronunciation": "하사",
+    "korean": "특히"
+  },
+  {
+    "swahili": "imara",
+    "pronunciation": "이마라",
+    "korean": "튼튼한"
+  },
+  {
+    "swahili": "tiketi",
+    "pronunciation": "티케티",
+    "korean": "티켓"
+  },
+  {
+    "swahili": "timu",
+    "pronunciation": "티무",
+    "korean": "팀"
+  },
+  {
+    "swahili": "kuchimba",
+    "pronunciation": "쿠침바",
+    "korean": "파다"
+  },
+  {
+    "swahili": "nzi",
+    "pronunciation": "은지",
+    "korean": "파리"
+  },
+  {
+    "swahili": "nanasi",
+    "pronunciation": "나나시",
+    "korean": "파인애플"
+  },
+  {
+    "swahili": "mwenzi",
+    "pronunciation": "므웬지",
+    "korean": "파트너"
+  },
+  {
+    "swahili": "pati",
+    "pronunciation": "파티",
+    "korean": "파티"
+  },
+  {
+    "swahili": "papai",
+    "pronunciation": "파파이",
+    "korean": "파파야"
+  },
+  {
+    "swahili": "hakimu",
+    "pronunciation": "하키무",
+    "korean": "판사"
+  },
+  {
+    "swahili": "kiwiko",
+    "pronunciation": "키위코",
+    "korean": "팔꿈치"
+  },
+  {
+    "swahili": "uza",
+    "pronunciation": "우자",
+    "korean": "팔다"
+  },
+  {
+    "swahili": "bangili",
+    "pronunciation": "방길리",
+    "korean": "팔찌"
+  },
+  {
+    "swahili": "kushindwa",
+    "pronunciation": "쿠신드와",
+    "korean": "패배"
+  },
+  {
+    "swahili": "feni",
+    "pronunciation": "페니",
+    "korean": "팬"
+  },
+  {
+    "swahili": "ukurasa",
+    "pronunciation": "우쿠라사",
+    "korean": "페이지"
+  },
+  {
+    "swahili": "kalamu",
+    "pronunciation": "칼라무",
+    "korean": "펜"
+  },
+  {
+    "swahili": "wastani",
+    "pronunciation": "와스타니",
+    "korean": "평균"
+  },
+  {
+    "swahili": "gorofa",
+    "pronunciation": "고로파",
+    "korean": "평면"
+  },
+  {
+    "swahili": "amani",
+    "pronunciation": "아마니",
+    "korean": "평화"
+  },
+  {
+    "swahili": "takataka",
+    "pronunciation": "타카타카",
+    "korean": "폐기물"
+  },
+  {
+    "swahili": "zabibu",
+    "pronunciation": "자비부",
+    "korean": "포도"
+  },
+  {
+    "swahili": "bango",
+    "pronunciation": "방고",
+    "korean": "포스터"
+  },
+  {
+    "swahili": "uma",
+    "pronunciation": "우마",
+    "korean": "포크"
+  },
+  {
+    "swahili": "vurugu",
+    "pronunciation": "부루구",
+    "korean": "폭력"
+  },
+  {
+    "swahili": "maporomoko",
+    "pronunciation": "마포로모코",
+    "korean": "폭포"
+  },
+  {
+    "swahili": "dhoruba",
+    "pronunciation": "도루바",
+    "korean": "폭풍"
+  },
+  {
+    "swahili": "tikiti",
+    "pronunciation": "티키티",
+    "korean": "표"
+  },
+  {
+    "swahili": "uso",
+    "pronunciation": "우소",
+    "korean": "표면"
+  },
+  {
+    "swahili": "chui",
+    "pronunciation": "추이",
+    "korean": "표범"
+  }
+]

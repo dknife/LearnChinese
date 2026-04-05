@@ -1,0 +1,5002 @@
+[
+  {
+    "thai": "ร้าน",
+    "pronunciation": "란",
+    "korean": "가게"
+  },
+  {
+    "thai": "ราคา",
+    "pronunciation": "라카",
+    "korean": "가격"
+  },
+  {
+    "thai": "ครอบครัว",
+    "pronunciation": "크롭크루아",
+    "korean": "가구(가정)"
+  },
+  {
+    "thai": "เฟอร์นิเจอร์",
+    "pronunciation": "퍼니쩌",
+    "korean": "가구(물건)"
+  },
+  {
+    "thai": "ใกล้",
+    "pronunciation": "끌라이",
+    "korean": "가까운"
+  },
+  {
+    "thai": "บาง",
+    "pronunciation": "바앙",
+    "korean": "가는(얇은)"
+  },
+  {
+    "thai": "เป็นไปได้",
+    "pronunciation": "뻰빠이다이",
+    "korean": "가능한"
+  },
+  {
+    "thai": "ไป",
+    "pronunciation": "빠이",
+    "korean": "가다"
+  },
+  {
+    "thai": "เต็ม",
+    "pronunciation": "뗌",
+    "korean": "가득 찬"
+  },
+  {
+    "thai": "สอน",
+    "pronunciation": "쏜",
+    "korean": "가르치다"
+  },
+  {
+    "thai": "หน้ากาก",
+    "pronunciation": "나까악",
+    "korean": "가면"
+  },
+  {
+    "thai": "กระเป๋า",
+    "pronunciation": "끄라빠오",
+    "korean": "가방"
+  },
+  {
+    "thai": "หน้าอก",
+    "pronunciation": "나옥",
+    "korean": "가슴"
+  },
+  {
+    "thai": "กลาง",
+    "pronunciation": "끌라앙",
+    "korean": "가운데"
+  },
+  {
+    "thai": "สวน",
+    "pronunciation": "쑤안",
+    "korean": "가원(정원)"
+  },
+  {
+    "thai": "กรรไกร",
+    "pronunciation": "깐끄라이",
+    "korean": "가위"
+  },
+  {
+    "thai": "ฤดูใบไม้ร่วง",
+    "pronunciation": "르두바이마이루앙",
+    "korean": "가을"
+  },
+  {
+    "thai": "เอา",
+    "pronunciation": "아오",
+    "korean": "가져가다"
+  },
+  {
+    "thai": "นำมา",
+    "pronunciation": "남마",
+    "korean": "가져오다"
+  },
+  {
+    "thai": "พยาบาล",
+    "pronunciation": "파야반",
+    "korean": "간호사"
+  },
+  {
+    "thai": "สีน้ำตาล",
+    "pronunciation": "씨남딴",
+    "korean": "갈색"
+  },
+  {
+    "thai": "ส้ม",
+    "pronunciation": "쏨",
+    "korean": "감(귤)"
+  },
+  {
+    "thai": "ขอบคุณ",
+    "pronunciation": "컵쿤",
+    "korean": "감사합니다"
+  },
+  {
+    "thai": "ลด",
+    "pronunciation": "롯",
+    "korean": "감소하다"
+  },
+  {
+    "thai": "ตรวจสอบ",
+    "pronunciation": "뜨루앗쏩",
+    "korean": "감시하다"
+  },
+  {
+    "thai": "ติดเชื้อ",
+    "pronunciation": "띳츠아",
+    "korean": "감염"
+  },
+  {
+    "thai": "มันฝรั่ง",
+    "pronunciation": "만파랑",
+    "korean": "감자"
+  },
+  {
+    "thai": "อารมณ์",
+    "pronunciation": "아롬",
+    "korean": "감정"
+  },
+  {
+    "thai": "แม่น้ำ",
+    "pronunciation": "매남",
+    "korean": "강"
+  },
+  {
+    "thai": "แข็งแรง",
+    "pronunciation": "캥래앙",
+    "korean": "강한"
+  },
+  {
+    "thai": "สุนัข",
+    "pronunciation": "쑤낙",
+    "korean": "개"
+  },
+  {
+    "thai": "กบ",
+    "pronunciation": "꼽",
+    "korean": "개구리"
+  },
+  {
+    "thai": "มด",
+    "pronunciation": "못",
+    "korean": "개미"
+  },
+  {
+    "thai": "เปิด",
+    "pronunciation": "쁘읏",
+    "korean": "개방하다"
+  },
+  {
+    "thai": "ปรับปรุง",
+    "pronunciation": "쁘랍쁘룽",
+    "korean": "개선하다"
+  },
+  {
+    "thai": "ส่วนตัว",
+    "pronunciation": "쑤안뚜아",
+    "korean": "개인의"
+  },
+  {
+    "thai": "ข้าง",
+    "pronunciation": "카앙",
+    "korean": "거기"
+  },
+  {
+    "thai": "ถนน",
+    "pronunciation": "타논",
+    "korean": "거리"
+  },
+  {
+    "thai": "แมงมุม",
+    "pronunciation": "매앙뭄",
+    "korean": "거미"
+  },
+  {
+    "thai": "เต่า",
+    "pronunciation": "따오",
+    "korean": "거북이"
+  },
+  {
+    "thai": "กระจก",
+    "pronunciation": "끄라쪽",
+    "korean": "거울"
+  },
+  {
+    "thai": "กังวล",
+    "pronunciation": "깡원",
+    "korean": "걱정"
+  },
+  {
+    "thai": "สุขภาพ",
+    "pronunciation": "쑥카팝",
+    "korean": "건강"
+  },
+  {
+    "thai": "ข้าม",
+    "pronunciation": "캄",
+    "korean": "건너다"
+  },
+  {
+    "thai": "อาคาร",
+    "pronunciation": "아칸",
+    "korean": "건물"
+  },
+  {
+    "thai": "แห้ง",
+    "pronunciation": "행",
+    "korean": "건조한"
+  },
+  {
+    "thai": "เดิน",
+    "pronunciation": "든",
+    "korean": "걷다"
+  },
+  {
+    "thai": "ปู",
+    "pronunciation": "뿌",
+    "korean": "게"
+  },
+  {
+    "thai": "ผลลัพธ์",
+    "pronunciation": "폰랍",
+    "korean": "결과"
+  },
+  {
+    "thai": "แต่งงาน",
+    "pronunciation": "땡응안",
+    "korean": "결혼"
+  },
+  {
+    "thai": "สนามกีฬา",
+    "pronunciation": "싸남끼라",
+    "korean": "경기장"
+  },
+  {
+    "thai": "การแข่งขัน",
+    "pronunciation": "깐캥칸",
+    "korean": "경쟁"
+  },
+  {
+    "thai": "เศรษฐกิจ",
+    "pronunciation": "쎗타낏",
+    "korean": "경제"
+  },
+  {
+    "thai": "ตำรวจ",
+    "pronunciation": "땀루앗",
+    "korean": "경찰"
+  },
+  {
+    "thai": "ประสบการณ์",
+    "pronunciation": "쁘라쏩깐",
+    "korean": "경험"
+  },
+  {
+    "thai": "บันได",
+    "pronunciation": "반다이",
+    "korean": "계단"
+  },
+  {
+    "thai": "ไข่",
+    "pronunciation": "카이",
+    "korean": "계란"
+  },
+  {
+    "thai": "คำนวณ",
+    "pronunciation": "캄누안",
+    "korean": "계산하다"
+  },
+  {
+    "thai": "ฤดู",
+    "pronunciation": "르두",
+    "korean": "계절"
+  },
+  {
+    "thai": "บัญชี",
+    "pronunciation": "반치",
+    "korean": "계좌"
+  },
+  {
+    "thai": "แผน",
+    "pronunciation": "팬",
+    "korean": "계획"
+  },
+  {
+    "thai": "สูง",
+    "pronunciation": "쑹",
+    "korean": "고(높은)"
+  },
+  {
+    "thai": "เนื้อ",
+    "pronunciation": "느아",
+    "korean": "고기"
+  },
+  {
+    "thai": "ช้าง",
+    "pronunciation": "창",
+    "korean": "고끼리(코끼리)"
+  },
+  {
+    "thai": "โบราณ",
+    "pronunciation": "보란",
+    "korean": "고대의"
+  },
+  {
+    "thai": "ขอบคุณ",
+    "pronunciation": "컵쿤",
+    "korean": "고맙다"
+  },
+  {
+    "thai": "ทางด่วน",
+    "pronunciation": "탕두안",
+    "korean": "고속도로"
+  },
+  {
+    "thai": "แมว",
+    "pronunciation": "매우",
+    "korean": "고양이"
+  },
+  {
+    "thai": "เงียบ",
+    "pronunciation": "응이압",
+    "korean": "고요한"
+  },
+  {
+    "thai": "พริก",
+    "pronunciation": "프릭",
+    "korean": "고추"
+  },
+  {
+    "thai": "ซ่อม",
+    "pronunciation": "쏨",
+    "korean": "고치다"
+  },
+  {
+    "thai": "ทุกข์",
+    "pronunciation": "툭",
+    "korean": "고통"
+  },
+  {
+    "thai": "แมลง",
+    "pronunciation": "말래앙",
+    "korean": "곤충"
+  },
+  {
+    "thai": "กอล์ฟ",
+    "pronunciation": "꼽",
+    "korean": "골프"
+  },
+  {
+    "thai": "ที่",
+    "pronunciation": "티",
+    "korean": "곳"
+  },
+  {
+    "thai": "ลูกบอล",
+    "pronunciation": "룩본",
+    "korean": "공"
+  },
+  {
+    "thai": "อากาศ",
+    "pronunciation": "아깟",
+    "korean": "공기"
+  },
+  {
+    "thai": "เรียน",
+    "pronunciation": "리안",
+    "korean": "공부하다"
+  },
+  {
+    "thai": "การแสดง",
+    "pronunciation": "깐싸대앙",
+    "korean": "공연"
+  },
+  {
+    "thai": "สวน",
+    "pronunciation": "쑤안",
+    "korean": "공원"
+  },
+  {
+    "thai": "แบ่ง",
+    "pronunciation": "배앙",
+    "korean": "공유하다"
+  },
+  {
+    "thai": "โรงงาน",
+    "pronunciation": "롱응안",
+    "korean": "공장"
+  },
+  {
+    "thai": "สนามบิน",
+    "pronunciation": "싸남빈",
+    "korean": "공항"
+  },
+  {
+    "thai": "วิชา",
+    "pronunciation": "위차",
+    "korean": "과목"
+  },
+  {
+    "thai": "สอนพิเศษ",
+    "pronunciation": "쏜피셋",
+    "korean": "과외"
+  },
+  {
+    "thai": "ผลไม้",
+    "pronunciation": "폰라마이",
+    "korean": "과일"
+  },
+  {
+    "thai": "วิทยาศาสตร์",
+    "pronunciation": "윗타야삿",
+    "korean": "과학"
+  },
+  {
+    "thai": "สัมพันธ์",
+    "pronunciation": "쌈판",
+    "korean": "관계"
+  },
+  {
+    "thai": "ท่องเที่ยว",
+    "pronunciation": "통티아우",
+    "korean": "관광"
+  },
+  {
+    "thai": "ผู้จัดการ",
+    "pronunciation": "푸짯깐",
+    "korean": "관리자"
+  },
+  {
+    "thai": "สนใจ",
+    "pronunciation": "쏜짜이",
+    "korean": "관심"
+  },
+  {
+    "thai": "ดี",
+    "pronunciation": "디",
+    "korean": "괜찮은"
+  },
+  {
+    "thai": "สะพาน",
+    "pronunciation": "싸판",
+    "korean": "교량(다리)"
+  },
+  {
+    "thai": "ครู",
+    "pronunciation": "크루",
+    "korean": "교사"
+  },
+  {
+    "thai": "การศึกษา",
+    "pronunciation": "깐슥싸",
+    "korean": "교육"
+  },
+  {
+    "thai": "การจราจร",
+    "pronunciation": "깐짜라쫀",
+    "korean": "교통"
+  },
+  {
+    "thai": "โบสถ์",
+    "pronunciation": "봇",
+    "korean": "교회"
+  },
+  {
+    "thai": "เก้า",
+    "pronunciation": "까오",
+    "korean": "구(아홉)"
+  },
+  {
+    "thai": "รองเท้า",
+    "pronunciation": "롱타오",
+    "korean": "구두"
+  },
+  {
+    "thai": "เมฆ",
+    "pronunciation": "멕",
+    "korean": "구름"
+  },
+  {
+    "thai": "ช่วย",
+    "pronunciation": "추아이",
+    "korean": "구하다"
+  },
+  {
+    "thai": "ซุป",
+    "pronunciation": "쑵",
+    "korean": "국(수프)"
+  },
+  {
+    "thai": "ชาติ",
+    "pronunciation": "찻",
+    "korean": "국가"
+  },
+  {
+    "thai": "ธง",
+    "pronunciation": "통",
+    "korean": "국기"
+  },
+  {
+    "thai": "เส้นก๋วยเตี๋ยว",
+    "pronunciation": "쎈꾸아이띠아우",
+    "korean": "국수"
+  },
+  {
+    "thai": "ระหว่างประเทศ",
+    "pronunciation": "라왕쁘라텟",
+    "korean": "국제의"
+  },
+  {
+    "thai": "ทหาร",
+    "pronunciation": "타한",
+    "korean": "군인"
+  },
+  {
+    "thai": "หนา",
+    "pronunciation": "나",
+    "korean": "굵은"
+  },
+  {
+    "thai": "หิว",
+    "pronunciation": "히우",
+    "korean": "굶주린"
+  },
+  {
+    "thai": "ปราสาท",
+    "pronunciation": "쁘라삿",
+    "korean": "궁전"
+  },
+  {
+    "thai": "มวย",
+    "pronunciation": "무아이",
+    "korean": "권투"
+  },
+  {
+    "thai": "หู",
+    "pronunciation": "후",
+    "korean": "귀"
+  },
+  {
+    "thai": "ผี",
+    "pronunciation": "피",
+    "korean": "귀신"
+  },
+  {
+    "thai": "น่ารัก",
+    "pronunciation": "나락",
+    "korean": "귀여운"
+  },
+  {
+    "thai": "กฎ",
+    "pronunciation": "꼿",
+    "korean": "규칙"
+  },
+  {
+    "thai": "ส้ม",
+    "pronunciation": "쏨",
+    "korean": "귤"
+  },
+  {
+    "thai": "นั้น",
+    "pronunciation": "난",
+    "korean": "그"
+  },
+  {
+    "thai": "แต่",
+    "pronunciation": "때",
+    "korean": "그러나"
+  },
+  {
+    "thai": "ชาม",
+    "pronunciation": "참",
+    "korean": "그릇"
+  },
+  {
+    "thai": "แล้ว",
+    "pronunciation": "래우",
+    "korean": "그리고"
+  },
+  {
+    "thai": "คิดถึง",
+    "pronunciation": "킷틍",
+    "korean": "그리워하다"
+  },
+  {
+    "thai": "ภาพ",
+    "pronunciation": "팝",
+    "korean": "그림"
+  },
+  {
+    "thai": "เงา",
+    "pronunciation": "응아오",
+    "korean": "그림자"
+  },
+  {
+    "thai": "หยุด",
+    "pronunciation": "윳",
+    "korean": "그만두다"
+  },
+  {
+    "thai": "กล้ามเนื้อ",
+    "pronunciation": "끌람느아",
+    "korean": "근육"
+  },
+  {
+    "thai": "ใกล้",
+    "pronunciation": "끌라이",
+    "korean": "근처"
+  },
+  {
+    "thai": "ทอง",
+    "pronunciation": "통",
+    "korean": "금"
+  },
+  {
+    "thai": "ปลา",
+    "pronunciation": "쁠라",
+    "korean": "금붕어(물고기)"
+  },
+  {
+    "thai": "วันศุกร์",
+    "pronunciation": "완쑥",
+    "korean": "금요일"
+  },
+  {
+    "thai": "เงิน",
+    "pronunciation": "응은",
+    "korean": "금전(돈)"
+  },
+  {
+    "thai": "ด่วน",
+    "pronunciation": "두안",
+    "korean": "급한"
+  },
+  {
+    "thai": "บวก",
+    "pronunciation": "부악",
+    "korean": "긍정적인"
+  },
+  {
+    "thai": "ดีใจ",
+    "pronunciation": "디짜이",
+    "korean": "기쁜"
+  },
+  {
+    "thai": "นักข่าว",
+    "pronunciation": "낙카우",
+    "korean": "기자"
+  },
+  {
+    "thai": "รถไฟ",
+    "pronunciation": "롯파이",
+    "korean": "기차"
+  },
+  {
+    "thai": "สถานีรถไฟ",
+    "pronunciation": "싸타니롯파이",
+    "korean": "기차역"
+  },
+  {
+    "thai": "ยาว",
+    "pronunciation": "야우",
+    "korean": "긴"
+  },
+  {
+    "thai": "ลึก",
+    "pronunciation": "르윽",
+    "korean": "깊은"
+  },
+  {
+    "thai": "ดำ",
+    "pronunciation": "담",
+    "korean": "까만"
+  },
+  {
+    "thai": "สะอาด",
+    "pronunciation": "싸앗",
+    "korean": "깨끗한"
+  },
+  {
+    "thai": "ดอกไม้",
+    "pronunciation": "덕마이",
+    "korean": "꽃"
+  },
+  {
+    "thai": "แจกัน",
+    "pronunciation": "째깐",
+    "korean": "꽃병"
+  },
+  {
+    "thai": "ผึ้ง",
+    "pronunciation": "프응",
+    "korean": "꿀벌"
+  },
+  {
+    "thai": "ฝัน",
+    "pronunciation": "판",
+    "korean": "꿈"
+  },
+  {
+    "thai": "ดับ",
+    "pronunciation": "답",
+    "korean": "끄다"
+  },
+  {
+    "thai": "พยักหน้า",
+    "pronunciation": "파약나",
+    "korean": "끄덕이다"
+  },
+  {
+    "thai": "จบ",
+    "pronunciation": "쫍",
+    "korean": "끝나다"
+  },
+  {
+    "thai": "ฉัน",
+    "pronunciation": "찬",
+    "korean": "나"
+  },
+  {
+    "thai": "ผ้าขนหนู",
+    "pronunciation": "파콘누",
+    "korean": "나(수건)"
+  },
+  {
+    "thai": "ออก",
+    "pronunciation": "옥",
+    "korean": "나가다"
+  },
+  {
+    "thai": "ประเทศ",
+    "pronunciation": "쁘라텟",
+    "korean": "나라"
+  },
+  {
+    "thai": "ต้นไม้",
+    "pronunciation": "똔마이",
+    "korean": "나무"
+  },
+  {
+    "thai": "ผีเสื้อ",
+    "pronunciation": "피스아",
+    "korean": "나비"
+  },
+  {
+    "thai": "แย่",
+    "pronunciation": "얘",
+    "korean": "나쁜"
+  },
+  {
+    "thai": "อายุ",
+    "pronunciation": "아유",
+    "korean": "나이"
+  },
+  {
+    "thai": "ปรากฏ",
+    "pronunciation": "쁘라꼿",
+    "korean": "나타나다"
+  },
+  {
+    "thai": "วัน",
+    "pronunciation": "완",
+    "korean": "날"
+  },
+  {
+    "thai": "บิน",
+    "pronunciation": "빈",
+    "korean": "날다"
+  },
+  {
+    "thai": "อากาศ",
+    "pronunciation": "아깟",
+    "korean": "날씨"
+  },
+  {
+    "thai": "คม",
+    "pronunciation": "콤",
+    "korean": "날카로운"
+  },
+  {
+    "thai": "เหลือ",
+    "pronunciation": "르아",
+    "korean": "남다"
+  },
+  {
+    "thai": "ผู้ชาย",
+    "pronunciation": "푸차이",
+    "korean": "남자"
+  },
+  {
+    "thai": "ใต้",
+    "pronunciation": "따이",
+    "korean": "남쪽"
+  },
+  {
+    "thai": "สามี",
+    "pronunciation": "싸미",
+    "korean": "남편"
+  },
+  {
+    "thai": "กลางวัน",
+    "pronunciation": "끌라앙완",
+    "korean": "낮"
+  },
+  {
+    "thai": "ต่ำ",
+    "pronunciation": "땀",
+    "korean": "낮은"
+  },
+  {
+    "thai": "แปลก",
+    "pronunciation": "쁠래악",
+    "korean": "낯선"
+  },
+  {
+    "thai": "พรุ่งนี้",
+    "pronunciation": "프룽니",
+    "korean": "내일"
+  },
+  {
+    "thai": "หม้อ",
+    "pronunciation": "모",
+    "korean": "냄비"
+  },
+  {
+    "thai": "กลิ่น",
+    "pronunciation": "끌린",
+    "korean": "냄새"
+  },
+  {
+    "thai": "ตู้เย็น",
+    "pronunciation": "뚜옌",
+    "korean": "냉장고"
+  },
+  {
+    "thai": "กว้าง",
+    "pronunciation": "꿩",
+    "korean": "넓은"
+  },
+  {
+    "thai": "ใช่",
+    "pronunciation": "차이",
+    "korean": "네"
+  },
+  {
+    "thai": "เนคไท",
+    "pronunciation": "넥타이",
+    "korean": "넥타이"
+  },
+  {
+    "thai": "สี่",
+    "pronunciation": "씨",
+    "korean": "넷"
+  },
+  {
+    "thai": "เหลือง",
+    "pronunciation": "르앙",
+    "korean": "노란"
+  },
+  {
+    "thai": "เพลง",
+    "pronunciation": "플렝",
+    "korean": "노래"
+  },
+  {
+    "thai": "พยายาม",
+    "pronunciation": "파야얌",
+    "korean": "노력하다"
+  },
+  {
+    "thai": "สมุดบันทึก",
+    "pronunciation": "쌈묻반틱",
+    "korean": "노트"
+  },
+  {
+    "thai": "เล่น",
+    "pronunciation": "렌",
+    "korean": "놀다"
+  },
+  {
+    "thai": "ตกใจ",
+    "pronunciation": "똑짜이",
+    "korean": "놀란"
+  },
+  {
+    "thai": "บาสเก็ตบอล",
+    "pronunciation": "밧겟본",
+    "korean": "농구"
+  },
+  {
+    "thai": "เกษตรกร",
+    "pronunciation": "까셋따곤",
+    "korean": "농부"
+  },
+  {
+    "thai": "สูง",
+    "pronunciation": "쑹",
+    "korean": "높은"
+  },
+  {
+    "thai": "วาง",
+    "pronunciation": "왕",
+    "korean": "놓다"
+  },
+  {
+    "thai": "ใคร",
+    "pronunciation": "크라이",
+    "korean": "누구"
+  },
+  {
+    "thai": "กด",
+    "pronunciation": "꼿",
+    "korean": "누르다"
+  },
+  {
+    "thai": "หิมะ",
+    "pronunciation": "히마",
+    "korean": "눈(날씨)"
+  },
+  {
+    "thai": "ตา",
+    "pronunciation": "따",
+    "korean": "눈(신체)"
+  },
+  {
+    "thai": "นอน",
+    "pronunciation": "논",
+    "korean": "눕다"
+  },
+  {
+    "thai": "ข่าว",
+    "pronunciation": "카우",
+    "korean": "뉴스"
+  },
+  {
+    "thai": "รู้สึก",
+    "pronunciation": "루씩",
+    "korean": "느끼다"
+  },
+  {
+    "thai": "ช้า",
+    "pronunciation": "차",
+    "korean": "느린"
+  },
+  {
+    "thai": "เพิ่ม",
+    "pronunciation": "쁨",
+    "korean": "늘리다"
+  },
+  {
+    "thai": "ความสามารถ",
+    "pronunciation": "콤싸맛",
+    "korean": "능력"
+  },
+  {
+    "thai": "สาย",
+    "pronunciation": "싸이",
+    "korean": "늦은"
+  },
+  {
+    "thai": "ทั้งหมด",
+    "pronunciation": "탕못",
+    "korean": "다(모든)"
+  },
+  {
+    "thai": "ต่าง",
+    "pronunciation": "땅",
+    "korean": "다른"
+  },
+  {
+    "thai": "ขา",
+    "pronunciation": "카",
+    "korean": "다리"
+  },
+  {
+    "thai": "เตารีด",
+    "pronunciation": "따오릿",
+    "korean": "다리미"
+  },
+  {
+    "thai": "อีกครั้ง",
+    "pronunciation": "익크랑",
+    "korean": "다시"
+  },
+  {
+    "thai": "ดาวน์โหลด",
+    "pronunciation": "다운롯",
+    "korean": "다운로드"
+  },
+  {
+    "thai": "หลังจาก",
+    "pronunciation": "랑짝",
+    "korean": "다음에"
+  },
+  {
+    "thai": "โชคดี",
+    "pronunciation": "촉디",
+    "korean": "다행인"
+  },
+  {
+    "thai": "ปิด",
+    "pronunciation": "삣",
+    "korean": "닫다"
+  },
+  {
+    "thai": "พระจันทร์",
+    "pronunciation": "프라짠",
+    "korean": "달"
+  },
+  {
+    "thai": "หวาน",
+    "pronunciation": "완",
+    "korean": "달콤한"
+  },
+  {
+    "thai": "ไก่",
+    "pronunciation": "까이",
+    "korean": "닭"
+  },
+  {
+    "thai": "คำตอบ",
+    "pronunciation": "캄떱",
+    "korean": "답"
+  },
+  {
+    "thai": "น้ำตาล",
+    "pronunciation": "남딴",
+    "korean": "당(설탕)"
+  },
+  {
+    "thai": "แครอท",
+    "pronunciation": "캐롯",
+    "korean": "당근"
+  },
+  {
+    "thai": "ทันที",
+    "pronunciation": "탄티",
+    "korean": "당장"
+  },
+  {
+    "thai": "ถึง",
+    "pronunciation": "틍",
+    "korean": "대(~에 대해)"
+  },
+  {
+    "thai": "ใหญ่",
+    "pronunciation": "야이",
+    "korean": "대(큰)"
+  },
+  {
+    "thai": "ทวีป",
+    "pronunciation": "타윕",
+    "korean": "대륙"
+  },
+  {
+    "thai": "ส่วนใหญ่",
+    "pronunciation": "쑤안야이",
+    "korean": "대부분"
+  },
+  {
+    "thai": "สถานทูต",
+    "pronunciation": "싸탄투앗",
+    "korean": "대사관"
+  },
+  {
+    "thai": "แทน",
+    "pronunciation": "탠",
+    "korean": "대신"
+  },
+  {
+    "thai": "มหาวิทยาลัย",
+    "pronunciation": "마하윗타얄라이",
+    "korean": "대학교"
+  },
+  {
+    "thai": "สนทนา",
+    "pronunciation": "쏘타나",
+    "korean": "대화"
+  },
+  {
+    "thai": "มากขึ้น",
+    "pronunciation": "막큰",
+    "korean": "더 많은"
+  },
+  {
+    "thai": "สกปรก",
+    "pronunciation": "쏙까쁘록",
+    "korean": "더러운"
+  },
+  {
+    "thai": "ร้อน",
+    "pronunciation": "론",
+    "korean": "더운"
+  },
+  {
+    "thai": "โยน",
+    "pronunciation": "욘",
+    "korean": "던지다"
+  },
+  {
+    "thai": "น้อย",
+    "pronunciation": "노이",
+    "korean": "덜"
+  },
+  {
+    "thai": "ข้อมูล",
+    "pronunciation": "컴문",
+    "korean": "데이터"
+  },
+  {
+    "thai": "ห้องสมุด",
+    "pronunciation": "홍싸묻",
+    "korean": "도서관"
+  },
+  {
+    "thai": "เงิน",
+    "pronunciation": "응은",
+    "korean": "돈"
+  },
+  {
+    "thai": "หิน",
+    "pronunciation": "힌",
+    "korean": "돌"
+  },
+  {
+    "thai": "กลับ",
+    "pronunciation": "끌랍",
+    "korean": "돌아가다"
+  },
+  {
+    "thai": "ช่วย",
+    "pronunciation": "추아이",
+    "korean": "돕다"
+  },
+  {
+    "thai": "สัตว์",
+    "pronunciation": "쌋",
+    "korean": "동물"
+  },
+  {
+    "thai": "สวนสัตว์",
+    "pronunciation": "쑤안쌋",
+    "korean": "동물원"
+  },
+  {
+    "thai": "น้องชาย",
+    "pronunciation": "농차이",
+    "korean": "동생(남)"
+  },
+  {
+    "thai": "น้องสาว",
+    "pronunciation": "농싸우",
+    "korean": "동생(여)"
+  },
+  {
+    "thai": "เห็นด้วย",
+    "pronunciation": "헨두아이",
+    "korean": "동의하다"
+  },
+  {
+    "thai": "เหรียญ",
+    "pronunciation": "리안",
+    "korean": "동전"
+  },
+  {
+    "thai": "ตะวันออก",
+    "pronunciation": "따완옥",
+    "korean": "동쪽"
+  },
+  {
+    "thai": "หมู",
+    "pronunciation": "무",
+    "korean": "돼지"
+  },
+  {
+    "thai": "เป็น",
+    "pronunciation": "뻰",
+    "korean": "되다"
+  },
+  {
+    "thai": "ทุเรียน",
+    "pronunciation": "투리안",
+    "korean": "두리안"
+  },
+  {
+    "thai": "สอง",
+    "pronunciation": "쏭",
+    "korean": "둘"
+  },
+  {
+    "thai": "กลม",
+    "pronunciation": "끌롬",
+    "korean": "둥근"
+  },
+  {
+    "thai": "หลัง",
+    "pronunciation": "랑",
+    "korean": "뒤"
+  },
+  {
+    "thai": "ฟัง",
+    "pronunciation": "팡",
+    "korean": "듣다"
+  },
+  {
+    "thai": "เข้า",
+    "pronunciation": "카오",
+    "korean": "들어가다"
+  },
+  {
+    "thai": "ทุ่ง",
+    "pronunciation": "퉁",
+    "korean": "들판"
+  },
+  {
+    "thai": "ลูกสาว",
+    "pronunciation": "룩싸우",
+    "korean": "딸"
+  },
+  {
+    "thai": "สตรอเบอรี่",
+    "pronunciation": "싸뜨로베리",
+    "korean": "딸기"
+  },
+  {
+    "thai": "เหงื่อ",
+    "pronunciation": "응으아",
+    "korean": "땀"
+  },
+  {
+    "thai": "พื้นดิน",
+    "pronunciation": "픈딘",
+    "korean": "땅"
+  },
+  {
+    "thai": "เวลา",
+    "pronunciation": "웰라",
+    "korean": "때"
+  },
+  {
+    "thai": "เพราะ",
+    "pronunciation": "프로",
+    "korean": "때문에"
+  },
+  {
+    "thai": "ฉลาด",
+    "pronunciation": "찰랏",
+    "korean": "똑똑한"
+  },
+  {
+    "thai": "ฝา",
+    "pronunciation": "파",
+    "korean": "뚜껑"
+  },
+  {
+    "thai": "อ้วน",
+    "pronunciation": "우안",
+    "korean": "뚱뚱한"
+  },
+  {
+    "thai": "วิ่ง",
+    "pronunciation": "윙",
+    "korean": "뛰다"
+  },
+  {
+    "thai": "ร้อน",
+    "pronunciation": "론",
+    "korean": "뜨거운"
+  },
+  {
+    "thai": "ความหมาย",
+    "pronunciation": "콤마이",
+    "korean": "뜻"
+  },
+  {
+    "thai": "วิทยุ",
+    "pronunciation": "윗타유",
+    "korean": "라디오"
+  },
+  {
+    "thai": "ไลน์",
+    "pronunciation": "라인",
+    "korean": "라인"
+  },
+  {
+    "thai": "แร็กเก็ต",
+    "pronunciation": "랙겟",
+    "korean": "라켓"
+  },
+  {
+    "thai": "รัสเซีย",
+    "pronunciation": "랏시아",
+    "korean": "러시아"
+  },
+  {
+    "thai": "มะนาว",
+    "pronunciation": "마나우",
+    "korean": "레몬"
+  },
+  {
+    "thai": "ร้านอาหาร",
+    "pronunciation": "란아한",
+    "korean": "레스토랑"
+  },
+  {
+    "thai": "หุ่นยนต์",
+    "pronunciation": "훈욘",
+    "korean": "로봇"
+  },
+  {
+    "thai": "ลิ้นจี่",
+    "pronunciation": "린찌",
+    "korean": "리치"
+  },
+  {
+    "thai": "เทียน",
+    "pronunciation": "티안",
+    "korean": "마(촛불)"
+  },
+  {
+    "thai": "เม้าส์",
+    "pronunciation": "마우스",
+    "korean": "마우스"
+  },
+  {
+    "thai": "ม้า",
+    "pronunciation": "마",
+    "korean": "말(동물)"
+  },
+  {
+    "thai": "พูด",
+    "pronunciation": "풋",
+    "korean": "말하다"
+  },
+  {
+    "thai": "รสชาติ",
+    "pronunciation": "롯차앗",
+    "korean": "맛"
+  },
+  {
+    "thai": "อร่อย",
+    "pronunciation": "아로이",
+    "korean": "맛있는"
+  },
+  {
+    "thai": "มะม่วง",
+    "pronunciation": "마무앙",
+    "korean": "망고"
+  },
+  {
+    "thai": "ถูก",
+    "pronunciation": "툭",
+    "korean": "맞는"
+  },
+  {
+    "thai": "ข้างหน้า",
+    "pronunciation": "캉나",
+    "korean": "맞은편"
+  },
+  {
+    "thai": "ทุก",
+    "pronunciation": "툭",
+    "korean": "매"
+  },
+  {
+    "thai": "เผ็ด",
+    "pronunciation": "펫",
+    "korean": "매운"
+  },
+  {
+    "thai": "ทุกวัน",
+    "pronunciation": "툭완",
+    "korean": "매일"
+  },
+  {
+    "thai": "เบียร์",
+    "pronunciation": "비아",
+    "korean": "맥주"
+  },
+  {
+    "thai": "ศีรษะ",
+    "pronunciation": "시싸",
+    "korean": "머리"
+  },
+  {
+    "thai": "ผม",
+    "pronunciation": "폼",
+    "korean": "머리카락"
+  },
+  {
+    "thai": "กิน",
+    "pronunciation": "낀",
+    "korean": "먹다"
+  },
+  {
+    "thai": "ไกล",
+    "pronunciation": "끌라이",
+    "korean": "먼"
+  },
+  {
+    "thai": "ก่อน",
+    "pronunciation": "꼰",
+    "korean": "먼저"
+  },
+  {
+    "thai": "ฝุ่น",
+    "pronunciation": "푼",
+    "korean": "먼지"
+  },
+  {
+    "thai": "หยุด",
+    "pronunciation": "윳",
+    "korean": "멈추다"
+  },
+  {
+    "thai": "เย็น",
+    "pronunciation": "옌",
+    "korean": "멋진(시원한)"
+  },
+  {
+    "thai": "เมนู",
+    "pronunciation": "메누",
+    "korean": "메뉴"
+  },
+  {
+    "thai": "เหรียญ",
+    "pronunciation": "리안",
+    "korean": "메달"
+  },
+  {
+    "thai": "ข้อความ",
+    "pronunciation": "컴콤",
+    "korean": "메시지"
+  },
+  {
+    "thai": "ยุง",
+    "pronunciation": "융",
+    "korean": "모기"
+  },
+  {
+    "thai": "คอ",
+    "pronunciation": "코",
+    "korean": "목"
+  },
+  {
+    "thai": "ผ้าพันคอ",
+    "pronunciation": "파판코",
+    "korean": "목도리"
+  },
+  {
+    "thai": "เสียง",
+    "pronunciation": "시앙",
+    "korean": "목소리"
+  },
+  {
+    "thai": "ช่างไม้",
+    "pronunciation": "창마이",
+    "korean": "목수"
+  },
+  {
+    "thai": "ชีวิต",
+    "pronunciation": "치윗",
+    "korean": "목숨(생명)"
+  },
+  {
+    "thai": "วันพฤหัสบดี",
+    "pronunciation": "완파르핫싸보디",
+    "korean": "목요일"
+  },
+  {
+    "thai": "ไม้",
+    "pronunciation": "마이",
+    "korean": "목재"
+  },
+  {
+    "thai": "เป้าหมาย",
+    "pronunciation": "빠오마이",
+    "korean": "목표"
+  },
+  {
+    "thai": "ร่างกาย",
+    "pronunciation": "랑까이",
+    "korean": "몸"
+  },
+  {
+    "thai": "น้ำหนัก",
+    "pronunciation": "남낙",
+    "korean": "몸무게"
+  },
+  {
+    "thai": "ตะปู",
+    "pronunciation": "따뿌",
+    "korean": "못(도구)"
+  },
+  {
+    "thai": "ทำไม่ได้",
+    "pronunciation": "탐마이다이",
+    "korean": "못하다"
+  },
+  {
+    "thai": "หนัก",
+    "pronunciation": "낙",
+    "korean": "무거운"
+  },
+  {
+    "thai": "ฟรี",
+    "pronunciation": "프리",
+    "korean": "무료"
+  },
+  {
+    "thai": "เข่า",
+    "pronunciation": "카오",
+    "korean": "무릎"
+  },
+  {
+    "thai": "กลัว",
+    "pronunciation": "끌루아",
+    "korean": "무서운"
+  },
+  {
+    "thai": "อะไร",
+    "pronunciation": "아라이",
+    "korean": "무엇"
+  },
+  {
+    "thai": "ผม/ดิฉัน",
+    "pronunciation": "폼/디찬",
+    "korean": "무엇(나)"
+  },
+  {
+    "thai": "สายรุ้ง",
+    "pronunciation": "싸이룽",
+    "korean": "무지개"
+  },
+  {
+    "thai": "ประตู",
+    "pronunciation": "쁘라뚜",
+    "korean": "문"
+  },
+  {
+    "thai": "ประโยค",
+    "pronunciation": "쁘라욕",
+    "korean": "문장"
+  },
+  {
+    "thai": "ปัญหา",
+    "pronunciation": "빤하",
+    "korean": "문제"
+  },
+  {
+    "thai": "วัฒนธรรม",
+    "pronunciation": "왓타나탐",
+    "korean": "문화"
+  },
+  {
+    "thai": "ถาม",
+    "pronunciation": "탐",
+    "korean": "묻다"
+  },
+  {
+    "thai": "น้ำ",
+    "pronunciation": "남",
+    "korean": "물"
+  },
+  {
+    "thai": "ของ",
+    "pronunciation": "컹",
+    "korean": "물건"
+  },
+  {
+    "thai": "ปลา",
+    "pronunciation": "쁠라",
+    "korean": "물고기"
+  },
+  {
+    "thai": "น้ำท่วม",
+    "pronunciation": "남투암",
+    "korean": "물난리(홍수)"
+  },
+  {
+    "thai": "กัด",
+    "pronunciation": "깟",
+    "korean": "물다"
+  },
+  {
+    "thai": "แน่นอน",
+    "pronunciation": "내논",
+    "korean": "물론"
+  },
+  {
+    "thai": "สิ่งของ",
+    "pronunciation": "싱컹",
+    "korean": "물질"
+  },
+  {
+    "thai": "สวย",
+    "pronunciation": "쑤아이",
+    "korean": "미(아름다운)"
+  },
+  {
+    "thai": "อเมริกา",
+    "pronunciation": "아메리카",
+    "korean": "미국"
+  },
+  {
+    "thai": "อนาคต",
+    "pronunciation": "아나콧",
+    "korean": "미래"
+  },
+  {
+    "thai": "ศิลปะ",
+    "pronunciation": "신라빠",
+    "korean": "미술"
+  },
+  {
+    "thai": "ขอโทษ",
+    "pronunciation": "코톳",
+    "korean": "미안합니다"
+  },
+  {
+    "thai": "ร้านเสริมสวย",
+    "pronunciation": "란쓰림쑤아이",
+    "korean": "미용실"
+  },
+  {
+    "thai": "เสื้อกล้าม",
+    "pronunciation": "쓰아끌람",
+    "korean": "민소매"
+  },
+  {
+    "thai": "เชื่อ",
+    "pronunciation": "츠아",
+    "korean": "믿다"
+  },
+  {
+    "thai": "ข้างล่าง",
+    "pronunciation": "캉랑",
+    "korean": "밑"
+  },
+  {
+    "thai": "เปลี่ยน",
+    "pronunciation": "쁠리안",
+    "korean": "바꾸다"
+  },
+  {
+    "thai": "กล้วย",
+    "pronunciation": "끌루아이",
+    "korean": "바나나"
+  },
+  {
+    "thai": "เข็ม",
+    "pronunciation": "켐",
+    "korean": "바늘"
+  },
+  {
+    "thai": "ทะเล",
+    "pronunciation": "탈레",
+    "korean": "바다"
+  },
+  {
+    "thai": "พื้น",
+    "pronunciation": "픈",
+    "korean": "바닥"
+  },
+  {
+    "thai": "ลม",
+    "pronunciation": "롬",
+    "korean": "바람"
+  },
+  {
+    "thai": "ถูกต้อง",
+    "pronunciation": "툭똥",
+    "korean": "바로"
+  },
+  {
+    "thai": "ยุ่ง",
+    "pronunciation": "융",
+    "korean": "바쁜"
+  },
+  {
+    "thai": "กางเกง",
+    "pronunciation": "깡겡",
+    "korean": "바지"
+  },
+  {
+    "thai": "ล้อ",
+    "pronunciation": "로",
+    "korean": "바퀴"
+  },
+  {
+    "thai": "พิพิธภัณฑ์",
+    "pronunciation": "피핏타판",
+    "korean": "박물관"
+  },
+  {
+    "thai": "นอก",
+    "pronunciation": "녹",
+    "korean": "밖"
+  },
+  {
+    "thai": "ครึ่ง",
+    "pronunciation": "크릉",
+    "korean": "반"
+  },
+  {
+    "thai": "ตรงข้าม",
+    "pronunciation": "뜨롱캄",
+    "korean": "반대"
+  },
+  {
+    "thai": "แหวน",
+    "pronunciation": "웬",
+    "korean": "반지"
+  },
+  {
+    "thai": "รับ",
+    "pronunciation": "랍",
+    "korean": "받다"
+  },
+  {
+    "thai": "เท้า",
+    "pronunciation": "타오",
+    "korean": "발"
+  },
+  {
+    "thai": "ค้นพบ",
+    "pronunciation": "콘폽",
+    "korean": "발견하다"
+  },
+  {
+    "thai": "พัฒนา",
+    "pronunciation": "팟타나",
+    "korean": "발전하다"
+  },
+  {
+    "thai": "กลางคืน",
+    "pronunciation": "끌라앙큰",
+    "korean": "밤"
+  },
+  {
+    "thai": "ข้าว",
+    "pronunciation": "카우",
+    "korean": "밥"
+  },
+  {
+    "thai": "ห้อง",
+    "pronunciation": "홍",
+    "korean": "방"
+  },
+  {
+    "thai": "เยี่ยม",
+    "pronunciation": "이암",
+    "korean": "방문하다"
+  },
+  {
+    "thai": "วิธี",
+    "pronunciation": "위티",
+    "korean": "방법"
+  },
+  {
+    "thai": "ป้องกัน",
+    "pronunciation": "뽕깐",
+    "korean": "방지하다"
+  },
+  {
+    "thai": "ทาง",
+    "pronunciation": "탕",
+    "korean": "방향"
+  },
+  {
+    "thai": "ลูกแพร์",
+    "pronunciation": "룩페",
+    "korean": "배(과일)"
+  },
+  {
+    "thai": "ท้อง",
+    "pronunciation": "통",
+    "korean": "배(신체)"
+  },
+  {
+    "thai": "เรือ",
+    "pronunciation": "르아",
+    "korean": "배(탈것)"
+  },
+  {
+    "thai": "หิว",
+    "pronunciation": "히우",
+    "korean": "배고픈"
+  },
+  {
+    "thai": "วอลเลย์บอล",
+    "pronunciation": "원레이본",
+    "korean": "배구"
+  },
+  {
+    "thai": "ส่ง",
+    "pronunciation": "쏭",
+    "korean": "배달하다"
+  },
+  {
+    "thai": "แบดมินตัน",
+    "pronunciation": "뱃민턴",
+    "korean": "배드민턴"
+  },
+  {
+    "thai": "นักแสดง",
+    "pronunciation": "낙싸대앙",
+    "korean": "배우"
+  },
+  {
+    "thai": "เรียนรู้",
+    "pronunciation": "리안루",
+    "korean": "배우다"
+  },
+  {
+    "thai": "แบตเตอรี่",
+    "pronunciation": "배떠리",
+    "korean": "배터리"
+  },
+  {
+    "thai": "ห้างสรรพสินค้า",
+    "pronunciation": "항쌉씬카",
+    "korean": "백화점"
+  },
+  {
+    "thai": "งู",
+    "pronunciation": "응우",
+    "korean": "뱀"
+  },
+  {
+    "thai": "ทิ้ง",
+    "pronunciation": "팅",
+    "korean": "버리다"
+  },
+  {
+    "thai": "เห็ด",
+    "pronunciation": "헷",
+    "korean": "버섯"
+  },
+  {
+    "thai": "รถบัส",
+    "pronunciation": "롯밧",
+    "korean": "버스"
+  },
+  {
+    "thai": "ป้ายรถเมล์",
+    "pronunciation": "빠이롯메",
+    "korean": "버스 정류장"
+  },
+  {
+    "thai": "เนย",
+    "pronunciation": "느이",
+    "korean": "버터"
+  },
+  {
+    "thai": "แปล",
+    "pronunciation": "쁠래",
+    "korean": "번역하다"
+  },
+  {
+    "thai": "ผึ้ง",
+    "pronunciation": "프응",
+    "korean": "벌"
+  },
+  {
+    "thai": "แล้ว",
+    "pronunciation": "래우",
+    "korean": "벌써"
+  },
+  {
+    "thai": "กฎหมาย",
+    "pronunciation": "꼿마이",
+    "korean": "법"
+  },
+  {
+    "thai": "เพื่อน",
+    "pronunciation": "프안",
+    "korean": "벗(친구)"
+  },
+  {
+    "thai": "หมอน",
+    "pronunciation": "몬",
+    "korean": "베개"
+  },
+  {
+    "thai": "กำแพง",
+    "pronunciation": "깜패앙",
+    "korean": "벽"
+  },
+  {
+    "thai": "เปลี่ยน",
+    "pronunciation": "쁠리안",
+    "korean": "변하다"
+  },
+  {
+    "thai": "ทนายความ",
+    "pronunciation": "타나이콤",
+    "korean": "변호사"
+  },
+  {
+    "thai": "ดาว",
+    "pronunciation": "다우",
+    "korean": "별"
+  },
+  {
+    "thai": "ขวด",
+    "pronunciation": "쿠앗",
+    "korean": "병(용기)"
+  },
+  {
+    "thai": "โรค",
+    "pronunciation": "록",
+    "korean": "병(질병)"
+  },
+  {
+    "thai": "โรงพยาบาล",
+    "pronunciation": "롱파야반",
+    "korean": "병원"
+  },
+  {
+    "thai": "ท้องฟ้า",
+    "pronunciation": "통파",
+    "korean": "보(하늘)"
+  },
+  {
+    "thai": "รายงาน",
+    "pronunciation": "라이응안",
+    "korean": "보고서"
+  },
+  {
+    "thai": "ส่ง",
+    "pronunciation": "쏭",
+    "korean": "보내다"
+  },
+  {
+    "thai": "เห็น",
+    "pronunciation": "헨",
+    "korean": "보다"
+  },
+  {
+    "thai": "สีม่วง",
+    "pronunciation": "씨무앙",
+    "korean": "보라색"
+  },
+  {
+    "thai": "เพชร",
+    "pronunciation": "펫",
+    "korean": "보석"
+  },
+  {
+    "thai": "ปกติ",
+    "pronunciation": "뽁까띠",
+    "korean": "보통의"
+  },
+  {
+    "thai": "เรือ",
+    "pronunciation": "르아",
+    "korean": "보트"
+  },
+  {
+    "thai": "ฤดูใบไม้ผลิ",
+    "pronunciation": "르두바이마이쁠리",
+    "korean": "봄"
+  },
+  {
+    "thai": "ถุง",
+    "pronunciation": "퉁",
+    "korean": "봉지"
+  },
+  {
+    "thai": "พ่อ",
+    "pronunciation": "포",
+    "korean": "부(아버지)"
+  },
+  {
+    "thai": "อาย",
+    "pronunciation": "아이",
+    "korean": "부끄러운"
+  },
+  {
+    "thai": "อ่อน",
+    "pronunciation": "온",
+    "korean": "부드러운"
+  },
+  {
+    "thai": "เรียก",
+    "pronunciation": "리악",
+    "korean": "부르다"
+  },
+  {
+    "thai": "พ่อแม่",
+    "pronunciation": "포매",
+    "korean": "부모"
+  },
+  {
+    "thai": "ส่วน",
+    "pronunciation": "쑤안",
+    "korean": "부분"
+  },
+  {
+    "thai": "ครัว",
+    "pronunciation": "크루아",
+    "korean": "부엌"
+  },
+  {
+    "thai": "ร่ำรวย",
+    "pronunciation": "람루아이",
+    "korean": "부유한"
+  },
+  {
+    "thai": "ภาคเหนือ",
+    "pronunciation": "팍느아",
+    "korean": "북쪽"
+  },
+  {
+    "thai": "นาที",
+    "pronunciation": "나티",
+    "korean": "분"
+  },
+  {
+    "thai": "โกรธ",
+    "pronunciation": "끄롯",
+    "korean": "분노한"
+  },
+  {
+    "thai": "บรรยากาศ",
+    "pronunciation": "반야깟",
+    "korean": "분위기"
+  },
+  {
+    "thai": "สีชมพู",
+    "pronunciation": "씨촘푸",
+    "korean": "분홍색"
+  },
+  {
+    "thai": "ไฟ",
+    "pronunciation": "파이",
+    "korean": "불"
+  },
+  {
+    "thai": "สบาย",
+    "pronunciation": "싸바이",
+    "korean": "불편하지 않은(편한)"
+  },
+  {
+    "thai": "ฝน",
+    "pronunciation": "폰",
+    "korean": "비"
+  },
+  {
+    "thai": "เปรียบเทียบ",
+    "pronunciation": "쁘리압티압",
+    "korean": "비교하다"
+  },
+  {
+    "thai": "สบู่",
+    "pronunciation": "싸부",
+    "korean": "비누"
+  },
+  {
+    "thai": "รหัสผ่าน",
+    "pronunciation": "라핫판",
+    "korean": "비밀번호"
+  },
+  {
+    "thai": "แพง",
+    "pronunciation": "패앙",
+    "korean": "비싼"
+  },
+  {
+    "thai": "ว่าง",
+    "pronunciation": "왕",
+    "korean": "비어 있는"
+  },
+  {
+    "thai": "เครื่องบิน",
+    "pronunciation": "크르앙빈",
+    "korean": "비행기"
+  },
+  {
+    "thai": "ขอ",
+    "pronunciation": "코",
+    "korean": "빌리다"
+  },
+  {
+    "thai": "หวี",
+    "pronunciation": "위",
+    "korean": "빗"
+  },
+  {
+    "thai": "หนี้",
+    "pronunciation": "니",
+    "korean": "빚"
+  },
+  {
+    "thai": "แสง",
+    "pronunciation": "쌩",
+    "korean": "빛"
+  },
+  {
+    "thai": "เร็ว",
+    "pronunciation": "레우",
+    "korean": "빠른"
+  },
+  {
+    "thai": "แดง",
+    "pronunciation": "대앙",
+    "korean": "빨간"
+  },
+  {
+    "thai": "ซัก",
+    "pronunciation": "삭",
+    "korean": "빨래하다"
+  },
+  {
+    "thai": "ขนมปัง",
+    "pronunciation": "카놈빵",
+    "korean": "빵"
+  },
+  {
+    "thai": "สี่",
+    "pronunciation": "씨",
+    "korean": "사(숫자)"
+  },
+  {
+    "thai": "สี่แยก",
+    "pronunciation": "씨얙",
+    "korean": "사거리"
+  },
+  {
+    "thai": "อุบัติเหตุ",
+    "pronunciation": "우밧띠헷",
+    "korean": "사고"
+  },
+  {
+    "thai": "แอปเปิ้ล",
+    "pronunciation": "앱쁜",
+    "korean": "사과"
+  },
+  {
+    "thai": "ซื้อ",
+    "pronunciation": "쓰",
+    "korean": "사다"
+  },
+  {
+    "thai": "หายไป",
+    "pronunciation": "하이빠이",
+    "korean": "사라지다"
+  },
+  {
+    "thai": "คน",
+    "pronunciation": "콘",
+    "korean": "사람"
+  },
+  {
+    "thai": "ความรัก",
+    "pronunciation": "콤락",
+    "korean": "사랑"
+  },
+  {
+    "thai": "รัก",
+    "pronunciation": "락",
+    "korean": "사랑하다"
+  },
+  {
+    "thai": "ทะเลทราย",
+    "pronunciation": "탈레사이",
+    "korean": "사막"
+  },
+  {
+    "thai": "สำนักงาน",
+    "pronunciation": "쌈낙응안",
+    "korean": "사무실"
+  },
+  {
+    "thai": "ใช้",
+    "pronunciation": "차이",
+    "korean": "사용하다"
+  },
+  {
+    "thai": "พจนานุกรม",
+    "pronunciation": "폿짜나누끄롬",
+    "korean": "사전"
+  },
+  {
+    "thai": "ภาพถ่าย",
+    "pronunciation": "팝타이",
+    "korean": "사진"
+  },
+  {
+    "thai": "สังคม",
+    "pronunciation": "쌍콤",
+    "korean": "사회"
+  },
+  {
+    "thai": "ลบ",
+    "pronunciation": "롭",
+    "korean": "삭제하다"
+  },
+  {
+    "thai": "ภูเขา",
+    "pronunciation": "푸카오",
+    "korean": "산"
+  },
+  {
+    "thai": "อยู่",
+    "pronunciation": "유",
+    "korean": "살다"
+  },
+  {
+    "thai": "สาม",
+    "pronunciation": "쌈",
+    "korean": "삼(셋)"
+  },
+  {
+    "thai": "ลุง",
+    "pronunciation": "룽",
+    "korean": "삼촌"
+  },
+  {
+    "thai": "รางวัล",
+    "pronunciation": "라앙완",
+    "korean": "상"
+  },
+  {
+    "thai": "ข้างบน",
+    "pronunciation": "캉본",
+    "korean": "상(위)"
+  },
+  {
+    "thai": "จินตนาการ",
+    "pronunciation": "찐따나깐",
+    "korean": "상상"
+  },
+  {
+    "thai": "กล่อง",
+    "pronunciation": "끌롱",
+    "korean": "상자"
+  },
+  {
+    "thai": "ร้านค้า",
+    "pronunciation": "란카",
+    "korean": "상점"
+  },
+  {
+    "thai": "สด",
+    "pronunciation": "쏫",
+    "korean": "상쾌한(신선한)"
+  },
+  {
+    "thai": "สถานการณ์",
+    "pronunciation": "싸타나깐",
+    "korean": "상황"
+  },
+  {
+    "thai": "นก",
+    "pronunciation": "녹",
+    "korean": "새"
+  },
+  {
+    "thai": "ใหม่",
+    "pronunciation": "마이",
+    "korean": "새로운"
+  },
+  {
+    "thai": "กุ้ง",
+    "pronunciation": "꿍",
+    "korean": "새우"
+  },
+  {
+    "thai": "สี",
+    "pronunciation": "씨",
+    "korean": "색"
+  },
+  {
+    "thai": "แซนด์วิช",
+    "pronunciation": "샌위치",
+    "korean": "샌드위치"
+  },
+  {
+    "thai": "คิด",
+    "pronunciation": "킷",
+    "korean": "생각하다"
+  },
+  {
+    "thai": "เกิด",
+    "pronunciation": "끄읻",
+    "korean": "생기다"
+  },
+  {
+    "thai": "ปลาดิบ",
+    "pronunciation": "쁠라딥",
+    "korean": "생선"
+  },
+  {
+    "thai": "วันเกิด",
+    "pronunciation": "완끄읻",
+    "korean": "생일"
+  },
+  {
+    "thai": "ชีวิต",
+    "pronunciation": "치윗",
+    "korean": "생활"
+  },
+  {
+    "thai": "สบู่เหลว",
+    "pronunciation": "싸부레우",
+    "korean": "샴푸"
+  },
+  {
+    "thai": "ยืน",
+    "pronunciation": "윤",
+    "korean": "서다"
+  },
+  {
+    "thai": "กันและกัน",
+    "pronunciation": "깐래깐",
+    "korean": "서로"
+  },
+  {
+    "thai": "หนังสือ",
+    "pronunciation": "낭쓰",
+    "korean": "서적(책)"
+  },
+  {
+    "thai": "ร้านหนังสือ",
+    "pronunciation": "란낭쓰",
+    "korean": "서점"
+  },
+  {
+    "thai": "ตะวันตก",
+    "pronunciation": "따완톡",
+    "korean": "서쪽"
+  },
+  {
+    "thai": "น้ำตาล",
+    "pronunciation": "남딴",
+    "korean": "설탕"
+  },
+  {
+    "thai": "เกาะ",
+    "pronunciation": "꼬",
+    "korean": "섬"
+  },
+  {
+    "thai": "สำเร็จ",
+    "pronunciation": "쌈렛",
+    "korean": "성공"
+  },
+  {
+    "thai": "ชื่อ",
+    "pronunciation": "츠",
+    "korean": "성명(이름)"
+  },
+  {
+    "thai": "โลก",
+    "pronunciation": "록",
+    "korean": "세계"
+  },
+  {
+    "thai": "ซักผ้า",
+    "pronunciation": "삭파",
+    "korean": "세탁"
+  },
+  {
+    "thai": "เครื่องซักผ้า",
+    "pronunciation": "크르앙삭파",
+    "korean": "세탁기"
+  },
+  {
+    "thai": "ซักรีด",
+    "pronunciation": "삭릿",
+    "korean": "세탁소"
+  },
+  {
+    "thai": "ร้านซักรีด",
+    "pronunciation": "란삭릿",
+    "korean": "세탁소(가게)"
+  },
+  {
+    "thai": "เซลล์",
+    "pronunciation": "쎈",
+    "korean": "세포"
+  },
+  {
+    "thai": "สาม",
+    "pronunciation": "쌈",
+    "korean": "셋"
+  },
+  {
+    "thai": "เสื้อเชิ้ต",
+    "pronunciation": "쓰아츠읏",
+    "korean": "셔츠"
+  },
+  {
+    "thai": "วัว",
+    "pronunciation": "우아",
+    "korean": "소"
+  },
+  {
+    "thai": "แนะนำ",
+    "pronunciation": "내남",
+    "korean": "소개하다"
+  },
+  {
+    "thai": "เกลือ",
+    "pronunciation": "끌르아",
+    "korean": "소금"
+  },
+  {
+    "thai": "น้อย",
+    "pronunciation": "노이",
+    "korean": "소량"
+  },
+  {
+    "thai": "เสียง",
+    "pronunciation": "시앙",
+    "korean": "소리"
+  },
+  {
+    "thai": "ไส้กรอก",
+    "pronunciation": "싸이끄록",
+    "korean": "소시지"
+  },
+  {
+    "thai": "ข่าว",
+    "pronunciation": "카우",
+    "korean": "소식"
+  },
+  {
+    "thai": "โซฟา",
+    "pronunciation": "소파",
+    "korean": "소파"
+  },
+  {
+    "thai": "ความเร็ว",
+    "pronunciation": "콤레우",
+    "korean": "속도"
+  },
+  {
+    "thai": "มือ",
+    "pronunciation": "므",
+    "korean": "손"
+  },
+  {
+    "thai": "นิ้ว",
+    "pronunciation": "니우",
+    "korean": "손가락"
+  },
+  {
+    "thai": "แขก",
+    "pronunciation": "깩",
+    "korean": "손님"
+  },
+  {
+    "thai": "หลาน",
+    "pronunciation": "란",
+    "korean": "손자"
+  },
+  {
+    "thai": "แตงโม",
+    "pronunciation": "따앵모",
+    "korean": "수박"
+  },
+  {
+    "thai": "ว่ายน้ำ",
+    "pronunciation": "와이남",
+    "korean": "수영"
+  },
+  {
+    "thai": "ชุดว่ายน้ำ",
+    "pronunciation": "춧와이남",
+    "korean": "수영복"
+  },
+  {
+    "thai": "ช้อนส้อม",
+    "pronunciation": "촌쏨",
+    "korean": "수저"
+  },
+  {
+    "thai": "ช้อน",
+    "pronunciation": "촌",
+    "korean": "숟가락"
+  },
+  {
+    "thai": "ป่า",
+    "pronunciation": "빠",
+    "korean": "숲"
+  },
+  {
+    "thai": "พักผ่อน",
+    "pronunciation": "팍폰",
+    "korean": "쉬다"
+  },
+  {
+    "thai": "ง่าย",
+    "pronunciation": "응아이",
+    "korean": "쉬운"
+  },
+  {
+    "thai": "ห้าสิบ",
+    "pronunciation": "하씹",
+    "korean": "쉰(오십)"
+  },
+  {
+    "thai": "ซูเปอร์มาร์เก็ต",
+    "pronunciation": "슈퍼마켓",
+    "korean": "슈퍼마켓"
+  },
+  {
+    "thai": "สมาร์ทโฟน",
+    "pronunciation": "싸맛폰",
+    "korean": "스마트폰"
+  },
+  {
+    "thai": "ตัวเอง",
+    "pronunciation": "뚜아엥",
+    "korean": "스스로"
+  },
+  {
+    "thai": "ครูพิเศษ",
+    "pronunciation": "크루피셋",
+    "korean": "스승(선생님)"
+  },
+  {
+    "thai": "สวิตช์",
+    "pronunciation": "싸윗",
+    "korean": "스위치"
+  },
+  {
+    "thai": "สกี",
+    "pronunciation": "싸끼",
+    "korean": "스키"
+  },
+  {
+    "thai": "ทักษะ",
+    "pronunciation": "탁싸",
+    "korean": "스킬(기술)"
+  },
+  {
+    "thai": "สไตล์",
+    "pronunciation": "싸따이",
+    "korean": "스타일"
+  },
+  {
+    "thai": "เวที",
+    "pronunciation": "웨티",
+    "korean": "스테이지(무대)"
+  },
+  {
+    "thai": "เรื่องราว",
+    "pronunciation": "르앙라우",
+    "korean": "스토리(이야기)"
+  },
+  {
+    "thai": "ความเครียด",
+    "pronunciation": "콤크리앗",
+    "korean": "스트레스"
+  },
+  {
+    "thai": "กีฬา",
+    "pronunciation": "끼라",
+    "korean": "스포츠"
+  },
+  {
+    "thai": "ลำโพง",
+    "pronunciation": "람퐁",
+    "korean": "스피커"
+  },
+  {
+    "thai": "เศร้า",
+    "pronunciation": "싸오",
+    "korean": "슬픈"
+  },
+  {
+    "thai": "เมือง",
+    "pronunciation": "므앙",
+    "korean": "시(도시)"
+  },
+  {
+    "thai": "ช่วงเวลา",
+    "pronunciation": "추앙웰라",
+    "korean": "시간"
+  },
+  {
+    "thai": "นาฬิกา",
+    "pronunciation": "나리카",
+    "korean": "시계"
+  },
+  {
+    "thai": "เริ่ม",
+    "pronunciation": "름",
+    "korean": "시작하다"
+  },
+  {
+    "thai": "ตลาด",
+    "pronunciation": "딸랏",
+    "korean": "시장"
+  },
+  {
+    "thai": "การสอบ",
+    "pronunciation": "깐쏩",
+    "korean": "시험"
+  },
+  {
+    "thai": "ร้านอาหาร",
+    "pronunciation": "란아한",
+    "korean": "식당"
+  },
+  {
+    "thai": "พืช",
+    "pronunciation": "프읏",
+    "korean": "식물"
+  },
+  {
+    "thai": "อาหาร",
+    "pronunciation": "아한",
+    "korean": "식사"
+  },
+  {
+    "thai": "น้ำส้มสายชู",
+    "pronunciation": "남쏨싸이추",
+    "korean": "식초"
+  },
+  {
+    "thai": "โต๊ะ",
+    "pronunciation": "또",
+    "korean": "식탁(테이블)"
+  },
+  {
+    "thai": "พระเจ้า",
+    "pronunciation": "프라짜오",
+    "korean": "신"
+  },
+  {
+    "thai": "ตื่นเต้น",
+    "pronunciation": "뜬뗀",
+    "korean": "신나는"
+  },
+  {
+    "thai": "หนังสือพิมพ์",
+    "pronunciation": "낭쓰핌",
+    "korean": "신문"
+  },
+  {
+    "thai": "รองเท้า",
+    "pronunciation": "롱타오",
+    "korean": "신발"
+  },
+  {
+    "thai": "สัญญาณ",
+    "pronunciation": "쌴얀",
+    "korean": "신호"
+  },
+  {
+    "thai": "ห้อง",
+    "pronunciation": "홍",
+    "korean": "실"
+  },
+  {
+    "thai": "ผิดหวัง",
+    "pronunciation": "핏왕",
+    "korean": "실망"
+  },
+  {
+    "thai": "ผิดหวัง",
+    "pronunciation": "핏왕",
+    "korean": "실망한"
+  },
+  {
+    "thai": "ผิด",
+    "pronunciation": "핏",
+    "korean": "실수"
+  },
+  {
+    "thai": "จริง",
+    "pronunciation": "찡",
+    "korean": "실제의"
+  },
+  {
+    "thai": "เกลียด",
+    "pronunciation": "끌리앗",
+    "korean": "싫어하다"
+  },
+  {
+    "thai": "จริงๆ",
+    "pronunciation": "찡찡",
+    "korean": "심각한"
+  },
+  {
+    "thai": "หัวใจ",
+    "pronunciation": "후아짜이",
+    "korean": "심장"
+  },
+  {
+    "thai": "สิบ",
+    "pronunciation": "씹",
+    "korean": "십"
+  },
+  {
+    "thai": "ห่อ",
+    "pronunciation": "호",
+    "korean": "싸다"
+  },
+  {
+    "thai": "ถูก",
+    "pronunciation": "툭",
+    "korean": "싼"
+  },
+  {
+    "thai": "คู่",
+    "pronunciation": "쿠",
+    "korean": "쌍"
+  },
+  {
+    "thai": "เขียน",
+    "pronunciation": "키안",
+    "korean": "쓰다"
+  },
+  {
+    "thai": "ขยะ",
+    "pronunciation": "카야",
+    "korean": "쓰레기"
+  },
+  {
+    "thai": "ขม",
+    "pronunciation": "콤",
+    "korean": "쓴"
+  },
+  {
+    "thai": "เมล็ด",
+    "pronunciation": "말렛",
+    "korean": "씨앗"
+  },
+  {
+    "thai": "ล้าง",
+    "pronunciation": "랑",
+    "korean": "씻다"
+  },
+  {
+    "thai": "ภรรยา",
+    "pronunciation": "판라야",
+    "korean": "아내"
+  },
+  {
+    "thai": "ไม่",
+    "pronunciation": "마이",
+    "korean": "아니"
+  },
+  {
+    "thai": "ลูกชาย",
+    "pronunciation": "룩차이",
+    "korean": "아들"
+  },
+  {
+    "thai": "ข้างล่าง",
+    "pronunciation": "캉랑",
+    "korean": "아래"
+  },
+  {
+    "thai": "สวย",
+    "pronunciation": "쑤아이",
+    "korean": "아름다운"
+  },
+  {
+    "thai": "อาจ",
+    "pronunciation": "앗",
+    "korean": "아마"
+  },
+  {
+    "thai": "พ่อ",
+    "pronunciation": "포",
+    "korean": "아버지"
+  },
+  {
+    "thai": "เด็ก",
+    "pronunciation": "덱",
+    "korean": "아이"
+  },
+  {
+    "thai": "ไอเดีย",
+    "pronunciation": "아이디아",
+    "korean": "아이디어"
+  },
+  {
+    "thai": "ไอศกรีม",
+    "pronunciation": "아이싸끄림",
+    "korean": "아이스크림"
+  },
+  {
+    "thai": "ยัง",
+    "pronunciation": "양",
+    "korean": "아직"
+  },
+  {
+    "thai": "เช้า",
+    "pronunciation": "차오",
+    "korean": "아침"
+  },
+  {
+    "thai": "อาหารเช้า",
+    "pronunciation": "아한차오",
+    "korean": "아침식사"
+  },
+  {
+    "thai": "อพาร์ทเม้นท์",
+    "pronunciation": "아파트멘",
+    "korean": "아파트"
+  },
+  {
+    "thai": "ป่วย",
+    "pronunciation": "뿌아이",
+    "korean": "아픈"
+  },
+  {
+    "thai": "เก้า",
+    "pronunciation": "까오",
+    "korean": "아홉"
+  },
+  {
+    "thai": "จระเข้",
+    "pronunciation": "쫘라케",
+    "korean": "악어"
+  },
+  {
+    "thai": "ไม่",
+    "pronunciation": "마이",
+    "korean": "안"
+  },
+  {
+    "thai": "หมอก",
+    "pronunciation": "목",
+    "korean": "안개"
+  },
+  {
+    "thai": "หมอก",
+    "pronunciation": "목",
+    "korean": "안개(날씨)"
+  },
+  {
+    "thai": "แว่นตา",
+    "pronunciation": "웬따",
+    "korean": "안경"
+  },
+  {
+    "thai": "ปลอดภัย",
+    "pronunciation": "쁠롯파이",
+    "korean": "안전한"
+  },
+  {
+    "thai": "เรียบร้อย",
+    "pronunciation": "리압로이",
+    "korean": "안전한(깔끔한)"
+  },
+  {
+    "thai": "ข้างใน",
+    "pronunciation": "캉나이",
+    "korean": "안쪽"
+  },
+  {
+    "thai": "นั่ง",
+    "pronunciation": "낭",
+    "korean": "앉다"
+  },
+  {
+    "thai": "ทราบ",
+    "pronunciation": "삽",
+    "korean": "알다"
+  },
+  {
+    "thai": "ข้างหน้า",
+    "pronunciation": "캉나",
+    "korean": "앞"
+  },
+  {
+    "thai": "ผ้ากันเปื้อน",
+    "pronunciation": "파깐쁘안",
+    "korean": "앞치마"
+  },
+  {
+    "thai": "นกแก้ว",
+    "pronunciation": "녹깨우",
+    "korean": "앵무새"
+  },
+  {
+    "thai": "ยา",
+    "pronunciation": "야",
+    "korean": "약"
+  },
+  {
+    "thai": "ร้านขายยา",
+    "pronunciation": "란카이야",
+    "korean": "약국"
+  },
+  {
+    "thai": "อ่อนแอ",
+    "pronunciation": "온애",
+    "korean": "약한"
+  },
+  {
+    "thai": "แกะ",
+    "pronunciation": "깨",
+    "korean": "양"
+  },
+  {
+    "thai": "ปลายาง",
+    "pronunciation": "쁠라양",
+    "korean": "양(물고기)"
+  },
+  {
+    "thai": "ถุงเท้า",
+    "pronunciation": "퉁타오",
+    "korean": "양말"
+  },
+  {
+    "thai": "ถุงเท้า",
+    "pronunciation": "퉁타오",
+    "korean": "양말(의류)"
+  },
+  {
+    "thai": "กะหล่ำปลี",
+    "pronunciation": "까람쁠리",
+    "korean": "양배추"
+  },
+  {
+    "thai": "ร่ม",
+    "pronunciation": "롬",
+    "korean": "양산(우산)"
+  },
+  {
+    "thai": "หัวหอม",
+    "pronunciation": "후아홈",
+    "korean": "양파"
+  },
+  {
+    "thai": "มืด",
+    "pronunciation": "므읏",
+    "korean": "어두운"
+  },
+  {
+    "thai": "เมื่อไร",
+    "pronunciation": "므아라이",
+    "korean": "어디"
+  },
+  {
+    "thai": "ยาก",
+    "pronunciation": "약",
+    "korean": "어려운"
+  },
+  {
+    "thai": "แม่",
+    "pronunciation": "매",
+    "korean": "어머니"
+  },
+  {
+    "thai": "ภาษา",
+    "pronunciation": "파싸",
+    "korean": "언어"
+  },
+  {
+    "thai": "หน้า",
+    "pronunciation": "나",
+    "korean": "얼굴"
+  },
+  {
+    "thai": "เท่าไร",
+    "pronunciation": "타오라이",
+    "korean": "얼마"
+  },
+  {
+    "thai": "น้ำแข็ง",
+    "pronunciation": "남캥",
+    "korean": "얼음"
+  },
+  {
+    "thai": "อัพโหลด",
+    "pronunciation": "업롯",
+    "korean": "업로드"
+  },
+  {
+    "thai": "ไม่มี",
+    "pronunciation": "마이미",
+    "korean": "없는"
+  },
+  {
+    "thai": "วิศวกร",
+    "pronunciation": "윗싸와곤",
+    "korean": "엔지니어"
+  },
+  {
+    "thai": "สถานี",
+    "pronunciation": "싸타니",
+    "korean": "역"
+  },
+  {
+    "thai": "ประวัติศาสตร์",
+    "pronunciation": "쁘라왓싸앗",
+    "korean": "역사"
+  },
+  {
+    "thai": "เชื่อมต่อ",
+    "pronunciation": "츠암또",
+    "korean": "연결하다"
+  },
+  {
+    "thai": "ฝึก",
+    "pronunciation": "프윽",
+    "korean": "연습하다"
+  },
+  {
+    "thai": "ดินสอ",
+    "pronunciation": "딘쏘",
+    "korean": "연필"
+  },
+  {
+    "thai": "นุ่ม",
+    "pronunciation": "눔",
+    "korean": "연한"
+  },
+  {
+    "thai": "สิบ",
+    "pronunciation": "씹",
+    "korean": "열(숫자)"
+  },
+  {
+    "thai": "ไข้",
+    "pronunciation": "카이",
+    "korean": "열(체온)"
+  },
+  {
+    "thai": "เปิด",
+    "pronunciation": "쁘읏",
+    "korean": "열다"
+  },
+  {
+    "thai": "กุญแจ",
+    "pronunciation": "꾼째",
+    "korean": "열쇠"
+  },
+  {
+    "thai": "โปสการ์ด",
+    "pronunciation": "뽓까앗",
+    "korean": "엽서"
+  },
+  {
+    "thai": "ศูนย์",
+    "pronunciation": "쑨",
+    "korean": "영(제로)"
+  },
+  {
+    "thai": "ภาษาอังกฤษ",
+    "pronunciation": "파싸앙끄릿",
+    "korean": "영어"
+  },
+  {
+    "thai": "ภาพยนตร์",
+    "pronunciation": "팝파욘",
+    "korean": "영화"
+  },
+  {
+    "thai": "โรงภาพยนตร์",
+    "pronunciation": "롱팝파욘",
+    "korean": "영화관"
+  },
+  {
+    "thai": "ข้าง",
+    "pronunciation": "캉",
+    "korean": "옆"
+  },
+  {
+    "thai": "ข้างๆ",
+    "pronunciation": "캉캉",
+    "korean": "옆에"
+  },
+  {
+    "thai": "ตัวอย่าง",
+    "pronunciation": "뚜아양",
+    "korean": "예"
+  },
+  {
+    "thai": "สวย",
+    "pronunciation": "쑤아이",
+    "korean": "예쁜"
+  },
+  {
+    "thai": "ศิลปะ",
+    "pronunciation": "신라빠",
+    "korean": "예술"
+  },
+  {
+    "thai": "ศิลปิน",
+    "pronunciation": "신라빈",
+    "korean": "예술가"
+  },
+  {
+    "thai": "ห้า",
+    "pronunciation": "하",
+    "korean": "오(다섯)"
+  },
+  {
+    "thai": "วันนี้",
+    "pronunciation": "완니",
+    "korean": "오늘"
+  },
+  {
+    "thai": "มา",
+    "pronunciation": "마",
+    "korean": "오다"
+  },
+  {
+    "thai": "เก่า",
+    "pronunciation": "까오",
+    "korean": "오래된"
+  },
+  {
+    "thai": "หลายปีที่แล้ว",
+    "pronunciation": "라이삐티래우",
+    "korean": "오래전"
+  },
+  {
+    "thai": "ส้ม",
+    "pronunciation": "쏨",
+    "korean": "오렌지"
+  },
+  {
+    "thai": "ขึ้น",
+    "pronunciation": "큰",
+    "korean": "오르다"
+  },
+  {
+    "thai": "ขวา",
+    "pronunciation": "쿠아",
+    "korean": "오른쪽"
+  },
+  {
+    "thai": "เตาอบ",
+    "pronunciation": "따오옵",
+    "korean": "오븐"
+  },
+  {
+    "thai": "แตงกวา",
+    "pronunciation": "따앵꾸아",
+    "korean": "오이"
+  },
+  {
+    "thai": "ปลาหมึก",
+    "pronunciation": "쁠라므윽",
+    "korean": "오징어"
+  },
+  {
+    "thai": "มอเตอร์ไซค์",
+    "pronunciation": "모떠싸이",
+    "korean": "오토바이"
+  },
+  {
+    "thai": "รถจักรยานยนต์",
+    "pronunciation": "롯짝끄라얀욘",
+    "korean": "오토바이(탈것)"
+  },
+  {
+    "thai": "บ่าย",
+    "pronunciation": "바이",
+    "korean": "오후"
+  },
+  {
+    "thai": "ข้าวโพด",
+    "pronunciation": "카우폿",
+    "korean": "옥수수"
+  },
+  {
+    "thai": "ทั้งหมด",
+    "pronunciation": "탕못",
+    "korean": "온"
+  },
+  {
+    "thai": "อุณหภูมิ",
+    "pronunciation": "운하품",
+    "korean": "온도"
+  },
+  {
+    "thai": "เสื้อผ้า",
+    "pronunciation": "쓰아파",
+    "korean": "옷"
+  },
+  {
+    "thai": "ทำไม",
+    "pronunciation": "탐마이",
+    "korean": "왜"
+  },
+  {
+    "thai": "ต่างประเทศ",
+    "pronunciation": "땅쁘라텟",
+    "korean": "외국"
+  },
+  {
+    "thai": "เหงา",
+    "pronunciation": "응아오",
+    "korean": "외로운"
+  },
+  {
+    "thai": "ซ้าย",
+    "pronunciation": "싸이",
+    "korean": "왼쪽"
+  },
+  {
+    "thai": "โยคะ",
+    "pronunciation": "요카",
+    "korean": "요가"
+  },
+  {
+    "thai": "ข้าวสวย",
+    "pronunciation": "카우쑤아이",
+    "korean": "요리(밥)"
+  },
+  {
+    "thai": "พ่อครัว",
+    "pronunciation": "포크루아",
+    "korean": "요리사"
+  },
+  {
+    "thai": "ทำอาหาร",
+    "pronunciation": "탐아한",
+    "korean": "요리하다"
+  },
+  {
+    "thai": "วันนี้",
+    "pronunciation": "완니",
+    "korean": "요즘"
+  },
+  {
+    "thai": "เรา",
+    "pronunciation": "라오",
+    "korean": "우리"
+  },
+  {
+    "thai": "ลูกเห็บ",
+    "pronunciation": "룩헵",
+    "korean": "우박"
+  },
+  {
+    "thai": "ร่ม",
+    "pronunciation": "롬",
+    "korean": "우산"
+  },
+  {
+    "thai": "ผู้ชนะ",
+    "pronunciation": "푸차나",
+    "korean": "우승자"
+  },
+  {
+    "thai": "นม",
+    "pronunciation": "놈",
+    "korean": "우유"
+  },
+  {
+    "thai": "จักรวาล",
+    "pronunciation": "짝끄라완",
+    "korean": "우주"
+  },
+  {
+    "thai": "ไปรษณีย์",
+    "pronunciation": "쁘라이싸니",
+    "korean": "우체국"
+  },
+  {
+    "thai": "โชค",
+    "pronunciation": "촉",
+    "korean": "운"
+  },
+  {
+    "thai": "เคลื่อนไหว",
+    "pronunciation": "클르안와이",
+    "korean": "운동"
+  },
+  {
+    "thai": "ออกกำลังกาย",
+    "pronunciation": "옥깜랑까이",
+    "korean": "운동하다"
+  },
+  {
+    "thai": "คนขับรถ",
+    "pronunciation": "콘캅롯",
+    "korean": "운전사"
+  },
+  {
+    "thai": "ขับ",
+    "pronunciation": "캅",
+    "korean": "운전하다"
+  },
+  {
+    "thai": "ร้องไห้",
+    "pronunciation": "롱하이",
+    "korean": "울다"
+  },
+  {
+    "thai": "หัวเราะ",
+    "pronunciation": "후아로",
+    "korean": "웃다"
+  },
+  {
+    "thai": "ดั้งเดิม",
+    "pronunciation": "당듬",
+    "korean": "원래의"
+  },
+  {
+    "thai": "ลิง",
+    "pronunciation": "링",
+    "korean": "원숭이"
+  },
+  {
+    "thai": "เดือน",
+    "pronunciation": "드안",
+    "korean": "월"
+  },
+  {
+    "thai": "วันจันทร์",
+    "pronunciation": "완짠",
+    "korean": "월요일"
+  },
+  {
+    "thai": "เว็บไซต์",
+    "pronunciation": "웹싸이",
+    "korean": "웹사이트"
+  },
+  {
+    "thai": "ข้างบน",
+    "pronunciation": "캉본",
+    "korean": "위"
+  },
+  {
+    "thai": "อันตราย",
+    "pronunciation": "안따라이",
+    "korean": "위험한"
+  },
+  {
+    "thai": "น้ำมัน",
+    "pronunciation": "남만",
+    "korean": "유(기름)"
+  },
+  {
+    "thai": "ตั๋ว",
+    "pronunciation": "뚜아",
+    "korean": "유(표)"
+  },
+  {
+    "thai": "แก้ว",
+    "pronunciation": "깨우",
+    "korean": "유리"
+  },
+  {
+    "thai": "กระจก",
+    "pronunciation": "끄라쪽",
+    "korean": "유리(거울)"
+  },
+  {
+    "thai": "ชื่อเสียง",
+    "pronunciation": "츠시앙",
+    "korean": "유명한"
+  },
+  {
+    "thai": "มีประโยชน์",
+    "pronunciation": "미쁘라욧",
+    "korean": "유용한"
+  },
+  {
+    "thai": "หก",
+    "pronunciation": "혹",
+    "korean": "육"
+  },
+  {
+    "thai": "เงิน",
+    "pronunciation": "응은",
+    "korean": "은"
+  },
+  {
+    "thai": "ธนาคาร",
+    "pronunciation": "타나칸",
+    "korean": "은행"
+  },
+  {
+    "thai": "เครื่องดื่ม",
+    "pronunciation": "크르앙듬",
+    "korean": "음료"
+  },
+  {
+    "thai": "อาหาร",
+    "pronunciation": "아한",
+    "korean": "음식"
+  },
+  {
+    "thai": "ดนตรี",
+    "pronunciation": "돈뜨리",
+    "korean": "음악"
+  },
+  {
+    "thai": "ความคิดเห็น",
+    "pronunciation": "콤킷헨",
+    "korean": "의견"
+  },
+  {
+    "thai": "เสื้อ",
+    "pronunciation": "쓰아",
+    "korean": "의복"
+  },
+  {
+    "thai": "แพทย์",
+    "pronunciation": "팻",
+    "korean": "의사"
+  },
+  {
+    "thai": "เก้าอี้",
+    "pronunciation": "까오이",
+    "korean": "의자"
+  },
+  {
+    "thai": "นี้",
+    "pronunciation": "니",
+    "korean": "이(것)"
+  },
+  {
+    "thai": "ฟัน",
+    "pronunciation": "판",
+    "korean": "이(치아)"
+  },
+  {
+    "thai": "สิ่งนี้",
+    "pronunciation": "씽니",
+    "korean": "이것"
+  },
+  {
+    "thai": "วิน",
+    "pronunciation": "윈",
+    "korean": "이기다"
+  },
+  {
+    "thai": "ชื่อ",
+    "pronunciation": "츠",
+    "korean": "이름"
+  },
+  {
+    "thai": "ช่างตัดผม",
+    "pronunciation": "창땃폼",
+    "korean": "이발사"
+  },
+  {
+    "thai": "ย้าย",
+    "pronunciation": "야이",
+    "korean": "이사하다"
+  },
+  {
+    "thai": "น้ำค้าง",
+    "pronunciation": "남캉",
+    "korean": "이슬"
+  },
+  {
+    "thai": "หูฟัง",
+    "pronunciation": "후팡",
+    "korean": "이어폰"
+  },
+  {
+    "thai": "เพื่อนบ้าน",
+    "pronunciation": "프안반",
+    "korean": "이웃"
+  },
+  {
+    "thai": "เหตุผล",
+    "pronunciation": "헷폰",
+    "korean": "이유"
+  },
+  {
+    "thai": "ประโยชน์",
+    "pronunciation": "쁘라욧",
+    "korean": "이점"
+  },
+  {
+    "thai": "เข้าใจ",
+    "pronunciation": "카오짜이",
+    "korean": "이해하다"
+  },
+  {
+    "thai": "ประชากร",
+    "pronunciation": "쁘라차곤",
+    "korean": "인구"
+  },
+  {
+    "thai": "คนดัง",
+    "pronunciation": "콘당",
+    "korean": "인기 있는"
+  },
+  {
+    "thai": "ทักทาย",
+    "pronunciation": "탁타이",
+    "korean": "인사"
+  },
+  {
+    "thai": "ชีวิต",
+    "pronunciation": "치윗",
+    "korean": "인생"
+  },
+  {
+    "thai": "อินเทอร์เน็ต",
+    "pronunciation": "인터넷",
+    "korean": "인터넷"
+  },
+  {
+    "thai": "หนึ่ง",
+    "pronunciation": "능",
+    "korean": "일(하나)"
+  },
+  {
+    "thai": "เจ็ด",
+    "pronunciation": "쩻",
+    "korean": "일곱"
+  },
+  {
+    "thai": "วันอาทิตย์",
+    "pronunciation": "완아팃",
+    "korean": "일요일"
+  },
+  {
+    "thai": "เร็วๆ",
+    "pronunciation": "레우레우",
+    "korean": "일찍"
+  },
+  {
+    "thai": "ทำงาน",
+    "pronunciation": "탐응안",
+    "korean": "일하다"
+  },
+  {
+    "thai": "อ่าน",
+    "pronunciation": "안",
+    "korean": "읽다"
+  },
+  {
+    "thai": "สูญเสีย",
+    "pronunciation": "쑨시아",
+    "korean": "잃다"
+  },
+  {
+    "thai": "ปาก",
+    "pronunciation": "빡",
+    "korean": "입"
+  },
+  {
+    "thai": "ใส่",
+    "pronunciation": "싸이",
+    "korean": "입다"
+  },
+  {
+    "thai": "มี",
+    "pronunciation": "미",
+    "korean": "있다"
+  },
+  {
+    "thai": "ลืม",
+    "pronunciation": "름",
+    "korean": "잊다"
+  },
+  {
+    "thai": "ใบ",
+    "pronunciation": "바이",
+    "korean": "잎"
+  },
+  {
+    "thai": "ไม้บรรทัด",
+    "pronunciation": "마이반탓",
+    "korean": "자"
+  },
+  {
+    "thai": "ตัวเอง",
+    "pronunciation": "뚜아엥",
+    "korean": "자기"
+  },
+  {
+    "thai": "นอน",
+    "pronunciation": "논",
+    "korean": "자다"
+  },
+  {
+    "thai": "ภูมิใจ",
+    "pronunciation": "푸미짜이",
+    "korean": "자랑스러운"
+  },
+  {
+    "thai": "ที่นอน",
+    "pronunciation": "티논",
+    "korean": "자리(침대)"
+  },
+  {
+    "thai": "มั่นใจ",
+    "pronunciation": "만짜이",
+    "korean": "자신감"
+  },
+  {
+    "thai": "ธรรมชาติ",
+    "pronunciation": "탐마찻",
+    "korean": "자연"
+  },
+  {
+    "thai": "เสรีภาพ",
+    "pronunciation": "쎄리팝",
+    "korean": "자유"
+  },
+  {
+    "thai": "จักรยาน",
+    "pronunciation": "짝끄라얀",
+    "korean": "자전거"
+  },
+  {
+    "thai": "บ่อย",
+    "pronunciation": "보이",
+    "korean": "자주"
+  },
+  {
+    "thai": "เล็ก",
+    "pronunciation": "렉",
+    "korean": "작은"
+  },
+  {
+    "thai": "ถ้วย",
+    "pronunciation": "투아이",
+    "korean": "잔"
+  },
+  {
+    "thai": "จาน",
+    "pronunciation": "잔",
+    "korean": "잔(접시)"
+  },
+  {
+    "thai": "หญ้า",
+    "pronunciation": "야",
+    "korean": "잔디"
+  },
+  {
+    "thai": "ดี",
+    "pronunciation": "디",
+    "korean": "잘"
+  },
+  {
+    "thai": "ผิดพลาด",
+    "pronunciation": "핏플랏",
+    "korean": "잘못"
+  },
+  {
+    "thai": "สักครู่",
+    "pronunciation": "삭크루",
+    "korean": "잠깐"
+  },
+  {
+    "thai": "ชุดนอน",
+    "pronunciation": "춧논",
+    "korean": "잠옷"
+  },
+  {
+    "thai": "จับ",
+    "pronunciation": "짭",
+    "korean": "잡다"
+  },
+  {
+    "thai": "นิตยสาร",
+    "pronunciation": "닛따야싼",
+    "korean": "잡지"
+  },
+  {
+    "thai": "ถุงมือ",
+    "pronunciation": "퉁므",
+    "korean": "장갑"
+  },
+  {
+    "thai": "ของเล่น",
+    "pronunciation": "컹렌",
+    "korean": "장난감"
+  },
+  {
+    "thai": "อนาคต",
+    "pronunciation": "아나콧",
+    "korean": "장래"
+  },
+  {
+    "thai": "สถานที่",
+    "pronunciation": "싸타니티",
+    "korean": "장소"
+  },
+  {
+    "thai": "ข้อดี",
+    "pronunciation": "코디",
+    "korean": "장점"
+  },
+  {
+    "thai": "สาย",
+    "pronunciation": "싸이",
+    "korean": "재(다시)"
+  },
+  {
+    "thai": "อัจฉริยะ",
+    "pronunciation": "앗차리야",
+    "korean": "재능"
+  },
+  {
+    "thai": "วัดผ้า",
+    "pronunciation": "왓파",
+    "korean": "재다(측정)"
+  },
+  {
+    "thai": "น่าสนุก",
+    "pronunciation": "나싸눅",
+    "korean": "재미있는"
+  },
+  {
+    "thai": "ขนุน",
+    "pronunciation": "카눈",
+    "korean": "잭프루트"
+  },
+  {
+    "thai": "นั้น",
+    "pronunciation": "난",
+    "korean": "저(것)"
+  },
+  {
+    "thai": "ตอนเย็น",
+    "pronunciation": "떤옌",
+    "korean": "저녁"
+  },
+  {
+    "thai": "อาหารเย็น",
+    "pronunciation": "아한옌",
+    "korean": "저녁식사"
+  },
+  {
+    "thai": "จัดเก็บ",
+    "pronunciation": "짯겝",
+    "korean": "저장하다"
+  },
+  {
+    "thai": "ศัตรู",
+    "pronunciation": "쌋뜨루",
+    "korean": "적"
+  },
+  {
+    "thai": "น้อย",
+    "pronunciation": "노이",
+    "korean": "적은"
+  },
+  {
+    "thai": "ไฟฟ้า",
+    "pronunciation": "파이파",
+    "korean": "전기"
+  },
+  {
+    "thai": "ผู้เชี่ยวชาญ",
+    "pronunciation": "푸치아우찬",
+    "korean": "전문가"
+  },
+  {
+    "thai": "ก่อน",
+    "pronunciation": "꼰",
+    "korean": "전에"
+  },
+  {
+    "thai": "ไมโครเวฟ",
+    "pronunciation": "마이크로웹",
+    "korean": "전자레인지"
+  },
+  {
+    "thai": "สงคราม",
+    "pronunciation": "쏭크람",
+    "korean": "전쟁"
+  },
+  {
+    "thai": "ทั้งหมด",
+    "pronunciation": "탕못",
+    "korean": "전체"
+  },
+  {
+    "thai": "ประเพณี",
+    "pronunciation": "쁘라페니",
+    "korean": "전통"
+  },
+  {
+    "thai": "โทรศัพท์",
+    "pronunciation": "토라삽",
+    "korean": "전화"
+  },
+  {
+    "thai": "วัด",
+    "pronunciation": "왓",
+    "korean": "절(사원)"
+  },
+  {
+    "thai": "ครึ่ง",
+    "pronunciation": "크릉",
+    "korean": "절반"
+  },
+  {
+    "thai": "หนุ่ม",
+    "pronunciation": "눔",
+    "korean": "젊은"
+  },
+  {
+    "thai": "จุด",
+    "pronunciation": "쭛",
+    "korean": "점"
+  },
+  {
+    "thai": "อาหารกลางวัน",
+    "pronunciation": "아한끌라앙완",
+    "korean": "점심"
+  },
+  {
+    "thai": "เสื้อกันหนาว",
+    "pronunciation": "쓰아깐나우",
+    "korean": "점퍼"
+  },
+  {
+    "thai": "จาน",
+    "pronunciation": "잔",
+    "korean": "접시"
+  },
+  {
+    "thai": "ตะเกียบ",
+    "pronunciation": "따끼압",
+    "korean": "젓가락"
+  },
+  {
+    "thai": "จริงๆ",
+    "pronunciation": "찡찡",
+    "korean": "정말"
+  },
+  {
+    "thai": "ข้อมูล",
+    "pronunciation": "컴문",
+    "korean": "정보"
+  },
+  {
+    "thai": "รัฐบาล",
+    "pronunciation": "랏타반",
+    "korean": "정부"
+  },
+  {
+    "thai": "สวน",
+    "pronunciation": "쑤안",
+    "korean": "정원"
+  },
+  {
+    "thai": "เสื้อสูท",
+    "pronunciation": "쓰아쑷",
+    "korean": "정장"
+  },
+  {
+    "thai": "เท่านั้น",
+    "pronunciation": "타오난",
+    "korean": "제한"
+  },
+  {
+    "thai": "เช้า",
+    "pronunciation": "차오",
+    "korean": "조(아침)"
+  },
+  {
+    "thai": "หอย",
+    "pronunciation": "호이",
+    "korean": "조개"
+  },
+  {
+    "thai": "เงื่อนไข",
+    "pronunciation": "응으안카이",
+    "korean": "조건"
+  },
+  {
+    "thai": "วิ่งจ๊อกกิ้ง",
+    "pronunciation": "윙쪽깅",
+    "korean": "조깅"
+  },
+  {
+    "thai": "ระวัง",
+    "pronunciation": "라왕",
+    "korean": "조심하다"
+  },
+  {
+    "thai": "เงียบ",
+    "pronunciation": "응이압",
+    "korean": "조용한"
+  },
+  {
+    "thai": "นักบิน",
+    "pronunciation": "낙빈",
+    "korean": "조종사"
+  },
+  {
+    "thai": "จบ",
+    "pronunciation": "쫍",
+    "korean": "졸업하다"
+  },
+  {
+    "thai": "ชอบ",
+    "pronunciation": "촙",
+    "korean": "좋아하다"
+  },
+  {
+    "thai": "ดี",
+    "pronunciation": "디",
+    "korean": "좋은"
+  },
+  {
+    "thai": "สัปดาห์",
+    "pronunciation": "싸빠다",
+    "korean": "주"
+  },
+  {
+    "thai": "ให้",
+    "pronunciation": "하이",
+    "korean": "주다"
+  },
+  {
+    "thai": "ส่วนใหญ่",
+    "pronunciation": "쑤안야이",
+    "korean": "주로"
+  },
+  {
+    "thai": "สั่งอาหาร",
+    "pronunciation": "쌍아한",
+    "korean": "주문하다"
+  },
+  {
+    "thai": "รอบ",
+    "pronunciation": "롭",
+    "korean": "주변"
+  },
+  {
+    "thai": "ที่อยู่",
+    "pronunciation": "티유",
+    "korean": "주소"
+  },
+  {
+    "thai": "ส้ม",
+    "pronunciation": "쏨",
+    "korean": "주스(오렌지)"
+  },
+  {
+    "thai": "หัวข้อ",
+    "pronunciation": "후아코",
+    "korean": "주제"
+  },
+  {
+    "thai": "ที่จอดรถ",
+    "pronunciation": "티쫏롯",
+    "korean": "주차장"
+  },
+  {
+    "thai": "จอดรถ",
+    "pronunciation": "쫏롯",
+    "korean": "주차하다"
+  },
+  {
+    "thai": "สีส้ม",
+    "pronunciation": "씨쏨",
+    "korean": "주황색"
+  },
+  {
+    "thai": "ตาย",
+    "pronunciation": "따이",
+    "korean": "죽다"
+  },
+  {
+    "thai": "เตรียม",
+    "pronunciation": "뜨리암",
+    "korean": "준비하다"
+  },
+  {
+    "thai": "เส้น",
+    "pronunciation": "쎈",
+    "korean": "줄"
+  },
+  {
+    "thai": "ลด",
+    "pronunciation": "롯",
+    "korean": "줄이다"
+  },
+  {
+    "thai": "กลาง",
+    "pronunciation": "끌라앙",
+    "korean": "중간"
+  },
+  {
+    "thai": "จีน",
+    "pronunciation": "찐",
+    "korean": "중국"
+  },
+  {
+    "thai": "สำคัญ",
+    "pronunciation": "쌈칸",
+    "korean": "중요한"
+  },
+  {
+    "thai": "หนู",
+    "pronunciation": "누",
+    "korean": "쥐"
+  },
+  {
+    "thai": "สนุก",
+    "pronunciation": "싸눅",
+    "korean": "즐거운"
+  },
+  {
+    "thai": "กระเป๋าเงิน",
+    "pronunciation": "끄라빠오응은",
+    "korean": "지갑"
+  },
+  {
+    "thai": "ตอนนี้",
+    "pronunciation": "떤니",
+    "korean": "지금"
+  },
+  {
+    "thai": "ผ่าน",
+    "pronunciation": "판",
+    "korean": "지나다"
+  },
+  {
+    "thai": "แผนที่",
+    "pronunciation": "팬티",
+    "korean": "지도"
+  },
+  {
+    "thai": "เบื่อ",
+    "pronunciation": "브아",
+    "korean": "지루한"
+  },
+  {
+    "thai": "หลังคา",
+    "pronunciation": "랑카",
+    "korean": "지붕"
+  },
+  {
+    "thai": "ภูมิภาค",
+    "pronunciation": "푸미팍",
+    "korean": "지역"
+  },
+  {
+    "thai": "ลบ",
+    "pronunciation": "롭",
+    "korean": "지우다"
+  },
+  {
+    "thai": "แผ่นดินไหว",
+    "pronunciation": "팬딘와이",
+    "korean": "지진"
+  },
+  {
+    "thai": "แผ่นดินไหว",
+    "pronunciation": "팬딘와이",
+    "korean": "지진(자연)"
+  },
+  {
+    "thai": "ส่วนล่าง",
+    "pronunciation": "쑤안랑",
+    "korean": "지하"
+  },
+  {
+    "thai": "รถไฟใต้ดิน",
+    "pronunciation": "롯파이따이딘",
+    "korean": "지하철"
+  },
+  {
+    "thai": "ตำแหน่ง",
+    "pronunciation": "땀내앙",
+    "korean": "직업(위치)"
+  },
+  {
+    "thai": "พนักงาน",
+    "pronunciation": "파낙응안",
+    "korean": "직원"
+  },
+  {
+    "thai": "ตรง",
+    "pronunciation": "뜨롱",
+    "korean": "직접"
+  },
+  {
+    "thai": "จริง",
+    "pronunciation": "찡",
+    "korean": "진짜"
+  },
+  {
+    "thai": "คุณภาพ",
+    "pronunciation": "쿤나팝",
+    "korean": "질"
+  },
+  {
+    "thai": "คำถาม",
+    "pronunciation": "캄탐",
+    "korean": "질문"
+  },
+  {
+    "thai": "โรค",
+    "pronunciation": "록",
+    "korean": "질병"
+  },
+  {
+    "thai": "อิจฉา",
+    "pronunciation": "잇차",
+    "korean": "질투"
+  },
+  {
+    "thai": "สัตว์",
+    "pronunciation": "쌋",
+    "korean": "짐승"
+  },
+  {
+    "thai": "บ้าน",
+    "pronunciation": "반",
+    "korean": "집"
+  },
+  {
+    "thai": "เค็ม",
+    "pronunciation": "켐",
+    "korean": "짠"
+  },
+  {
+    "thai": "สั้น",
+    "pronunciation": "쌴",
+    "korean": "짧은"
+  },
+  {
+    "thai": "ด้าน",
+    "pronunciation": "단",
+    "korean": "쪽"
+  },
+  {
+    "thai": "รถ",
+    "pronunciation": "롯",
+    "korean": "차"
+  },
+  {
+    "thai": "ชา",
+    "pronunciation": "차",
+    "korean": "차(음료)"
+  },
+  {
+    "thai": "เย็น",
+    "pronunciation": "옌",
+    "korean": "차가운"
+  },
+  {
+    "thai": "เตะ",
+    "pronunciation": "떼",
+    "korean": "차다"
+  },
+  {
+    "thai": "แตกต่าง",
+    "pronunciation": "때악땅",
+    "korean": "차이"
+  },
+  {
+    "thai": "เต็ม",
+    "pronunciation": "뗌",
+    "korean": "찬"
+  },
+  {
+    "thai": "ค้นหา",
+    "pronunciation": "콘하",
+    "korean": "찾다"
+  },
+  {
+    "thai": "หนังสือ",
+    "pronunciation": "낭쓰",
+    "korean": "책"
+  },
+  {
+    "thai": "โต๊ะ",
+    "pronunciation": "또",
+    "korean": "책상"
+  },
+  {
+    "thai": "ชั้นหนังสือ",
+    "pronunciation": "찬낭쓰",
+    "korean": "책장"
+  },
+  {
+    "thai": "ครั้งแรก",
+    "pronunciation": "크랑래악",
+    "korean": "처음"
+  },
+  {
+    "thai": "พัน",
+    "pronunciation": "판",
+    "korean": "천"
+  },
+  {
+    "thai": "ท้องฟ้า",
+    "pronunciation": "통파",
+    "korean": "천장(하늘)"
+  },
+  {
+    "thai": "ช้า",
+    "pronunciation": "차",
+    "korean": "천천히"
+  },
+  {
+    "thai": "เหล็ก",
+    "pronunciation": "렉",
+    "korean": "철"
+  },
+  {
+    "thai": "ยีนส์",
+    "pronunciation": "인쓰",
+    "korean": "청바지"
+  },
+  {
+    "thai": "สะอาด",
+    "pronunciation": "싸앗",
+    "korean": "청소하다"
+  },
+  {
+    "thai": "ร่างกาย",
+    "pronunciation": "랑까이",
+    "korean": "체"
+  },
+  {
+    "thai": "วินาที",
+    "pronunciation": "위나티",
+    "korean": "초"
+  },
+  {
+    "thai": "เชิญ",
+    "pronunciation": "츤",
+    "korean": "초대하다"
+  },
+  {
+    "thai": "สีเขียว",
+    "pronunciation": "씨키아우",
+    "korean": "초록색"
+  },
+  {
+    "thai": "ช็อกโกแลต",
+    "pronunciation": "촉꼬랫",
+    "korean": "초콜릿"
+  },
+  {
+    "thai": "เทียน",
+    "pronunciation": "티안",
+    "korean": "촛불"
+  },
+  {
+    "thai": "มากที่สุด",
+    "pronunciation": "막티쑷",
+    "korean": "최고의"
+  },
+  {
+    "thai": "เร็วๆนี้",
+    "pronunciation": "레우레우니",
+    "korean": "최근"
+  },
+  {
+    "thai": "ที่ดี",
+    "pronunciation": "티디",
+    "korean": "최선의"
+  },
+  {
+    "thai": "เพิ่ม",
+    "pronunciation": "쁨",
+    "korean": "추가하다"
+  },
+  {
+    "thai": "ความทรงจำ",
+    "pronunciation": "콤쏭짬",
+    "korean": "추억"
+  },
+  {
+    "thai": "หนาว",
+    "pronunciation": "나우",
+    "korean": "추운"
+  },
+  {
+    "thai": "แนะนำ",
+    "pronunciation": "내남",
+    "korean": "추천하다"
+  },
+  {
+    "thai": "ฟุตบอล",
+    "pronunciation": "풋본",
+    "korean": "축구"
+  },
+  {
+    "thai": "ออก",
+    "pronunciation": "옥",
+    "korean": "출발하다"
+  },
+  {
+    "thai": "เต้นรำ",
+    "pronunciation": "떤람",
+    "korean": "춤"
+  },
+  {
+    "thai": "ที่ชาร์จ",
+    "pronunciation": "티찻",
+    "korean": "충전기"
+  },
+  {
+    "thai": "ชั้น",
+    "pronunciation": "찬",
+    "korean": "층"
+  },
+  {
+    "thai": "กระโปรง",
+    "pronunciation": "끄라쁘롱",
+    "korean": "치마"
+  },
+  {
+    "thai": "งูเห่า",
+    "pronunciation": "응우하오",
+    "korean": "치명적인(코브라)"
+  },
+  {
+    "thai": "ฟัน",
+    "pronunciation": "판",
+    "korean": "치아"
+  },
+  {
+    "thai": "ยาสีฟัน",
+    "pronunciation": "야씨판",
+    "korean": "치약"
+  },
+  {
+    "thai": "เพื่อน",
+    "pronunciation": "프안",
+    "korean": "친구"
+  },
+  {
+    "thai": "ใจดี",
+    "pronunciation": "짜이디",
+    "korean": "친절한"
+  },
+  {
+    "thai": "เจ็ด",
+    "pronunciation": "쩻",
+    "korean": "칠"
+  },
+  {
+    "thai": "กระดาน",
+    "pronunciation": "끄라단",
+    "korean": "칠판"
+  },
+  {
+    "thai": "เตียง",
+    "pronunciation": "띠앙",
+    "korean": "침대"
+  },
+  {
+    "thai": "ผ้าปูที่นอน",
+    "pronunciation": "파뿌티논",
+    "korean": "침대시트"
+  },
+  {
+    "thai": "ห้องนอน",
+    "pronunciation": "홍논",
+    "korean": "침실"
+  },
+  {
+    "thai": "แปรงสีฟัน",
+    "pronunciation": "쁘래앙씨판",
+    "korean": "칫솔"
+  },
+  {
+    "thai": "ชมเชย",
+    "pronunciation": "촘츠이",
+    "korean": "칭찬하다"
+  },
+  {
+    "thai": "บัตร",
+    "pronunciation": "밧",
+    "korean": "카드"
+  },
+  {
+    "thai": "กล้อง",
+    "pronunciation": "끌롱",
+    "korean": "카메라"
+  },
+  {
+    "thai": "คาเฟ่",
+    "pronunciation": "카페",
+    "korean": "카페"
+  },
+  {
+    "thai": "พรม",
+    "pronunciation": "프롬",
+    "korean": "카펫"
+  },
+  {
+    "thai": "มีด",
+    "pronunciation": "밋",
+    "korean": "칼"
+  },
+  {
+    "thai": "ผ้าม่าน",
+    "pronunciation": "파만",
+    "korean": "커튼"
+  },
+  {
+    "thai": "คอมพิวเตอร์",
+    "pronunciation": "컴피우떠",
+    "korean": "컴퓨터"
+  },
+  {
+    "thai": "แก้ว",
+    "pronunciation": "깨우",
+    "korean": "컵"
+  },
+  {
+    "thai": "มะพร้าว",
+    "pronunciation": "마프라우",
+    "korean": "코코넛"
+  },
+  {
+    "thai": "ถั่ว",
+    "pronunciation": "투아",
+    "korean": "콩"
+  },
+  {
+    "thai": "ใหญ่",
+    "pronunciation": "야이",
+    "korean": "큰"
+  },
+  {
+    "thai": "ส่วนสูง",
+    "pronunciation": "쑤안쑹",
+    "korean": "키"
+  },
+  {
+    "thai": "แป้นพิมพ์",
+    "pronunciation": "뺀핌",
+    "korean": "키보드"
+  },
+  {
+    "thai": "พิมพ์",
+    "pronunciation": "핌",
+    "korean": "타이핑하다"
+  },
+  {
+    "thai": "ปิงปอง",
+    "pronunciation": "삥뽕",
+    "korean": "탁구"
+  },
+  {
+    "thai": "เกิด",
+    "pronunciation": "끄읻",
+    "korean": "태어나다"
+  },
+  {
+    "thai": "แท็กซี่",
+    "pronunciation": "택씨",
+    "korean": "택시"
+  },
+  {
+    "thai": "อุโมงค์",
+    "pronunciation": "우몽",
+    "korean": "터널"
+  },
+  {
+    "thai": "เทนนิส",
+    "pronunciation": "텐닛",
+    "korean": "테니스"
+  },
+  {
+    "thai": "โทรทัศน์",
+    "pronunciation": "토라탓",
+    "korean": "텔레비전"
+  },
+  {
+    "thai": "กระต่าย",
+    "pronunciation": "끄라따이",
+    "korean": "토끼"
+  },
+  {
+    "thai": "มะเขือเทศ",
+    "pronunciation": "마크으아텟",
+    "korean": "토마토"
+  },
+  {
+    "thai": "ดิน",
+    "pronunciation": "딘",
+    "korean": "토양"
+  },
+  {
+    "thai": "วันเสาร์",
+    "pronunciation": "완싸오",
+    "korean": "토요일"
+  },
+  {
+    "thai": "พิเศษ",
+    "pronunciation": "피셋",
+    "korean": "특별한"
+  },
+  {
+    "thai": "เสื้อยืด",
+    "pronunciation": "쓰아윳",
+    "korean": "티셔츠"
+  },
+  {
+    "thai": "ทีม",
+    "pronunciation": "팀",
+    "korean": "팀"
+  },
+  {
+    "thai": "สีน้ำเงิน",
+    "pronunciation": "씨남응은",
+    "korean": "파란색"
+  },
+  {
+    "thai": "สับปะรด",
+    "pronunciation": "쌉빠롯",
+    "korean": "파인애플"
+  },
+  {
+    "thai": "มะละกอ",
+    "pronunciation": "말라꼬",
+    "korean": "파파야"
+  },
+  {
+    "thai": "แขน",
+    "pronunciation": "캔",
+    "korean": "팔"
+  },
+  {
+    "thai": "แปด",
+    "pronunciation": "쁻",
+    "korean": "팔(숫자)"
+  },
+  {
+    "thai": "ขาย",
+    "pronunciation": "카이",
+    "korean": "팔다"
+  },
+  {
+    "thai": "พัดลม",
+    "pronunciation": "팟롬",
+    "korean": "팬(선풍기)"
+  },
+  {
+    "thai": "สะดวก",
+    "pronunciation": "싸두악",
+    "korean": "편리한"
+  },
+  {
+    "thai": "สบายดี",
+    "pronunciation": "싸바이디",
+    "korean": "편안한"
+  },
+  {
+    "thai": "ร้านสะดวกซื้อ",
+    "pronunciation": "란싸두악쓰",
+    "korean": "편의점"
+  },
+  {
+    "thai": "จดหมาย",
+    "pronunciation": "쫏마이",
+    "korean": "편지"
+  },
+  {
+    "thai": "ปกติ",
+    "pronunciation": "뽁까띠",
+    "korean": "평상시"
+  },
+  {
+    "thai": "สงบ",
+    "pronunciation": "싸롭",
+    "korean": "평온한"
+  },
+  {
+    "thai": "แบน",
+    "pronunciation": "밴",
+    "korean": "평평한"
+  },
+  {
+    "thai": "สันติภาพ",
+    "pronunciation": "쌴띠팝",
+    "korean": "평화"
+  },
+  {
+    "thai": "องุ่น",
+    "pronunciation": "아눈",
+    "korean": "포도"
+  },
+  {
+    "thai": "องุ่น",
+    "pronunciation": "아눈",
+    "korean": "포도(과일)"
+  },
+  {
+    "thai": "ส้อม",
+    "pronunciation": "쏨",
+    "korean": "포크"
+  },
+  {
+    "thai": "รวม",
+    "pronunciation": "루암",
+    "korean": "포함하다"
+  },
+  {
+    "thai": "น้ำตก",
+    "pronunciation": "남똑",
+    "korean": "폭포"
+  },
+  {
+    "thai": "พายุ",
+    "pronunciation": "파유",
+    "korean": "폭풍"
+  },
+  {
+    "thai": "ตั๋ว",
+    "pronunciation": "뚜아",
+    "korean": "표"
+  },
+  {
+    "thai": "ป้าย",
+    "pronunciation": "빠이",
+    "korean": "표지판"
+  },
+  {
+    "thai": "หญ้า",
+    "pronunciation": "야",
+    "korean": "풀"
+  },
+  {
+    "thai": "สระว่ายน้ำ",
+    "pronunciation": "싸라와이남",
+    "korean": "풀(수영장)"
+  },
+  {
+    "thai": "คุณภาพ",
+    "pronunciation": "쿤나팝",
+    "korean": "품질"
+  },
+  {
+    "thai": "กระทะ",
+    "pronunciation": "끄라타",
+    "korean": "프라이팬"
+  },
+  {
+    "thai": "โปรแกรม",
+    "pronunciation": "쁘로끄램",
+    "korean": "프로그램"
+  },
+  {
+    "thai": "เครื่องพิมพ์",
+    "pronunciation": "크르앙핌",
+    "korean": "프린터"
+  },
+  {
+    "thai": "ปลั๊ก",
+    "pronunciation": "쁠락",
+    "korean": "플러그"
+  },
+  {
+    "thai": "เลือด",
+    "pronunciation": "르앗",
+    "korean": "피"
+  },
+  {
+    "thai": "เหนื่อย",
+    "pronunciation": "느아이",
+    "korean": "피곤한"
+  },
+  {
+    "thai": "ผิว",
+    "pronunciation": "피우",
+    "korean": "피부"
+  },
+  {
+    "thai": "เปียโน",
+    "pronunciation": "삐아노",
+    "korean": "피아노"
+  },
+  {
+    "thai": "พิซซ่า",
+    "pronunciation": "핏싸",
+    "korean": "피자"
+  },
+  {
+    "thai": "หลีกเลี่ยง",
+    "pronunciation": "릭리앙",
+    "korean": "피하다"
+  },
+  {
+    "thai": "ปากกา",
+    "pronunciation": "빡까",
+    "korean": "필기구(펜)"
+  },
+  {
+    "thai": "จำเป็น",
+    "pronunciation": "짬뻰",
+    "korean": "필요한"
+  },
+  {
+    "thai": "หนึ่ง",
+    "pronunciation": "능",
+    "korean": "하나"
+  },
+  {
+    "thai": "ท้องฟ้า",
+    "pronunciation": "통파",
+    "korean": "하늘"
+  },
+  {
+    "thai": "ทำ",
+    "pronunciation": "탐",
+    "korean": "하다"
+  },
+  {
+    "thai": "ฮาร์ท",
+    "pronunciation": "핫",
+    "korean": "하트"
+  },
+  {
+    "thai": "โรงเรียน",
+    "pronunciation": "롱리안",
+    "korean": "학교"
+  },
+  {
+    "thai": "นักเรียน",
+    "pronunciation": "낙리안",
+    "korean": "학생"
+  },
+  {
+    "thai": "ปี",
+    "pronunciation": "삐",
+    "korean": "한(해)"
+  },
+  {
+    "thai": "ว่าง",
+    "pronunciation": "왕",
+    "korean": "한가한"
+  },
+  {
+    "thai": "เกาหลี",
+    "pronunciation": "까올리",
+    "korean": "한국"
+  },
+  {
+    "thai": "คุณยาย",
+    "pronunciation": "쿤야이",
+    "korean": "할머니"
+  },
+  {
+    "thai": "คุณปู่",
+    "pronunciation": "쿤뿌",
+    "korean": "할아버지"
+  },
+  {
+    "thai": "ส่วนลด",
+    "pronunciation": "쑤안롯",
+    "korean": "할인"
+  },
+  {
+    "thai": "ร่วม",
+    "pronunciation": "루암",
+    "korean": "함께"
+  },
+  {
+    "thai": "ท่าเรือ",
+    "pronunciation": "타르아",
+    "korean": "항구"
+  },
+  {
+    "thai": "ท่าเรือ",
+    "pronunciation": "타르아",
+    "korean": "항구(선착장)"
+  },
+  {
+    "thai": "หมวก",
+    "pronunciation": "무악",
+    "korean": "항모(모자)"
+  },
+  {
+    "thai": "เสมอ",
+    "pronunciation": "싸머",
+    "korean": "항상"
+  },
+  {
+    "thai": "ทะเล",
+    "pronunciation": "탈레",
+    "korean": "해"
+  },
+  {
+    "thai": "ดอกทานตะวัน",
+    "pronunciation": "덕탄따완",
+    "korean": "해바라기"
+  },
+  {
+    "thai": "ชายหาด",
+    "pronunciation": "차이핫",
+    "korean": "해변"
+  },
+  {
+    "thai": "ต่างประเทศ",
+    "pronunciation": "땅쁘라텟",
+    "korean": "해외"
+  },
+  {
+    "thai": "สาหร่าย",
+    "pronunciation": "싸라이",
+    "korean": "해조류"
+  },
+  {
+    "thai": "แฮมเบอร์เกอร์",
+    "pronunciation": "햄버거",
+    "korean": "햄버거"
+  },
+  {
+    "thai": "กระทำ",
+    "pronunciation": "끄라탐",
+    "korean": "행동하다"
+  },
+  {
+    "thai": "ความสุข",
+    "pronunciation": "콤쑥",
+    "korean": "행복"
+  },
+  {
+    "thai": "เหตุการณ์",
+    "pronunciation": "헷깐",
+    "korean": "행사"
+  },
+  {
+    "thai": "น้ำหอม",
+    "pronunciation": "남홈",
+    "korean": "향수"
+  },
+  {
+    "thai": "อนุญาต",
+    "pronunciation": "아누얏",
+    "korean": "허락하다"
+  },
+  {
+    "thai": "เข็มขัด",
+    "pronunciation": "켐캇",
+    "korean": "허리띠"
+  },
+  {
+    "thai": "ลิ้น",
+    "pronunciation": "린",
+    "korean": "혀"
+  },
+  {
+    "thai": "เงินสด",
+    "pronunciation": "응은쏫",
+    "korean": "현금"
+  },
+  {
+    "thai": "ปัจจุบัน",
+    "pronunciation": "빳쭈반",
+    "korean": "현재"
+  },
+  {
+    "thai": "พี่ชาย",
+    "pronunciation": "피차이",
+    "korean": "형"
+  },
+  {
+    "thai": "เสือ",
+    "pronunciation": "쓰아",
+    "korean": "호랑이"
+  },
+  {
+    "thai": "ทะเลสาบ",
+    "pronunciation": "탈레삽",
+    "korean": "호수"
+  },
+  {
+    "thai": "โรงแรม",
+    "pronunciation": "롱램",
+    "korean": "호텔"
+  },
+  {
+    "thai": "คนเดียว",
+    "pronunciation": "콘디아우",
+    "korean": "혼자"
+  },
+  {
+    "thai": "ดอกไม้",
+    "pronunciation": "덕마이",
+    "korean": "화"
+  },
+  {
+    "thai": "โกรธ",
+    "pronunciation": "끄롯",
+    "korean": "화난"
+  },
+  {
+    "thai": "หน้าจอ",
+    "pronunciation": "나쫘",
+    "korean": "화면"
+  },
+  {
+    "thai": "ลูกศร",
+    "pronunciation": "룩쏜",
+    "korean": "화살"
+  },
+  {
+    "thai": "วันอังคาร",
+    "pronunciation": "완앙칸",
+    "korean": "화요일"
+  },
+  {
+    "thai": "ห้องน้ำ",
+    "pronunciation": "홍남",
+    "korean": "화장실"
+  },
+  {
+    "thai": "เครื่องสำอาง",
+    "pronunciation": "크르앙쌈앙",
+    "korean": "화장품"
+  },
+  {
+    "thai": "สิ่งแวดล้อม",
+    "pronunciation": "씽웻롬",
+    "korean": "환경"
+  },
+  {
+    "thai": "กลับ",
+    "pronunciation": "끌랍",
+    "korean": "환불(돌아가기)"
+  },
+  {
+    "thai": "ยินดี",
+    "pronunciation": "인디",
+    "korean": "환영하다"
+  },
+  {
+    "thai": "ป่วย",
+    "pronunciation": "뿌아이",
+    "korean": "환자(아픈 사람)"
+  },
+  {
+    "thai": "กิจกรรม",
+    "pronunciation": "낏짜깜",
+    "korean": "활동"
+  },
+  {
+    "thai": "บริษัท",
+    "pronunciation": "보리삿",
+    "korean": "회사"
+  },
+  {
+    "thai": "สีเทา",
+    "pronunciation": "씨타오",
+    "korean": "회색"
+  },
+  {
+    "thai": "สมาชิก",
+    "pronunciation": "싸마칙",
+    "korean": "회원"
+  },
+  {
+    "thai": "ประชุม",
+    "pronunciation": "쁘라춤",
+    "korean": "회의"
+  },
+  {
+    "thai": "ทางม้าลาย",
+    "pronunciation": "탕마라이",
+    "korean": "횡단보도"
+  },
+  {
+    "thai": "มีประสิทธิภาพ",
+    "pronunciation": "미쁘라싯티팝",
+    "korean": "효과적인"
+  },
+  {
+    "thai": "โทรศัพท์มือถือ",
+    "pronunciation": "토라삽므틔",
+    "korean": "휴대전화"
+  },
+  {
+    "thai": "วันหยุด",
+    "pronunciation": "완윳",
+    "korean": "휴일"
+  }
+]

@@ -1,0 +1,5002 @@
+[
+  {
+    "russian": "октябрь",
+    "pronunciation": "악찌야브리",
+    "korean": "10월"
+  },
+  {
+    "russian": "ноябрь",
+    "pronunciation": "나야브리",
+    "korean": "11월"
+  },
+  {
+    "russian": "декабрь",
+    "pronunciation": "지까브리",
+    "korean": "12월"
+  },
+  {
+    "russian": "январь",
+    "pronunciation": "인바리",
+    "korean": "1월"
+  },
+  {
+    "russian": "февраль",
+    "pronunciation": "피브랄",
+    "korean": "2월"
+  },
+  {
+    "russian": "март",
+    "pronunciation": "마르뜨",
+    "korean": "3월"
+  },
+  {
+    "russian": "апрель",
+    "pronunciation": "아쁘렐",
+    "korean": "4월"
+  },
+  {
+    "russian": "май",
+    "pronunciation": "마이",
+    "korean": "5월"
+  },
+  {
+    "russian": "июнь",
+    "pronunciation": "이윤",
+    "korean": "6월"
+  },
+  {
+    "russian": "июль",
+    "pronunciation": "이율",
+    "korean": "7월"
+  },
+  {
+    "russian": "август",
+    "pronunciation": "아프구스뜨",
+    "korean": "8월"
+  },
+  {
+    "russian": "сентябрь",
+    "pronunciation": "씬찌야브리",
+    "korean": "9월"
+  },
+  {
+    "russian": "цена",
+    "pronunciation": "쩨나",
+    "korean": "가격"
+  },
+  {
+    "russian": "мебель",
+    "pronunciation": "묘빌",
+    "korean": "가구"
+  },
+  {
+    "russian": "близкий",
+    "pronunciation": "블리스끼",
+    "korean": "가까운"
+  },
+  {
+    "russian": "бедный",
+    "pronunciation": "볘드늬",
+    "korean": "가난한"
+  },
+  {
+    "russian": "возможный",
+    "pronunciation": "바즈모쥐늬",
+    "korean": "가능한"
+  },
+  {
+    "russian": "идти",
+    "pronunciation": "잇찌",
+    "korean": "가다"
+  },
+  {
+    "russian": "полный",
+    "pronunciation": "뽈늬",
+    "korean": "가득 찬"
+  },
+  {
+    "russian": "учить",
+    "pronunciation": "우치찌",
+    "korean": "가르치다"
+  },
+  {
+    "russian": "обучение",
+    "pronunciation": "아부체니예",
+    "korean": "가르침"
+  },
+  {
+    "russian": "маска",
+    "pronunciation": "마스까",
+    "korean": "가면"
+  },
+  {
+    "russian": "засуха",
+    "pronunciation": "자수하",
+    "korean": "가뭄"
+  },
+  {
+    "russian": "сумка",
+    "pronunciation": "숨까",
+    "korean": "가방"
+  },
+  {
+    "russian": "портфель",
+    "pronunciation": "빠르뜨펠",
+    "korean": "가방(학교)"
+  },
+  {
+    "russian": "лёгкий",
+    "pronunciation": "룔흐끼",
+    "korean": "가벼운"
+  },
+  {
+    "russian": "певец",
+    "pronunciation": "삐볘쯔",
+    "korean": "가수"
+  },
+  {
+    "russian": "газ",
+    "pronunciation": "가스",
+    "korean": "가스"
+  },
+  {
+    "russian": "плита",
+    "pronunciation": "쁠리따",
+    "korean": "가스레인지"
+  },
+  {
+    "russian": "грудь",
+    "pronunciation": "그루찌",
+    "korean": "가슴"
+  },
+  {
+    "russian": "средний",
+    "pronunciation": "스레드니",
+    "korean": "가운데의"
+  },
+  {
+    "russian": "ножницы",
+    "pronunciation": "노쥐늬찌",
+    "korean": "가위"
+  },
+  {
+    "russian": "осень",
+    "pronunciation": "오씬",
+    "korean": "가을"
+  },
+  {
+    "russian": "наиболее",
+    "pronunciation": "나이볼례",
+    "korean": "가장"
+  },
+  {
+    "russian": "брать",
+    "pronunciation": "브라찌",
+    "korean": "가져가다"
+  },
+  {
+    "russian": "приносить",
+    "pronunciation": "쁘리나시찌",
+    "korean": "가져오다"
+  },
+  {
+    "russian": "семья",
+    "pronunciation": "씨미야",
+    "korean": "가족"
+  },
+  {
+    "russian": "кожа",
+    "pronunciation": "꼬자",
+    "korean": "가죽"
+  },
+  {
+    "russian": "баклажан",
+    "pronunciation": "바끌라잔",
+    "korean": "가지(채소)"
+  },
+  {
+    "russian": "ценность",
+    "pronunciation": "쩬나스찌",
+    "korean": "가치"
+  },
+  {
+    "russian": "медсестра",
+    "pronunciation": "밋씨스뜨라",
+    "korean": "간호사"
+  },
+  {
+    "russian": "спасибо",
+    "pronunciation": "스빠씨바",
+    "korean": "감사합니다"
+  },
+  {
+    "russian": "картофель",
+    "pronunciation": "까르또펠",
+    "korean": "감자"
+  },
+  {
+    "russian": "восхищение",
+    "pronunciation": "바스히셰니예",
+    "korean": "감탄"
+  },
+  {
+    "russian": "река",
+    "pronunciation": "리까",
+    "korean": "강"
+  },
+  {
+    "russian": "собака",
+    "pronunciation": "싸바까",
+    "korean": "강아지"
+  },
+  {
+    "russian": "лекция",
+    "pronunciation": "렉찌야",
+    "korean": "강의"
+  },
+  {
+    "russian": "сильный",
+    "pronunciation": "씰늬",
+    "korean": "강한"
+  },
+  {
+    "russian": "одинаковый",
+    "pronunciation": "아지나꼬븨",
+    "korean": "같은"
+  },
+  {
+    "russian": "вместе",
+    "pronunciation": "브메스쩨",
+    "korean": "같이"
+  },
+  {
+    "russian": "лягушка",
+    "pronunciation": "랴구쉬까",
+    "korean": "개구리"
+  },
+  {
+    "russian": "муравей",
+    "pronunciation": "무라볘이",
+    "korean": "개미"
+  },
+  {
+    "russian": "там",
+    "pronunciation": "땀",
+    "korean": "거기"
+  },
+  {
+    "russian": "гигантский",
+    "pronunciation": "기간쯔끼",
+    "korean": "거대한"
+  },
+  {
+    "russian": "расстояние",
+    "pronunciation": "라스따야니예",
+    "korean": "거리"
+  },
+  {
+    "russian": "паук",
+    "pronunciation": "빠욱",
+    "korean": "거미"
+  },
+  {
+    "russian": "черепаха",
+    "pronunciation": "치리빠하",
+    "korean": "거북이"
+  },
+  {
+    "russian": "зеркало",
+    "pronunciation": "지르깔라",
+    "korean": "거울"
+  },
+  {
+    "russian": "почти",
+    "pronunciation": "빠치찌",
+    "korean": "거의"
+  },
+  {
+    "russian": "ложь",
+    "pronunciation": "로쉬",
+    "korean": "거짓말"
+  },
+  {
+    "russian": "здоровье",
+    "pronunciation": "즈다로비예",
+    "korean": "건강"
+  },
+  {
+    "russian": "здоровый",
+    "pronunciation": "즈다로븨",
+    "korean": "건강한"
+  },
+  {
+    "russian": "переходить",
+    "pronunciation": "삐리하지찌",
+    "korean": "건너다"
+  },
+  {
+    "russian": "здание",
+    "pronunciation": "즈다니예",
+    "korean": "건물"
+  },
+  {
+    "russian": "строительство",
+    "pronunciation": "스뜨로이쩰스뜨바",
+    "korean": "건설"
+  },
+  {
+    "russian": "сухой",
+    "pronunciation": "수호이",
+    "korean": "건조한"
+  },
+  {
+    "russian": "ходить",
+    "pronunciation": "하지찌",
+    "korean": "걷다"
+  },
+  {
+    "russian": "чёрный",
+    "pronunciation": "쵸르늬",
+    "korean": "검은색"
+  },
+  {
+    "russian": "вещь",
+    "pronunciation": "볘쉬",
+    "korean": "것"
+  },
+  {
+    "russian": "краб",
+    "pronunciation": "크랍",
+    "korean": "게"
+  },
+  {
+    "russian": "ленивый",
+    "pronunciation": "리니븨",
+    "korean": "게으른"
+  },
+  {
+    "russian": "игра",
+    "pronunciation": "이그라",
+    "korean": "게임"
+  },
+  {
+    "russian": "зима",
+    "pronunciation": "지마",
+    "korean": "겨울"
+  },
+  {
+    "russian": "орех",
+    "pronunciation": "아레흐",
+    "korean": "견과류"
+  },
+  {
+    "russian": "результат",
+    "pronunciation": "리줄따뜨",
+    "korean": "결과"
+  },
+  {
+    "russian": "решение",
+    "pronunciation": "리셰니예",
+    "korean": "결정"
+  },
+  {
+    "russian": "брак",
+    "pronunciation": "브라크",
+    "korean": "결혼"
+  },
+  {
+    "russian": "свадьба",
+    "pronunciation": "스바찌바",
+    "korean": "결혼식"
+  },
+  {
+    "russian": "граница",
+    "pronunciation": "그라니짜",
+    "korean": "경계"
+  },
+  {
+    "russian": "соревнование",
+    "pronunciation": "싸리브나바니예",
+    "korean": "경기"
+  },
+  {
+    "russian": "стадион",
+    "pronunciation": "스따지온",
+    "korean": "경기장"
+  },
+  {
+    "russian": "экономика",
+    "pronunciation": "에까노미까",
+    "korean": "경제"
+  },
+  {
+    "russian": "полиция",
+    "pronunciation": "빨리찌야",
+    "korean": "경찰"
+  },
+  {
+    "russian": "пейзаж",
+    "pronunciation": "삐이자쉬",
+    "korean": "경치"
+  },
+  {
+    "russian": "опыт",
+    "pronunciation": "오삐뜨",
+    "korean": "경험"
+  },
+  {
+    "russian": "лестница",
+    "pronunciation": "례스뜨니짜",
+    "korean": "계단"
+  },
+  {
+    "russian": "яйцо",
+    "pronunciation": "이이쪼",
+    "korean": "계란"
+  },
+  {
+    "russian": "счёт",
+    "pronunciation": "쇼뜨",
+    "korean": "계산"
+  },
+  {
+    "russian": "сезон",
+    "pronunciation": "씨존",
+    "korean": "계절"
+  },
+  {
+    "russian": "план",
+    "pronunciation": "쁠란",
+    "korean": "계획"
+  },
+  {
+    "russian": "клиент",
+    "pronunciation": "끌리엔뜨",
+    "korean": "고객"
+  },
+  {
+    "russian": "мясо",
+    "pronunciation": "먀싸",
+    "korean": "고기"
+  },
+  {
+    "russian": "древний",
+    "pronunciation": "드레브니",
+    "korean": "고대의"
+  },
+  {
+    "russian": "одинокий",
+    "pronunciation": "아지노끼",
+    "korean": "고독한"
+  },
+  {
+    "russian": "высокий",
+    "pronunciation": "븨소끼",
+    "korean": "고등학교"
+  },
+  {
+    "russian": "выбирать",
+    "pronunciation": "븨비라찌",
+    "korean": "고르다"
+  },
+  {
+    "russian": "равный",
+    "pronunciation": "라브늬",
+    "korean": "고른"
+  },
+  {
+    "russian": "благодарный",
+    "pronunciation": "블라가다르늬",
+    "korean": "고마운"
+  },
+  {
+    "russian": "резина",
+    "pronunciation": "리지나",
+    "korean": "고무"
+  },
+  {
+    "russian": "кот",
+    "pronunciation": "꼬뜨",
+    "korean": "고양이"
+  },
+  {
+    "russian": "кошка",
+    "pronunciation": "꼬쉬까",
+    "korean": "고양이(암컷)"
+  },
+  {
+    "russian": "тихий",
+    "pronunciation": "찌히",
+    "korean": "고요한"
+  },
+  {
+    "russian": "чинить",
+    "pronunciation": "치니찌",
+    "korean": "고치다"
+  },
+  {
+    "russian": "страдание",
+    "pronunciation": "스뜨라다니예",
+    "korean": "고통"
+  },
+  {
+    "russian": "родина",
+    "pronunciation": "로지나",
+    "korean": "고향"
+  },
+  {
+    "russian": "насекомое",
+    "pronunciation": "나씨꼬마예",
+    "korean": "곤충"
+  },
+  {
+    "russian": "скоро",
+    "pronunciation": "스꼬라",
+    "korean": "곧"
+  },
+  {
+    "russian": "медведь",
+    "pronunciation": "미드볘찌",
+    "korean": "곰"
+  },
+  {
+    "russian": "место",
+    "pronunciation": "메스따",
+    "korean": "곳"
+  },
+  {
+    "russian": "мяч",
+    "pronunciation": "먀치",
+    "korean": "공"
+  },
+  {
+    "russian": "воздух",
+    "pronunciation": "보즈두흐",
+    "korean": "공기"
+  },
+  {
+    "russian": "учёба",
+    "pronunciation": "우쵸바",
+    "korean": "공부"
+  },
+  {
+    "russian": "официальный",
+    "pronunciation": "아피찌알늬",
+    "korean": "공식적인"
+  },
+  {
+    "russian": "парк",
+    "pronunciation": "빠르크",
+    "korean": "공원"
+  },
+  {
+    "russian": "завод",
+    "pronunciation": "자보뜨",
+    "korean": "공장"
+  },
+  {
+    "russian": "бесплатный",
+    "pronunciation": "비스쁠라뜨늬",
+    "korean": "공짜의"
+  },
+  {
+    "russian": "тетрадь",
+    "pronunciation": "찌뜨라찌",
+    "korean": "공책"
+  },
+  {
+    "russian": "общий",
+    "pronunciation": "옵씨",
+    "korean": "공통의"
+  },
+  {
+    "russian": "страх",
+    "pronunciation": "스뜨라흐",
+    "korean": "공포"
+  },
+  {
+    "russian": "аэропорт",
+    "pronunciation": "아에라뽀르뜨",
+    "korean": "공항"
+  },
+  {
+    "russian": "предмет",
+    "pronunciation": "쁘리드멧",
+    "korean": "과목"
+  },
+  {
+    "russian": "фрукт",
+    "pronunciation": "프룩뜨",
+    "korean": "과일"
+  },
+  {
+    "russian": "печенье",
+    "pronunciation": "삐첸니예",
+    "korean": "과자"
+  },
+  {
+    "russian": "наука",
+    "pronunciation": "나우까",
+    "korean": "과학"
+  },
+  {
+    "russian": "отношение",
+    "pronunciation": "아뜨나셰니예",
+    "korean": "관계"
+  },
+  {
+    "russian": "туризм",
+    "pronunciation": "뚜리즘",
+    "korean": "관광"
+  },
+  {
+    "russian": "интерес",
+    "pronunciation": "인찌레스",
+    "korean": "관심"
+  },
+  {
+    "russian": "хорошо",
+    "pronunciation": "하라쇼",
+    "korean": "괜찮은"
+  },
+  {
+    "russian": "учебник",
+    "pronunciation": "우체브닉",
+    "korean": "교과서"
+  },
+  {
+    "russian": "учитель",
+    "pronunciation": "우치쩰",
+    "korean": "교사"
+  },
+  {
+    "russian": "профессор",
+    "pronunciation": "쁘라볘싸르",
+    "korean": "교수"
+  },
+  {
+    "russian": "класс",
+    "pronunciation": "끌라스",
+    "korean": "교실"
+  },
+  {
+    "russian": "образование",
+    "pronunciation": "아브라자바니예",
+    "korean": "교육"
+  },
+  {
+    "russian": "перекрёсток",
+    "pronunciation": "삐리끄료스딱",
+    "korean": "교차로"
+  },
+  {
+    "russian": "обмен",
+    "pronunciation": "아브멘",
+    "korean": "교환"
+  },
+  {
+    "russian": "церковь",
+    "pronunciation": "쩨르꼬비",
+    "korean": "교회"
+  },
+  {
+    "russian": "обувь",
+    "pronunciation": "오부비",
+    "korean": "구두"
+  },
+  {
+    "russian": "облако",
+    "pronunciation": "오블라까",
+    "korean": "구름"
+  },
+  {
+    "russian": "район",
+    "pronunciation": "라이온",
+    "korean": "구역"
+  },
+  {
+    "russian": "структура",
+    "pronunciation": "스뜨룩뚜라",
+    "korean": "구조"
+  },
+  {
+    "russian": "спасение",
+    "pronunciation": "스빠셰니예",
+    "korean": "구조(구출)"
+  },
+  {
+    "russian": "суп",
+    "pronunciation": "숩",
+    "korean": "국"
+  },
+  {
+    "russian": "государство",
+    "pronunciation": "가수다르스뜨바",
+    "korean": "국가"
+  },
+  {
+    "russian": "лапша",
+    "pronunciation": "랍샤",
+    "korean": "국수"
+  },
+  {
+    "russian": "международный",
+    "pronunciation": "미쥐두나로드늬",
+    "korean": "국제적인"
+  },
+  {
+    "russian": "военный",
+    "pronunciation": "바엔늬",
+    "korean": "군인"
+  },
+  {
+    "russian": "толстый",
+    "pronunciation": "똘스띄",
+    "korean": "굵은"
+  },
+  {
+    "russian": "голод",
+    "pronunciation": "골라뜨",
+    "korean": "굶주림"
+  },
+  {
+    "russian": "ухо",
+    "pronunciation": "우하",
+    "korean": "귀"
+  },
+  {
+    "russian": "правило",
+    "pronunciation": "쁘라빌라",
+    "korean": "규칙"
+  },
+  {
+    "russian": "мандарин",
+    "pronunciation": "만다린",
+    "korean": "귤"
+  },
+  {
+    "russian": "потом",
+    "pronunciation": "빠똠",
+    "korean": "그 다음에"
+  },
+  {
+    "russian": "тень",
+    "pronunciation": "쩬",
+    "korean": "그늘"
+  },
+  {
+    "russian": "поэтому",
+    "pronunciation": "빠에따무",
+    "korean": "그래서"
+  },
+  {
+    "russian": "однако",
+    "pronunciation": "아드나꼬",
+    "korean": "그러나"
+  },
+  {
+    "russian": "посуда",
+    "pronunciation": "빠수다",
+    "korean": "그릇"
+  },
+  {
+    "russian": "и",
+    "pronunciation": "이",
+    "korean": "그리고"
+  },
+  {
+    "russian": "тоска",
+    "pronunciation": "따스까",
+    "korean": "그리움"
+  },
+  {
+    "russian": "картина",
+    "pronunciation": "까르찌나",
+    "korean": "그림"
+  },
+  {
+    "russian": "золото",
+    "pronunciation": "졸라따",
+    "korean": "금"
+  },
+  {
+    "russian": "пятница",
+    "pronunciation": "쁘야뜨니짜",
+    "korean": "금요일"
+  },
+  {
+    "russian": "запрет",
+    "pronunciation": "자쁘렛",
+    "korean": "금지"
+  },
+  {
+    "russian": "ждать",
+    "pronunciation": "쥐다찌",
+    "korean": "기다리다"
+  },
+  {
+    "russian": "жирный",
+    "pronunciation": "쥐르늬",
+    "korean": "기름진"
+  },
+  {
+    "russian": "журналист",
+    "pronunciation": "쥐르날리스뜨",
+    "korean": "기자"
+  },
+  {
+    "russian": "поезд",
+    "pronunciation": "뽀이스뜨",
+    "korean": "기차"
+  },
+  {
+    "russian": "кашель",
+    "pronunciation": "까쉴",
+    "korean": "기침"
+  },
+  {
+    "russian": "длинный",
+    "pronunciation": "들린늬",
+    "korean": "긴"
+  },
+  {
+    "russian": "срочный",
+    "pronunciation": "스로치늬",
+    "korean": "긴급한"
+  },
+  {
+    "russian": "улица",
+    "pronunciation": "울리짜",
+    "korean": "길"
+  },
+  {
+    "russian": "дорога",
+    "pronunciation": "다로가",
+    "korean": "길(도로)"
+  },
+  {
+    "russian": "глубокий",
+    "pronunciation": "글루보끼",
+    "korean": "깊은"
+  },
+  {
+    "russian": "чистый",
+    "pronunciation": "치스띄",
+    "korean": "깨끗한"
+  },
+  {
+    "russian": "цветок",
+    "pronunciation": "쯔비똑",
+    "korean": "꽃"
+  },
+  {
+    "russian": "ваза",
+    "pronunciation": "바자",
+    "korean": "꽃병"
+  },
+  {
+    "russian": "мёд",
+    "pronunciation": "묫",
+    "korean": "꿀"
+  },
+  {
+    "russian": "мечта",
+    "pronunciation": "미치따",
+    "korean": "꿈"
+  },
+  {
+    "russian": "конец",
+    "pronunciation": "까녜쯔",
+    "korean": "끝"
+  },
+  {
+    "russian": "я",
+    "pronunciation": "야",
+    "korean": "나"
+  },
+  {
+    "russian": "выходить",
+    "pronunciation": "븨하지찌",
+    "korean": "나가다"
+  },
+  {
+    "russian": "страна",
+    "pronunciation": "스뜨라나",
+    "korean": "나라"
+  },
+  {
+    "russian": "остаток",
+    "pronunciation": "아스따딱",
+    "korean": "나머지"
+  },
+  {
+    "russian": "дерево",
+    "pronunciation": "제레바",
+    "korean": "나무"
+  },
+  {
+    "russian": "бабочка",
+    "pronunciation": "바바치까",
+    "korean": "나비"
+  },
+  {
+    "russian": "плохой",
+    "pronunciation": "쁠라호이",
+    "korean": "나쁜"
+  },
+  {
+    "russian": "возраст",
+    "pronunciation": "보즈라스뜨",
+    "korean": "나이"
+  },
+  {
+    "russian": "нож",
+    "pronunciation": "노쉬",
+    "korean": "나이프"
+  },
+  {
+    "russian": "крыло",
+    "pronunciation": "끄르일로",
+    "korean": "날개"
+  },
+  {
+    "russian": "погода",
+    "pronunciation": "빠고다",
+    "korean": "날씨"
+  },
+  {
+    "russian": "острый",
+    "pronunciation": "오스뜨르이",
+    "korean": "날카로운"
+  },
+  {
+    "russian": "юг",
+    "pronunciation": "유크",
+    "korean": "남"
+  },
+  {
+    "russian": "мужчина",
+    "pronunciation": "무쉬치나",
+    "korean": "남자"
+  },
+  {
+    "russian": "муж",
+    "pronunciation": "무쉬",
+    "korean": "남편"
+  },
+  {
+    "russian": "день",
+    "pronunciation": "젠",
+    "korean": "낮"
+  },
+  {
+    "russian": "низкий",
+    "pronunciation": "니스끼",
+    "korean": "낮은"
+  },
+  {
+    "russian": "завтра",
+    "pronunciation": "자프뜨라",
+    "korean": "내일"
+  },
+  {
+    "russian": "кастрюля",
+    "pronunciation": "까스뜨률랴",
+    "korean": "냄비"
+  },
+  {
+    "russian": "запах",
+    "pronunciation": "자빠흐",
+    "korean": "냄새"
+  },
+  {
+    "russian": "холодильник",
+    "pronunciation": "할라질니크",
+    "korean": "냉장고"
+  },
+  {
+    "russian": "широкий",
+    "pronunciation": "쉬로끼",
+    "korean": "넓은"
+  },
+  {
+    "russian": "да",
+    "pronunciation": "다",
+    "korean": "네"
+  },
+  {
+    "russian": "галстук",
+    "pronunciation": "갈스뚝",
+    "korean": "넥타이"
+  },
+  {
+    "russian": "четыре",
+    "pronunciation": "치띄리",
+    "korean": "넷"
+  },
+  {
+    "russian": "год",
+    "pronunciation": "곳",
+    "korean": "년"
+  },
+  {
+    "russian": "жёлтый",
+    "pronunciation": "졸띄",
+    "korean": "노란색의"
+  },
+  {
+    "russian": "песня",
+    "pronunciation": "뻬스냐",
+    "korean": "노래"
+  },
+  {
+    "russian": "усилие",
+    "pronunciation": "우씰리예",
+    "korean": "노력"
+  },
+  {
+    "russian": "старик",
+    "pronunciation": "스따릭",
+    "korean": "노인"
+  },
+  {
+    "russian": "ноутбук",
+    "pronunciation": "나우뜨북",
+    "korean": "노트북"
+  },
+  {
+    "russian": "зелёный",
+    "pronunciation": "질료늬",
+    "korean": "녹색의"
+  },
+  {
+    "russian": "удивление",
+    "pronunciation": "우지블례니예",
+    "korean": "놀라움"
+  },
+  {
+    "russian": "баскетбол",
+    "pronunciation": "바스킷볼",
+    "korean": "농구"
+  },
+  {
+    "russian": "фермер",
+    "pronunciation": "볘르미르",
+    "korean": "농부"
+  },
+  {
+    "russian": "мозг",
+    "pronunciation": "모스크",
+    "korean": "뇌"
+  },
+  {
+    "russian": "кто",
+    "pronunciation": "크또",
+    "korean": "누구"
+  },
+  {
+    "russian": "сестра",
+    "pronunciation": "씨스뜨라",
+    "korean": "누나/언니"
+  },
+  {
+    "russian": "снег",
+    "pronunciation": "스녝",
+    "korean": "눈(날씨)"
+  },
+  {
+    "russian": "глаз",
+    "pronunciation": "글라스",
+    "korean": "눈(신체)"
+  },
+  {
+    "russian": "слеза",
+    "pronunciation": "슬리자",
+    "korean": "눈물"
+  },
+  {
+    "russian": "бровь",
+    "pronunciation": "브로비",
+    "korean": "눈썹"
+  },
+  {
+    "russian": "лежать",
+    "pronunciation": "리자찌",
+    "korean": "눕다"
+  },
+  {
+    "russian": "новости",
+    "pronunciation": "노바스찌",
+    "korean": "뉴스"
+  },
+  {
+    "russian": "чувствовать",
+    "pronunciation": "추스뜨바바찌",
+    "korean": "느끼다"
+  },
+  {
+    "russian": "медленный",
+    "pronunciation": "미들린늬",
+    "korean": "느린"
+  },
+  {
+    "russian": "волк",
+    "pronunciation": "볼크",
+    "korean": "늑대"
+  },
+  {
+    "russian": "способность",
+    "pronunciation": "스빠소브나스찌",
+    "korean": "능력"
+  },
+  {
+    "russian": "чай",
+    "pronunciation": "차이",
+    "korean": "다"
+  },
+  {
+    "russian": "другой",
+    "pronunciation": "드루고이",
+    "korean": "다른"
+  },
+  {
+    "russian": "нога",
+    "pronunciation": "나가",
+    "korean": "다리"
+  },
+  {
+    "russian": "мост",
+    "pronunciation": "모스뜨",
+    "korean": "다리(구조물)"
+  },
+  {
+    "russian": "утюг",
+    "pronunciation": "우뜩",
+    "korean": "다리미"
+  },
+  {
+    "russian": "пять",
+    "pronunciation": "쁘야찌",
+    "korean": "다섯"
+  },
+  {
+    "russian": "снова",
+    "pronunciation": "스노바",
+    "korean": "다시"
+  },
+  {
+    "russian": "разный",
+    "pronunciation": "라즈늬",
+    "korean": "다양한"
+  },
+  {
+    "russian": "следующий",
+    "pronunciation": "슬레두유씨",
+    "korean": "다음의"
+  },
+  {
+    "russian": "к счастью",
+    "pronunciation": "크 샤스찌유",
+    "korean": "다행히"
+  },
+  {
+    "russian": "этап",
+    "pronunciation": "에따쁘",
+    "korean": "단계"
+  },
+  {
+    "russian": "слово",
+    "pronunciation": "슬로바",
+    "korean": "단어"
+  },
+  {
+    "russian": "группа",
+    "pronunciation": "그루빠",
+    "korean": "단체"
+  },
+  {
+    "russian": "кнопка",
+    "pronunciation": "크노쁘까",
+    "korean": "단추"
+  },
+  {
+    "russian": "закрывать",
+    "pronunciation": "자끄르이바찌",
+    "korean": "닫다"
+  },
+  {
+    "russian": "луна",
+    "pronunciation": "루나",
+    "korean": "달"
+  },
+  {
+    "russian": "бег",
+    "pronunciation": "벡",
+    "korean": "달리기"
+  },
+  {
+    "russian": "сладкий",
+    "pronunciation": "슬라뜨끼",
+    "korean": "달콤한"
+  },
+  {
+    "russian": "курица",
+    "pronunciation": "꾸리짜",
+    "korean": "닭"
+  },
+  {
+    "russian": "ответ",
+    "pronunciation": "아뜨볘뜨",
+    "korean": "답"
+  },
+  {
+    "russian": "морковь",
+    "pronunciation": "마르꼬비",
+    "korean": "당근"
+  },
+  {
+    "russian": "бамбук",
+    "pronunciation": "밤북",
+    "korean": "대나무"
+  },
+  {
+    "russian": "большой",
+    "pronunciation": "발쇼이",
+    "korean": "대단한"
+  },
+  {
+    "russian": "отвечать",
+    "pronunciation": "아뜨비차찌",
+    "korean": "대답하다"
+  },
+  {
+    "russian": "приблизительно",
+    "pronunciation": "쁘리블리지쩰나",
+    "korean": "대략"
+  },
+  {
+    "russian": "посольство",
+    "pronunciation": "빠솔스뜨바",
+    "korean": "대사관"
+  },
+  {
+    "russian": "вместо",
+    "pronunciation": "브메스따",
+    "korean": "대신"
+  },
+  {
+    "russian": "океан",
+    "pronunciation": "아끼안",
+    "korean": "대양"
+  },
+  {
+    "russian": "президент",
+    "pronunciation": "쁘리지뎬뜨",
+    "korean": "대통령"
+  },
+  {
+    "russian": "представитель",
+    "pronunciation": "쁘리드스따비쩰",
+    "korean": "대표"
+  },
+  {
+    "russian": "университет",
+    "pronunciation": "우니비르씨쩨뜨",
+    "korean": "대학교"
+  },
+  {
+    "russian": "разговор",
+    "pronunciation": "라즈가보르",
+    "korean": "대화"
+  },
+  {
+    "russian": "ещё",
+    "pronunciation": "이쇼",
+    "korean": "더"
+  },
+  {
+    "russian": "грязный",
+    "pronunciation": "그랴즈늬",
+    "korean": "더러운"
+  },
+  {
+    "russian": "жаркий",
+    "pronunciation": "자르끼",
+    "korean": "더운"
+  },
+  {
+    "russian": "менее",
+    "pronunciation": "멘셰",
+    "korean": "덜"
+  },
+  {
+    "russian": "крышка",
+    "pronunciation": "끄르이쉬까",
+    "korean": "덮개"
+  },
+  {
+    "russian": "данные",
+    "pronunciation": "단늬예",
+    "korean": "데이터"
+  },
+  {
+    "russian": "свидание",
+    "pronunciation": "스비다니예",
+    "korean": "데이트"
+  },
+  {
+    "russian": "градус",
+    "pronunciation": "그라두스",
+    "korean": "도"
+  },
+  {
+    "russian": "инструмент",
+    "pronunciation": "인스뜨루멘뜨",
+    "korean": "도구"
+  },
+  {
+    "russian": "вор",
+    "pronunciation": "보르",
+    "korean": "도둑"
+  },
+  {
+    "russian": "библиотека",
+    "pronunciation": "비블리아쩨까",
+    "korean": "도서관"
+  },
+  {
+    "russian": "город",
+    "pronunciation": "고라뜨",
+    "korean": "도시"
+  },
+  {
+    "russian": "помощь",
+    "pronunciation": "뽀마쉬",
+    "korean": "도움"
+  },
+  {
+    "russian": "прибытие",
+    "pronunciation": "쁘리븨찌예",
+    "korean": "도착"
+  },
+  {
+    "russian": "орёл",
+    "pronunciation": "아룔",
+    "korean": "독수리"
+  },
+  {
+    "russian": "деньги",
+    "pronunciation": "젠기",
+    "korean": "돈"
+  },
+  {
+    "russian": "камень",
+    "pronunciation": "까민",
+    "korean": "돌"
+  },
+  {
+    "russian": "возвращаться",
+    "pronunciation": "바즈브라샤짜",
+    "korean": "돌아오다"
+  },
+  {
+    "russian": "помогать",
+    "pronunciation": "빠마가찌",
+    "korean": "돕다"
+  },
+  {
+    "russian": "сосед",
+    "pronunciation": "싸씨뜨",
+    "korean": "동네"
+  },
+  {
+    "russian": "товарищ",
+    "pronunciation": "따바리쉬",
+    "korean": "동료"
+  },
+  {
+    "russian": "животное",
+    "pronunciation": "쥐보뜨나예",
+    "korean": "동물"
+  },
+  {
+    "russian": "согласие",
+    "pronunciation": "싸글라씨예",
+    "korean": "동의"
+  },
+  {
+    "russian": "монета",
+    "pronunciation": "마녜따",
+    "korean": "동전"
+  },
+  {
+    "russian": "восток",
+    "pronunciation": "바스똑",
+    "korean": "동쪽"
+  },
+  {
+    "russian": "свинья",
+    "pronunciation": "스비니야",
+    "korean": "돼지"
+  },
+  {
+    "russian": "становиться",
+    "pronunciation": "스따나비짜",
+    "korean": "되다"
+  },
+  {
+    "russian": "бояться",
+    "pronunciation": "바야짜",
+    "korean": "두려워하다"
+  },
+  {
+    "russian": "головная боль",
+    "pronunciation": "갈라브나야 볼",
+    "korean": "두통"
+  },
+  {
+    "russian": "два",
+    "pronunciation": "드바",
+    "korean": "둘"
+  },
+  {
+    "russian": "позади",
+    "pronunciation": "빠자지",
+    "korean": "뒤"
+  },
+  {
+    "russian": "драма",
+    "pronunciation": "드라마",
+    "korean": "드라마"
+  },
+  {
+    "russian": "платье",
+    "pronunciation": "쁠라찌예",
+    "korean": "드레스"
+  },
+  {
+    "russian": "редкий",
+    "pronunciation": "렛끼",
+    "korean": "드문"
+  },
+  {
+    "russian": "слышать",
+    "pronunciation": "슬르이샤찌",
+    "korean": "듣다"
+  },
+  {
+    "russian": "входить",
+    "pronunciation": "프하지찌",
+    "korean": "들어가다"
+  },
+  {
+    "russian": "поле",
+    "pronunciation": "뽈례",
+    "korean": "들판"
+  },
+  {
+    "russian": "спина",
+    "pronunciation": "스삐나",
+    "korean": "등"
+  },
+  {
+    "russian": "регистрация",
+    "pronunciation": "리기스뜨라찌야",
+    "korean": "등록"
+  },
+  {
+    "russian": "тёплый",
+    "pronunciation": "쪼쁠르이",
+    "korean": "따뜻한"
+  },
+  {
+    "russian": "дочь",
+    "pronunciation": "도치",
+    "korean": "딸"
+  },
+  {
+    "russian": "клубника",
+    "pronunciation": "클루브니까",
+    "korean": "딸기"
+  },
+  {
+    "russian": "пот",
+    "pronunciation": "뽀뜨",
+    "korean": "땀"
+  },
+  {
+    "russian": "земля",
+    "pronunciation": "짐랴",
+    "korean": "땅"
+  },
+  {
+    "russian": "время",
+    "pronunciation": "브레먀",
+    "korean": "때"
+  },
+  {
+    "russian": "потому что",
+    "pronunciation": "빠따무 쉬또",
+    "korean": "때문에"
+  },
+  {
+    "russian": "умный",
+    "pronunciation": "움늬",
+    "korean": "똑똑한"
+  },
+  {
+    "russian": "бежать",
+    "pronunciation": "비자찌",
+    "korean": "뛰다"
+  },
+  {
+    "russian": "горячий",
+    "pronunciation": "가랴치",
+    "korean": "뜨거운"
+  },
+  {
+    "russian": "смысл",
+    "pronunciation": "스므이슬",
+    "korean": "뜻"
+  },
+  {
+    "russian": "радио",
+    "pronunciation": "라지오",
+    "korean": "라디오"
+  },
+  {
+    "russian": "ракетка",
+    "pronunciation": "라겟까",
+    "korean": "라켓"
+  },
+  {
+    "russian": "лампа",
+    "pronunciation": "람빠",
+    "korean": "램프"
+  },
+  {
+    "russian": "Россия",
+    "pronunciation": "라씨야",
+    "korean": "러시아"
+  },
+  {
+    "russian": "лимон",
+    "pronunciation": "리몬",
+    "korean": "레몬"
+  },
+  {
+    "russian": "ресторан",
+    "pronunciation": "리스따란",
+    "korean": "레스토랑"
+  },
+  {
+    "russian": "рецепт",
+    "pronunciation": "리쩹뜨",
+    "korean": "레시피"
+  },
+  {
+    "russian": "робот",
+    "pronunciation": "로봇",
+    "korean": "로봇"
+  },
+  {
+    "russian": "пульт",
+    "pronunciation": "뿔뜨",
+    "korean": "리모컨"
+  },
+  {
+    "russian": "магазин",
+    "pronunciation": "마가진",
+    "korean": "마가진"
+  },
+  {
+    "russian": "чеснок",
+    "pronunciation": "치스녹",
+    "korean": "마늘"
+  },
+  {
+    "russian": "двор",
+    "pronunciation": "드보르",
+    "korean": "마당"
+  },
+  {
+    "russian": "волшебный",
+    "pronunciation": "발셰브늬",
+    "korean": "마법의"
+  },
+  {
+    "russian": "пить",
+    "pronunciation": "삐찌",
+    "korean": "마시다"
+  },
+  {
+    "russian": "деревня",
+    "pronunciation": "지레브냐",
+    "korean": "마을"
+  },
+  {
+    "russian": "сердце",
+    "pronunciation": "쎄르쩨",
+    "korean": "마음"
+  },
+  {
+    "russian": "последний",
+    "pronunciation": "빠슬레드니",
+    "korean": "마지막의"
+  },
+  {
+    "russian": "заканчивать",
+    "pronunciation": "자깐치바찌",
+    "korean": "마치다"
+  },
+  {
+    "russian": "десять тысяч",
+    "pronunciation": "제씨찌 뜨이샤치",
+    "korean": "만"
+  },
+  {
+    "russian": "встречать",
+    "pronunciation": "프스뜨리차찌",
+    "korean": "만나다"
+  },
+  {
+    "russian": "делать",
+    "pronunciation": "젤라찌",
+    "korean": "만들다"
+  },
+  {
+    "russian": "если",
+    "pronunciation": "옐리",
+    "korean": "만약"
+  },
+  {
+    "russian": "довольный",
+    "pronunciation": "다볼늬",
+    "korean": "만족한"
+  },
+  {
+    "russian": "много",
+    "pronunciation": "므노가",
+    "korean": "많은"
+  },
+  {
+    "russian": "речь",
+    "pronunciation": "레치",
+    "korean": "말"
+  },
+  {
+    "russian": "лошадь",
+    "pronunciation": "로샤찌",
+    "korean": "말(동물)"
+  },
+  {
+    "russian": "говорить",
+    "pronunciation": "가바리찌",
+    "korean": "말하다"
+  },
+  {
+    "russian": "вкус",
+    "pronunciation": "프쿠스",
+    "korean": "맛"
+  },
+  {
+    "russian": "вкусный",
+    "pronunciation": "프쿠스늬",
+    "korean": "맛있는"
+  },
+  {
+    "russian": "манго",
+    "pronunciation": "만고",
+    "korean": "망고"
+  },
+  {
+    "russian": "правильный",
+    "pronunciation": "쁘라빌늬",
+    "korean": "맞는"
+  },
+  {
+    "russian": "напротив",
+    "pronunciation": "나쁘로찌프",
+    "korean": "맞은편"
+  },
+  {
+    "russian": "пиво",
+    "pronunciation": "삐바",
+    "korean": "맥주"
+  },
+  {
+    "russian": "голова",
+    "pronunciation": "갈라바",
+    "korean": "머리"
+  },
+  {
+    "russian": "волосы",
+    "pronunciation": "볼라씨",
+    "korean": "머리카락"
+  },
+  {
+    "russian": "есть",
+    "pronunciation": "옜찌",
+    "korean": "먹다"
+  },
+  {
+    "russian": "еда",
+    "pronunciation": "예다",
+    "korean": "먹을 것"
+  },
+  {
+    "russian": "далёкий",
+    "pronunciation": "달료끼",
+    "korean": "먼"
+  },
+  {
+    "russian": "сначала",
+    "pronunciation": "스나찰라",
+    "korean": "먼저"
+  },
+  {
+    "russian": "пыль",
+    "pronunciation": "쁠리",
+    "korean": "먼지"
+  },
+  {
+    "russian": "далеко",
+    "pronunciation": "달리꼬",
+    "korean": "멀리"
+  },
+  {
+    "russian": "прекрасный",
+    "pronunciation": "쁘리끄라스늬",
+    "korean": "멋진"
+  },
+  {
+    "russian": "меню",
+    "pronunciation": "미뉴",
+    "korean": "메뉴"
+  },
+  {
+    "russian": "медаль",
+    "pronunciation": "미달",
+    "korean": "메달"
+  },
+  {
+    "russian": "сообщение",
+    "pronunciation": "싸압셰니예",
+    "korean": "메시지"
+  },
+  {
+    "russian": "несколько",
+    "pronunciation": "녜스꼴까",
+    "korean": "몇"
+  },
+  {
+    "russian": "комар",
+    "pronunciation": "까마르",
+    "korean": "모기"
+  },
+  {
+    "russian": "все",
+    "pronunciation": "프쎄",
+    "korean": "모든"
+  },
+  {
+    "russian": "песок",
+    "pronunciation": "삐쏙",
+    "korean": "모래"
+  },
+  {
+    "russian": "угол",
+    "pronunciation": "우골",
+    "korean": "모서리"
+  },
+  {
+    "russian": "форма",
+    "pronunciation": "포르마",
+    "korean": "모양"
+  },
+  {
+    "russian": "собирать",
+    "pronunciation": "싸비라찌",
+    "korean": "모으다"
+  },
+  {
+    "russian": "шапка",
+    "pronunciation": "샤쁘까",
+    "korean": "모자"
+  },
+  {
+    "russian": "мать",
+    "pronunciation": "마찌",
+    "korean": "모친"
+  },
+  {
+    "russian": "горло",
+    "pronunciation": "고를라",
+    "korean": "목"
+  },
+  {
+    "russian": "шея",
+    "pronunciation": "셰야",
+    "korean": "목(신체)"
+  },
+  {
+    "russian": "список",
+    "pronunciation": "스삐싹",
+    "korean": "목록"
+  },
+  {
+    "russian": "жажда",
+    "pronunciation": "자쥐다",
+    "korean": "목마름"
+  },
+  {
+    "russian": "голос",
+    "pronunciation": "골라스",
+    "korean": "목소리"
+  },
+  {
+    "russian": "четверг",
+    "pronunciation": "치뜨베르크",
+    "korean": "목요일"
+  },
+  {
+    "russian": "ванна",
+    "pronunciation": "반나",
+    "korean": "목욕"
+  },
+  {
+    "russian": "цель",
+    "pronunciation": "쩰",
+    "korean": "목표"
+  },
+  {
+    "russian": "тело",
+    "pronunciation": "쩰라",
+    "korean": "몸"
+  },
+  {
+    "russian": "вес",
+    "pronunciation": "볘스",
+    "korean": "몸무게"
+  },
+  {
+    "russian": "гвоздь",
+    "pronunciation": "그보즈찌",
+    "korean": "못"
+  },
+  {
+    "russian": "не мочь",
+    "pronunciation": "니 모치",
+    "korean": "못하다"
+  },
+  {
+    "russian": "тяжёлый",
+    "pronunciation": "찌졸르이",
+    "korean": "무거운"
+  },
+  {
+    "russian": "оружие",
+    "pronunciation": "아루쥐예",
+    "korean": "무기"
+  },
+  {
+    "russian": "сцена",
+    "pronunciation": "쎄나",
+    "korean": "무대"
+  },
+  {
+    "russian": "колено",
+    "pronunciation": "깔례나",
+    "korean": "무릎"
+  },
+  {
+    "russian": "безопасный",
+    "pronunciation": "비자빠스늬",
+    "korean": "무사한"
+  },
+  {
+    "russian": "страшный",
+    "pronunciation": "스뜨라쉬늬",
+    "korean": "무서운"
+  },
+  {
+    "russian": "что",
+    "pronunciation": "쉬또",
+    "korean": "무엇"
+  },
+  {
+    "russian": "танец",
+    "pronunciation": "따녜쯔",
+    "korean": "무용"
+  },
+  {
+    "russian": "радуга",
+    "pronunciation": "라두가",
+    "korean": "무지개"
+  },
+  {
+    "russian": "дверь",
+    "pronunciation": "드베리",
+    "korean": "문"
+  },
+  {
+    "russian": "предложение",
+    "pronunciation": "쁘리들라제니예",
+    "korean": "문장"
+  },
+  {
+    "russian": "проблема",
+    "pronunciation": "쁘라블례마",
+    "korean": "문제"
+  },
+  {
+    "russian": "литература",
+    "pronunciation": "리찌라뚜라",
+    "korean": "문학"
+  },
+  {
+    "russian": "культура",
+    "pronunciation": "쿨뚜라",
+    "korean": "문화"
+  },
+  {
+    "russian": "вода",
+    "pronunciation": "바다",
+    "korean": "물"
+  },
+  {
+    "russian": "рыба",
+    "pronunciation": "르이바",
+    "korean": "물고기"
+  },
+  {
+    "russian": "конечно",
+    "pronunciation": "까녜치나",
+    "korean": "물론"
+  },
+  {
+    "russian": "спрашивать",
+    "pronunciation": "스쁘라쉬바찌",
+    "korean": "물어보다"
+  },
+  {
+    "russian": "красота",
+    "pronunciation": "끄라싸따",
+    "korean": "미"
+  },
+  {
+    "russian": "будущее",
+    "pronunciation": "부두쉬예",
+    "korean": "미래"
+  },
+  {
+    "russian": "улыбка",
+    "pronunciation": "울르이쁘까",
+    "korean": "미소"
+  },
+  {
+    "russian": "искусство",
+    "pronunciation": "이스쿠스뜨바",
+    "korean": "미술"
+  },
+  {
+    "russian": "извинение",
+    "pronunciation": "이즈비녜니예",
+    "korean": "미안"
+  },
+  {
+    "russian": "ненавидеть",
+    "pronunciation": "니나비제찌",
+    "korean": "미워하다"
+  },
+  {
+    "russian": "верить",
+    "pronunciation": "볘리찌",
+    "korean": "믿다"
+  },
+  {
+    "russian": "вера",
+    "pronunciation": "볘라",
+    "korean": "믿음"
+  },
+  {
+    "russian": "пшеница",
+    "pronunciation": "쁘셰니짜",
+    "korean": "밀"
+  },
+  {
+    "russian": "мука",
+    "pronunciation": "무까",
+    "korean": "밀가루"
+  },
+  {
+    "russian": "внизу",
+    "pronunciation": "브니주",
+    "korean": "밑"
+  },
+  {
+    "russian": "снаружи",
+    "pronunciation": "스나루쥐",
+    "korean": "바깥"
+  },
+  {
+    "russian": "менять",
+    "pronunciation": "미냐찌",
+    "korean": "바꾸다"
+  },
+  {
+    "russian": "банан",
+    "pronunciation": "바난",
+    "korean": "바나나"
+  },
+  {
+    "russian": "игла",
+    "pronunciation": "이글라",
+    "korean": "바늘"
+  },
+  {
+    "russian": "море",
+    "pronunciation": "모례",
+    "korean": "바다"
+  },
+  {
+    "russian": "пол",
+    "pronunciation": "뽈",
+    "korean": "바닥"
+  },
+  {
+    "russian": "надеяться",
+    "pronunciation": "나제야짜",
+    "korean": "바라다"
+  },
+  {
+    "russian": "ветер",
+    "pronunciation": "볘찌르",
+    "korean": "바람"
+  },
+  {
+    "russian": "занятой",
+    "pronunciation": "자냐또이",
+    "korean": "바쁜"
+  },
+  {
+    "russian": "скала",
+    "pronunciation": "스깔라",
+    "korean": "바위"
+  },
+  {
+    "russian": "скрипка",
+    "pronunciation": "스끄리쁘까",
+    "korean": "바이올린"
+  },
+  {
+    "russian": "штаны",
+    "pronunciation": "쉬따늬",
+    "korean": "바지"
+  },
+  {
+    "russian": "колесо",
+    "pronunciation": "깔리쏘",
+    "korean": "바퀴"
+  },
+  {
+    "russian": "половина",
+    "pronunciation": "빨라비나",
+    "korean": "반"
+  },
+  {
+    "russian": "одноклассник",
+    "pronunciation": "아드나끌라스닉",
+    "korean": "반 친구"
+  },
+  {
+    "russian": "радость",
+    "pronunciation": "라다스찌",
+    "korean": "반가움"
+  },
+  {
+    "russian": "противоположный",
+    "pronunciation": "쁘라찌바빨로쥐늬",
+    "korean": "반대"
+  },
+  {
+    "russian": "обязательно",
+    "pronunciation": "아뱌자쩰나",
+    "korean": "반드시"
+  },
+  {
+    "russian": "кольцо",
+    "pronunciation": "깔쪼",
+    "korean": "반지"
+  },
+  {
+    "russian": "получать",
+    "pronunciation": "빠루차찌",
+    "korean": "받다"
+  },
+  {
+    "russian": "ступня",
+    "pronunciation": "스뚜쁘냐",
+    "korean": "발"
+  },
+  {
+    "russian": "палец ноги",
+    "pronunciation": "빨리쯔 나기",
+    "korean": "발가락"
+  },
+  {
+    "russian": "произношение",
+    "pronunciation": "쁘라이즈나셰니예",
+    "korean": "발음"
+  },
+  {
+    "russian": "развитие",
+    "pronunciation": "라즈비찌예",
+    "korean": "발전"
+  },
+  {
+    "russian": "яркий",
+    "pronunciation": "야르끼",
+    "korean": "밝은"
+  },
+  {
+    "russian": "ночь",
+    "pronunciation": "노치",
+    "korean": "밤"
+  },
+  {
+    "russian": "каштан",
+    "pronunciation": "까쉬딴",
+    "korean": "밤(열매)"
+  },
+  {
+    "russian": "комната",
+    "pronunciation": "꼼나따",
+    "korean": "방"
+  },
+  {
+    "russian": "посещение",
+    "pronunciation": "빠씨셰니예",
+    "korean": "방문"
+  },
+  {
+    "russian": "способ",
+    "pronunciation": "스뽀싸쁘",
+    "korean": "방법"
+  },
+  {
+    "russian": "каникулы",
+    "pronunciation": "까니꿀르이",
+    "korean": "방학"
+  },
+  {
+    "russian": "направление",
+    "pronunciation": "나쁘라블례니예",
+    "korean": "방향"
+  },
+  {
+    "russian": "груша",
+    "pronunciation": "그루샤",
+    "korean": "배(과일)"
+  },
+  {
+    "russian": "корабль",
+    "pronunciation": "까라블",
+    "korean": "배(선박)"
+  },
+  {
+    "russian": "живот",
+    "pronunciation": "쥐보뜨",
+    "korean": "배(신체)"
+  },
+  {
+    "russian": "голодный",
+    "pronunciation": "갈로드늬",
+    "korean": "배고픈"
+  },
+  {
+    "russian": "волейбол",
+    "pronunciation": "발리볼",
+    "korean": "배구"
+  },
+  {
+    "russian": "доставка",
+    "pronunciation": "다스따프까",
+    "korean": "배달"
+  },
+  {
+    "russian": "актёр",
+    "pronunciation": "악쪼르",
+    "korean": "배우"
+  },
+  {
+    "russian": "учиться",
+    "pronunciation": "우치짜",
+    "korean": "배우다"
+  },
+  {
+    "russian": "батарея",
+    "pronunciation": "바따례야",
+    "korean": "배터리"
+  },
+  {
+    "russian": "сто",
+    "pronunciation": "스또",
+    "korean": "백"
+  },
+  {
+    "russian": "миллион",
+    "pronunciation": "밀리온",
+    "korean": "백만"
+  },
+  {
+    "russian": "змея",
+    "pronunciation": "즈미야",
+    "korean": "뱀"
+  },
+  {
+    "russian": "привычка",
+    "pronunciation": "쁘리븨치까",
+    "korean": "버릇"
+  },
+  {
+    "russian": "гриб",
+    "pronunciation": "그리쁘",
+    "korean": "버섯"
+  },
+  {
+    "russian": "автобус",
+    "pronunciation": "아프또부스",
+    "korean": "버스"
+  },
+  {
+    "russian": "масло",
+    "pronunciation": "마슬라",
+    "korean": "버터"
+  },
+  {
+    "russian": "молния",
+    "pronunciation": "몰니야",
+    "korean": "번개"
+  },
+  {
+    "russian": "номер",
+    "pronunciation": "노미르",
+    "korean": "번호"
+  },
+  {
+    "russian": "пчела",
+    "pronunciation": "쁘칠라",
+    "korean": "벌"
+  },
+  {
+    "russian": "закон",
+    "pronunciation": "자꼰",
+    "korean": "법"
+  },
+  {
+    "russian": "снимать",
+    "pronunciation": "스니마찌",
+    "korean": "벗다"
+  },
+  {
+    "russian": "подушка",
+    "pronunciation": "빠두쉬까",
+    "korean": "베개"
+  },
+  {
+    "russian": "пояс",
+    "pronunciation": "뽀야스",
+    "korean": "벨트"
+  },
+  {
+    "russian": "стена",
+    "pronunciation": "스쩨나",
+    "korean": "벽"
+  },
+  {
+    "russian": "адвокат",
+    "pronunciation": "아드바까뜨",
+    "korean": "변호사"
+  },
+  {
+    "russian": "изменение",
+    "pronunciation": "이즈미녜니예",
+    "korean": "변화"
+  },
+  {
+    "russian": "звезда",
+    "pronunciation": "즈비즈다",
+    "korean": "별"
+  },
+  {
+    "russian": "бутылка",
+    "pronunciation": "부뜰까",
+    "korean": "병"
+  },
+  {
+    "russian": "болезнь",
+    "pronunciation": "발례즈니",
+    "korean": "병(질병)"
+  },
+  {
+    "russian": "солдат",
+    "pronunciation": "살다뜨",
+    "korean": "병사"
+  },
+  {
+    "russian": "больница",
+    "pronunciation": "발니짜",
+    "korean": "병원"
+  },
+  {
+    "russian": "посылать",
+    "pronunciation": "빠쉴라찌",
+    "korean": "보내다"
+  },
+  {
+    "russian": "смотреть",
+    "pronunciation": "스마뜨례찌",
+    "korean": "보다"
+  },
+  {
+    "russian": "водка",
+    "pronunciation": "봇까",
+    "korean": "보드카"
+  },
+  {
+    "russian": "фиолетовый",
+    "pronunciation": "피알례따븨",
+    "korean": "보라색"
+  },
+  {
+    "russian": "обычно",
+    "pronunciation": "아브이치나",
+    "korean": "보통"
+  },
+  {
+    "russian": "лодка",
+    "pronunciation": "로뜨까",
+    "korean": "보트"
+  },
+  {
+    "russian": "защита",
+    "pronunciation": "자씨따",
+    "korean": "보호"
+  },
+  {
+    "russian": "счастье",
+    "pronunciation": "샤스찌예",
+    "korean": "복"
+  },
+  {
+    "russian": "персик",
+    "pronunciation": "삐르씩",
+    "korean": "복숭아"
+  },
+  {
+    "russian": "сложный",
+    "pronunciation": "슬로쥐늬",
+    "korean": "복잡한"
+  },
+  {
+    "russian": "ручка",
+    "pronunciation": "루치까",
+    "korean": "볼펜"
+  },
+  {
+    "russian": "весна",
+    "pronunciation": "비스나",
+    "korean": "봄"
+  },
+  {
+    "russian": "конверт",
+    "pronunciation": "깐볘르뜨",
+    "korean": "봉투"
+  },
+  {
+    "russian": "мягкий",
+    "pronunciation": "먀흐끼",
+    "korean": "부드러운"
+  },
+  {
+    "russian": "пожалуйста",
+    "pronunciation": "빠잘루이스따",
+    "korean": "부디"
+  },
+  {
+    "russian": "зависть",
+    "pronunciation": "자비스찌",
+    "korean": "부러움"
+  },
+  {
+    "russian": "родители",
+    "pronunciation": "라지쩰리",
+    "korean": "부모"
+  },
+  {
+    "russian": "часть",
+    "pronunciation": "차스찌",
+    "korean": "부분"
+  },
+  {
+    "russian": "кухня",
+    "pronunciation": "꾸흐냐",
+    "korean": "부엌"
+  },
+  {
+    "russian": "богатый",
+    "pronunciation": "바가띄",
+    "korean": "부유한"
+  },
+  {
+    "russian": "ботинки",
+    "pronunciation": "바찐끼",
+    "korean": "부츠"
+  },
+  {
+    "russian": "просьба",
+    "pronunciation": "쁘로즈바",
+    "korean": "부탁"
+  },
+  {
+    "russian": "север",
+    "pronunciation": "셰비르",
+    "korean": "북쪽"
+  },
+  {
+    "russian": "минута",
+    "pronunciation": "미누따",
+    "korean": "분"
+  },
+  {
+    "russian": "атмосфера",
+    "pronunciation": "아뜨마스볘라",
+    "korean": "분위기"
+  },
+  {
+    "russian": "мел",
+    "pronunciation": "멜",
+    "korean": "분필"
+  },
+  {
+    "russian": "огонь",
+    "pronunciation": "아곤",
+    "korean": "불"
+  },
+  {
+    "russian": "невозможный",
+    "pronunciation": "니바즈모쥐늬",
+    "korean": "불가능한"
+  },
+  {
+    "russian": "тревога",
+    "pronunciation": "뜨리보가",
+    "korean": "불안"
+  },
+  {
+    "russian": "дождь",
+    "pronunciation": "도쉬찌",
+    "korean": "비"
+  },
+  {
+    "russian": "мыло",
+    "pronunciation": "므일라",
+    "korean": "비누"
+  },
+  {
+    "russian": "голубь",
+    "pronunciation": "골루비",
+    "korean": "비둘기"
+  },
+  {
+    "russian": "тайна",
+    "pronunciation": "따이나",
+    "korean": "비밀"
+  },
+  {
+    "russian": "пароль",
+    "pronunciation": "빠롤",
+    "korean": "비밀번호"
+  },
+  {
+    "russian": "самолёт",
+    "pronunciation": "사말룟",
+    "korean": "비행기"
+  },
+  {
+    "russian": "пустой",
+    "pronunciation": "뿌스또이",
+    "korean": "빈"
+  },
+  {
+    "russian": "расчёска",
+    "pronunciation": "라쇼스까",
+    "korean": "빗"
+  },
+  {
+    "russian": "веник",
+    "pronunciation": "볘닉",
+    "korean": "빗자루"
+  },
+  {
+    "russian": "свет",
+    "pronunciation": "스볫",
+    "korean": "빛"
+  },
+  {
+    "russian": "быстрый",
+    "pronunciation": "븨스뜨르이",
+    "korean": "빠른"
+  },
+  {
+    "russian": "красный",
+    "pronunciation": "끄라스늬",
+    "korean": "빨간"
+  },
+  {
+    "russian": "хлеб",
+    "pronunciation": "흘렙",
+    "korean": "빵"
+  },
+  {
+    "russian": "щека",
+    "pronunciation": "쉬까",
+    "korean": "뺨"
+  },
+  {
+    "russian": "кость",
+    "pronunciation": "꼬스찌",
+    "korean": "뼈"
+  },
+  {
+    "russian": "авария",
+    "pronunciation": "아바리야",
+    "korean": "사고"
+  },
+  {
+    "russian": "яблоко",
+    "pronunciation": "야블라까",
+    "korean": "사과"
+  },
+  {
+    "russian": "покупать",
+    "pronunciation": "빠꾸빠찌",
+    "korean": "사다"
+  },
+  {
+    "russian": "человек",
+    "pronunciation": "칠라벡",
+    "korean": "사람"
+  },
+  {
+    "russian": "любовь",
+    "pronunciation": "류보비",
+    "korean": "사랑"
+  },
+  {
+    "russian": "любить",
+    "pronunciation": "류비찌",
+    "korean": "사랑하다"
+  },
+  {
+    "russian": "пустыня",
+    "pronunciation": "뿌스띄냐",
+    "korean": "사막"
+  },
+  {
+    "russian": "офис",
+    "pronunciation": "오피스",
+    "korean": "사무실"
+  },
+  {
+    "russian": "олень",
+    "pronunciation": "알렌",
+    "korean": "사슴"
+  },
+  {
+    "russian": "факт",
+    "pronunciation": "팍뜨",
+    "korean": "사실"
+  },
+  {
+    "russian": "бизнес",
+    "pronunciation": "비즈니스",
+    "korean": "사업"
+  },
+  {
+    "russian": "использование",
+    "pronunciation": "이스뽈자바니예",
+    "korean": "사용"
+  },
+  {
+    "russian": "между",
+    "pronunciation": "메쥐두",
+    "korean": "사이"
+  },
+  {
+    "russian": "размер",
+    "pronunciation": "라즈메르",
+    "korean": "사이즈"
+  },
+  {
+    "russian": "лев",
+    "pronunciation": "례프",
+    "korean": "사자(동물)"
+  },
+  {
+    "russian": "директор",
+    "pronunciation": "지렉따르",
+    "korean": "사장"
+  },
+  {
+    "russian": "словарь",
+    "pronunciation": "슬라바리",
+    "korean": "사전"
+  },
+  {
+    "russian": "фотография",
+    "pronunciation": "포따그라피야",
+    "korean": "사진"
+  },
+  {
+    "russian": "конфета",
+    "pronunciation": "깐볘따",
+    "korean": "사탕"
+  },
+  {
+    "russian": "общество",
+    "pronunciation": "옵쉬스뜨바",
+    "korean": "사회"
+  },
+  {
+    "russian": "гора",
+    "pronunciation": "가라",
+    "korean": "산"
+  },
+  {
+    "russian": "промышленность",
+    "pronunciation": "쁘라므이쉴리나스찌",
+    "korean": "산업"
+  },
+  {
+    "russian": "прогулка",
+    "pronunciation": "쁘라굴까",
+    "korean": "산책"
+  },
+  {
+    "russian": "заяц",
+    "pronunciation": "자야쯔",
+    "korean": "산토끼"
+  },
+  {
+    "russian": "абрикос",
+    "pronunciation": "아브리꼬스",
+    "korean": "살구"
+  },
+  {
+    "russian": "жить",
+    "pronunciation": "쥐찌",
+    "korean": "살다"
+  },
+  {
+    "russian": "жизнь",
+    "pronunciation": "쥐즈니",
+    "korean": "삶"
+  },
+  {
+    "russian": "варёный",
+    "pronunciation": "바료늬",
+    "korean": "삶은"
+  },
+  {
+    "russian": "три",
+    "pronunciation": "뜨리",
+    "korean": "삼"
+  },
+  {
+    "russian": "дядя",
+    "pronunciation": "쟈쟈",
+    "korean": "삼촌"
+  },
+  {
+    "russian": "приз",
+    "pronunciation": "쁘리스",
+    "korean": "상"
+  },
+  {
+    "russian": "воображение",
+    "pronunciation": "바아브라제니예",
+    "korean": "상상"
+  },
+  {
+    "russian": "коробка",
+    "pronunciation": "까롭까",
+    "korean": "상자"
+  },
+  {
+    "russian": "состояние",
+    "pronunciation": "싸스따야니예",
+    "korean": "상태"
+  },
+  {
+    "russian": "товар",
+    "pronunciation": "따바르",
+    "korean": "상품"
+  },
+  {
+    "russian": "ситуация",
+    "pronunciation": "씨뚜아찌야",
+    "korean": "상황"
+  },
+  {
+    "russian": "птица",
+    "pronunciation": "쁘찌짜",
+    "korean": "새"
+  },
+  {
+    "russian": "новый",
+    "pronunciation": "노븨",
+    "korean": "새로운"
+  },
+  {
+    "russian": "рассвет",
+    "pronunciation": "라스볘뜨",
+    "korean": "새벽"
+  },
+  {
+    "russian": "цвет",
+    "pronunciation": "쯔볘뜨",
+    "korean": "색"
+  },
+  {
+    "russian": "бутерброд",
+    "pronunciation": "부찌르브로뜨",
+    "korean": "샌드위치"
+  },
+  {
+    "russian": "сандалии",
+    "pronunciation": "싼달리이",
+    "korean": "샌들"
+  },
+  {
+    "russian": "салат",
+    "pronunciation": "살라뜨",
+    "korean": "샐러드"
+  },
+  {
+    "russian": "мысль",
+    "pronunciation": "므이슬",
+    "korean": "생각"
+  },
+  {
+    "russian": "думать",
+    "pronunciation": "두마찌",
+    "korean": "생각하다"
+  },
+  {
+    "russian": "день рождения",
+    "pronunciation": "젠 라쥐제니야",
+    "korean": "생일"
+  },
+  {
+    "russian": "шампунь",
+    "pronunciation": "샴뿐",
+    "korean": "샴푸"
+  },
+  {
+    "russian": "стоять",
+    "pronunciation": "스따야찌",
+    "korean": "서다"
+  },
+  {
+    "russian": "документ",
+    "pronunciation": "다꾸멘뜨",
+    "korean": "서류"
+  },
+  {
+    "russian": "сервис",
+    "pronunciation": "씨르비스",
+    "korean": "서비스"
+  },
+  {
+    "russian": "книга",
+    "pronunciation": "크니가",
+    "korean": "서적"
+  },
+  {
+    "russian": "книжный магазин",
+    "pronunciation": "크니쥐늬 마가진",
+    "korean": "서점"
+  },
+  {
+    "russian": "запад",
+    "pronunciation": "자빠뜨",
+    "korean": "서쪽"
+  },
+  {
+    "russian": "подарок",
+    "pronunciation": "빠다라크",
+    "korean": "선물"
+  },
+  {
+    "russian": "полка",
+    "pronunciation": "뽈까",
+    "korean": "선반"
+  },
+  {
+    "russian": "выбор",
+    "pronunciation": "븨바르",
+    "korean": "선택"
+  },
+  {
+    "russian": "вентилятор",
+    "pronunciation": "빈찌랴따르",
+    "korean": "선풍기"
+  },
+  {
+    "russian": "объяснение",
+    "pronunciation": "아비야스녜니예",
+    "korean": "설명"
+  },
+  {
+    "russian": "объяснять",
+    "pronunciation": "아비야스냐찌",
+    "korean": "설명하다"
+  },
+  {
+    "russian": "сахар",
+    "pronunciation": "사하르",
+    "korean": "설탕"
+  },
+  {
+    "russian": "остров",
+    "pronunciation": "오스뜨라프",
+    "korean": "섬"
+  },
+  {
+    "russian": "характер",
+    "pronunciation": "하락쩨르",
+    "korean": "성격"
+  },
+  {
+    "russian": "успех",
+    "pronunciation": "우스뻬흐",
+    "korean": "성공"
+  },
+  {
+    "russian": "мир",
+    "pronunciation": "미르",
+    "korean": "세계"
+  },
+  {
+    "russian": "раковина",
+    "pronunciation": "라까비나",
+    "korean": "세면대"
+  },
+  {
+    "russian": "стиральный порошок",
+    "pronunciation": "스찌랄늬 빠라쇽",
+    "korean": "세제"
+  },
+  {
+    "russian": "стирка",
+    "pronunciation": "스찌르까",
+    "korean": "세탁"
+  },
+  {
+    "russian": "стиральная машина",
+    "pronunciation": "스찌랄나야 마쉬나",
+    "korean": "세탁기"
+  },
+  {
+    "russian": "рубашка",
+    "pronunciation": "루바쉬까",
+    "korean": "셔츠"
+  },
+  {
+    "russian": "корова",
+    "pronunciation": "까로바",
+    "korean": "소"
+  },
+  {
+    "russian": "представление",
+    "pronunciation": "쁘리드스따블례니예",
+    "korean": "소개"
+  },
+  {
+    "russian": "соль",
+    "pronunciation": "솔",
+    "korean": "소금"
+  },
+  {
+    "russian": "девушка",
+    "pronunciation": "졔부쉬까",
+    "korean": "소녀"
+  },
+  {
+    "russian": "мальчик",
+    "pronunciation": "말치크",
+    "korean": "소년"
+  },
+  {
+    "russian": "звук",
+    "pronunciation": "즈북",
+    "korean": "소리"
+  },
+  {
+    "russian": "пожарный",
+    "pronunciation": "빠자르늬",
+    "korean": "소방관"
+  },
+  {
+    "russian": "роман",
+    "pronunciation": "라만",
+    "korean": "소설"
+  },
+  {
+    "russian": "соус",
+    "pronunciation": "소우스",
+    "korean": "소스"
+  },
+  {
+    "russian": "сосиска",
+    "pronunciation": "싸시스까",
+    "korean": "소시지"
+  },
+  {
+    "russian": "желание",
+    "pronunciation": "젤라니예",
+    "korean": "소원"
+  },
+  {
+    "russian": "ценный",
+    "pronunciation": "쩬늬",
+    "korean": "소중한"
+  },
+  {
+    "russian": "диван",
+    "pronunciation": "지반",
+    "korean": "소파"
+  },
+  {
+    "russian": "ресница",
+    "pronunciation": "리스니짜",
+    "korean": "속눈썹"
+  },
+  {
+    "russian": "скорость",
+    "pronunciation": "스꼬라스찌",
+    "korean": "속도"
+  },
+  {
+    "russian": "рука",
+    "pronunciation": "루까",
+    "korean": "손"
+  },
+  {
+    "russian": "палец",
+    "pronunciation": "빨리쯔",
+    "korean": "손가락"
+  },
+  {
+    "russian": "гость",
+    "pronunciation": "고스찌",
+    "korean": "손님"
+  },
+  {
+    "russian": "запястье",
+    "pronunciation": "자삐야스찌예",
+    "korean": "손목"
+  },
+  {
+    "russian": "платок",
+    "pronunciation": "쁠라똑",
+    "korean": "손수건"
+  },
+  {
+    "russian": "полотенце",
+    "pronunciation": "빨라쩬쩨",
+    "korean": "수건"
+  },
+  {
+    "russian": "кран",
+    "pronunciation": "끄란",
+    "korean": "수도꼭지"
+  },
+  {
+    "russian": "арбуз",
+    "pronunciation": "아르부스",
+    "korean": "수박"
+  },
+  {
+    "russian": "операция",
+    "pronunciation": "아삐라찌야",
+    "korean": "수술"
+  },
+  {
+    "russian": "урок",
+    "pronunciation": "우록",
+    "korean": "수업"
+  },
+  {
+    "russian": "борода",
+    "pronunciation": "바라다",
+    "korean": "수염"
+  },
+  {
+    "russian": "плавание",
+    "pronunciation": "쁠라바니예",
+    "korean": "수영"
+  },
+  {
+    "russian": "среда",
+    "pronunciation": "스리다",
+    "korean": "수요일"
+  },
+  {
+    "russian": "стыд",
+    "pronunciation": "스뜨이뜨",
+    "korean": "수치"
+  },
+  {
+    "russian": "петух",
+    "pronunciation": "삐뚜흐",
+    "korean": "수탉"
+  },
+  {
+    "russian": "домашнее задание",
+    "pronunciation": "다마쉬녜예 자다니예",
+    "korean": "숙제"
+  },
+  {
+    "russian": "ложка",
+    "pronunciation": "로쉬까",
+    "korean": "숟가락"
+  },
+  {
+    "russian": "число",
+    "pronunciation": "치슬로",
+    "korean": "숫자"
+  },
+  {
+    "russian": "лес",
+    "pronunciation": "례스",
+    "korean": "숲"
+  },
+  {
+    "russian": "отдыхать",
+    "pronunciation": "아뜨드이하찌",
+    "korean": "쉬다"
+  },
+  {
+    "russian": "супермаркет",
+    "pronunciation": "수삐르마르킷",
+    "korean": "슈퍼마켓"
+  },
+  {
+    "russian": "двадцать",
+    "pronunciation": "드바짜찌",
+    "korean": "스물"
+  },
+  {
+    "russian": "переключатель",
+    "pronunciation": "삐리끌류차쩰",
+    "korean": "스위치"
+  },
+  {
+    "russian": "шарф",
+    "pronunciation": "샤르프",
+    "korean": "스카프"
+  },
+  {
+    "russian": "расписание",
+    "pronunciation": "라스삐사니예",
+    "korean": "스케줄"
+  },
+  {
+    "russian": "экран",
+    "pronunciation": "에끄란",
+    "korean": "스크린"
+  },
+  {
+    "russian": "лыжи",
+    "pronunciation": "르이쥐",
+    "korean": "스키"
+  },
+  {
+    "russian": "стресс",
+    "pronunciation": "스뜨레스",
+    "korean": "스트레스"
+  },
+  {
+    "russian": "спорт",
+    "pronunciation": "스뽀르뜨",
+    "korean": "스포츠"
+  },
+  {
+    "russian": "грустный",
+    "pronunciation": "그루스뜨늬",
+    "korean": "슬픈"
+  },
+  {
+    "russian": "грусть",
+    "pronunciation": "그루스찌",
+    "korean": "슬픔"
+  },
+  {
+    "russian": "час",
+    "pronunciation": "차스",
+    "korean": "시"
+  },
+  {
+    "russian": "часы",
+    "pronunciation": "차쓰이",
+    "korean": "시계"
+  },
+  {
+    "russian": "начало",
+    "pronunciation": "나찰라",
+    "korean": "시작"
+  },
+  {
+    "russian": "начинать",
+    "pronunciation": "나치나찌",
+    "korean": "시작하다"
+  },
+  {
+    "russian": "рынок",
+    "pronunciation": "르이낙",
+    "korean": "시장"
+  },
+  {
+    "russian": "экзамен",
+    "pronunciation": "에그자멘",
+    "korean": "시험"
+  },
+  {
+    "russian": "столовая",
+    "pronunciation": "스딸로바야",
+    "korean": "식당"
+  },
+  {
+    "russian": "растение",
+    "pronunciation": "라스쩨니예",
+    "korean": "식물"
+  },
+  {
+    "russian": "бог",
+    "pronunciation": "복",
+    "korean": "신"
+  },
+  {
+    "russian": "жених",
+    "pronunciation": "쥐니흐",
+    "korean": "신랑"
+  },
+  {
+    "russian": "доверие",
+    "pronunciation": "다볘리예",
+    "korean": "신뢰"
+  },
+  {
+    "russian": "газета",
+    "pronunciation": "가제따",
+    "korean": "신문"
+  },
+  {
+    "russian": "невеста",
+    "pronunciation": "니볘스따",
+    "korean": "신부"
+  },
+  {
+    "russian": "свежий",
+    "pronunciation": "스볘쥐",
+    "korean": "신선한"
+  },
+  {
+    "russian": "светофор",
+    "pronunciation": "스비따포르",
+    "korean": "신호등"
+  },
+  {
+    "russian": "извините",
+    "pronunciation": "이즈비니쩨",
+    "korean": "실례합니다"
+  },
+  {
+    "russian": "ошибка",
+    "pronunciation": "아쉬쁘까",
+    "korean": "실수"
+  },
+  {
+    "russian": "серьёзный",
+    "pronunciation": "씨리요즈늬",
+    "korean": "심각한"
+  },
+  {
+    "russian": "десять",
+    "pronunciation": "제씨찌",
+    "korean": "십"
+  },
+  {
+    "russian": "драка",
+    "pronunciation": "드라까",
+    "korean": "싸움"
+  },
+  {
+    "russian": "дешёвый",
+    "pronunciation": "지쇼븨",
+    "korean": "싼"
+  },
+  {
+    "russian": "рис",
+    "pronunciation": "리스",
+    "korean": "쌀"
+  },
+  {
+    "russian": "писать",
+    "pronunciation": "삐사찌",
+    "korean": "쓰다"
+  },
+  {
+    "russian": "мусор",
+    "pronunciation": "무싸르",
+    "korean": "쓰레기"
+  },
+  {
+    "russian": "мусорное ведро",
+    "pronunciation": "무싸르나예 비드로",
+    "korean": "쓰레기통"
+  },
+  {
+    "russian": "горький",
+    "pronunciation": "고리끼",
+    "korean": "쓴"
+  },
+  {
+    "russian": "мыть",
+    "pronunciation": "므이찌",
+    "korean": "씻다"
+  },
+  {
+    "russian": "младенец",
+    "pronunciation": "믈라제니쯔",
+    "korean": "아기"
+  },
+  {
+    "russian": "сын",
+    "pronunciation": "쓰인",
+    "korean": "아들"
+  },
+  {
+    "russian": "красивый",
+    "pronunciation": "끄라씨븨",
+    "korean": "아름다운"
+  },
+  {
+    "russian": "может быть",
+    "pronunciation": "모제뜨 브이찌",
+    "korean": "아마"
+  },
+  {
+    "russian": "отец",
+    "pronunciation": "아쩨쯔",
+    "korean": "아버지"
+  },
+  {
+    "russian": "ребёнок",
+    "pronunciation": "리뵤낙",
+    "korean": "아이"
+  },
+  {
+    "russian": "мороженое",
+    "pronunciation": "마로제나예",
+    "korean": "아이스크림"
+  },
+  {
+    "russian": "ещё не",
+    "pronunciation": "이쇼 녜",
+    "korean": "아직"
+  },
+  {
+    "russian": "утро",
+    "pronunciation": "우뜨라",
+    "korean": "아침"
+  },
+  {
+    "russian": "квартира",
+    "pronunciation": "크바르찌라",
+    "korean": "아파트"
+  },
+  {
+    "russian": "болеть",
+    "pronunciation": "발례찌",
+    "korean": "아프다"
+  },
+  {
+    "russian": "девять",
+    "pronunciation": "제비찌",
+    "korean": "아홉"
+  },
+  {
+    "russian": "внутри",
+    "pronunciation": "브누뜨리",
+    "korean": "안"
+  },
+  {
+    "russian": "туман",
+    "pronunciation": "뚜만",
+    "korean": "안개"
+  },
+  {
+    "russian": "очки",
+    "pronunciation": "아치끼",
+    "korean": "안경"
+  },
+  {
+    "russian": "здравствуйте",
+    "pronunciation": "즈드라스뜨부이쩨",
+    "korean": "안녕하세요"
+  },
+  {
+    "russian": "до свидания",
+    "pronunciation": "다 스비다니야",
+    "korean": "안녕히 가세요"
+  },
+  {
+    "russian": "безопасность",
+    "pronunciation": "비자빠스나스찌",
+    "korean": "안전"
+  },
+  {
+    "russian": "сидеть",
+    "pronunciation": "씨제찌",
+    "korean": "앉다"
+  },
+  {
+    "russian": "знать",
+    "pronunciation": "즈나찌",
+    "korean": "알다"
+  },
+  {
+    "russian": "аллергия",
+    "pronunciation": "알리르기야",
+    "korean": "알레르기"
+  },
+  {
+    "russian": "впереди",
+    "pronunciation": "프삐리지",
+    "korean": "앞"
+  },
+  {
+    "russian": "приложение",
+    "pronunciation": "쁘릴라제니예",
+    "korean": "앱"
+  },
+  {
+    "russian": "бейсбол",
+    "pronunciation": "볘이스볼",
+    "korean": "야구"
+  },
+  {
+    "russian": "лекарство",
+    "pronunciation": "리까르스뜨바",
+    "korean": "약"
+  },
+  {
+    "russian": "аптека",
+    "pronunciation": "아쁘쩨까",
+    "korean": "약국"
+  },
+  {
+    "russian": "обещание",
+    "pronunciation": "아비샤니예",
+    "korean": "약속"
+  },
+  {
+    "russian": "овца",
+    "pronunciation": "아프짜",
+    "korean": "양"
+  },
+  {
+    "russian": "ведро",
+    "pronunciation": "비드로",
+    "korean": "양동이"
+  },
+  {
+    "russian": "носки",
+    "pronunciation": "나스끼",
+    "korean": "양말"
+  },
+  {
+    "russian": "капуста",
+    "pronunciation": "까뿌스따",
+    "korean": "양배추"
+  },
+  {
+    "russian": "свеча",
+    "pronunciation": "스비차",
+    "korean": "양초"
+  },
+  {
+    "russian": "лук",
+    "pronunciation": "룩",
+    "korean": "양파"
+  },
+  {
+    "russian": "плечо",
+    "pronunciation": "쁠리초",
+    "korean": "어깨"
+  },
+  {
+    "russian": "тёмный",
+    "pronunciation": "쪼므늬",
+    "korean": "어두운"
+  },
+  {
+    "russian": "где",
+    "pronunciation": "그제",
+    "korean": "어디"
+  },
+  {
+    "russian": "трудный",
+    "pronunciation": "뜨루드늬",
+    "korean": "어려운"
+  },
+  {
+    "russian": "глупый",
+    "pronunciation": "글루쁘이",
+    "korean": "어리석은"
+  },
+  {
+    "russian": "дети",
+    "pronunciation": "졔찌",
+    "korean": "어린이"
+  },
+  {
+    "russian": "вчера",
+    "pronunciation": "프치라",
+    "korean": "어제"
+  },
+  {
+    "russian": "язык",
+    "pronunciation": "야즈이크",
+    "korean": "언어"
+  },
+  {
+    "russian": "когда",
+    "pronunciation": "까그다",
+    "korean": "언제"
+  },
+  {
+    "russian": "всегда",
+    "pronunciation": "프씨그다",
+    "korean": "언제나"
+  },
+  {
+    "russian": "лицо",
+    "pronunciation": "리쪼",
+    "korean": "얼굴"
+  },
+  {
+    "russian": "сколько",
+    "pronunciation": "스꼴까",
+    "korean": "얼마"
+  },
+  {
+    "russian": "лёд",
+    "pronunciation": "룟",
+    "korean": "얼음"
+  },
+  {
+    "russian": "мама",
+    "pronunciation": "마마",
+    "korean": "엄마"
+  },
+  {
+    "russian": "нет",
+    "pronunciation": "녯",
+    "korean": "없다"
+  },
+  {
+    "russian": "кондиционер",
+    "pronunciation": "깐지찌아니르",
+    "korean": "에어컨"
+  },
+  {
+    "russian": "инженер",
+    "pronunciation": "인쥐니르",
+    "korean": "엔지니어"
+  },
+  {
+    "russian": "паспорт",
+    "pronunciation": "빠스뽀르뜨",
+    "korean": "여권"
+  },
+  {
+    "russian": "здесь",
+    "pronunciation": "즈게스",
+    "korean": "여기"
+  },
+  {
+    "russian": "восемь",
+    "pronunciation": "보씸",
+    "korean": "여덟"
+  },
+  {
+    "russian": "лето",
+    "pronunciation": "례따",
+    "korean": "여름"
+  },
+  {
+    "russian": "шесть",
+    "pronunciation": "셰스찌",
+    "korean": "여섯"
+  },
+  {
+    "russian": "лиса",
+    "pronunciation": "리싸",
+    "korean": "여우"
+  },
+  {
+    "russian": "женщина",
+    "pronunciation": "젠쉬나",
+    "korean": "여자"
+  },
+  {
+    "russian": "путешествие",
+    "pronunciation": "뿌쩨셰스뜨비예",
+    "korean": "여행"
+  },
+  {
+    "russian": "станция",
+    "pronunciation": "스딴찌야",
+    "korean": "역"
+  },
+  {
+    "russian": "история",
+    "pronunciation": "이스또리야",
+    "korean": "역사"
+  },
+  {
+    "russian": "пьеса",
+    "pronunciation": "쁘예싸",
+    "korean": "연극"
+  },
+  {
+    "russian": "практика",
+    "pronunciation": "쁘락찌까",
+    "korean": "연습"
+  },
+  {
+    "russian": "карандаш",
+    "pronunciation": "까란다쉬",
+    "korean": "연필"
+  },
+  {
+    "russian": "жар",
+    "pronunciation": "자르",
+    "korean": "열(온도)"
+  },
+  {
+    "russian": "открывать",
+    "pronunciation": "아뜨끄르이바찌",
+    "korean": "열다"
+  },
+  {
+    "russian": "ключ",
+    "pronunciation": "클류치",
+    "korean": "열쇠"
+  },
+  {
+    "russian": "ноль",
+    "pronunciation": "놀",
+    "korean": "영"
+  },
+  {
+    "russian": "чек",
+    "pronunciation": "촉",
+    "korean": "영수증"
+  },
+  {
+    "russian": "английский",
+    "pronunciation": "안글리이스끼",
+    "korean": "영어"
+  },
+  {
+    "russian": "влияние",
+    "pronunciation": "블리야니예",
+    "korean": "영향"
+  },
+  {
+    "russian": "фильм",
+    "pronunciation": "필름",
+    "korean": "영화"
+  },
+  {
+    "russian": "рядом",
+    "pronunciation": "랴담",
+    "korean": "옆"
+  },
+  {
+    "russian": "красивая",
+    "pronunciation": "끄라씨바야",
+    "korean": "예쁜"
+  },
+  {
+    "russian": "сегодня",
+    "pronunciation": "씨보드냐",
+    "korean": "오늘"
+  },
+  {
+    "russian": "долго",
+    "pronunciation": "돌가",
+    "korean": "오래"
+  },
+  {
+    "russian": "старый",
+    "pronunciation": "스따르이",
+    "korean": "오래된"
+  },
+  {
+    "russian": "апельсин",
+    "pronunciation": "아삘씬",
+    "korean": "오렌지"
+  },
+  {
+    "russian": "направо",
+    "pronunciation": "나쁘라바",
+    "korean": "오른쪽"
+  },
+  {
+    "russian": "утка",
+    "pronunciation": "우뜨까",
+    "korean": "오리"
+  },
+  {
+    "russian": "огурец",
+    "pronunciation": "아구례쯔",
+    "korean": "오이"
+  },
+  {
+    "russian": "только",
+    "pronunciation": "똘까",
+    "korean": "오직"
+  },
+  {
+    "russian": "мотоцикл",
+    "pronunciation": "마따찌클",
+    "korean": "오토바이"
+  },
+  {
+    "russian": "температура",
+    "pronunciation": "찜삐라뚜라",
+    "korean": "온도"
+  },
+  {
+    "russian": "одежда",
+    "pronunciation": "아데쥐다",
+    "korean": "옷"
+  },
+  {
+    "russian": "шкаф",
+    "pronunciation": "쉬까프",
+    "korean": "옷장"
+  },
+  {
+    "russian": "вино",
+    "pronunciation": "비노",
+    "korean": "와인"
+  },
+  {
+    "russian": "почему",
+    "pronunciation": "빠치무",
+    "korean": "왜"
+  },
+  {
+    "russian": "заграница",
+    "pronunciation": "자그라니짜",
+    "korean": "외국"
+  },
+  {
+    "russian": "налево",
+    "pronunciation": "날례바",
+    "korean": "왼쪽"
+  },
+  {
+    "russian": "повар",
+    "pronunciation": "뽀바르",
+    "korean": "요리사"
+  },
+  {
+    "russian": "ванная",
+    "pronunciation": "반나야",
+    "korean": "욕실"
+  },
+  {
+    "russian": "храбрость",
+    "pronunciation": "흐라브라스찌",
+    "korean": "용기"
+  },
+  {
+    "russian": "зонтик",
+    "pronunciation": "존찌크",
+    "korean": "우산"
+  },
+  {
+    "russian": "молоко",
+    "pronunciation": "말라꼬",
+    "korean": "우유"
+  },
+  {
+    "russian": "почта",
+    "pronunciation": "뽀치따",
+    "korean": "우체국"
+  },
+  {
+    "russian": "упражнение",
+    "pronunciation": "우쁘라쥐녜니예",
+    "korean": "운동"
+  },
+  {
+    "russian": "вождение",
+    "pronunciation": "바쥐제니예",
+    "korean": "운전"
+  },
+  {
+    "russian": "водитель",
+    "pronunciation": "바지쩰",
+    "korean": "운전사"
+  },
+  {
+    "russian": "плакать",
+    "pronunciation": "쁠라까찌",
+    "korean": "울다"
+  },
+  {
+    "russian": "смеяться",
+    "pronunciation": "스미야짜",
+    "korean": "웃다"
+  },
+  {
+    "russian": "круг",
+    "pronunciation": "크룩",
+    "korean": "원"
+  },
+  {
+    "russian": "обезьяна",
+    "pronunciation": "아비지야나",
+    "korean": "원숭이"
+  },
+  {
+    "russian": "месяц",
+    "pronunciation": "메씨쯔",
+    "korean": "월"
+  },
+  {
+    "russian": "понедельник",
+    "pronunciation": "빠니젤니크",
+    "korean": "월요일"
+  },
+  {
+    "russian": "наверху",
+    "pronunciation": "나베르후",
+    "korean": "위"
+  },
+  {
+    "russian": "опасность",
+    "pronunciation": "아빠스나스찌",
+    "korean": "위험"
+  },
+  {
+    "russian": "опасный",
+    "pronunciation": "아빠스늬",
+    "korean": "위험한"
+  },
+  {
+    "russian": "стекло",
+    "pronunciation": "스찌클로",
+    "korean": "유리"
+  },
+  {
+    "russian": "стакан",
+    "pronunciation": "스따깐",
+    "korean": "유리컵"
+  },
+  {
+    "russian": "известный",
+    "pronunciation": "이즈볘스뜨늬",
+    "korean": "유명한"
+  },
+  {
+    "russian": "банк",
+    "pronunciation": "반크",
+    "korean": "은행"
+  },
+  {
+    "russian": "напиток",
+    "pronunciation": "나삐딱",
+    "korean": "음료"
+  },
+  {
+    "russian": "музыка",
+    "pronunciation": "무즈이까",
+    "korean": "음악"
+  },
+  {
+    "russian": "музыкант",
+    "pronunciation": "무즈이깐뜨",
+    "korean": "음악가"
+  },
+  {
+    "russian": "мнение",
+    "pronunciation": "므녜니예",
+    "korean": "의견"
+  },
+  {
+    "russian": "врач",
+    "pronunciation": "브라치",
+    "korean": "의사"
+  },
+  {
+    "russian": "стул",
+    "pronunciation": "스뚤",
+    "korean": "의자"
+  },
+  {
+    "russian": "имя",
+    "pronunciation": "이먀",
+    "korean": "이름"
+  },
+  {
+    "russian": "лоб",
+    "pronunciation": "롭",
+    "korean": "이마"
+  },
+  {
+    "russian": "одеяло",
+    "pronunciation": "아지얄라",
+    "korean": "이불"
+  },
+  {
+    "russian": "рассказ",
+    "pronunciation": "라스까스",
+    "korean": "이야기"
+  },
+  {
+    "russian": "наушники",
+    "pronunciation": "나우쉬니끼",
+    "korean": "이어폰"
+  },
+  {
+    "russian": "причина",
+    "pronunciation": "쁘리치나",
+    "korean": "이유"
+  },
+  {
+    "russian": "понимание",
+    "pronunciation": "빠니마니예",
+    "korean": "이해"
+  },
+  {
+    "russian": "понимать",
+    "pronunciation": "빠니마찌",
+    "korean": "이해하다"
+  },
+  {
+    "russian": "популярность",
+    "pronunciation": "빠뿔랴르나스찌",
+    "korean": "인기"
+  },
+  {
+    "russian": "интернет",
+    "pronunciation": "인찌르넷",
+    "korean": "인터넷"
+  },
+  {
+    "russian": "работа",
+    "pronunciation": "라보따",
+    "korean": "일"
+  },
+  {
+    "russian": "один",
+    "pronunciation": "아진",
+    "korean": "일(숫자)"
+  },
+  {
+    "russian": "семь",
+    "pronunciation": "쎔",
+    "korean": "일곱"
+  },
+  {
+    "russian": "вставать",
+    "pronunciation": "프스따바찌",
+    "korean": "일어나다"
+  },
+  {
+    "russian": "воскресенье",
+    "pronunciation": "바스크리셴니예",
+    "korean": "일요일"
+  },
+  {
+    "russian": "рано",
+    "pronunciation": "라나",
+    "korean": "일찍"
+  },
+  {
+    "russian": "читать",
+    "pronunciation": "치따찌",
+    "korean": "읽다"
+  },
+  {
+    "russian": "терять",
+    "pronunciation": "찌랴찌",
+    "korean": "잃다"
+  },
+  {
+    "russian": "рот",
+    "pronunciation": "로뜨",
+    "korean": "입"
+  },
+  {
+    "russian": "вход",
+    "pronunciation": "프홋",
+    "korean": "입구"
+  },
+  {
+    "russian": "одевать",
+    "pronunciation": "아제바찌",
+    "korean": "입다"
+  },
+  {
+    "russian": "губа",
+    "pronunciation": "구바",
+    "korean": "입술"
+  },
+  {
+    "russian": "забывать",
+    "pronunciation": "자브이바찌",
+    "korean": "잊다"
+  },
+  {
+    "russian": "линейка",
+    "pronunciation": "리녜이까",
+    "korean": "자"
+  },
+  {
+    "russian": "спать",
+    "pronunciation": "스빠찌",
+    "korean": "자다"
+  },
+  {
+    "russian": "автомобиль",
+    "pronunciation": "아프따마빌",
+    "korean": "자동차"
+  },
+  {
+    "russian": "слива",
+    "pronunciation": "슬리바",
+    "korean": "자두"
+  },
+  {
+    "russian": "замок",
+    "pronunciation": "자목",
+    "korean": "자물쇠"
+  },
+  {
+    "russian": "гордость",
+    "pronunciation": "고르다스찌",
+    "korean": "자부심"
+  },
+  {
+    "russian": "природа",
+    "pronunciation": "쁘리로다",
+    "korean": "자연"
+  },
+  {
+    "russian": "свобода",
+    "pronunciation": "스바보다",
+    "korean": "자유"
+  },
+  {
+    "russian": "велосипед",
+    "pronunciation": "빌라씨뻬뜨",
+    "korean": "자전거"
+  },
+  {
+    "russian": "писатель",
+    "pronunciation": "삐사쩰",
+    "korean": "작가"
+  },
+  {
+    "russian": "сон",
+    "pronunciation": "쏜",
+    "korean": "잠"
+  },
+  {
+    "russian": "журнал",
+    "pronunciation": "쥐르날",
+    "korean": "잡지"
+  },
+  {
+    "russian": "перчатки",
+    "pronunciation": "삐르차뜨끼",
+    "korean": "장갑"
+  },
+  {
+    "russian": "роза",
+    "pronunciation": "로자",
+    "korean": "장미"
+  },
+  {
+    "russian": "материал",
+    "pronunciation": "마찌리알",
+    "korean": "재료"
+  },
+  {
+    "russian": "интересный",
+    "pronunciation": "인찌레스늬",
+    "korean": "재미있는"
+  },
+  {
+    "russian": "куртка",
+    "pronunciation": "꾸르뜨까",
+    "korean": "재킷"
+  },
+  {
+    "russian": "варенье",
+    "pronunciation": "바례니예",
+    "korean": "잼"
+  },
+  {
+    "russian": "вечер",
+    "pronunciation": "볘치르",
+    "korean": "저녁"
+  },
+  {
+    "russian": "враг",
+    "pronunciation": "브라크",
+    "korean": "적"
+  },
+  {
+    "russian": "лампочка",
+    "pronunciation": "람빠치까",
+    "korean": "전구"
+  },
+  {
+    "russian": "электричество",
+    "pronunciation": "엘렉뜨리치스뜨바",
+    "korean": "전기"
+  },
+  {
+    "russian": "всё",
+    "pronunciation": "프쇼",
+    "korean": "전부"
+  },
+  {
+    "russian": "микроволновка",
+    "pronunciation": "미끄라발놉까",
+    "korean": "전자레인지"
+  },
+  {
+    "russian": "война",
+    "pronunciation": "바이나",
+    "korean": "전쟁"
+  },
+  {
+    "russian": "традиция",
+    "pronunciation": "뜨라지찌야",
+    "korean": "전통"
+  },
+  {
+    "russian": "телефон",
+    "pronunciation": "찔리폰",
+    "korean": "전화"
+  },
+  {
+    "russian": "отчаяние",
+    "pronunciation": "아뜨차야니예",
+    "korean": "절망"
+  },
+  {
+    "russian": "молодой",
+    "pronunciation": "말라도이",
+    "korean": "젊은"
+  },
+  {
+    "russian": "обед",
+    "pronunciation": "아볫",
+    "korean": "점심"
+  },
+  {
+    "russian": "тарелка",
+    "pronunciation": "따렐까",
+    "korean": "접시"
+  },
+  {
+    "russian": "остановка",
+    "pronunciation": "아스따놉까",
+    "korean": "정류장"
+  },
+  {
+    "russian": "информация",
+    "pronunciation": "인포르마찌야",
+    "korean": "정보"
+  },
+  {
+    "russian": "сад",
+    "pronunciation": "삿",
+    "korean": "정원"
+  },
+  {
+    "russian": "политика",
+    "pronunciation": "빨리찌까",
+    "korean": "정치"
+  },
+  {
+    "russian": "мокрый",
+    "pronunciation": "모끄르이",
+    "korean": "젖은"
+  },
+  {
+    "russian": "самый",
+    "pronunciation": "사므이",
+    "korean": "제일"
+  },
+  {
+    "russian": "немного",
+    "pronunciation": "님노가",
+    "korean": "조금"
+  },
+  {
+    "russian": "пилот",
+    "pronunciation": "삘롯",
+    "korean": "조종사"
+  },
+  {
+    "russian": "хороший",
+    "pronunciation": "하로쉬",
+    "korean": "좋은"
+  },
+  {
+    "russian": "спокойной ночи",
+    "pronunciation": "스빠꼬이나이 노치",
+    "korean": "좋은 밤"
+  },
+  {
+    "russian": "доброе утро",
+    "pronunciation": "도브라예 우뜨라",
+    "korean": "좋은 아침"
+  },
+  {
+    "russian": "добрый вечер",
+    "pronunciation": "도브르이 볘치르",
+    "korean": "좋은 저녁"
+  },
+  {
+    "russian": "неделя",
+    "pronunciation": "니젤랴",
+    "korean": "주"
+  },
+  {
+    "russian": "давать",
+    "pronunciation": "다바찌",
+    "korean": "주다"
+  },
+  {
+    "russian": "выходные",
+    "pronunciation": "븨하드늬예",
+    "korean": "주말"
+  },
+  {
+    "russian": "карман",
+    "pronunciation": "까르만",
+    "korean": "주머니"
+  },
+  {
+    "russian": "адрес",
+    "pronunciation": "아드리스",
+    "korean": "주소"
+  },
+  {
+    "russian": "сок",
+    "pronunciation": "쏙",
+    "korean": "주스"
+  },
+  {
+    "russian": "внимание",
+    "pronunciation": "브니마니예",
+    "korean": "주의"
+  },
+  {
+    "russian": "хозяин",
+    "pronunciation": "하쟈인",
+    "korean": "주인"
+  },
+  {
+    "russian": "чайник",
+    "pronunciation": "차이닉",
+    "korean": "주전자"
+  },
+  {
+    "russian": "парковка",
+    "pronunciation": "빠르꼽까",
+    "korean": "주차장"
+  },
+  {
+    "russian": "каша",
+    "pronunciation": "까샤",
+    "korean": "죽"
+  },
+  {
+    "russian": "готовить",
+    "pronunciation": "가또비찌",
+    "korean": "준비하다"
+  },
+  {
+    "russian": "центр",
+    "pronunciation": "쩬뜨르",
+    "korean": "중앙"
+  },
+  {
+    "russian": "важный",
+    "pronunciation": "바쥐늬",
+    "korean": "중요한"
+  },
+  {
+    "russian": "мышь",
+    "pronunciation": "므이쉬",
+    "korean": "쥐"
+  },
+  {
+    "russian": "весёлый",
+    "pronunciation": "비쏠르이",
+    "korean": "즐거운"
+  },
+  {
+    "russian": "кошелёк",
+    "pronunciation": "까쉘룍",
+    "korean": "지갑"
+  },
+  {
+    "russian": "сейчас",
+    "pronunciation": "씨차스",
+    "korean": "지금"
+  },
+  {
+    "russian": "карта",
+    "pronunciation": "까르따",
+    "korean": "지도"
+  },
+  {
+    "russian": "скука",
+    "pronunciation": "스꾸까",
+    "korean": "지루함"
+  },
+  {
+    "russian": "крыша",
+    "pronunciation": "끄르이샤",
+    "korean": "지붕"
+  },
+  {
+    "russian": "регион",
+    "pronunciation": "리기온",
+    "korean": "지역"
+  },
+  {
+    "russian": "ластик",
+    "pronunciation": "라스찍",
+    "korean": "지우개"
+  },
+  {
+    "russian": "землетрясение",
+    "pronunciation": "짐리뜨랴쎄니예",
+    "korean": "지진"
+  },
+  {
+    "russian": "метро",
+    "pronunciation": "미뜨로",
+    "korean": "지하철"
+  },
+  {
+    "russian": "профессия",
+    "pronunciation": "쁘라볘씨야",
+    "korean": "직업"
+  },
+  {
+    "russian": "сотрудник",
+    "pronunciation": "싸뜨루드닉",
+    "korean": "직원"
+  },
+  {
+    "russian": "пылесос",
+    "pronunciation": "쁠리솔스",
+    "korean": "진공청소기"
+  },
+  {
+    "russian": "вопрос",
+    "pronunciation": "바쁘로스",
+    "korean": "질문"
+  },
+  {
+    "russian": "ревность",
+    "pronunciation": "례브나스찌",
+    "korean": "질투"
+  },
+  {
+    "russian": "багаж",
+    "pronunciation": "바가쉬",
+    "korean": "짐"
+  },
+  {
+    "russian": "дом",
+    "pronunciation": "돔",
+    "korean": "집"
+  },
+  {
+    "russian": "солёный",
+    "pronunciation": "살료늬",
+    "korean": "짠"
+  },
+  {
+    "russian": "короткий",
+    "pronunciation": "까롯끼",
+    "korean": "짧은"
+  },
+  {
+    "russian": "холодный",
+    "pronunciation": "할로드늬",
+    "korean": "차가운"
+  },
+  {
+    "russian": "разница",
+    "pronunciation": "라즈니짜",
+    "korean": "차이"
+  },
+  {
+    "russian": "воробей",
+    "pronunciation": "바라볘이",
+    "korean": "참새"
+  },
+  {
+    "russian": "окно",
+    "pronunciation": "악노",
+    "korean": "창문"
+  },
+  {
+    "russian": "искать",
+    "pronunciation": "이스까찌",
+    "korean": "찾다"
+  },
+  {
+    "russian": "письменный стол",
+    "pronunciation": "삐시멘늬 스똘",
+    "korean": "책상"
+  },
+  {
+    "russian": "тысяча",
+    "pronunciation": "뜨이샤차",
+    "korean": "천"
+  },
+  {
+    "russian": "гром",
+    "pronunciation": "그롬",
+    "korean": "천둥"
+  },
+  {
+    "russian": "потолок",
+    "pronunciation": "빠딸록",
+    "korean": "천장"
+  },
+  {
+    "russian": "железо",
+    "pronunciation": "젤레자",
+    "korean": "철"
+  },
+  {
+    "russian": "первый",
+    "pronunciation": "삐르븨",
+    "korean": "첫 번째"
+  },
+  {
+    "russian": "уборка",
+    "pronunciation": "우보르까",
+    "korean": "청소"
+  },
+  {
+    "russian": "вишня",
+    "pronunciation": "비쉬냐",
+    "korean": "체리"
+  },
+  {
+    "russian": "гимнастика",
+    "pronunciation": "김나스찌까",
+    "korean": "체조"
+  },
+  {
+    "russian": "секунда",
+    "pronunciation": "씨꾼다",
+    "korean": "초"
+  },
+  {
+    "russian": "приглашение",
+    "pronunciation": "쁘리글라셰니예",
+    "korean": "초대"
+  },
+  {
+    "russian": "шоколад",
+    "pronunciation": "샤꼴라뜨",
+    "korean": "초콜릿"
+  },
+  {
+    "russian": "лучший",
+    "pronunciation": "루치쉬",
+    "korean": "최고"
+  },
+  {
+    "russian": "футбол",
+    "pronunciation": "풋볼",
+    "korean": "축구"
+  },
+  {
+    "russian": "поздравление",
+    "pronunciation": "빠즈드라블례니예",
+    "korean": "축하"
+  },
+  {
+    "russian": "выход",
+    "pronunciation": "븨핫",
+    "korean": "출구"
+  },
+  {
+    "russian": "отправление",
+    "pronunciation": "아뜨쁘라블례니예",
+    "korean": "출발"
+  },
+  {
+    "russian": "холодно",
+    "pronunciation": "홀라드나",
+    "korean": "춥다"
+  },
+  {
+    "russian": "достаточно",
+    "pronunciation": "다스따따치나",
+    "korean": "충분한"
+  },
+  {
+    "russian": "зарядка",
+    "pronunciation": "자랴뜨까",
+    "korean": "충전"
+  },
+  {
+    "russian": "хобби",
+    "pronunciation": "호비",
+    "korean": "취미"
+  },
+  {
+    "russian": "этаж",
+    "pronunciation": "에따쉬",
+    "korean": "층"
+  },
+  {
+    "russian": "юбка",
+    "pronunciation": "유쁘까",
+    "korean": "치마"
+  },
+  {
+    "russian": "зуб",
+    "pronunciation": "주쁘",
+    "korean": "치아"
+  },
+  {
+    "russian": "сыр",
+    "pronunciation": "쓰이르",
+    "korean": "치즈"
+  },
+  {
+    "russian": "друг",
+    "pronunciation": "드룩",
+    "korean": "친구"
+  },
+  {
+    "russian": "добрый",
+    "pronunciation": "도브르이",
+    "korean": "친절한"
+  },
+  {
+    "russian": "доска",
+    "pronunciation": "다스까",
+    "korean": "칠판"
+  },
+  {
+    "russian": "кровать",
+    "pronunciation": "끄라바찌",
+    "korean": "침대"
+  },
+  {
+    "russian": "простыня",
+    "pronunciation": "쁘라스띄냐",
+    "korean": "침대시트"
+  },
+  {
+    "russian": "зубная щётка",
+    "pronunciation": "주브나야 쇼뜨까",
+    "korean": "칫솔"
+  },
+  {
+    "russian": "камера",
+    "pronunciation": "까메라",
+    "korean": "카메라"
+  },
+  {
+    "russian": "кафе",
+    "pronunciation": "까페",
+    "korean": "카페"
+  },
+  {
+    "russian": "ковёр",
+    "pronunciation": "까뵤르",
+    "korean": "카펫"
+  },
+  {
+    "russian": "занавеска",
+    "pronunciation": "자나볘스까",
+    "korean": "커튼"
+  },
+  {
+    "russian": "кофе",
+    "pronunciation": "꼬볘",
+    "korean": "커피"
+  },
+  {
+    "russian": "компьютер",
+    "pronunciation": "깜뿌쩌르",
+    "korean": "컴퓨터"
+  },
+  {
+    "russian": "чашка",
+    "pronunciation": "차쉬까",
+    "korean": "컵"
+  },
+  {
+    "russian": "торт",
+    "pronunciation": "또르뜨",
+    "korean": "케이크"
+  },
+  {
+    "russian": "нос",
+    "pronunciation": "노스",
+    "korean": "코"
+  },
+  {
+    "russian": "слон",
+    "pronunciation": "슬론",
+    "korean": "코끼리"
+  },
+  {
+    "russian": "кокос",
+    "pronunciation": "꼬꼬스",
+    "korean": "코코넛"
+  },
+  {
+    "russian": "пальто",
+    "pronunciation": "빨또",
+    "korean": "코트"
+  },
+  {
+    "russian": "концерт",
+    "pronunciation": "깐쩨르뜨",
+    "korean": "콘서트"
+  },
+  {
+    "russian": "розетка",
+    "pronunciation": "라졋까",
+    "korean": "콘센트"
+  },
+  {
+    "russian": "насморк",
+    "pronunciation": "나스마르크",
+    "korean": "콧물"
+  },
+  {
+    "russian": "классика",
+    "pronunciation": "끌라씨까",
+    "korean": "클래식"
+  },
+  {
+    "russian": "рост",
+    "pronunciation": "로스뜨",
+    "korean": "키"
+  },
+  {
+    "russian": "рождение",
+    "pronunciation": "라쥐제니예",
+    "korean": "탄생"
+  },
+  {
+    "russian": "примерочная",
+    "pronunciation": "쁘리메라치나야",
+    "korean": "탈의실"
+  },
+  {
+    "russian": "такси",
+    "pronunciation": "딱씨",
+    "korean": "택시"
+  },
+  {
+    "russian": "подбородок",
+    "pronunciation": "빠드바로닥",
+    "korean": "턱"
+  },
+  {
+    "russian": "теннис",
+    "pronunciation": "쩬니스",
+    "korean": "테니스"
+  },
+  {
+    "russian": "телевизор",
+    "pronunciation": "찔리비자르",
+    "korean": "텔레비전"
+  },
+  {
+    "russian": "кролик",
+    "pronunciation": "끄롤릭",
+    "korean": "토끼"
+  },
+  {
+    "russian": "помидор",
+    "pronunciation": "빠미도르",
+    "korean": "토마토"
+  },
+  {
+    "russian": "тостер",
+    "pronunciation": "또스찌르",
+    "korean": "토스터"
+  },
+  {
+    "russian": "суббота",
+    "pronunciation": "수보따",
+    "korean": "토요일"
+  },
+  {
+    "russian": "перевод",
+    "pronunciation": "삐리볿",
+    "korean": "통역"
+  },
+  {
+    "russian": "жареный",
+    "pronunciation": "자레늬",
+    "korean": "튀긴"
+  },
+  {
+    "russian": "тюльпан",
+    "pronunciation": "뚤빤",
+    "korean": "튤립"
+  },
+  {
+    "russian": "трамвай",
+    "pronunciation": "뜨람바이",
+    "korean": "트램"
+  },
+  {
+    "russian": "особенный",
+    "pronunciation": "아소빈늬",
+    "korean": "특별한"
+  },
+  {
+    "russian": "синий",
+    "pronunciation": "씨니",
+    "korean": "파란색"
+  },
+  {
+    "russian": "муха",
+    "pronunciation": "무하",
+    "korean": "파리(곤충)"
+  },
+  {
+    "russian": "макароны",
+    "pronunciation": "마까로늬",
+    "korean": "파스타"
+  },
+  {
+    "russian": "ананас",
+    "pronunciation": "아나나스",
+    "korean": "파인애플"
+  },
+  {
+    "russian": "файл",
+    "pronunciation": "파일",
+    "korean": "파일"
+  },
+  {
+    "russian": "вечеринка",
+    "pronunciation": "볘치린까",
+    "korean": "파티"
+  },
+  {
+    "russian": "судья",
+    "pronunciation": "수디야",
+    "korean": "판사"
+  },
+  {
+    "russian": "локоть",
+    "pronunciation": "로까찌",
+    "korean": "팔꿈치"
+  },
+  {
+    "russian": "продавать",
+    "pronunciation": "쁘라다바찌",
+    "korean": "팔다"
+  },
+  {
+    "russian": "удобный",
+    "pronunciation": "우돕늬",
+    "korean": "편리한"
+  },
+  {
+    "russian": "письмо",
+    "pronunciation": "삐시모",
+    "korean": "편지"
+  },
+  {
+    "russian": "спокойствие",
+    "pronunciation": "스빠꼬이스뜨비예",
+    "korean": "평온"
+  },
+  {
+    "russian": "виноград",
+    "pronunciation": "비나그라뜨",
+    "korean": "포도"
+  },
+  {
+    "russian": "вилка",
+    "pronunciation": "빌까",
+    "korean": "포크"
+  },
+  {
+    "russian": "водопад",
+    "pronunciation": "바다빳",
+    "korean": "폭포"
+  },
+  {
+    "russian": "буря",
+    "pronunciation": "부랴",
+    "korean": "폭풍"
+  },
+  {
+    "russian": "билет",
+    "pronunciation": "빌렛",
+    "korean": "표"
+  },
+  {
+    "russian": "трава",
+    "pronunciation": "뜨라바",
+    "korean": "풀"
+  },
+  {
+    "russian": "сковорода",
+    "pronunciation": "스꼬바라다",
+    "korean": "프라이팬"
+  },
+  {
+    "russian": "программа",
+    "pronunciation": "쁘라그라마",
+    "korean": "프로그램"
+  },
+  {
+    "russian": "принтер",
+    "pronunciation": "쁘린찌르",
+    "korean": "프린터"
+  },
+  {
+    "russian": "кровь",
+    "pronunciation": "크로비",
+    "korean": "피"
+  },
+  {
+    "russian": "пианино",
+    "pronunciation": "삐아니나",
+    "korean": "피아노"
+  },
+  {
+    "russian": "пицца",
+    "pronunciation": "삐짜",
+    "korean": "피자"
+  },
+  {
+    "russian": "необходимый",
+    "pronunciation": "니압하지므이",
+    "korean": "필요한"
+  },
+  {
+    "russian": "небо",
+    "pronunciation": "녜바",
+    "korean": "하늘"
+  },
+  {
+    "russian": "школа",
+    "pronunciation": "쉬꼴라",
+    "korean": "학교"
+  },
+  {
+    "russian": "ученик",
+    "pronunciation": "우체닉",
+    "korean": "학생"
+  },
+  {
+    "russian": "Корея",
+    "pronunciation": "까레야",
+    "korean": "한국"
+  },
+  {
+    "russian": "корейский",
+    "pronunciation": "까레이스끼",
+    "korean": "한국어"
+  },
+  {
+    "russian": "бабушка",
+    "pronunciation": "바부쉬까",
+    "korean": "할머니"
+  },
+  {
+    "russian": "дедушка",
+    "pronunciation": "졔두쉬까",
+    "korean": "할아버지"
+  },
+  {
+    "russian": "скидка",
+    "pronunciation": "스끼뜨까",
+    "korean": "할인"
+  },
+  {
+    "russian": "мероприятие",
+    "pronunciation": "미라쁘리야찌예",
+    "korean": "행사"
+  },
+  {
+    "russian": "духи",
+    "pronunciation": "두히",
+    "korean": "향수"
+  },
+  {
+    "russian": "талия",
+    "pronunciation": "따리야",
+    "korean": "허리"
+  },
+  {
+    "russian": "вертолёт",
+    "pronunciation": "비르딸룟",
+    "korean": "헬리콥터"
+  },
+  {
+    "russian": "наличные",
+    "pronunciation": "날리치늬예",
+    "korean": "현금"
+  },
+  {
+    "russian": "настоящее",
+    "pronunciation": "나스따야셰예",
+    "korean": "현재"
+  },
+  {
+    "russian": "братья",
+    "pronunciation": "브라찌야",
+    "korean": "형제"
+  },
+  {
+    "russian": "тигр",
+    "pronunciation": "찌그르",
+    "korean": "호랑이"
+  },
+  {
+    "russian": "тыква",
+    "pronunciation": "뜨이크바",
+    "korean": "호박"
+  },
+  {
+    "russian": "озеро",
+    "pronunciation": "오지라",
+    "korean": "호수"
+  },
+  {
+    "russian": "гостиница",
+    "pronunciation": "가스찌니짜",
+    "korean": "호텔"
+  },
+  {
+    "russian": "наводнение",
+    "pronunciation": "나바드녜니예",
+    "korean": "홍수"
+  },
+  {
+    "russian": "гнев",
+    "pronunciation": "그녜프",
+    "korean": "화"
+  },
+  {
+    "russian": "художник",
+    "pronunciation": "후도쥐닉",
+    "korean": "화가"
+  },
+  {
+    "russian": "злой",
+    "pronunciation": "즐로이",
+    "korean": "화난"
+  },
+  {
+    "russian": "вторник",
+    "pronunciation": "프또르닉",
+    "korean": "화요일"
+  },
+  {
+    "russian": "туалет",
+    "pronunciation": "뚜알렛",
+    "korean": "화장실"
+  },
+  {
+    "russian": "пожар",
+    "pronunciation": "빠자르",
+    "korean": "화재"
+  },
+  {
+    "russian": "пациент",
+    "pronunciation": "빠찌엔뜨",
+    "korean": "환자"
+  },
+  {
+    "russian": "компания",
+    "pronunciation": "깜빠니야",
+    "korean": "회사"
+  },
+  {
+    "russian": "совещание",
+    "pronunciation": "싸비샤니예",
+    "korean": "회의"
+  },
+  {
+    "russian": "эффект",
+    "pronunciation": "에펙뜨",
+    "korean": "효과"
+  },
+  {
+    "russian": "перец",
+    "pronunciation": "삐리쯔",
+    "korean": "후추"
+  },
+  {
+    "russian": "копчёный",
+    "pronunciation": "깝쵸늬",
+    "korean": "훈제"
+  },
+  {
+    "russian": "праздник",
+    "pronunciation": "쁘라즈드닉",
+    "korean": "휴일"
+  },
+  {
+    "russian": "пасмурный",
+    "pronunciation": "빠스무르늬",
+    "korean": "흐린"
+  },
+  {
+    "russian": "надежда",
+    "pronunciation": "나제쥐다",
+    "korean": "희망"
+  },
+  {
+    "russian": "белый",
+    "pronunciation": "벨르이",
+    "korean": "흰색"
+  },
+  {
+    "russian": "обогреватель",
+    "pronunciation": "아바그리바쩰",
+    "korean": "히터"
+  },
+  {
+    "russian": "сила",
+    "pronunciation": "씰라",
+    "korean": "힘"
+  }
+]

@@ -1928,26 +1928,40 @@ async function renderVocab() {
   hideLessonBg();
   const app = document.getElementById('app');
   const lang = getLang();
-  const meta = await DataLoader.loadMeta(currentLang);
-  const TOTAL = meta.totalLevels;
 
-  // Load all levels and collect vocabulary
-  const allVocab = [];
-  for (let i = 1; i <= TOTAL; i++) {
-    try {
-      const data = await DataLoader.loadLevel(currentLang, i);
-      if (data && data.vocabulary) {
-        data.vocabulary.forEach(v => {
-          allVocab.push({
-            foreign: v[lang.foreignField],
-            pron: v[lang.pronField],
-            korean: v.korean,
-            level: i
+  // Load dedicated vocab data, fallback to level-based collection
+  let allVocab = [];
+  try {
+    const resp = await fetch(`data/${currentLang}/vocab.json?v=${DATA_VERSION}`);
+    if (resp.ok) {
+      const vocabData = await resp.json();
+      allVocab = vocabData.map(v => ({
+        foreign: v[lang.foreignField],
+        korean: v.korean
+      }));
+    }
+  } catch (e) {}
+
+  if (allVocab.length === 0) {
+    const meta = await DataLoader.loadMeta(currentLang);
+    const TOTAL = meta.totalLevels;
+    for (let i = 1; i <= TOTAL; i++) {
+      try {
+        const data = await DataLoader.loadLevel(currentLang, i);
+        if (data && data.vocabulary) {
+          data.vocabulary.forEach(v => {
+            allVocab.push({
+              foreign: v[lang.foreignField],
+              korean: v.korean
+            });
           });
-        });
-      }
-    } catch (e) { /* skip missing levels */ }
+        }
+      } catch (e) {}
+    }
   }
+
+  // Sort by Korean (가나다순)
+  allVocab.sort((a, b) => a.korean.localeCompare(b.korean, 'ko'));
 
   let cardsHTML = '';
   allVocab.forEach((v, idx) => {
@@ -1956,13 +1970,9 @@ async function renderVocab() {
         <div class="vocab-card-inner">
           <div class="vocab-card-front">
             <span class="vocab-korean">${v.korean}</span>
-            <span class="vocab-hint">탭하여 뒤집기</span>
           </div>
-          <div class="vocab-card-back">
+          <div class="vocab-card-back" data-foreign="${v.foreign.replace(/"/g, '&quot;')}">
             <span class="vocab-foreign">${v.foreign}</span>
-            <span class="vocab-pron">${v.pron}</span>
-            <span class="vocab-korean-small">${v.korean}</span>
-            <button class="vocab-tts-btn" data-text="${v.foreign.replace(/"/g, '&quot;')}">🔊</button>
           </div>
         </div>
       </div>
@@ -1973,8 +1983,17 @@ async function renderVocab() {
     <div class="vocab-page">
       <div class="vocab-header">
         <a class="back-link" href="#/${currentLang}/levels">← 레벨 선택</a>
-        <h1 class="vocab-title">${lang.emoji} 어휘연습: 한국어 — ${lang.nameKr}</h1>
-        <p class="vocab-count">총 ${allVocab.length}개 어휘 (${TOTAL}개 레벨)</p>
+        <div class="vocab-title-row">
+          <h1 class="vocab-title">${lang.emoji} ${lang.nameKr}-어휘</h1>
+          <div class="auto-tts-toggle">
+            <label class="tts-switch">
+              <input type="checkbox" id="vocabAutoTTS" ${_autoTTS ? 'checked' : ''}>
+              <span class="tts-slider"></span>
+            </label>
+            <span class="auto-tts-label" id="vocabTTSLabel">자동음성 ${_autoTTS ? 'ON' : 'OFF'}</span>
+          </div>
+        </div>
+        <p class="vocab-count">총 ${allVocab.length}개</p>
       </div>
       <div class="vocab-grid">
         ${cardsHTML}
@@ -1982,24 +2001,27 @@ async function renderVocab() {
     </div>
   `;
 
-  // Card flip on click
+  // AutoTTS toggle
+  const vocabTTSSwitch = document.getElementById('vocabAutoTTS');
+  if (vocabTTSSwitch) {
+    vocabTTSSwitch.addEventListener('change', (e) => {
+      setAutoTTS(e.target.checked);
+      const label = document.getElementById('vocabTTSLabel');
+      if (label) label.textContent = '자동음성 ' + (_autoTTS ? 'ON' : 'OFF');
+    });
+  }
+
+  // Card flip on click + autoTTS
   app.querySelectorAll('.vocab-card').forEach(card => {
     card.addEventListener('click', (e) => {
-      if (e.target.classList.contains('vocab-tts-btn')) return;
+      const wasFlipped = card.classList.contains('flipped');
       card.classList.toggle('flipped');
-    });
-  });
-
-  // TTS buttons
-  app.querySelectorAll('.vocab-tts-btn').forEach(btn => {
-    btn.addEventListener('click', (e) => {
-      e.stopPropagation();
-      const text = btn.getAttribute('data-text');
-      speechSynthesis.cancel();
-      const u = new SpeechSynthesisUtterance(text);
-      u.lang = lang.ttsLang;
-      u.rate = lang.ttsRate || 0.9;
-      speechSynthesis.speak(u);
+      // Play TTS when flipping to back side
+      if (!wasFlipped && _autoTTS) {
+        const backEl = card.querySelector('.vocab-card-back');
+        const text = backEl ? backEl.getAttribute('data-foreign') : '';
+        if (text) speakForeign(text);
+      }
     });
   });
 }
