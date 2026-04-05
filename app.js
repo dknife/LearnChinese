@@ -2253,7 +2253,10 @@ async function renderHome() {
   app.innerHTML = `
     <div class="home-page">
       <div class="home-header">
-        <h1 class="home-title">${lang.emoji} ${lang.name} — ${lang.nameKr} 레벨 선택</h1>
+        <div class="home-title-row">
+          <h1 class="home-title">${lang.emoji} ${lang.name} — ${lang.nameKr} 레벨 선택</h1>
+          <a class="vocab-back-btn" href="#/${currentLang}">언어 소개</a>
+        </div>
         <div class="home-progress">
           ${renderProgressBar(completedCount, TOTAL, `${completedCount} / ${TOTAL} 레벨 완료`)}
         </div>
@@ -2415,7 +2418,7 @@ async function renderLesson(level) {
     app.innerHTML = `
       <div class="lesson-page">
         <div class="lesson-container">
-          <a href="#/${currentLang}" class="back-link">&larr; 레벨 선택</a>
+          <a href="#/${currentLang}/levels" class="vocab-back-btn">학습 페이지로</a>
 
           <div class="lesson-header card-game">
             <div class="lesson-header-top">
