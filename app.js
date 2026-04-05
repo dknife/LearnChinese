@@ -1727,6 +1727,9 @@ async function renderLangSelect() {
         ${statsHTML}
         ${badgesHTML}
       </div>
+      <div class="mascot-section">
+        <img src="images/Louis.png" alt="Louis" class="mascot-img">
+      </div>
     </div>
   `;
 
