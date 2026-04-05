@@ -1369,7 +1369,8 @@ async function handleRoute() {
   match = hash.match(/^#\/(zh|es|fr|ja|sw|ar|th|vi|ru|la)\/vocab(?:\/(.+))?$/);
   if (match) {
     currentLang = match[1];
-    await renderVocab(match[2] || 'ㄱ');
+    const jaumParam = match[2] ? decodeURIComponent(match[2]) : 'ㄱ';
+    await renderVocab(jaumParam);
     return;
   }
 
@@ -1993,9 +1994,8 @@ async function renderVocab(jaum) {
 
   // Consonant nav
   const navHTML = JAUM_14.map(j => {
-    const cnt = data.groups[j].length;
     const cls = j === jaum ? 'vocab-jaum active' : 'vocab-jaum';
-    return `<a class="${cls}" href="#/${currentLang}/vocab/${j}">${j}<span class="vocab-jaum-cnt">${cnt}</span></a>`;
+    return `<a class="${cls}" href="#/${currentLang}/vocab/${encodeURIComponent(j)}">${j}</a>`;
   }).join('');
 
   app.innerHTML = `
@@ -2003,7 +2003,7 @@ async function renderVocab(jaum) {
       <div class="vocab-header">
         <a class="back-link" href="#/${currentLang}/levels">← 레벨 선택</a>
         <div class="vocab-title-row">
-          <h1 class="vocab-title">${lang.emoji} ${lang.nameKr}-어휘</h1>
+          <h1 class="vocab-title">${lang.emoji} ${lang.nameKr}-어휘 [${jaum}]</h1>
           <div class="auto-tts-toggle">
             <label class="tts-switch">
               <input type="checkbox" id="vocabAutoTTS" ${_autoTTS ? 'checked' : ''}>
@@ -2013,7 +2013,6 @@ async function renderVocab(jaum) {
           </div>
         </div>
         <div class="vocab-jaum-nav">${navHTML}</div>
-        <p class="vocab-count">${jaum} — ${vocabList.length}개</p>
       </div>
       <div class="vocab-grid"></div>
     </div>
