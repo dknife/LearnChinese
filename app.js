@@ -2679,7 +2679,6 @@ async function renderQuiz(level) {
 
     app.innerHTML = `
       <div class="quiz-page">
-        ${randomPhotoHTML()}
         <div class="quiz-header">
           <span class="quiz-level-info">레벨 ${level} — ${titles[level] || ''}</span>
           <span class="quiz-counter">${currentQuestion + 1} / ${totalQuestions}</span>
