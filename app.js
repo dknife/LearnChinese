@@ -1682,11 +1682,10 @@ async function renderLangSelect() {
 
   const badgesHTML = badgeGroups.map(g => {
     const earned = g.badges.filter(b => b.earned);
-    const stackHTML = earned.length > 0
-      ? earned.map((b, i) => `<span class="trophy-stack-icon" style="z-index:${earned.length - i}">${b.icon}</span>`).join('')
-      : '<span class="trophy-stack-empty">—</span>';
-    const listHTML = g.badges.map(b =>
-      `<div class="trophy-row ${b.earned ? 'earned' : 'locked'}">
+    if (earned.length === 0) return '';
+    const stackHTML = earned.map((b, i) => `<span class="trophy-stack-icon" style="z-index:${earned.length - i}">${b.icon}</span>`).join('');
+    const listHTML = earned.map(b =>
+      `<div class="trophy-row earned">
         <span class="trophy-row-icon">${b.icon}</span>
         <span class="trophy-row-title">${b.title}</span>
         <span class="trophy-row-desc">${b.desc}</span>
