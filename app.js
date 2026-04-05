@@ -2430,7 +2430,6 @@ async function renderLesson(level) {
       <div class="lesson-page">
         <div class="lesson-container">
           <a href="#/${currentLang}/levels" class="vocab-back-btn">학습 페이지로</a>
-          ${randomPhotoHTML()}
           <div class="lesson-header card-game">
             <div class="lesson-header-top">
               <span class="lesson-level-badge">${level}</span>
